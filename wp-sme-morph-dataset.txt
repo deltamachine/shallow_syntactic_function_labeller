@@ -1,4 +1,4 @@
-<prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <cnjsub> <prn><pers><p3><sg><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <vblex><tv><prfprc> <n><pl><acc> <prn><rel><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <cnjsub> <vblex><tv><indic><pres><p3><sg><pl> <adv> <vblex><iv><inf> <n><sg><ill> <cnjsub> <n><sg><gen> <post> <adj><attr> <n><pl><acc> <prn><rel><pl><loc> <vblex><tv><indic><pres><sg3> <n><sg><nom> <vblex><tv><inf> <vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <cnjsub> <vblex><iv><indic><pres><p3><sg><pl> <adv> <vblex><iv><inf> <n><sg><ill> 
+<prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <cnjsub> <prn><pers><p3><sg><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <vblex><tv><prfprc> <n><pl><acc> <prn><rel><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <cnjsub> <vblex><tv><indic><pres><p3><sg><pl> <adv> <vblex><iv><inf> <n><sg><ill> <cnjsub> <n><sg><gen> <post> <adj><attr> <n><pl><acc> <prn><rel><pl><loc> <vblex><tv><indic><pres><sg3> <n><sg><nom> <vblex><tv><inf> <vblex><iv><indic><pres><p3><sg><pl> <pcle> <cnjsub> <vblex><iv><indic><pres><p3><sg><pl> <adv> <vblex><iv><inf> <n><sg><ill> 
 <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <pcle> <vblex><tv><inf> <n><sg><ill> <adj><comp><attr> <n><sg><acc> <n><sg><gen> <cnjcoo> <n><prop><sg><gen> <n><sg><gen> <n><pl><gen> <post> <cnjsub> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><gen> <n><sg><nom> <adv> <n><pl><gen> <n><sg><acc> 
 <vblex><tv><indic><pres><p1><sg> <prn><pers><p2><pl><ill> <n><sg><acc> <vblex><tv><indic><pret><sg3> <n><prop><attr> <n><prop><sg><nom> 
 <n><sg><gen> <post> <vblex><iv><indic><pres><sg3> <n><sg><loc> <n><nomag><sg><nom> <cnjcoo> <prn><pers><sg3><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adv> <adv> <adv> <cnjsub> <n><nomag><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> 
@@ -11,7 +11,7 @@
 <prn><dem><sg><acc> <vblex><tv><indic><pres><p3><sg><pl> <n><pl><nom> <prn><rel><pl><acc> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <adv> <n><pl><loc> <cnjcoo> <prn><rel><pl><acc> <vblex><iv><indic><pres><p3><sg><pl> <n><sg><ill> <vblex><iv><prfprc> 
 <n><sg><gen> <n><sg><gen> <vblex><iv><indic><pret><sg3> <n><prop><sg><gen> <n><sg><loc> <n><sg><nom> <adv> <vblex><iv><indic><pret><p3><sg><pl> <adv> <num><sg><nom> <n><sg><gen> <vblex><iv><prfprc> 
 <prn><ind><attr> <n><sg><loc> <vblex><tv><indic><pres><p3><sg><pl> <n><pl><nom> <n><pl><acc> <prn><rel><pl><acc> <prn><pers><p3><sg><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><inf> <cnjcoo> <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <adv> <n><pl><acc> <cnjcoo> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <n><sg><gen> <n><pl><acc> 
-<adv> <vblex><tv><indic><pret><sg3> <n><sg><gen> <n><prop><attr> <n><prop><sg><nom> <n><abbr><nom> <prn><pers><p3><sg><du><loc> <adv> <vblex><tv><indic><pres><sg3> <pcle><qst> <n><sg><nom> <vblex><tv><inf> <adv> <cnjcoo> <vblex><iv><neg><indic><sg3> 
+<adv> <vblex><tv><indic><pret><sg3> <n><sg><gen> <n><prop><attr> <n><prop><sg><nom> <n><abbr><nom> <prn><pers><p3><sg><du><loc> <adv> <vblex><tv><indic><pres><sg3> <pcle> <n><sg><nom> <vblex><tv><inf> <adv> <cnjcoo> <vblex><iv><neg><indic><sg3> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <prn><dem><sg><ill> 
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <n><sg><nom> <n><pl><acc> <vblex><tv><inf> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pres><p1><sg> <adv> <n><pl><acc> <vblex><tv><inf> <n><pl><acc> <cnjcoo> <vblex><tv><inf> <n><sg><acc> <prn><dem><pl><loc> 
 <prn><pers><sg3><nom> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pres><conneg> <adv> <adv> 
@@ -113,9 +113,9 @@
 <n><sg><nom> <adv> <vblex><tv><indic><pret><sg3> <cnjsub> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <n><sg><gen> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><inf> <n><pl><acc> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <adv> <adv> <adv> <cnjsub> <adv> <vblex><iv><neg><indic><p1><pl> <vblex><iv><indic><pret><conneg> <adv> <adv> <vblex><iv><neg><indic><sg3> <prn><ind><sg><nom> <vblex><iv><indic><pret><conneg> <pcle> <adv> <n><sg><loc> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <adv> <n><sg><acc> <n><sg><gen> <n><sg><gen> <n><sg><ill> <adv> <vblex><tv><indic><pret><sg3> <n><pl><acc><px3sg> 
-<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><iv><indic><pres><sg3><qst> <prn><ind><sg><nom> <prn><dem><sg><com> <vblex><iv><prfprc> <vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <pcle> <vblex><iv><indic><pres><conneg> <vblex><tv><prfprc> <prn><ind><sg><acc> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <n><pl><nom> <n><nomag><sg><nom> <adj><attr> <n><pl><gen> <post> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <adj><attr> <n><pl><loc><hab> <vblex><iv><inf> <n><sg><nom> <n><pl><ill> 
+<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><iv><indic><pres><sg3> <prn><ind><sg><nom> <prn><dem><sg><com> <vblex><iv><prfprc> <vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <pcle> <vblex><iv><indic><pres><conneg> <vblex><tv><prfprc> <prn><ind><sg><acc> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <n><pl><nom> <n><nomag><sg><nom> <adj><attr> <n><pl><gen> <post> 
+<vblex><iv><indic><pres><sg3> <pcle> <adj><attr> <n><pl><loc><hab> <vblex><iv><inf> <n><sg><nom> <n><pl><ill> 
 <prn><dem><sg><nom> <adv> <vblex><iv><indic><pret><sg3> <adv> <adj><attr> <n><sg><nom> <prn><dem><sg><loc> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> <n><sg><gen> <n><sg><gen> <n><sg><ill> 
 <prn><dem><attr> <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><loc> <cnjcoo> <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <vblex><tv><inf> <adv> <prn><rel><sg><ill> <vblex><tv><indic><pres><p1><sg> <prn><ind><sg><acc> <vblex><tv><inf> <cnjcoo> <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <prn><pers><p1><sg><gen> <adj><attr> <n><pl><nom> <vblex><iv><indic><pres><p1><sg> <adv> <adv> <prn><ref><gen><px1sg> <n><sg><com> <vblex><tv><prfprc> 
 <n><pl><nom> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> <adv> <adv> <prn><dem><sg><loc><attr> <num><sg><loc><attr> <n><sg><loc> <cnjsub> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><nomag><sg><nom> <vblex><iv><prfprc> 
@@ -123,7 +123,7 @@
 <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pret><conneg> <n><pl><nom> <vblex><iv><neg><indic><p3><sg><pl> <n><pl><nom> <vblex><iv><neg><indic><p3><sg><pl> <adv> <adj><attr> <n><pl><nom> <prn><dem><pl><loc> <n><pl><loc> <cnjsub> <adv> 
 <cnjcoo> <cnjsub> <n><pl><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> <vblex><iv><inf> <adv> <cnjcoo> <adv> <adv> <n><sg><nom> <vblex><iv><indic><pres><sg3> 
 <n><sg><nom> <adj><sg><nom> <n><sg><nom> <adj><attr> <n><pl><loc> <n><pl><nom> 
-<prn><dem><sg><acc> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <prn><itg><attr> <n><pl><loc> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <vblex><iv><prfprc> <prn><dem><attr> <adj><comp><attr> <n><sg><com> 
+<prn><dem><sg><acc> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <prn><itg><attr> <n><pl><loc> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><indic><pres><p3><sg><pl> <pcle> <vblex><iv><prfprc> <prn><dem><attr> <adj><comp><attr> <n><sg><com> 
 <cnjsub> <vblex><tv><indic><pres><sg3> <vblex><iv><prfprc> <n><pl><acc> <adv> <cnjsub> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pres><conneg> <prn><pers><p3><sg><pl><acc> <prn><rel><pl><nom> <adv> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <cnjcoo> <vblex><tv><indic><pres><p3><sg><pl> <n><pl><acc> <adv> <adv> <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> 
 <prn><dem><sg><loc> <prn><itg><attr> <n><g3><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><indic><pres><sg3> <adv> <adv> <adj><attr> <n><sg><nom> 
 <adv> <cnjsub> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><prfprc> <adv> <vblex><iv><indic><pres><sg3> <prn><dem><sg><loc><attr> <n><sg><loc><hab> <adj><sg><nom> <vblex><tv><inf> <n><pl><acc> <prn><ind><attr> <n><g3><pl><loc> 
@@ -175,7 +175,7 @@
 <n><pl><ill> <cnjsub> <vblex><iv><indic><pres><sg3> <adj><ord><sg><loc><attr> <n><sg><loc> <n><sg><loc> <n><abbr><nom> <cnjcoo> <n><abbr><nom> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <prn><ind><attr> <vblex><tv><prsprc> <n><pl><acc> <n><prop><sg><loc> <prn><rel><sg><acc> <vblex><tv><indic><pres><sg3> <n><pl><gen><px3sg> <n><sg><ill> <prn><dem><sg><gen> <n><sg><gen> <post> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <adv> <n><sg><acc> <n><prop><sg><gen> <n><sg><ill> <n><prop><sg><ill> <cnjcoo> <n><sg><ill> 
-<n><sg><loc> <vblex><iv><indic><pres><sg3> <n><sg><nom> <vblex><tv><inf> <n><sg><acc><px3sg> <vblex><tv><inf> <n><sg><gen> <n><sg><acc> <cnjcoo> <n><pl><acc> <prn><rel><pl><acc> <prn><dem><sg><nom> <vblex><tv><indic><pres><sg3> <cnjcoo> <vblex><tv><indic><pres><p1><pl> <adv> <prn><dem><sg><nom> <n><sg><nom> <vblex><iv><indic><pres><sg3> <cnjcoo> <vblex><iv><indic><pres><sg3><qst> <adj><sg><nom> <prn><dem><sg><acc> <vblex><tv><inf> 
+<n><sg><loc> <vblex><iv><indic><pres><sg3> <n><sg><nom> <vblex><tv><inf> <n><sg><acc><px3sg> <vblex><tv><inf> <n><sg><gen> <n><sg><acc> <cnjcoo> <n><pl><acc> <prn><rel><pl><acc> <prn><dem><sg><nom> <vblex><tv><indic><pres><sg3> <cnjcoo> <vblex><tv><indic><pres><p1><pl> <adv> <prn><dem><sg><nom> <n><sg><nom> <vblex><iv><indic><pres><sg3> <cnjcoo> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <prn><dem><sg><acc> <vblex><tv><inf> 
 <n><sg><acc> <n><pl><ill> <cnjcoo> <n><pl><ill> <vblex><tv><indic><pres><sg3> <prn><dem><sg><nom> <n><sg><nom> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> <adj><sg><acc> 
 <n><sg><gen> <n><sg><nom> <prn><rel><sg><nom> <n><sg><loc> <cnjcoo> <adv> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> <n><prop><sg><ill> <n><sg><acc> <n><sg><acc> <vblex><tv><ger> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <vblex><tv><inf> <n><sg><acc> 
 <n><sg><gen> <cnjcoo> <n><prop><sg><gen> <n><sg><ill> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
@@ -188,7 +188,7 @@
 <n><sg><loc> <vblex><iv><prsprc> <n><pl><acc> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <adv> <n><pl><com> <n><sg><loc> <adv> <cnjsub> <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> <n><sg><acc> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <adv><comp> <vblex><iv><prfprc> <n><pl><ill> <vblex><tv><inf> <n><pl><acc> <vblex><iv><inf> <vblex><tv><inf> <adj><attr> <n><pl><loc> <cnjsub> <vblex><iv><indic><pres><sg3> <adj><ord><attr> <n><sg><loc> <cnjsub> <n><sg><nom> <n><sg><loc> <vblex><tv><indic><pres><sg3> <prn><dem><sg><acc> 
 <n><pl><acc> <n><g3><cmp_sgnom><cmp_splitr> <cnjcoo> <n><pl><acc> <adv><abbr> <cnjcoo> <adj><attr> <n><nomag><pl><gen> <n><pl><acc> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <adv> 
-<vblex><iv><indic><pres><sg3><qst> <n><prop><sg><nom> <vblex><tv><inf> <adj><comp><attr> <n><pl><acc> <n><sg><ill> <n><sg><ill> <cnjcoo> <n><sg><ill> <prn><ref><gen><px3sg> <n><pl><loc> 
+<vblex><iv><indic><pres><sg3> <n><prop><sg><nom> <vblex><tv><inf> <adj><comp><attr> <n><pl><acc> <n><sg><ill> <n><sg><ill> <cnjcoo> <n><sg><ill> <prn><ref><gen><px3sg> <n><pl><loc> 
 <n><sg><ill> <cnjcoo> <n><sg><ill> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><sg><acc> <n><prop><sg><loc> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <adj><comp><attr> <n><pl><acc> <n><pl><gen> <n><sg><ill> <prn><ref><gen><px3sg> <n><pl><loc> <adv> <vblex><iv><indic><pres><sg3> <n><sg><loc><hab> <n><sg><nom> <prn><dem><sg><ill> 
 <cnjsub> <n><ess> <vblex><iv><indic><pres><p3><sg><pl> <prn><ind><attr> <n><nomag><pl><nom> <cnjcoo> <n><pl><nom> <prn><ind><attr> <n><sg><loc> <adv> <vblex><iv><indic><pres><sg3> <n><prop><sg><nom> <vblex><tv><inf> <cnjsub> <n><sg><nom> <cnjcoo> <n><sg><nom> <prn><dem><sg><loc><attr> <n><sg><loc> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> 
@@ -274,13 +274,13 @@
 <vblex><iv><indic><pres><p1><sg> <n><nomag><sg><nom> <cnjcoo> <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><iv><neg><indic><p1><sg> <n><sg><acc> <pcle> <adv> <vblex><tv><inf> 
 <prn><itg><attr> <adj><attr> <n><pl><acc> <vblex><iv><indic><pres><p2><sg> <vblex><tv><inf> 
 <prn><dem><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <adv> <prn><ind><sg><acc> 
-<vblex><tv><imp><p2><sg> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3><qst> <vblex><tv><inf> <prn><ind> <prn><rel><sg><acc> <n><sg><loc> <vblex><tv><indic><pres><sg3> 
+<vblex><tv><imp><p2><sg> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <vblex><tv><inf> <prn><ind> <prn><rel><sg><acc> <n><sg><loc> <vblex><tv><indic><pres><sg3> 
 <adv> <prn><dem><sg><gen> <post> <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><sg><acc> <vblex><iv><actio><ess> <n><sg><gen> <post> 
 <prn><pers><p1><pl><nom> <vblex><iv><neg><indic><p1><pl> <vblex><iv><indic><pres><conneg> <n><sg><acc> <vblex><tv><inf> 
 <vblex><tv><indic><pres><p1><pl> <prn><pers><sg3><ill> <n><pl><acc> <cnjcoo> <adj><attr> <n><pl><acc> 
 <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><ill> <cnjsub> <n><pl><acc> <vblex><tv><actio><ess> <cnjcoo> <vblex><tv><indic><pret><sg3> <prn><pers><sg3><loc> 
 <n><sg><nom> <prn><dem><sg><gen> <post> <prn><pers><sg3><nom> <vblex><iv><indic><pret><sg3> <n><pl><gen> <post> 
-<vblex><iv><indic><pres><p2><du><qst> <prn><pers><p2><du><nom> <vblex><tv><prfprc> 
+<vblex><iv><indic><pres><p2><du> <prn><pers><p2><du><nom> <vblex><tv><prfprc> 
 <cnjcoo> <cnjsub> <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <n><prop><sg><nom> <adv> <vblex><iv><indic><pret><sg3> 
 <adv> <vblex><iv><indic><pres><p1><sg> <adv> <vblex><tv><indic><pres><p1><sg> <vblex><tv><inf> <prn><dem><sg><acc> 
 <cnjsub> <vblex><iv><neg><indic><sg3> <adv> <vblex><iv><indic><pres><conneg> <prn><dem><sg><gen> <n><sg><gen> <post> 
@@ -423,7 +423,7 @@
 <adv> <prn><dem><sg><nom> <vblex><iv><indic><pret><sg3> <prn><dem><attr> <n><g3><sg><nom> <prn><rel><sg><acc> <n><nomag><pl><nom> <vblex><iv><neg><indic><p3><sg><pl> <vblex><tv><indic><pret><conneg> <vblex><tv><inf> <n><sg><ill> <vblex><iv><neg><indic><p3><sg><pl> <pcle> <n><sg><ill> 
 <vblex><tv><indic><pres><p1><sg> <cnjsub> <n><sg><loc> <vblex><tv><indic><pret><sg3> <n><prop><sg><gen> <n><pl><gen> <n><sg><nom> <n><nomag><sg><nom> <n><prop><sg><acc> <n><prop><sg><loc> <prn><pers><p3><sg><pl><gen> <n><sg><ill> <cnjcoo> <adv> <prn><pers><p1><pl><nom> <vblex><indic><pret><p1><pl> <adv> <prn><dem><sg><gen> <post> 
 <prn><dem><sg><gen> <post> <vblex><tv><indic><pret><p3><sg><pl> <adv> <prn><ind><attr> <n><nomag><pl><nom> <vblex><tv><inf> <prn><dem><sg><gen> <post> 
-<num><sg><loc> <vblex><tv><indic><pret><p3><sg><pl> <n><sg><loc> <vblex><iv><indic><pres><p1><sg> <pcle><qst> <prn><pers><p1><sg><nom> <vblex><iv><inf> <adv> <n><pl><gen> <n><nomag><ess> 
+<num><sg><loc> <vblex><tv><indic><pret><p3><sg><pl> <n><sg><loc> <vblex><iv><indic><pres><p1><sg> <pcle> <prn><pers><p1><sg><nom> <vblex><iv><inf> <adv> <n><pl><gen> <n><nomag><ess> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> <adv> <prn><pers><p1><sg><ill> <cnjsub> <vblex><iv><indic><pret><p1><sg> <vblex><tv><prfprc> <n><pl><acc> <num><sg><gen> <n><sg><gen> <n><sg><gen> <post> <cnjcoo> <vblex><iv><cond><pres><sg3> <adj><sg><nom> <prn><pers><p1><sg><ill> <vblex><tv><inf> <prn><dem><attr> <n><sg><loc> 
 <n><sg><gen> <n><sg><loc> <vblex><iv><indic><pret><p3><sg><pl> <vblex><iv><prfprc> <n><cmp_sggen><cmp_splitr> <cnjcoo> <n><pl><nom> <adv> <num><sg><gen> <post> 
 <prn><dem><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pret><conneg> <adv> <adv> <vblex><iv><indic><pret><sg3> <adj><attr> <n><cmp_sggen><cmp_splitr> <cnjcoo> <n><sg><gen> <n><sg><nom> 
@@ -586,7 +586,7 @@
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <cnjsub> <vblex><iv><prfprc> <n><pl><nom> <adv> <vblex><iv><indic><pres><p3><sg><pl> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <n><ess> <cnjcoo> <adj><sg><nom> 
 <prn><itg><sg><acc> <prn><pers><p2><sg><nom> <vblex><tv><indic><pret><p2><sg> 
-<vblex><iv><indic><pres><p2><sg><qst> <adv> <vblex><iv><actio><ess> <vblex><tv><inf> 
+<vblex><iv><indic><pres><p2><sg> <adv> <vblex><iv><actio><ess> <vblex><tv><inf> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> 
 <ij> <ij> <vblex><tv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> <n><sg><acc> <cnjcoo> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <cnjcoo> <adj><sg><nom> 
@@ -670,14 +670,14 @@
 <prn><pers><p1><sg><gen> <adj><sup><attr> <n><pl><nom> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <prn><dem><sg><loc><attr> <n><sg><loc> <num><sg><nom> <adj><ord><attr> <n><sg><gen> <n><cmp_sgnom><cmp_splitr> <cnjcoo> <n><sg><gen> <n><sg><gen> <n><nomag><ess> <cnjcoo> <prn><ind><attr> <n><pl><gen> <n><ess> <num><sg><nom> <adj><sup><attr> <n><sg><gen> <n><sg><gen> <n><nomag><ess> <cnjcoo> <adj><attr> <n><nomag><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><loc> 
 <prn><pers><p1><sg><nom> <prn><dem><sg><ill> <vblex><tv><indic><pres><p1><sg> <cnjsub> <prn><pers><p1><sg><gen> <prn><ref><gen><px1sg> <n><pl><gen> <cnjcoo> <adv> <n><pl><gen> <prn><pers><p1><sg><nom> <vblex><iv><indic><pret><p1><sg> <n><prop><sg><gen> <n><sg><loc> <cnjsub> <prn><pers><p1><pl><gen> <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><loc> 
 <prn><pers><p1><sg><nom> <prn><dem><sg><gen> <n><sg><gen> <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pret><conneg> <adv> <adv> <n><sg><loc> <cnjsub> <prn><pers><p1><sg><ill> <vblex><iv><indic><pret><sg3> <prn><dem><sg><nom> <adj><attr> <n><sg><nom> <cnjcoo> <adv> <vblex><tv><indic><pres><p1><sg> <adj><attr> <n><pl><acc> 
-<n><pl><acc> <vblex><tv><inf> <n><sg><ill> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><ill> <adj><attr> <adj><attr> <n><pl><nom> <cnjsub> <adv> <vblex><tv><indic><pret><p3><sg><pl> <cnjsub> <vblex><iv><indic><pret><p3><sg><pl><qst> <n><pl><nom> <vblex><iv><inf> <n><sg><loc> 
+<n><pl><acc> <vblex><tv><inf> <n><sg><ill> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><ill> <adj><attr> <adj><attr> <n><pl><nom> <cnjsub> <adv> <vblex><tv><indic><pret><p3><sg><pl> <cnjsub> <vblex><iv><indic><pret><p3><sg><pl> <n><pl><nom> <vblex><iv><inf> <n><sg><loc> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><nom> <cnjcoo> <n><pl><gen> <post> <vblex><iv><indic><pret><p3><sg><pl> <n><pl><nom> <prn><rel><pl><loc><hab> <vblex><iv><indic><pret><sg3> <n><sg><nom> <vblex><tv><inf> <n><pl><acc> <n><sg><loc> 
 <prn><dem><sg><nom> <adv> <vblex><iv><indic><pret><sg3> <adv> <cnjsub> <n><sg><nom> <vblex><tv><indic><pret><sg3> <adj><attr> <n><pl><gen> <n><pl><gen> <post> <cnjcoo> <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc> <vblex><iv><prfprc> <v*><tv><vabess><adj><attr> <n><pl><gen> <post> 
 <adv> <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><pl><com> 
 <num><sg><loc> <vblex><tv><indic><pres><sg3> <n><prop><sg><gen> <n><sg><nom> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><prfprc> <adj><pl><nom> <vblex><tv><inf> <n><sg><acc> <n><ess> <n><pl><gen><px3pl> <n><sg><loc> 
 <n><sg><nom> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pret><p3><sg><du> <adv><px3pl> <prn><rel><sg><nom> <vblex><iv><indic><pret><sg3> <vblex><tv><inf> <n><pl><acc> 
 <num><sg><loc> <vblex><tv><indic><pret><sg3> <n><sg><nom> <adv><px3sg> <prn><dem><pl><acc> <n><pl><acc> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pret><sg3> <vblex><tv><inf> <n><sg><acc> <n><sg><acc> <cnjcoo> <n><pl><gen> <adj><ess> <n><sg><acc> 
-<n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <vblex><iv><indic><pres><p3><sg><pl><qst> <vblex><tv><inf> <n><sg><acc> <n><sg><loc> <n><sg><gen> <n><sg><ill> 
+<n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><inf> <n><sg><acc> <n><sg><loc> <n><sg><gen> <n><sg><ill> 
 <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <adv> <prn><dem><sg><acc> <n><sg><acc> 
 <n><prop><sg><loc> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <prn><dem><sg><acc> <n><g3><sg><acc> <adv> <vblex><tv><prfprc> 
 <adj><attr> <n><sg><gen> <post> <vblex><iv><indic><pret><sg3> <n><pl><loc> <adj><attr> <n><sg><nom> <n><pl><ill> <cnjcoo> <prn><ind><sg><nom> <adv> <n><pl><ill> 
@@ -808,16 +808,16 @@
 <num><sg><loc> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><ill> <n><pl><nom> 
 <num><sg><gen> <post> <vblex><iv><indic><pres><sg3> <n><prop><sg><gen> <n><sg><loc> <vblex><iv><prfprc> <n><prop><sg><gen> <n><pl><gen> <n><sg><gen> <post> <vblex><iv><prfprc> <n><sg><nom> <n><prop><sg><gen> <n><prop><sg><gen> <n><sg><gen> <n><pl><gen> <n><sg><com> 
 <n><sg><gen> <n><sg><loc> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><gen> <n><pl><nom> 
-<vblex><tv><indic><pres><p3><sg><pl> <pcle><qst> <num><sg><nom> <n><sg><gen> <n><sg><acc> <cnjcoo> <vblex><iv><indic><pres><sg3> <pcle><qst> <n><pl><ill> <n><sg><nom> 
+<vblex><tv><indic><pres><p3><sg><pl> <pcle> <num><sg><nom> <n><sg><gen> <n><sg><acc> <cnjcoo> <vblex><iv><indic><pres><sg3> <pcle> <n><pl><ill> <n><sg><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <n><pl><gen> <num><sg><nom> <cnjcoo> <num><sg><nom> <post> <vblex><tv><prfprc> <adj><attr> <n><sg><acc> 
 <vblex><iv><neg><imp><p2><pl> <vblex><tv><imp><conneg> <vblex><iv><neg><supn><p2><pl> <prn><ref><pl><nom> <vblex><iv><inf> 
-<adv> <vblex><iv><indic><pres><sg3> <vblex><tv><actio><loc> <cnjsub> <n><sg><loc> <vblex><iv><indic><pres><sg3> <prn><dem><pl><com> <n><pl><com> <adv><qst> <n><sg><gen> <n><sg><gen> <post> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <prn><ind><attr> <prn><ind><attr> <n><pl><nom> <adv> <adv> <adj><ess> <prn><ind><pl><ill> 
+<adv> <vblex><iv><indic><pres><sg3> <vblex><tv><actio><loc> <cnjsub> <n><sg><loc> <vblex><iv><indic><pres><sg3> <prn><dem><pl><com> <n><pl><com> <adv> <n><sg><gen> <n><sg><gen> <post> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <prn><ind><attr> <prn><ind><attr> <n><pl><nom> <adv> <adv> <adj><ess> <prn><ind><pl><ill> 
 <adj><attr> <n><sg><gen> <n><sg><acc> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pres><conneg> 
 <n><prop><sg><nom> <cnjcoo> <n><prop><sg><nom> <vblex><iv><indic><pres><p3><sg><du> <prn><ind><pl><nom> <adv> <adj><pl><nom> 
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><nomag><pl><gen> <prn><ref><gen><px3pl> <n><sg><nom> <cnjcoo> <n><nomag><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <prn><dem><pl><acc> <vblex><tv><inf> <adv> <cnjcoo> <vblex><tv><inf> <prn><ref><gen><px3pl> <n><pl><acc> <n><sg><gen> <post> <cnjcoo> <adj><attr> <cnjcoo> <adj><attr> <n><sg><gen> <n><sg><gen> <post> 
 <vblex><tv><cond><pres><sg3> <prn><pers><sg3><ill> <prn><ind><acc> <prn><rel><sg><acc> <vblex><tv><indic><pres><sg3> 
 <vblex><tv><imp><p2><pl> <prn><pers><p2><pl><nom> <prn><pers><p3><sg><pl><ill> <n><sg><acc> 
-<vblex><tv><indic><pres><p1><sg> <adj><comp><ess> <cnjsub> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <pcle><qst> <adv> <vblex><iv><inf> <vblex><tv><inf> 
+<vblex><tv><indic><pres><p1><sg> <adj><comp><ess> <cnjsub> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <pcle> <adv> <vblex><iv><inf> <vblex><tv><inf> 
 <vblex><tv><imp><p2><sg> <n><sg><acc> <n><prop><sg><ill> 
 <n><nomag><pl><gen> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <adv> <adj><sg><acc> <cnjsub> <n><pl><nom> 
 <n><sg><gen> <n><prop><attr> <n><prop><attr> <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><ill> <cnjcoo> <vblex><tv><indic><pret><sg3> <vblex><iv><inf> <n><sg><com> <n><sg><com> <cnjcoo> <n><sg><gen> <n><sg><com> <cnjsub> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><acc> <n><sg><loc> 
@@ -837,7 +837,7 @@
 <n><coll><sg><nom> <n><prop><sg><com> <vblex><iv><indic><pres><p3><sg><du> <prn><dem><pl><gen> <n><pl><gen> <n><pl><nom> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <n><sg><loc> <vblex><iv><prfprc> 
 <n><coll><sg><nom> <n><prop><sg><com> <vblex><iv><indic><pres><p3><sg><du> <adj><pl><nom> <vblex><tv><inf> 
-<vblex><iv><indic><pres><sg3><qst> <prn><pers><sg3><nom> <adv> 
+<vblex><iv><indic><pres><sg3> <prn><pers><sg3><nom> <adv> 
 <n><sg><gen> <n><nomag><pl><nom> <adv> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><acc> 
 <vblex><iv><imp><p2><sg> <adj><attr> <n><sg><gen> 
 <vblex><iv><imp><p2><sg> <adv> <n><prop><sg><nom> 
@@ -965,7 +965,7 @@
 <prn><pers><p2><pl><nom> <adv> <adj><pl><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <prn><dem><ess> <adv> <n><sg><ill> 
 <n><pl><gen> <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <adj><sg><nom> <cnjcoo> <vblex><iv><prfprc> <n><sg><gen> <n><sg><ill> 
-<vblex><tv><indic><pret><p2><sg><qst> <adj><attr> <n><sg><acc> 
+<vblex><tv><indic><pret><p2><sg> <adj><attr> <n><sg><acc> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <vblex><iv><prfprc> 
 <n><pl><gen> <post> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adj><ess> <vblex><iv><prfprc> 
 <n><pl><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> <n><sg><ill> <prn><dem><sg><loc><attr> <n><sg><loc> 
@@ -986,11 +986,11 @@
 <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <adv> <vblex><tv><inf> <n><prop><sg><loc> <n><nomag><pl><acc> 
 <adv> <vblex><iv><prfprc> <n><pl><loc><hab> <adj><attr> <n><sg><nom> 
 <adv> <prn><pers><p1><du><nom> <vblex><iv><indic><pret><p1><du> <vblex><tv><inf> <n><sg><acc> <n><sg><acc> <cnjcoo> <n><sg><acc> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <prn><dem><sg><acc> <num><sg><acc> <n><sg><gen> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> 
-<vblex><tv><indic><pres><sg3><qst> <n><prop><attr> <n><prop><sg><nom> <n><prop><attr> <n><prop><sg><acc> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <prn><dem><sg><acc> <num><sg><acc> <n><sg><gen> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> 
+<vblex><tv><indic><pres><sg3> <n><prop><attr> <n><prop><sg><nom> <n><prop><attr> <n><prop><sg><acc> 
 <prn><pers><p2><sg><gen> <n><g3><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> 
 <prn><dem><sg><acc> <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><ess> 
-<vblex><tv><indic><pres><p1><sg> <pcle><qst> <vblex><tv><inf> <prn><dem><sg><acc> 
+<vblex><tv><indic><pres><p1><sg> <pcle> <vblex><tv><inf> <prn><dem><sg><acc> 
 <adj><attr> <adj><attr> <n><sg><gen> <post> <vblex><iv><indic><pres><sg3> <n><sg><loc><hab> <n><sg><nom> <vblex><tv><inf> <vblex><tv><actio><loc> <n><sg><acc> <cnjcoo> <n><pl><acc> <cnjcoo> <vblex><tv><inf> <vblex><tv><actio><loc> <n><sg><acc> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><loc> 
 <n><sg><nom> <cnjcoo> <n><sg><nom> <n><pl><ill> <vblex><iv><indic><pres><sg3> <adv><comp> <cnjcoo> <adv><comp> <adj><attr> <n><sg><nom> <n><sg><gen> <n><sg><loc> 
 <adv> <n><pl><nom> <cnjcoo> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><inf> <n><pl><gen> <n><ess> 
@@ -1004,10 +1004,10 @@
 <adv> <vblex><tv><indic><pres><sg3> <pr> <adj><attr> <adj><attr> <n><pl><acc> <cnjcoo> <adj><attr> <adj><attr> <n><pl><gen> 
 <adv> <vblex><iv><indic><pres><sg3> <n><sg><nom> <adj><comp><sg><nom> <num><sg><acc> <num><sg><acc> <n><sg><gen> <post> 
 <adv> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> <adv> <num><sg><gen> <post> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><dem><sg><nom> <adj><attr> <n><pl><gen> <post> <cnjcoo> <vblex><iv><indic><pres><sg3> <pcle><qst> <vblex><tv><inf> <n><pl><acc> <adj><attr> <n><sg><loc> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><dem><sg><nom> <adj><attr> <n><pl><gen> <post> <cnjcoo> <vblex><iv><indic><pres><sg3><qst> <vblex><tv><inf> <n><pl><acc> <adj><attr> <n><sg><loc> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><dem><sg><nom> <adj><attr> <n><pl><gen> <post> <cnjcoo> <vblex><iv><indic><pres><sg3> <pcle> <vblex><tv><inf> <n><pl><acc> <adj><attr> <n><sg><loc> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><dem><sg><nom> <adj><attr> <n><pl><gen> <post> <cnjcoo> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><pl><acc> <adj><attr> <n><sg><loc> 
 <vblex><tv><imp><p2><sg> <n><sg><acc><px2sg> <vblex><iv><inf> <adv> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <prn><pers><p1><pl><acc> <vblex><tv><inf> <prn><dem><sg><acc> <adv> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <prn><pers><p1><pl><acc> <vblex><tv><inf> <prn><dem><sg><acc> <adv> 
 <prn><dem><pl><ill> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> <cnjcoo> <prn><rel><sg><acc> <adv> <adv> <vblex><tv><inf> <vblex><iv><indic><pres><sg3> <vblex><tv><actio><ess> 
 <prn><dem><attr> <n><pl><nom> <cnjcoo> <num><sg><acc> <prn><ind><attr> <n><sg><gen> <cnjcoo> <n><sg><gen> <vblex><tv><indic><pret><p3><sg><pl> <prn><pers><p1><sg><ill> <adv> <adj><ess> <prn><dem><pl><acc> <n><pl><acc> <prn><rel><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <n><prop><sg><loc> 
 <adv> <vblex><iv><indic><pres><sg3> <prn><pers><p2><sg><gen> <n><sg><nom> 
@@ -1042,7 +1042,7 @@
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <adv> <n><sg><acc> 
 <vblex><iv><neg><indic><p3><sg><pl> <prn><dem><pl><nom> <vblex><iv><indic><pres><conneg> <adv> <adv> 
 <vblex><iv><neg><indic><p3><sg><pl> <vblex><tv><indic><pres><conneg> <adj><attr> <n><sg><gen> <n><sg><acc> 
-<vblex><iv><neg><indic><p3><sg><pl> <pcle><qst> <n><pl><nom> <pcle> <vblex><tv><indic><pres><conneg> <adv> <adv> 
+<vblex><iv><neg><indic><p3><sg><pl> <pcle> <n><pl><nom> <pcle> <vblex><tv><indic><pres><conneg> <adv> <adv> 
 <vblex><iv><neg><indic><p3><sg><pl> <n><coll><sg><nom> <pcle> <vblex><tv><indic><pres><conneg> <vblex><tv><inf> <prn><dem><sg><acc> <n><sg><acc> 
 <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pret><conneg> <vblex><tv><prfprc> <cnjsub> <n><sg><acc> 
 <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <adv> <n><pl><nom> 
@@ -1054,33 +1054,33 @@
 <prn><ind><sg><nom> <prn><dem><pl><loc> <n><pl><loc> <vblex><iv><indic><pres><p3><sg><pl> <adv> <prn><ind><attr> <n><pl><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <adv> <vblex><tv><prfprc> <n><prop><sg><gen> <adj><attr> <n><pl><acc> <n><ess> 
 <prn><ind><attr> <n><pl><loc> <adv> <vblex><iv><indic><pres><p3><sg><pl> <adv> <adj><comp><attr> <n><pl><nom> <cnjsub> <n><prop><sg><loc> <vblex><iv><prfprc> <prn><dem><attr> <n><pl><loc> <adv> <adj><comp><attr> <n><sg><nom> <adj><attr> <n><sg><loc> 
-<vblex><iv><neg><indic><p1><pl> <pcle><qst> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><conneg> <vblex><iv><prfprc> <prn><pers><p2><sg><gen> <post> 
+<vblex><iv><neg><indic><p1><pl> <pcle> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><conneg> <vblex><iv><prfprc> <prn><pers><p2><sg><gen> <post> 
 <vblex><iv><neg><indic><p1><pl> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><conneg> <adv> <vblex><tv><inf> <n><sg><acc> 
 <vblex><iv><neg><indic><p1><pl> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><conneg> <vblex><iv><inf> 
 <prn><ind><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <cnjcoo> <adv> 
-<n><sg><gen> <vblex><tv><actio><nom> <n><sg><nom> <pcle><qst> <prn><pers><p2><sg><loc> <vblex><iv><indic><pres><sg3> <adv> 
+<n><sg><gen> <vblex><tv><actio><nom> <n><sg><nom> <pcle> <prn><pers><p2><sg><loc> <vblex><iv><indic><pres><sg3> <adv> 
 <vblex><iv><neg><indic><p2><pl> <prn><pers><p2><pl><nom> <vblex><iv><indic><pres><conneg> <prn><ref><pl><nom> <vblex><tv><actio><ess> <cnjcoo> <n><sg><gen><px2pl> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <prn><pers><p2><pl><gen> <post> 
-<vblex><iv><neg><indic><p2><pl> <pcle><qst> <prn><pers><p2><pl><nom> <vblex><iv><indic><pres><conneg> <adv> <adj><comp><pl><nom> <cnjsub> <prn><dem><pl><nom> 
+<vblex><iv><neg><indic><p2><pl> <pcle> <prn><pers><p2><pl><nom> <vblex><iv><indic><pres><conneg> <adv> <adj><comp><pl><nom> <cnjsub> <prn><dem><pl><nom> 
 <cnjsub> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><gen> <post> 
 <vblex><tv><indic><pret><p1><sg> <n><sg><acc> <n><sg><gen><px1sg> <post> 
 <n><prop><sg><nom> <adv> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <prn><ind><acc> <adv> <adv> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><pl><loc> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><gen> <n><pl><loc> 
 <n><sg><loc><hab> <vblex><iv><indic><pret><sg3> <n><sg><nom> <n><sg><gen> <cnjcoo> <prn><dem><sg><gen> <n><pl><gen> <cnjcoo> <n><pl><gen> <n><sg><gen> <post> 
-<n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><prop><sg><acc> <n><sg><loc> <vblex><tv><inf> <vblex><iv><indic><pres><sg3> <pcle><qst> <vblex><tv><inf> <n><ess> 
+<n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><prop><sg><acc> <n><sg><loc> <vblex><tv><inf> <vblex><iv><indic><pres><sg3> <pcle> <vblex><tv><inf> <n><ess> 
 <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <prn><itg><attr> <n><sg><acc> <prn><dem><pl><ill> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> 
 <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><sg><acc> <pr> <prn><dem><sg><gen> <num><sg><gen> <n><sg><gen> 
 <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <adj><attr> <n><sg><acc> <prn><rel><sg><acc> <prn><dem><sg><nom> <num><sg><nom> <n><sg><gen> <adv> <vblex><tv><inf> 
 <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <adj><attr> <n><sg><acc> <prn><rel><sg><acc> <n><pl><nom> <adv> <vblex><tv><indic><pres><p3><sg><pl> 
-<vblex><iv><indic><pres><p3><sg><du><qst> <prn><pers><p3><sg><du><nom> <vblex><iv><inf> 
+<vblex><iv><indic><pres><p3><sg><du> <prn><pers><p3><sg><du><nom> <vblex><iv><inf> 
 <vblex><iv><indic><pret><p1><pl> <vblex><iv><inf> <n><pl><acc> <adv> <cnjcoo> <n><prop><sg><gen> <post> <adv> 
 <vblex><tv><indic><pret><p1><pl> <n><sg><ill> <adj><attr> <n><sg><acc> <n><ess> <cnjcoo> <num><sg><acc> <adj><sup><attr> <n><sg><gen> <vblex><tv><indic><pret><p1><pl> <n><sg><acc> <cnjcoo> <n><sg><acc> 
 <n><sg><acc> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><sg><loc> <n><prop><sg><com> <cnjcoo> <n><sg><gen> <n><cmp_sggen><cmp_splitr> <cnjcoo> <n><nomag><pl><com> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <prn><ref><gen><px3sg> <n><pl><acc> 
 <adv> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <prn><dem><pl><com> <n><pl><com> 
 <adv> <prn><pers><p3><sg><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> 
-<vblex><iv><indic><pres><p1><pl> <pcle><qst> <prn><pers><p1><pl><nom> <vblex><tv><inf> <prn><ind><attr> <prn><ind><sg><acc> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <adj><attr> <n><pl><loc><hab> <vblex><iv><inf> <n><sg><nom> <n><pl><ill> 
+<vblex><iv><indic><pres><p1><pl> <pcle> <prn><pers><p1><pl><nom> <vblex><tv><inf> <prn><ind><attr> <prn><ind><sg><acc> 
+<vblex><iv><indic><pres><sg3> <pcle> <adj><attr> <n><pl><loc><hab> <vblex><iv><inf> <n><sg><nom> <n><pl><ill> 
 <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <num><sg><nom> <vblex><iv><prfprc> <n><sg><nom> 
 <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <pr> <adj><attr> <cnjcoo> <adj><attr> <n><cmp_sgnom><cmp_splitr> <cnjcoo> <n><pl><gen> 
 <adv> <vblex><tv><vgen> <vblex><iv><indic><pret><p1><sg> <adv> 
@@ -1097,7 +1097,7 @@
 <prn><itg><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> <prn><pers><p2><pl><acc> <vblex><iv><inf> <adj><attr> <n><sg><loc> 
 <prn><itg><sg><nom> <vblex><iv><indic><pret><sg3> <prn><pers><p2><sg><acc> <adv> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <num><sg><acc> <n><sg><gen> 
-<n><nomag><sg><gen> <post> <pcle><qst> <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <n><prop><sg><ill> 
+<n><nomag><sg><gen> <post> <pcle> <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <n><prop><sg><ill> 
 <n><sg><com> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <n><sg><nom> <vblex><tv><inf> <n><sg><acc> <adv><comp> <cnjsub> <n><sg><ill> 
 <cnjsub> <prn><pers><p2><sg><nom> <vblex><tv><indic><pres><p2><sg> <adv> <vblex><iv><imp><p2><sg> <n><sg><gen><px2sg> <post> 
 <cnjsub> <n><sg><nom> <adv><comp> <adv><comp> <adv> <prn><dem><sg><ill> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> 
@@ -1107,7 +1107,7 @@
 <cnjsub> <vblex><iv><indic><pres><p2><sg> <n><sg><gen> <post> <adv> <vblex><tv><imp><p2><sg> <vblex><tv><inf> <n><sg><acc> 
 <cnjsub> <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><nomag><pl><gen> <n><sg><acc> <cnjcoo> <prn><pers><p3><sg><pl><gen> <adj><attr> <n><sg><acc> <adv> <adv> <prn><dem><sg><nom> <vblex><tv><indic><pret><sg3> <adj><attr> <n><pl><acc> 
 <cnjsub> <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> <vblex><iv><indic><pret><p3><sg><pl> <n><coll><sg><nom> <n><sg><ill> 
-<cnjsub> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><acc> <adj><attr> <n><pl><gen><px3pl> <n><sg><ill> <adv> <vblex><iv><indic><pres><sg3> <n><sg><nom> <n><sg><loc> <vblex><tv><inf> <adv> <vblex><iv><indic><pres><sg3><qst> <n><pl><loc> <n><sg><nom> <cnjcoo> <n><sg><nom> 
+<cnjsub> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><acc> <adj><attr> <n><pl><gen><px3pl> <n><sg><ill> <adv> <vblex><iv><indic><pres><sg3> <n><sg><nom> <n><sg><loc> <vblex><tv><inf> <adv> <vblex><iv><indic><pres><sg3> <n><pl><loc> <n><sg><nom> <cnjcoo> <n><sg><nom> 
 <cnjsub> <adj><attr> <n><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <n><pl><gen> <post> <cnjcoo> <cnjsub> <n><sg><nom> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> <adj><sg><nom> <adv> <vblex><iv><indic><pres><sg3> <prn><dem><sg><loc> <vblex><tv><inf> <n><sg><acc> <adv> <cnjsub> <n><sg><nom> <vblex><tv><indic><pres><sg3> <prn><ref><gen><px3sg> <n><pl><acc> 
 <adj><ord><attr> <n><sg><loc> <vblex><iv><indic><pres><sg3> <n><pl><gen> <cnjcoo> <n><sg><gen> <n><pl><gen> <post> <adj><ord><attr> <n><sg><loc> <vblex><iv><indic><pres><sg3> <n><pl><gen> <n><sg><gen> <cnjcoo> <n><sg><gen> <n><pl><gen> <n><pl><gen> <post> 
 <adv> <vblex><tv><indic><pret><p1><pl> <prn><pers><p1><pl><nom> <prn><pers><p2><sg><acc> <vblex><iv><prfprc> <cnjcoo> <vblex><iv><prfprc> 
@@ -1150,7 +1150,7 @@
 <vblex><iv><neg><indic><sg3> <prn><dem><pl><acc> <vblex><iv><indic><pres><conneg> <adj><pl><acc> <vblex><tv><inf> <vblex><tv><inf> 
 <vblex><iv><neg><indic><sg3> <adv> <vblex><tv><prfprc> <adv> <vblex><iv><indic><pres><conneg> 
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <vblex><iv><inf> <adj><sg><nom> <vblex><tv><inf> <prn><ind><sg><ill><attr> <n><sg><ill> <adj><comp><attr> <n><pl><acc> <cnjcoo> <n><pl><acc> <cnjsub> <prn><ref><loc><px3sg> <vblex><iv><indic><pres><p3><sg><pl> 
-<vblex><iv><neg><indic><sg3> <pcle><qst> <prn><pers><sg3><nom> <adv> <adv><comp> <vblex><tv><cond><pres><conneg> <prn><pers><p2><pl><acc> 
+<vblex><iv><neg><indic><sg3> <pcle> <prn><pers><sg3><nom> <adv> <adv><comp> <vblex><tv><cond><pres><conneg> <prn><pers><p2><pl><acc> 
 <vblex><iv><neg><indic><sg3> <n><sg><nom> <adv> <vblex><tv><indic><pres><conneg> <vblex><tv><inf> <adv><comp> <cnjsub> <num><sg><acc> <prn><dem><sg><gen> 
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pret><conneg> <vblex><iv><prfprc> <vblex><iv><prfprc> <n><sg><loc> 
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pret><conneg> <adj><sg><nom> <vblex><tv><inf> <n><pl><acc> <adv> <n><sg><ill> 
@@ -1171,7 +1171,7 @@
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <vblex><iv><inf> 
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <n><pl><acc> <vblex><tv><prfprc> <pr> <n><pl><gen> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><sg><gen> <post> 
 <vblex><iv><neg><indic><sg3> <n><sg><nom> <cnjcoo> <n><sg><gen> <n><sg><nom> <vblex><iv><indic><pres><conneg> <prn><ind><sg><nom> <n><pl><acc> 
-<vblex><iv><neg><indic><sg3><qst> <prn><pers><p2><sg><ill> <adv> <vblex><iv><indic><pres><conneg> <n><sg><nom> 
+<vblex><iv><neg><indic><sg3> <prn><pers><p2><sg><ill> <adv> <vblex><iv><indic><pres><conneg> <n><sg><nom> 
 <adv> <prn><pers><p1><sg><nom> <vblex><iv><indic><pret><p1><sg> <n><sg><acc> <n><sg><loc> 
 <vblex><iv><neg><indic><p1><sg> <vblex><iv><indic><pres><conneg> <vblex><iv><prfprc> <adv> <n><sg><acc> <vblex><tv><actio><ess> <adv> 
 <vblex><iv><neg><indic><p1><sg> <vblex><iv><indic><pres><conneg> <vblex><iv><prfprc> <n><sg><acc> <vblex><tv><inf> <prn><dem><sg><gen> <post> 
@@ -1205,7 +1205,7 @@
 <n><sg><gen> <n><sg><nom> <cnjcoo> <n><sg><nom> 
 <n><sg><gen> <n><sg><nom> <cnjcoo> <n><sg><nom> 
 <n><prop><sg><nom> <n><prop><sg><gen> <n><sg><nom> 
-<n><prop><sg><nom> <vblex><tv><indic><pres><p2><sg> <pcle><qst> <n><sg><acc> <n><sg><com> 
+<n><prop><sg><nom> <vblex><tv><indic><pres><p2><sg> <pcle> <n><sg><acc> <n><sg><com> 
 <prn><ind><attr> <n><sg><loc> <vblex><iv><indic><pres><sg3> <adv> <adv> <vblex><iv><inf> <vblex><iv><vabess> <n><pl><gen> <n><pl><loc> 
 <prn><ind><attr> <n><sg><nom> <prn><rel><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pres><conneg> <adj><pl><acc> <n><pl><acc> <vblex><iv><indic><pres><sg3> <cnjcoo> <vblex><iv><indic><pres><sg3> <n><sg><ill> 
 <prn><ind><attr> <n><sg><nom> <vblex><tv><indic><pret><sg3> <num><sg><acc> <cnjcoo> <adv><sup> <num><sg><acc> <n><sg><gen> <n><sg><acc> <n><sg><ill> 
@@ -1219,7 +1219,7 @@
 <cnjsub> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adj><pl><nom> <adv> <vblex><iv><indic><pres><sg3> <n><sg><gen> <n><nomag><sg><nom> <vblex><tv><inf> <prn><pers><sg3><ill> <prn><rel><sg><nom> <vblex><tv><indic><pres><sg3> <n><g3><sg><acc> <n><sg><acc> <vblex><tv><inf> <n><pl><acc> 
 <n><prop><sg><ill> <vblex><iv><indic><pret><sg3> <n><prop><sg><nom> <n><prop><sg><gen> <n><sg><nom> 
 <vblex><tv><indic><pres><p1><sg> <vblex><iv><cond><pres><sg3> <adj><comp><sg><nom> <vblex><iv><prfprc> <cnjsub> <vblex><iv><neg><indic><sg3> <vblex><iv><cond><pres><conneg> <adj><attr> <n><sg><nom> <vblex><tv><indic><pres><sg3> <n><prop><sg><gen> <n><sg><nom> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> <n><sg><loc> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <prn><dem><attr> <n><pl><ill> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <prn><dem><attr> <n><pl><ill> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <prn><ind><attr> <n><prop><sg><gen> <n><prop><sg><gen> <cnjcoo> <n><prop><sg><gen> <n><nomag><pl><gen> <cnjcoo> <n><pl><gen> <n><cmp_sgnom><cmp_splitr> <cnjcoo> <n><pl><acc> <cnjcoo> <prn><ind><attr> <n><pl><gen> <n><pl><acc> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <prn><ind><attr> <n><sg><loc> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <cnjcoo> <vblex><tv><inf> <n><pl><gen> <n><pl><gen> <cnjcoo> <n><pl><gen> <n><sg><acc> <adv> <adv> <adj><attr> <n><nomag><pl><gen> <n><sg><acc> 
 <n><sg><gen> <vblex><tv><ger> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <adv> <n><prop><sg><gen> <adj><attr> <n><sg><acc> 
@@ -1232,9 +1232,9 @@
 <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <vblex><iv><indic><pres><sg3> <n><sg><nom> <vblex><tv><inf> <n><pl><acc> <prn><rel><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><gen> <n><sg><acc> 
 <vblex><iv><indic><pres><sg3> <adv> <adj><sg><nom> <vblex><tv><inf> <adj><attr> <n><pl><acc> <vblex><tv><inf> <n><pl><loc> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <n><prop><sg><gen> <post> <n><prop><sg><nom> <adv> <vblex><tv><prfprc> <adv> <adv> <adv> <n><sg><acc> <prn><rel><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adj><sg><nom> <pcle> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <pcle> <n><prop><sg><nom> <vblex><iv><prfprc> 
+<vblex><iv><indic><pres><sg3> <pcle> <n><prop><sg><gen> <post> <n><prop><sg><nom> <adv> <vblex><tv><prfprc> <adv> <adv> <adv> <n><sg><acc> <prn><rel><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adj><sg><nom> <pcle> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <pcle> <n><prop><sg><nom> <vblex><iv><prfprc> 
 <vblex><iv><indic><pres><sg3> <adv> <adv> <vblex><iv><prfprc> <n><sg><nom> 
 <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> <prn><rel><sg><acc> <cnjcoo> <adv> <adv> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> 
 <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> <n><sg><nom> <n><sg><nom> 
@@ -1243,23 +1243,23 @@
 <vblex><iv><indic><pres><sg3> <adj><sg><nom> <cnjsub> <vblex><iv><neg><indic><p2><sg> <vblex><tv><indic><pres><conneg> <n><pl><acc> 
 <vblex><iv><indic><pres><sg3> <adv> <n><sg><nom> <vblex><tv><inf> <n><pl><acc> 
 <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><loc> 
-<vblex><iv><indic><pres><sg3><qst> <n><sg><acc> <vblex><tv><prfprc> 
-<vblex><iv><indic><pres><sg3><qst> <prn><pers><p2><du><gen> <post> <adj><sg><nom> <cnjsub> <vblex><iv><indic><pres><sg3> <adj><attr> <n><pl><gen> <vblex><iv><inf> 
-<vblex><iv><indic><pres><sg3><qst> <adj><attr> <n><sg><nom> <cnjsub> <n><prop><sg><acc> <vblex><tv><indic><pres><p3><sg><pl> 
-<vblex><iv><indic><pres><sg3><qst> <n><sg><nom> <cnjcoo> <n><sg><nom> 
-<vblex><iv><indic><pres><sg3><qst> <n><sg><loc><hab> <adv> <n><sg><nom> <vblex><tv><inf> <prn><dem><sg><acc> <n><sg><acc> 
-<vblex><iv><indic><pres><sg3><qst> <n><sg><loc> <n><pl><nom> <cnjcoo> <vblex><iv><neg><indic><p3><sg><pl> 
+<vblex><iv><indic><pres><sg3> <n><sg><acc> <vblex><tv><prfprc> 
+<vblex><iv><indic><pres><sg3> <prn><pers><p2><du><gen> <post> <adj><sg><nom> <cnjsub> <vblex><iv><indic><pres><sg3> <adj><attr> <n><pl><gen> <vblex><iv><inf> 
+<vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> <cnjsub> <n><prop><sg><acc> <vblex><tv><indic><pres><p3><sg><pl> 
+<vblex><iv><indic><pres><sg3> <n><sg><nom> <cnjcoo> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <n><sg><loc><hab> <adv> <n><sg><nom> <vblex><tv><inf> <prn><dem><sg><acc> <n><sg><acc> 
+<vblex><iv><indic><pres><sg3> <n><sg><loc> <n><pl><nom> <cnjcoo> <vblex><iv><neg><indic><p3><sg><pl> 
 <vblex><iv><prfprc> <adj><sg><nom> <vblex><tv><inf> <prn><dem><sg><acc> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <prn><pers><p2><sg><nom> <prn><dem><sg><nom> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <prn><pers><p2><sg><nom> <prn><dem><sg><nom> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> 
 <vblex><iv><indic><pres><p1><pl> <adv> <vblex><tv><actio><ess> <adj><attr> <n><sg><gen> <n><sg><com> 
-<vblex><iv><indic><pres><p3><sg><pl><qst> <n><nomag><sg><loc><hab> <n><pl><nom> <vblex><tv><inf> <n><g3><pl><acc> <adv> 
-<vblex><iv><indic><pres><p3><sg><pl><qst> <prn><pers><p3><sg><pl><nom> <vblex><tv><prfprc> <adv> 
+<vblex><iv><indic><pres><p3><sg><pl> <n><nomag><sg><loc><hab> <n><pl><nom> <vblex><tv><inf> <n><g3><pl><acc> <adv> 
+<vblex><iv><indic><pres><p3><sg><pl> <prn><pers><p3><sg><pl><nom> <vblex><tv><prfprc> <adv> 
 <vblex><iv><indic><pret><p1><sg> <n><sg><nom> <cnjcoo> <vblex><tv><indic><pret><p1><sg> <n><pl><acc> <n><g3><sg><gen> <post> 
 <vblex><iv><imp><p2><pl> <adv> <adj><pl><nom> <adj><pl><nom> <cnjcoo> <adj><pl><nom> 
-<vblex><iv><indic><pres><p2><pl><qst> <prn><ref><gen><px2pl> <n><pl><acc> <vblex><tv><prfprc> 
+<vblex><iv><indic><pres><p2><pl> <prn><ref><gen><px2pl> <n><pl><acc> <vblex><tv><prfprc> 
 <vblex><iv><indic><pret><sg3> <prn><ind><attr> <n><sg><nom> <n><sg><loc> <prn><dem><sg><gen> <n><sg><gen> <cnjcoo> <n><coll><sg><nom> <n><prop><sg><com> <vblex><iv><indic><pret><p3><sg><du> <vblex><inf> <vblex><tv><inf> <n><sg><acc> 
 <vblex><iv><imp><p2><sg> <adv> <vblex><tv><imp><p2><sg> <n><sg><acc><px2sg> <cnjcoo> <vblex><iv><imp><p2><sg> 
-<vblex><iv><indic><pres><p2><sg><qst> <prn><pers><p2><sg><nom> <n><prop><sg><ill> 
+<vblex><iv><indic><pres><p2><sg> <prn><pers><p2><sg><nom> <n><prop><sg><ill> 
 <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <vblex><tv><inf> <cnjcoo> <vblex><tv><inf> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><gen> <adj><ord><attr> <adj><sup><attr> <n><sg><nom> 
 <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><itg><attr> <n><sg><acc> <adv> <n><prop><sg><loc> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><sg><gen> <post> 
@@ -1281,7 +1281,7 @@
 <adv> <prn><pers><p2><sg><nom> <vblex><tv><indic><pres><p2><sg> <prn><pers><p1><sg><ill> 
 <prn><itg><sg><acc> <prn><pers><p1><pl><nom> <adv> <n><pl><com> 
 <prn><itg><sg><acc> <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> 
-<ij> <vblex><iv><neg><indic><sg3><qst> <vblex><iv><indic><pres><conneg> <vblex><iv><prfprc> 
+<ij> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <vblex><iv><prfprc> 
 <adv> <n><sg><gen> <n><pl><loc> <cnjcoo> <n><pl><loc> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><pl><acc> 
 <adv> <adj><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><ill> 
 <adv> <adv> <vblex><iv><indic><pres><p1><sg> <prn><pers><p1><sg><nom> <vblex><tv><inf> <prn><pers><p2><pl><acc> 
@@ -1290,7 +1290,7 @@
 <adv> <adv> <n><sg><nom> <prn><pers><p2><sg><loc><hab> <vblex><iv><indic><pres><sg3> 
 <adv> <adj><sg><nom> <vblex><iv><cond><pres><sg3> <adv> <vblex><iv><inf> 
 <adv> <adj><pl><nom> <prn><pers><p2><pl><nom> <vblex><iv><indic><pres><p2><pl> <vblex><tv><inf> <n><prop><sg><gen> <n><pl><acc> 
-<vblex><iv><indic><pret><sg3><qst> <n><prop><sg><nom> <vblex><tv><inf> <n><sg><acc> 
+<vblex><iv><indic><pret><sg3> <n><prop><sg><nom> <vblex><tv><inf> <n><sg><acc> 
 <adv> <prn><pers><p2><sg><nom> <vblex><tv><indic><pres><p2><sg> <prn><dem><sg><acc> 
 <vblex><iv><prfprc> <n><sg><gen> <n><sg><loc> <vblex><iv><indic><pret><sg3> <adj><attr> <n><sg><nom> 
 <adv> <prn><pers><p2><pl><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <prn><dem><attr> <adj><attr> <n><pl><nom> <prn><pers><p2><pl><gen> <n><pl><loc> 
@@ -1332,7 +1332,7 @@
 <prn><ind><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><ind><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><cmp_sgnom><cmp_splitr> <cnjcoo> <n><sg><acc> <prn><dem><sg><ill><attr> <n><sg><ill> 
 <prn><ind><attr> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <num><sg><nom> <num><sg><loc><attr> <n><sg><loc> <vblex><iv><prfprc> <n><pl><nom> <cnjcoo> <prn><ind><attr> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <prn><ind><pl><nom> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><prfprc> <vblex><iv><prfprc> <n><pl><nom> 
 <prn><ind><attr> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <num><sg><nom> <n><sg><gen> <vblex><iv><prfprc> <n><pl><nom> <cnjcoo> <prn><ind><attr> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <prn><ind><pl><nom> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><prfprc> <vblex><iv><prfprc> <n><pl><nom> 
-<cnjcoo> <vblex><iv><indic><pres><p2><sg> <pcle><qst> 
+<cnjcoo> <vblex><iv><indic><pres><p2><sg> <pcle> 
 <cnjcoo> <n><pl><nom> <cnjcoo> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <prn><ind><attr> <n><pl><gen> <post> <cnjsub> <n><pl><nom> <cnjcoo> <adv> <vblex><iv><indic><pres><sg3> <n><sg><gen> <post> <adv> <adv> <vblex><iv><inf> 
 <cnjcoo> <n><ess> <prn><dem><sg><nom> <adv> <adv> <vblex><iv><indic><pres><sg3> 
 <cnjcoo> <prn><dem><attr> <adj><attr> <n><sg><nom> <vblex><tv><vabess> <vblex><tv><indic><pres><sg3> <adj><attr> <n><pl><acc> 
@@ -1351,7 +1351,7 @@
 <prn><ind><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <vblex><iv><vgen> <cnjcoo> <prn><ind><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <vblex><iv><vgen> 
 <adv> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <vblex><tv><inf> <n><sg><acc> <adv> 
 <prn><ind><attr> <n><pl><acc> <vblex><tv><indic><pres><p1><pl> <adv> <adv><comp> <adv> 
-<prn><ind><attr> <n><pl><loc> <vblex><iv><indic><pres><p3><sg><pl> <prn><ind><pl><nom> <n><pl><nom> <prn><ind><pl><loc> <prn><ind><pl><nom> <prn><dem><sg><gen> <post> <vblex><iv><indic><pres><sg3><qst> <n><sg><gen> <post> <adj><attr> <cnjcoo> <adj><attr> <n><sg><nom> 
+<prn><ind><attr> <n><pl><loc> <vblex><iv><indic><pres><p3><sg><pl> <prn><ind><pl><nom> <n><pl><nom> <prn><ind><pl><loc> <prn><ind><pl><nom> <prn><dem><sg><gen> <post> <vblex><iv><indic><pres><sg3> <n><sg><gen> <post> <adj><attr> <cnjcoo> <adj><attr> <n><sg><nom> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><sg><acc><px1sg> <n><pl><gen> <post> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><sg><acc><px1sg> <n><sg><acc><px1sg> <cnjcoo> <n><sg><acc><px1sg> <n><pl><gen> <post> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <prn><ind><acc> 
@@ -1364,7 +1364,7 @@
 <prn><pers><p1><sg><nom> <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pret><conneg> <n><sg><acc><px1sg> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <prn><ind><sg><acc> <n><sg><gen> <post> <n><prop><sg><loc> <n><prop><sg><loc> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <prn><ind><sg><acc> <n><sg><gen> <post> <n><prop><sg><loc> 
-<prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <prn><ref><com><px1sg> <vblex><iv><pot><pres><sg3> <pcle><qst> <adj><sg><nom> 
+<prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <prn><ref><com><px1sg> <vblex><iv><pot><pres><sg3> <pcle> <adj><sg><nom> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><prop><sg><loc> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><iv><prfprc> <vblex><tv><inf> <n><sg><acc> <n><sg><gen> <cnjcoo> <n><sg><gen><px3sg> <post> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <adv> <vblex><iv><prfprc> 
@@ -1400,7 +1400,7 @@
 <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <vblex><iv><vgen> <n><sg><ill> 
 <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><com> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><sg><acc> <vblex><tv><actio><loc> 
-<vblex><tv><indic><pret><p3><sg><pl><qst> <prn><pers><p3><sg><pl><nom> <vblex><tv><inf> <n><g3><sg><acc><px3pl> <n><sg><ill> 
+<vblex><tv><indic><pret><p3><sg><pl> <prn><pers><p3><sg><pl><nom> <vblex><tv><inf> <n><g3><sg><acc><px3pl> <n><sg><ill> 
 <n><nomag><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adj><comp><sg><nom> <cnjsub> <n><nomag><sg><nom> 
 <n><nomag><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adj><comp><sg><nom> <cnjsub> <n><nomag><sg><nom><px3sg> <vblex><iv><neg><indic><sg3> <pcle> <n><nomag><sg><nom> <adj><comp><sg><nom> <cnjsub> <n><sg><nom><px3sg> 
 <n><nomag><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <adv> <vblex><iv><neg><indic><p3><sg><pl> <pcle> <adv> <vblex><tv><indic><pret><conneg> <prn><ind><sg><ill> <prn><rel><sg><acc> <vblex><iv><indic><pret><p3><sg><pl> <vblex><tv><prfprc> 
@@ -1424,7 +1424,7 @@
 <n><coll><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <vblex><tv><prfprc> <adj><attr> <cnjcoo> <adj><attr> <n><pl><loc> 
 <n><acr><sg><nom> <num><sg><nom> <vblex><tv><indic><pres><sg3> <adv> <adv> 
 <n><acr><sg><nom> <vblex><tv><indic><pres><sg3> <adv> <cnjsub> <prn><dem><pl><acc> <adj><sup><attr> <n><pl><gen> <vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> <n><prop><sg><loc> <vblex><tv><inf> <n><sg><loc> 
-<pcle> <adv> <pcle><qst> <vblex><iv><indic><pret><sg3> <vblex><tv><inf> <cnjsub> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <n><sg><ill> 
+<pcle> <adv> <pcle> <vblex><iv><indic><pret><sg3> <vblex><tv><inf> <cnjsub> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <n><sg><ill> 
 <pcle> <prn><itg><sg><acc> <prn><pers><p2><sg><nom> <vblex><tv><indic><pret><p2><sg> 
 <pcle> <cnjcoo> <prn><pers><p2><sg><nom> <vblex><iv><neg><indic><p2><sg> <vblex><iv><indic><pres><conneg> <prn><dem><sg><ill> <n><sg><acc> <vblex><tv><prfprc> 
 <pcle> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pret><p1><sg> <prn><dem><sg><gen> <post> 
@@ -1478,10 +1478,10 @@
 <n><coll><sg><nom> <vblex><indic><pret><p3><sg><du> <adv> <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <cnjsub> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adv> <vblex><tv><actio><ess> <cnjcoo> <n><nomag><sg><nom> <vblex><tv><indic><pres><sg3> <cnjsub> <vblex><iv><indic><pres><sg3> <adv> <vblex><iv><prfprc> 
 <adj><attr> <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <num><sg><gen> <n><sg><gen> <post> 
 <adj><attr> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><prop><sg><acc> <n><prop><sg><gen> <n><ess> 
-<adj><sg><nom> <pcle><qst> <n><sg><nom> <vblex><iv><indic><pres><sg3> 
+<adj><sg><nom> <pcle> <n><sg><nom> <vblex><iv><indic><pres><sg3> 
 <adj><attr> <n><pl><ill> <vblex><iv><indic><pres><sg3> <prn><dem><sg><nom> <adv> <adj><attr> <n><sg><nom> 
 <adj><attr> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><dem><sg><acc> <prn><pers><p3><sg><pl><gen> <n><pl><loc> 
-<adj><sg><nom><qst> <n><sg><nom> <vblex><iv><indic><pres><sg3> 
+<adj><sg><nom> <n><sg><nom> <vblex><iv><indic><pres><sg3> 
 <n><sg><gen> <post> <vblex><iv><indic><pret><p3><sg><pl> <prn><ind><pl><nom> <prn><rel><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <vblex><tv><inf> <n><pl><acc> 
 <prn><ind><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><pers><p1><sg><ill> <prn><dem><sg><gen> <n><sg><gen> <n><sg><nom> <n><prop><sg><nom> 
 <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> <prn><dem><sg><nom> <n><sg><nom> <prn><rel><sg><nom> <n><nomag><pl><loc><hab> <adv> <vblex><iv><indic><pret><sg3> <vblex><iv><prfprc> <vblex><iv><indic><pret><sg3> <adv> 
@@ -1495,7 +1495,7 @@
 <n><ess> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <cnjsub> <adj><attr> <n><pl><nom> <n><sg><gen> <cnjcoo> <n><pl><gen> <post> <vblex><iv><indic><pres><p3><sg><pl> <adv> <cnjsub> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> <prn><rel><pl><nom> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><p3><sg><pl> <adj><pl><nom> <n><sg><ill> 
 <n><prop><attr> <n><prop><sg><nom> <cnjcoo> <n><prop><attr> <n><prop><sg><nom> <vblex><iv><indic><pres><p3><sg><du> <adv> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <cnjsub> <vblex><iv><indic><pret><sg3> <vblex><tv><inf> <n><pl><acc> <adj><attr> <n><sg><gen> <n><sg><loc> <cnjcoo> <n><sg><loc> 
-<n><sg><loc> <vblex><iv><indic><pret><sg3> <num><sg><gen> <post> <n><sg><nom> <cnjsub> <vblex><iv><indic><pret><sg3> <pcle><qst> <vblex><inf> <prn><rel><sg><nom> <vblex><tv><indic><pres><sg3> <n><sg><acc> <vblex><tv><inf> <n><sg><loc> 
+<n><sg><loc> <vblex><iv><indic><pret><sg3> <num><sg><gen> <post> <n><sg><nom> <cnjsub> <vblex><iv><indic><pret><sg3> <pcle> <vblex><inf> <prn><rel><sg><nom> <vblex><tv><indic><pres><sg3> <n><sg><acc> <vblex><tv><inf> <n><sg><loc> 
 <n><prop><sg><gen> <n><pl><loc> <vblex><iv><indic><pres><sg3> <prn><ind><attr> <n><g3><pl><gen> <n><sg><nom> <vblex><iv><prfprc> <adv> 
 <n><sg><gen> <post> <vblex><tv><indic><pres><p1><pl> <n><pl><ill> <vblex><tv><inf> <adj><attr> <n><pl><acc> <cnjcoo> <prn><dem><sg><acc> <n><sg><acc> <cnjsub> <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <adj><attr> <n><sg><acc> 
 <n><sg><gen><px3sg> <post> <vblex><tv><indic><pres><sg3> <n><sg><nom> <vblex><tv><inf> <n><prop><sg><acc> 
@@ -1601,7 +1601,7 @@
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <prn><pers><p1><pl><acc> <adv> <prn><pers><p1><pl><gen> <n><pl><loc> 
 <prn><pers><sg3><nom> <adv> <vblex><tv><indic><pres><sg3> <n><sg><acc><px3sg> 
 <prn><pers><sg3><nom> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pres><conneg> <adj><attr> <adj><attr> <n><sg><com> 
-<prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <vblex><iv><neg><indic><p2><sg> <pcle><qst> <vblex><iv><indic><pres><conneg> 
+<prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <vblex><iv><neg><indic><p2><sg> <pcle> <vblex><iv><indic><pres><conneg> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <adj><sup><pl><gen> <post> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <adj><comp><sg><nom> <cnjsub> <prn><pers><p1><sg><nom> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <adj><attr> <cnjcoo> <adj><attr> <n><ess> <prn><rel><sg><loc><hab> <vblex><iv><indic><pres><sg3> <prn><ref><gen><px3sg> <n><pl><nom> <prn><ind><sg><gen> <post> <cnjcoo> <prn><ind><pl><nom> <n><prop><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <prn><pers><sg3><gen> <n><pl><acc> <n><pl><loc> 
@@ -1655,7 +1655,7 @@
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <vblex><tv><inf> <n><pl><acc> <n><pl><gen> <n><pl><gen> <n><pl><loc> <cnjcoo> <n><pl><loc> <n><abbr><nom> <num><sg><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <vblex><tv><inf> <n><pl><acc> <n><pl><gen> <n><pl><gen> <n><pl><loc> <cnjcoo> <n><pl><loc> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <vblex><tv><inf> <n><g3><sg><acc> <vblex><iv><prfprc> <n><pl><gen> <post> 
-<n><sg><gen> <prn><ind><attr> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><ref><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <n><pl><nom> <vblex><iv><inf> <adv> <cnjcoo> <adv> 
+<n><sg><gen> <prn><ind><attr> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><ref><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <pcle> <n><pl><nom> <vblex><iv><inf> <adv> <cnjcoo> <adv> 
 <n><sg><gen> <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv><comp> <adj><attr> <cnjsub> <adj><attr> <n><sg><nom> 
 <n><pl><loc><hab> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> <prn><ind><attr> <n><sg><gen> <n><pl><ill> <adj><attr> <n><g3><pl><loc> 
 <n><sg><loc> <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> <n><sg><nom> <num><sg><gen> 
@@ -1717,7 +1717,7 @@
 <adv> <vblex><iv><indic><pres><sg3> <cnjsub> <n><sg><gen> <n><pl><nom> <n><pl><gen> <post> <adj><ord><attr> <n><sg><gen> <post> <vblex><tv><cond><pres><sg3> <n><sg><acc> <adj><attr> <n><pl><gen> <n><ess> <adj><ess> <vblex><tv><inf> <n><sg><acc> <adv> <cnjsub> <vblex><tv><cond><pres><sg3> <adj><ord><attr> <n><sg><gen> <n><sg><acc> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <num><sg><gen> <vblex><iv><prfprc> <n><sg><loc> <n><prop><cmp_splitr> <cnjcoo> <n><sg><com> <vblex><tv><actio><gen> <post> <n><prop><sg><gen> <n><pl><acc> <n><sg><gen> <n><cmp_sggen><cmp_splitr> <cnjcoo> <n><sg><gen> <n><sg><loc> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><acc> <vblex><tv><supn> 
-<n><sg><nom> <pcle><qst> <adv> <vblex><iv><indic><pres><sg3> <vblex><iv><actio><ess> 
+<n><sg><nom> <pcle> <adv> <vblex><iv><indic><pres><sg3> <vblex><iv><actio><ess> 
 <n><sg><gen> <n><sg><nom> <vblex><iv><indic><pres><sg3> <num><sg><acc> <n><sg><gen> <pr> <n><sg><gen> 
 <n><sg><gen> <n><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sup><attr> <n><sg><nom> <prn><rel><sg><acc> <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> 
 <n><sg><loc><hab> <vblex><iv><prfprc> <n><pl><nom> 
@@ -1725,7 +1725,7 @@
 <n><sg><gen> <post> <adv><comp> <cnjcoo> <adv><comp> <vblex><indic><pres><p3><sg><pl> <n><sg><ill> 
 <vblex><iv><indic><pres><p1><sg> <adv> <vblex><tv><inf> <num><sg><acc> <n><sg><gen> 
 <vblex><iv><indic><pres><p1><sg> <vblex><tv><inf> <adv> <num><sg><acc> <n><sg><gen> 
-<vblex><iv><indic><pres><sg3><qst> <adv> <n><sg><ill> <vblex><iv><inf> 
+<vblex><iv><indic><pres><sg3> <adv> <n><sg><ill> <vblex><iv><inf> 
 <n><pl><nom> <prn><rel><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><acc> <vblex><tv><indic><pres><p3><sg><pl> <adv> <cnjsub> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><acc> <cnjcoo> <vblex><iv><indic><pres><p3><sg><pl> 
 <n><sg><nom> <n><abbr><attr> <num><sg><nom> <n><prop><attr> <n><prop><attr> <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc> 
 <n><sg><nom> <n><abbr><attr> <num><sg><nom> <n><prop><attr> <n><abbr><attr> <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc> 
@@ -1755,10 +1755,10 @@
 <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> 
 <vblex><iv><neg><indic><p1><sg> 
 <vblex><indic><pres><sg3> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <adv> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <adv> 
 <vblex><iv><imp><p2><sg> <adv> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <n><sg><loc> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <n><nomag><sg><com> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <n><sg><loc> 
+<vblex><iv><indic><pres><p2><du> <pcle> <n><nomag><sg><com> 
 <adv> <vblex><iv><indic><pres><sg3> 
 <n><prop><sg><loc> <vblex><iv><indic><pres><sg3> 
 <prn><pers><p1><du><nom> <vblex><iv><indic><pres><p1><du> <adv> 
@@ -1769,7 +1769,7 @@
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <n><sg><loc> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <n><sg><ill> 
 <vblex><iv><imp><p2><sg> <adv> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <prn><pers><sg3><acc> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <prn><pers><sg3><acc> 
 <vblex><imp><p2><sg> <prn><pers><p1><sg><acc> 
 <vblex><tv><imp><p2><sg> <n><sg><acc> 
 <vblex><tv><imp><p2><sg> <n><sg><acc> 
@@ -1787,10 +1787,10 @@
 <vblex><tv><imp><p2><sg> <n><sg><acc> <adv> 
 <n><prop><sg><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <n><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><pl><loc><hab> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><pl><loc><hab> <n><sg><nom> 
 <prn><pers><p1><sg><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <prn><pers><sg3><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> <n><prop><sg><loc> 
-<adj><sg><nom> <pcle><qst> <prn><pers><p2><sg><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
+<adj><sg><nom> <pcle> <prn><pers><p2><sg><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> 
 <n><nomag><sg><nom> <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
@@ -1843,11 +1843,11 @@
 <n><nomag><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <adj><attr> <n><pl><acc> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><actio><ess> <n><pl><acc> 
 <adv> <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <n><sg><gen> <n><pl><acc> 
-<vblex><iv><neg><indic><p2><sg> <pcle><qst> <vblex><iv><indic><pres><conneg> <vblex><tv><inf> <prn><pers><p1><pl><ill> 
+<vblex><iv><neg><indic><p2><sg> <pcle> <vblex><iv><indic><pres><conneg> <vblex><tv><inf> <prn><pers><p1><pl><ill> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <n><pl><acc> <n><pl><gen> <post> 
 <adv> <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <prn><pers><p2><sg><acc> 
 <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <adv> <vblex><tv><inf> <n><sg><acc> 
-<vblex><tv><indic><pres><p3><sg><pl> <pcle><qst> <n><prop><attr> <n><prop><sg><acc> 
+<vblex><tv><indic><pres><p3><sg><pl> <pcle> <n><prop><attr> <n><prop><sg><acc> 
 <vblex><tv><imp><p2><sg> <adj><sg><acc> <n><sg><acc> 
 <vblex><tv><indic><pres><p1><sg> <adj><attr> <n><pl><acc> 
 <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><gen><allegro> 
@@ -1871,7 +1871,7 @@
 <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <num><sg><acc> <adj><ord><sg><loc><attr> <n><sg><loc> 
 <adv> <vblex><iv><indic><pres><p3><sg><du> <n><sg><com> 
 <adv> <vblex><iv><indic><pres><sg3> <adv> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <n><sg><loc> <adv> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <n><sg><loc> <adv> 
 <prn><ind><attr> <n><sg><gen> <n><sg><loc> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
 <n><sg><loc><hab> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
 <prn><pers><p1><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <adj><attr> <n><pl><nom> 
@@ -1901,7 +1901,7 @@
 <prn><pers><p1><pl><nom> <vblex><tv><indic><pres><p1><pl> <n><pl><acc> <n><pl><ill> <cnjcoo> <n><pl><ill> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><pl><acc> <cnjcoo> <n><pl><acc> <n><sg><ill> 
 <adv> <prn><pers><p1><pl><nom> <vblex><tv><indic><pres><p1><pl> <n><pl><acc> <cnjcoo> <n><pl><acc> 
-<vblex><tv><indic><pres><p2><pl> <pcle><qst> <n><sg><acc> <cnjcoo> <n><sg><acc> 
+<vblex><tv><indic><pres><p2><pl> <pcle> <n><sg><acc> <cnjcoo> <n><sg><acc> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <cnjcoo> <adj><sg><nom> 
 <prn><pers><p1><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> <cnjcoo> <adj><pl><nom> <n><pl><nom> <n><prop><sg><loc> 
 <n><prop><sg><loc> <prn><pers><sg3><gen> <n><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <num><sg><nom> <n><sg><gen> <cnjcoo> <num><sg><nom> <n><sg><nom> 
@@ -1938,24 +1938,24 @@
 <adj><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adv> <n><sg><gen> <post> 
 <adv> <vblex><iv><indic><pres><p3><sg><pl> <adj><attr> <adj><attr> <n><pl><nom> 
 <n><sg><loc> <vblex><iv><indic><pres><sg3> <adv> <vblex><iv><prfprc> <adj><sg><nom> <n><sg><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <n><sg><nom> <cnjcoo> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <n><sg><nom> <cnjcoo> <n><sg><nom> 
 <n><pl><nom> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <vblex><iv><inf> <n><sg><loc> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <n><prop><sg><ill> 
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><sg><ill> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <n><pl><gen> <n><sg><gen> 
 <vblex><iv><indic><pres><p1><sg> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> 
 <vblex><iv><indic><pres><sg3> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> 
 <prn><itg><sg><nom> <vblex><iv><indic><pret><sg3> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <n><prop><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <n><prop><sg><nom> 
 <vblex><iv><indic><pret><sg3> <n><sg><nom> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <adv> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <n><sg><loc> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <adv> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <n><sg><loc> 
 <vblex><iv><imp><p2><sg> <adv> 
 <vblex><tv><imp><p2><sg> <adv> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <prn><pers><p1><sg><loc> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <n><sg><ill> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <prn><pers><p1><sg><loc> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <n><sg><ill> 
 <adv> <prn><pers><p1><du><nom> <vblex><tv><indic><pres><p1><du> 
 <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><ill> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><sg><gen> 
@@ -1969,8 +1969,8 @@
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <n><sg><acc> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <n><pl><acc> 
 <n><sg><acc> <vblex><indic><pret><sg3> 
-<vblex><tv><indic><pres><p2><pl> <pcle><qst> <n><sg><acc> 
-<vblex><tv><indic><pres><p2><du> <pcle><qst> <n><acr><sg><acc> 
+<vblex><tv><indic><pres><p2><pl> <pcle> <n><sg><acc> 
+<vblex><tv><indic><pres><p2><du> <pcle> <n><acr><sg><acc> 
 <prn><pers><p3><sg><du><nom> <vblex><tv><indic><pret><p3><sg><du> <n><pl><acc> <n><sg><ill> 
 <n><sg><loc> <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><pl><acc> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><sg><acc> <n><sg><ill> 
@@ -1979,7 +1979,7 @@
 <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
 <n><prop><sg><ill> <vblex><iv><indic><pret><sg3> <n><sg><nom> 
 <prn><itg><sg><nom> <prn><pers><p2><sg><loc><hab> <vblex><iv><indic><pres><sg3> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
 <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
 <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <n><sg><loc> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
@@ -1988,7 +1988,7 @@
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adj><pl><nom> 
 <prn><pers><p2><sg><nom> <pcle> <vblex><iv><indic><pres><p2><sg> <adj><sg><nom> 
 <prn><pers><p2><pl><nom> <vblex><iv><indic><pret><p2><pl> <n><coll><sg><nom> 
-<vblex><iv><indic><pret><p3><sg><pl> <pcle><qst> <adj><pl><nom> <n><pl><nom> 
+<vblex><iv><indic><pret><p3><sg><pl> <pcle> <adj><pl><nom> <n><pl><nom> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <n><nomag><sg><nom> 
 <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <n><sg><loc> 
 <prn><pers><p3><sg><du><nom> <vblex><iv><indic><pret><p3><sg><du> <n><prop><sg><loc> 
@@ -1997,8 +1997,8 @@
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <num><sg><loc> 
 <prn><pers><p2><pl><nom> <vblex><iv><indic><pres><p2><pl> <n><sg><ill> 
 <vblex><tv><imp><p2><sg> 
-<vblex><iv><indic><pret><p2><du> <pcle><qst> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> 
+<vblex><iv><indic><pret><p2><du> <pcle> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> 
 <prn><pers><p1><pl><nom> <vblex><indic><pret><p1><pl> <n><pl><ill> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><gen> 
@@ -2015,29 +2015,29 @@
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> 
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><gen><hab> 
 <n><pl><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><du><loc><hab> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><du><loc><hab> <n><sg><nom> 
 <vblex><iv><imp><p2><sg> <adv> 
 <vblex><iv><imp><p2><pl> <adv> 
 <vblex><iv><indic><pres><p1><sg> <vblex><iv><inf> 
-<vblex><tv><indic><pres><p2><pl> <pcle><qst> <vblex><tv><inf> 
+<vblex><tv><indic><pres><p2><pl> <pcle> <vblex><tv><inf> 
 <n><prop><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pret><conneg> <vblex><iv><inf> <adv> 
-<n><sg><nom><qst> <adv> <vblex><iv><indic><pres><sg3> <vblex><iv><actio><ess> 
+<n><sg><nom> <adv> <vblex><iv><indic><pres><sg3> <vblex><iv><actio><ess> 
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><prfprc> <n><sg><loc> 
 <prn><pers><p1><du><nom> <vblex><iv><indic><pres><p1><du> <vblex><tv><prfprc> <vblex><tv><actio><loc> 
 <n><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adv> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pret><p1><sg> <adv> <vblex><iv><inf> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p1><sg><gen> <n><sg><nom> <adv> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p1><sg><gen> <n><sg><nom> <adv> 
 <adv> <vblex><iv><indic><pres><sg3> <prn><pers><p2><sg><gen> <n><sg><nom> 
 <prn><pers><p3><sg><du><nom> <vblex><iv><indic><pres><p3><sg><du> <vblex><iv><inf> 
 <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <vblex><prfprc> 
-<vblex><iv><neg><indic><p2><sg> <pcle><qst> <vblex><iv><indic><pres><conneg> <vblex><tv><inf> 
+<vblex><iv><neg><indic><p2><sg> <pcle> <vblex><iv><indic><pres><conneg> <vblex><tv><inf> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><prfprc> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <vblex><iv><prfprc> <adv> 
-<vblex><iv><neg><indic><p2><du> <pcle><qst> <vblex><iv><indic><pres><conneg> 
+<vblex><iv><indic><pres><sg3> <pcle> <vblex><iv><prfprc> <adv> 
+<vblex><iv><neg><indic><p2><du> <pcle> <vblex><iv><indic><pres><conneg> 
 <vblex><iv><neg><imp><p2><sg> <vblex><tv><imp><conneg> <n><g3><sg><acc> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <vblex><tv><prfprc> <adj><attr> <n><sg><acc> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <vblex><tv><prfprc> <adj><attr> <n><sg><acc> 
 <vblex><iv><neg><imp><p2><pl> <vblex><tv><imp><conneg> <adj><attr> <n><sg><acc> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <adj><attr> <n><sg><acc> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <adj><attr> <n><sg><acc> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <adj><attr> <n><sg><acc> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><coll><sg><acc> <n><prop><sg><com> 
 <prn><pers><p1><pl><nom> <vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> <prn><ind><sg><acc> 
@@ -2061,15 +2061,15 @@
 <n><sg><nom> <n><sg><gen> <post> <vblex><tv><indic><pres><sg3> <n><sg><acc> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><prfprc> <adj><attr> <n><pl><acc> <prn><dem><sg><gen> <n><sg><gen> 
 <pr> <n><sg><gen> <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <vblex><tv><inf> <n><pl><acc> 
-<vblex><iv><neg><indic><p1><pl> <pcle><qst> <vblex><iv><indic><pret><conneg> <vblex><iv><inf> 
+<vblex><iv><neg><indic><p1><pl> <pcle> <vblex><iv><indic><pret><conneg> <vblex><iv><inf> 
 <n><sg><loc><hab> <vblex><iv><indic><pres><sg3> <vblex><iv><actio><ess> <n><sg><nom> 
-<n><sg><loc><hab> <pcle><qst> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
+<n><sg><loc><hab> <pcle> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
 <n><nomag><pl><loc><hab> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
 <vblex><iv><neg><indic><sg3> <prn><ind><attr> <n><pl><loc><hab> <vblex><iv><indic><pres><conneg> <n><sg><nom> 
 <prn><pers><p2><sg><loc><hab> <adv> <vblex><iv><indic><pres><p3><sg><pl> <adj><attr> <n><pl><nom> 
 <adv> <prn><pers><p1><pl><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <adj><attr> <n><pl><nom> 
 <vblex><iv><neg><indic><sg3> <prn><pers><p2><sg><loc><hab> <vblex><iv><indic><pres><conneg> <n><sg><nom> <prn><ind><sg><ill> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <n><sg><nom> <n><pl><loc> <n><prop><attr> <n><prop><sg><gen><allegro> <post> 
+<vblex><iv><indic><pres><sg3> <pcle> <n><sg><nom> <n><pl><loc> <n><prop><attr> <n><prop><sg><gen><allegro> <post> 
 <prn><dem><pl><gen> <n><pl><gen> <vblex><iv><indic><pret><sg3> <adv> <n><sg><nom> 
 <adv> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
 <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <num><sg><nom> <adj><attr> <n><sg><gen> 
@@ -2107,7 +2107,7 @@
 <n><prop><sg><loc> <cnjcoo> <n><prop><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
 <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <adj><attr> <n><pl><nom> <cnjcoo> <adv> <n><sg><nom> <cnjcoo> <prn><ind><attr> <n><pl><nom> 
 <n><sg><gen> <cnjcoo> <n><sg><gen> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
-<vblex><iv><indic><pres><sg3><qst> <n><sg><nom> <cnjcoo> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <n><sg><nom> <cnjcoo> <n><sg><nom> 
 <n><sg><nom> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pres><p3><sg><du> 
 <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <adv> <n><prop><sg><loc> <cnjcoo> <n><prop><sg><loc> 
 <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <adj><sg><gen> <post> <vblex><iv><prfprc> <n><pl><loc> <cnjcoo> <n><pl><loc> 
@@ -2141,7 +2141,7 @@
 <adv> <prn><dem><pl><acc> <vblex><iv><indic><pres><p2><pl> <vblex><tv><prfprc> 
 <n><sg><acc> <vblex><tv><indic><pret><p3><sg><pl> <n><sg><gen> <post> 
 <n><sg><acc> <vblex><tv><indic><pret><p3><sg><pl> <n><sg><gen> <post> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <vblex><tv><prfprc> <n><sg><acc> <n><sg><loc> 
+<vblex><iv><indic><pres><p2><du> <pcle> <vblex><tv><prfprc> <n><sg><acc> <n><sg><loc> 
 <vblex><iv><neg><indic><p1><du> <vblex><iv><indic><pres><conneg> <vblex><tv><inf> <n><sg><acc> <adv> 
 <adv> <adv> <adv> <vblex><tv><indic><pres><p1><sg> <vblex><tv><inf> <n><sg><acc> 
 <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <prn><pers><p2><sg><com> <vblex><tv><inf> 
@@ -2150,7 +2150,7 @@
 <vblex><iv><neg><indic><sg3> <prn><dem><sg><nom> <vblex><iv><indic><pres><conneg> <adj><sg><nom> 
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <adj><sg><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><ind><attr> <n><sg><nom> <vblex><iv><inf> <n><pl><gen> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><ind><attr> <n><sg><nom> <vblex><iv><inf> <n><pl><gen> <n><sg><nom> 
 <n><prop><sg><nom> <adv> <vblex><iv><indic><pres><sg3> <adv> <adj><sg><nom> 
 <n><prop><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <adj><attr> <n><pl><nom> 
 <adv> <vblex><iv><indic><pret><p3><sg><pl> <adj><attr> <n><pl><nom> 
@@ -2160,10 +2160,10 @@
 <adj><attr> <n><pl><gen> <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <n><pl><gen> <adj><attr> <n><pl><nom> 
 <adv> <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <adv> 
 <n><pl><gen> <vblex><iv><indic><pres><p3><sg><pl> <adv> <n><pl><nom> <adv> <n><prop><sg><loc> <cnjcoo> <n><prop><sg><loc> 
-<vblex><iv><indic><pres><p1><du> <pcle><qst> <vblex><iv><inf> <adv> 
+<vblex><iv><indic><pres><p1><du> <pcle> <vblex><iv><inf> <adv> 
 <vblex><iv><neg><indic><p1><sg> <vblex><iv><indic><pres><conneg> <vblex><tv><prfprc> <prn><ind><sg><acc> 
 <adv> <pr> <n><sg><gen> <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <vblex><tv><inf> <n><pl><acc> 
-<vblex><tv><indic><pret><p2><du> <pcle><qst> <n><prop><sg><acc> <prn><pers><p1><du><gen> <adj><sup><attr> <n><sg><acc> 
+<vblex><tv><indic><pret><p2><du> <pcle> <n><prop><sg><acc> <prn><pers><p1><du><gen> <adj><sup><attr> <n><sg><acc> 
 <prn><dem><sg><acc> <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <adv> <prn><pers><p2><sg><ill> <prn><ref><gen><px1sg> <adj><sup><attr> <n><sg><ill> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <n><prop><sg><loc> <n><prop><sg><gen> <n><sg><loc> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><prop><sg><com> <n><prop><sg><gen> <n><sg><com> 
@@ -2175,7 +2175,7 @@
 <ij> <prn><pers><p2><du><nom> <vblex><iv><indic><pres><p2><du> <adv> <adj><pl><nom> 
 <ij> <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <adv> <adv> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><nom> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <n><sg><nom> <cnjcoo> <vblex><iv><neg><indic><sg3> <pcle><qst> <vblex><iv><indic><pres><conneg> 
+<vblex><iv><indic><pres><sg3> <pcle> <n><sg><nom> <cnjcoo> <vblex><iv><neg><indic><sg3> <pcle> <vblex><iv><indic><pres><conneg> 
 <prn><pers><p1><du><loc><hab> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> <n><sg><loc> <cnjcoo> <prn><pers><p1><du><nom> <vblex><tv><indic><pres><p1><du> <prn><dem><sg><loc> <adj><attr> <n><pl><acc> 
 <vblex><iv><imp><p2><sg> <adv> <prn><pers><p1><sg><gen> <post> <prn><pers><p2><sg><loc><hab> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <vblex><iv><inf> <n><sg><nom> 
 <n><sg><gen> <n><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pret><conneg> <vblex><iv><inf> <cnjcoo> <n><sg><nom> <vblex><tv><indic><pret><sg3> 
@@ -2194,7 +2194,7 @@
 <adv> <adv> <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><sg><acc> <n><sg><com> <adv> <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><com> 
 <n><prop><sg><loc> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <adj><attr> <n><pl><nom> <cnjcoo> <adv> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <adj><attr> <n><pl><nom> 
 <n><prop><sg><loc> <vblex><iv><indic><pret><p3><sg><pl> <n><pl><nom> <cnjcoo> <n><sg><loc> <prn><pers><p3><sg><pl><loc><hab> <vblex><iv><indic><pret><sg3> <n><sg><nom> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <n><sg><acc> <cnjcoo> <vblex><tv><indic><pres><p2><sg> <pcle><qst> <n><sg><com> <vblex><tv><inf> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <n><sg><acc> <cnjcoo> <vblex><tv><indic><pres><p2><sg> <pcle> <n><sg><com> <vblex><tv><inf> 
 <adv> <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <cnjcoo> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <adv> <vblex><iv><prfprc> 
 <n><sg><loc> <vblex><iv><indic><pret><sg3> <n><sg><nom> <cnjcoo> <n><sg><loc> <vblex><iv><indic><pret><sg3> <adj><attr> <n><sg><nom> <n><sg><loc> 
 <n><sg><loc> <vblex><iv><indic><pret><sg3> <n><sg><nom> <cnjcoo> <prn><pers><p3><sg><du><nom> <vblex><iv><indic><pret><p3><sg><du> <adv> 
@@ -2207,7 +2207,7 @@
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <vblex><tv><inf> <n><prop><sg><acc> <cnjcoo> <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <n><sg><acc> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <adj><attr> <n><pl><acc> <cnjcoo> <prn><dem><sg><ill> <vblex><iv><indic><pres><sg3> <adv> <vblex><tv><inf> <n><pl><acc> 
 <prn><pers><p1><sg><gen> <n><sg><loc><hab> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> <cnjcoo> <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <n><sg><ill> <prn><ind><attr> <n><sg><gen> 
-<prn><ind><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><inf> <adv><qst> <vblex><tv><indic><pres><p3><sg><pl> <n><nomag><pl><acc> 
+<prn><ind><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><inf> <adv> <vblex><tv><indic><pres><p3><sg><pl> <n><nomag><pl><acc> 
 <cnjsub> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><inf> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <cnjsub> <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <adv> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <cnjsub> <prn><pers><p2><pl><nom> <vblex><iv><indic><pres><p2><pl> <vblex><iv><prfprc> 
@@ -2238,7 +2238,7 @@
 <adj><sg><nom> <vblex><iv><indic><pret><sg3> <cnjsub> <vblex><iv><indic><pret><p2><sg> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><loc> <cnjsub> <vblex><iv><indic><pret><sg3> <n><sg><ill> 
 <vblex><iv><indic><pret><sg3> 
-<vblex><iv><cond><pres><p2><pl> <pcle><qst> 
+<vblex><iv><cond><pres><p2><pl> <pcle> 
 <vblex><tv><imp><p2><pl> 
 <prn><pers><sg3><nom> <vblex><indic><pret><sg3> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> 
@@ -2253,29 +2253,29 @@
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pret><p1><sg> <n><pl><ill> 
 <vblex><iv><imp><p2><du> <prn><pers><p2><du><nom> <adv> 
 <vblex><tv><imp><p1><du> <adv> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <n><sg><acc> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <n><sg><acc> 
 <prn><pers><p1><sg><acc> <vblex><tv><indic><pres><sg3> 
 <prn><pers><p1><sg><acc> <vblex><tv><indic><pret><sg3> 
 <vblex><tv><indic><pret><sg3> <n><sg><acc> 
 <n><pl><acc> <prn><pers><p1><pl><nom> <adv> <vblex><tv><cond><pres><p1><pl> 
 <prn><itg><sg><acc> <prn><pers><p2><sg><nom> <vblex><tv><indic><pret><p2><sg> 
 <prn><itg><sg><nom> <vblex><tv><cond><pres><sg3> <n><sg><acc> 
-<vblex><tv><indic><pret><sg3> <pcle><qst> <n><prop><sg><nom> <n><sg><acc> 
+<vblex><tv><indic><pret><sg3> <pcle> <n><prop><sg><nom> <n><sg><acc> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <vblex><tv><inf> <n><sg><ill> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc> <n><sg><ill> 
 <prn><pers><sg3><nom> <vblex><tv><cond><pres><sg3> <n><sg><acc> <n><sg><ill> 
 <adv> <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <n><sg><acc> <adv> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <n><sg><acc> <adv> 
 <prn><itg><sg><acc> <vblex><tv><indic><pres><p2><sg> <adv> 
 <vblex><tv><imp><p2><sg> <n><sg><acc> <n><sg><ill> 
 <cnjcoo> <n><prop><sg><acc> <adv> <vblex><tv><indic><pres><p1><du> 
-<vblex><iv><cond><pres><sg3> <pcle><qst> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
+<vblex><iv><cond><pres><sg3> <pcle> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
 <prn><pers><sg3><loc> <vblex><iv><indic><pret><sg3> <n><sg><nom> 
-<vblex><iv><indic><pret><sg3> <pcle><qst> <adj><ess> 
+<vblex><iv><indic><pret><sg3> <pcle> <adj><ess> 
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sg><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <n><sg><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <num><sg><nom> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <prn><pers><p2><sg><nom> <n><sg><nom> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <prn><pers><p2><sg><nom> <n><sg><nom> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <num><sg><nom> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <adj><sup><sg><nom> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <n><prop><sg><gen><hab> 
@@ -2297,7 +2297,7 @@
 <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><pl><acc> <n><ess> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <prn><ref><acc><px3sg> <adj><ess> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><sg><acc> <adj><ess> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <adj><attr> <n><sg><nom> <adj><sg><nom> <prn><pers><p2><sg><ill> 
+<vblex><iv><indic><pres><sg3> <pcle> <adj><attr> <n><sg><nom> <adj><sg><nom> <prn><pers><p2><sg><ill> 
 <vblex><iv><indic><pres><sg3> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><ill> 
 <prn><pers><p1><sg><ill> <vblex><iv><indic><pret><sg3> <adj><sg><nom> 
@@ -2308,7 +2308,7 @@
 <prn><pers><p2><du><nom> <vblex><iv><indic><pres><p2><du> <n><sg><ill> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> 
 <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <adv> 
-<vblex><tv><cond><pres><sg3> <pcle><qst> <n><prop><sg><nom> <n><sg><acc> 
+<vblex><tv><cond><pres><sg3> <pcle> <n><prop><sg><nom> <n><sg><acc> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <n><g3><sg><acc> 
 <prn><pers><p3><sg><du><nom> <vblex><tv><indic><pres><p3><sg><du> <n><g3><pl><acc> <n><pl><ill> 
 <n><pl><loc> <n><nomag><pl><nom> <vblex><tv><cond><pres><p3><sg><pl> <n><sg><acc> 
@@ -2341,7 +2341,7 @@
 <adv> <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <adv> <vblex><tv><inf> <n><pl><acc> 
 <prn><pers><p1><du><nom> <n><prop><sg><com> <vblex><tv><cond><pres><p1><du> <n><sg><loc> 
 <prn><ind><attr> <n><sg><nom> <n><sg><com><px3sg> <vblex><tv><indic><pres><sg3> 
-<vblex><iv><cond><pres><p3><sg><du> <pcle><qst> <prn><pers><p2><sg><gen> <adj><sup><attr> <n><pl><nom> <vblex><iv><inf> 
+<vblex><iv><cond><pres><p3><sg><du> <pcle> <prn><pers><p2><sg><gen> <adj><sup><attr> <n><pl><nom> <vblex><iv><inf> 
 <prn><dem><pl><nom> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><pers><p1><sg><ill> 
 <n><sg><nom> <vblex><iv><cond><pres><sg3> <vblex><iv><inf> <adv> 
 <vblex><iv><indic><pres><sg3> <adv> <vblex><iv><actio><ess> 
@@ -2356,7 +2356,7 @@
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pret><p1><pl> <vblex><tv><inf> <prn><pers><sg3><acc> <n><sg><ill> 
 <adv> <vblex><tv><imp><p1><du> <num><sg><acc> <n><sg><gen> 
 <adv> <vblex><tv><imp><p1><pl> <num><sg><acc> <n><sg><gen> 
-<vblex><iv><cond><pres><p2><du> <pcle><qst> <vblex><tv><inf> <prn><pers><p1><sg><acc> 
+<vblex><iv><cond><pres><p2><du> <pcle> <vblex><tv><inf> <prn><pers><p1><sg><acc> 
 <vblex><iv><neg><indic><p3><sg><pl> <n><coll><sg><nom> <vblex><tv><cond><pres><conneg> <vblex><tv><inf> <prn><dem><sg><acc> <n><sg><acc> 
 <vblex><iv><neg><indic><p3><sg><pl> <prn><ind><attr> <n><pl><nom> <n><sg><acc> <vblex><tv><indic><pres><conneg> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <adv> <n><sg><loc> <n><sg><acc> 
@@ -2364,7 +2364,7 @@
 <vblex><iv><imp><p2><du> <adv> <prn><pers><p1><pl><gen> <post> 
 <vblex><tv><imp><p1><du> <n><sg><acc> <adv> <adv> 
 <vblex><iv><imp><p1><du> <n><g3><sg><loc> <prn><dem><sg><gen> <n><sg><gen> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <adv> <vblex><tv><prfprc> <n><sg><loc> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <adv> <vblex><tv><prfprc> <n><sg><loc> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <vblex><iv><vgen> <n><sg><ill> 
 <n><ess> <vblex><iv><neg><indic><sg3> <vblex><iv><cond><pres><conneg> <n><sg><loc> <vblex><iv><inf> 
 <vblex><iv><imp><p1><pl> <n><g3><sg><loc> <prn><dem><sg><gen> <n><sg><gen> 
@@ -2397,7 +2397,7 @@
 <n><sg><loc> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <n><sg><ill> <vblex><tv><indic><pres><sg3> <n><sg><nom> 
 <prn><pers><p1><sg><gen> <post> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adj><sg><nom> <adv> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <n><sg><nom> <adv> <adj><attr> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <n><sg><nom> <adv> <adj><attr> <n><sg><nom> 
 <prn><dem><sg><nom> <n><sg><nom> <vblex><iv><indic><pres><sg3> <prn><pers><p1><sg><gen><hab> 
 <prn><pers><p1><sg><ill> <vblex><iv><indic><pret><sg3> <adj><sg><nom> <vblex><tv><inf> <n><sg><acc> <n><sg><ill> 
 <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <prn><pers><p1><du><gen> <adj><sup><attr> <n><sg><nom> 
@@ -2491,7 +2491,7 @@
 <n><prop><sg><gen> <n><nomag><sg><nom> <vblex><tv><indic><pret><sg3> <vblex><tv><inf> <n><sg><acc> <num><sg><com> <n><sg><com> 
 <n><prop><attr> <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <adj><ord><sg><gen> <adj><sup><attr> <n><sg><acc> <adj><attr> <n><sg><loc> <n><prop><sg><loc> <n><sg><gen> 
 <vblex><tv><imp><p2><sg> <adv> <n><pl><acc> <adv> <prn><pers><p1><sg><gen> <n><sg><ill> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <vblex><tv><inf> <prn><pers><p1><sg><ill> <adj><attr> <n><pl><acc> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <vblex><tv><inf> <prn><pers><p1><sg><ill> <adj><attr> <n><pl><acc> 
 <adv> <adv> <vblex><iv><indic><pres><p1><sg> <n><sg><acc> <vblex><tv><inf> 
 <prn><itg><attr> <n><sg><acc> <vblex><tv><indic><pres><p2><sg> <adv><sup> 
 <prn><ind><nom> <n><pl><loc> <vblex><tv><indic><pres><p3><sg><pl> <n><nomag><pl><acc> <prn><ind><attr> <adj><ord><attr> <n><sg><loc> 
@@ -2529,7 +2529,7 @@
 <prn><pers><p1><sg><gen> <n><pl><nom> <adv> <n><sg><nom> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pres><p3><sg><du> <vblex><iv><prfprc> 
 <prn><ind><attr> <n><sg><gen> <n><pl><acc> <cnjsub> <n><pl><acc> <cnjcoo> <n><pl><acc> <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <adv> <adv> <n><sg><gen> <post> 
 <adv> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <n><sg><acc> <adj><attr> <n><pl><loc> <cnjsub> <prn><dem><sg><gen> <n><sg><gen><allegro> <n><sg><gen> <cnjcoo> <n><sg><gen> <n><pl><loc> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <prn><pers><p1><sg><gen> <n><sg><acc> <n><prop><sg><acc> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <prn><pers><p1><sg><gen> <n><sg><acc> <n><prop><sg><acc> 
 <n><sg><loc> <vblex><iv><indic><pret><p3><sg><pl> <n><pl><nom> <cnjsub> <n><pl><nom> <n><pl><nom> <cnjcoo> <n><pl><nom> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><prop><attr> <n><prop><sg><nom> <n><prop><attr> <n><prop><sg><gen> <n><sg><nom> 
 <n><prop><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <adv> <adj><attr> <n><pl><nom> <adv> <n><pl><nom> <n><pl><nom> <n><pl><nom> <cnjcoo> <n><pl><nom> 
@@ -2565,7 +2565,7 @@
 <adv> <vblex><iv><indic><pret><p3><sg><pl> <adj><comp><attr> <n><pl><nom> <n><prop><sg><loc> <cnjcoo> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <adj><attr> <n><pl><acc> <cnjcoo> <vblex><tv><prfprc> <prn><dem><pl><ill> <n><pl><acc> 
 <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><tv><inf> <vblex><iv><neg><indic><p1><sg> <vblex><tv><inf> 
 <cnjsub> <vblex><tv><cond><pres><p1><sg> <adv> <vblex><tv><cond><pres><p1><sg> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <prn><rel><sg><gen> <n><sg><gen> <prn><pers><p1><pl><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <prn><rel><sg><gen> <n><sg><gen> <prn><pers><p1><pl><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> 
 <cnjsub> <vblex><tv><indic><pres><p2><sg> <prn><ind><sg><acc> <prn><rel><sg><nom> <adv> <vblex><iv><indic><pres><sg3> <adv> <prn><dem><sg><loc><attr> <n><sg><loc><hab> <vblex><iv><indic><pres><sg3> <prn><pers><p2><sg><ill> <n><sg><nom> <cnjcoo> <vblex><iv><indic><pres><p2><sg> <prn><pers><sg3><loc> <vblex><tv><inf> 
 <prn><pers><sg3><gen> <adj><ord><attr> <n><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><gen> <num><sg><nom> <cnjcoo> <n><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><nom> <adj><attr> <n><sg><gen> <post> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <n><sg><loc> 
 <n><sg><loc> <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><pl><acc> <cnjcoo> <cnjsub> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <adj><attr> <n><pl><nom> <adv> <vblex><iv><indic><pres><p3><sg><pl> <n><sg><ill> <adv> <vblex><iv><inf> 
@@ -2606,7 +2606,7 @@
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <cnjsub> <prn><pers><p1><pl><loc><hab> <vblex><iv><indic><pres><sg3> <adj><attr> <n><nomag><sg><nom> 
 <prn><ind><pl><nom> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><acc> <vblex><tv><inf> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><inf> <adv> 
 <vblex><iv><indic><pret><p3><sg><pl> <adj><attr> <n><pl><nom> <adv> <adv> <prn><pers><p1><pl><nom> <adv> <vblex><iv><indic><pret><p1><pl> 
-<vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><sg3> <pcle><qst> <n><prop><sg><nom> <adv> 
+<vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><sg3> <pcle> <n><prop><sg><nom> <adv> 
 <cnjsub> <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <vblex><tv><actio><loc> <adv> <prn><pers><p1><du><nom> <vblex><iv><indic><pres><p1><du> <adv> 
 <vblex><iv><indic><pres><p2><sg> <vblex><iv><inf> <cnjsub> <vblex><iv><indic><pres><sg3> 
 <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <cnjsub> <vblex><iv><pot><pres><sg3> <vblex><iv><prfprc> <adv> 
@@ -2635,7 +2635,7 @@
 <adv> <cnjsub> <vblex><tv><indic><pres><p1><pl> <n><sg><acc> <n><sg><ill> <adv> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adj><pl><nom> 
 <n><sg><loc> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <cnjsub> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> 
 <n><nomag><sg><nom> <vblex><tv><indic><pres><sg3> <adv> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <vblex><tv><inf> <n><pl><acc> 
-<adv> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><inf> <vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
+<adv> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><inf> <vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><sg><loc><hab> <n><sg><nom> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <n><nomag><pl><acc> <adv> <vblex><iv><inf> <cnjsub> <prn><dem><sg><gen> <n><sg><gen> <vblex><iv><indic><pres><sg3> <adj><attr> <adj><attr> <n><sg><nom> <n><pl><loc> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <n><pl><acc> <vblex><tv><inf> <n><sg><acc> <adv> <cnjsub> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <n><sg><nom> <prn><ind><gen> <pr> <n><sg><gen> 
 <vblex><iv><imp><p1><du> <n><sg><ill> <cnjsub> <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> 
@@ -2731,7 +2731,7 @@
 <prn><pers><p1><pl><acc> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adj><sg><nom> <adv> <vblex><iv><inf> 
 <prn><pers><p1><sg><loc><hab> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><sg><acc> 
 <prn><dem><pl><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> <prn><ind><attr> <n><sg><acc> 
-<adv> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><inf> <vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><sg><loc><hab> <n><sg><nom> <cnjcoo> <vblex><tv><indic><pres><p3><sg><pl> <prn><pers><p2><sg><loc> <n><sg><acc> 
+<adv> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><inf> <vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><sg><loc><hab> <n><sg><nom> <cnjcoo> <vblex><tv><indic><pres><p3><sg><pl> <prn><pers><p2><sg><loc> <n><sg><acc> 
 <adj><attr> <n><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <n><sg><gen> <n><sg><acc> <adj><attr> <n><pl><nom> <adv> <n><sg><acc> 
 <n><cmp_sggen><cmp_splitr> <n><cmp_sgnom><cmp_splitr> <cnjcoo> <n><sg><loc> <n><sg><gen> <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><pl><acc> <cnjcoo> <n><sg><loc> <n><pl><acc> <cnjcoo> <n><pl><acc> 
 <adv> <vblex><iv><indic><pres><sg3> <n><sg><acc> <vblex><tv><inf> <adv> <vblex><tv><inf> <cnjcoo> <prn><ind><sg><gen> <n><sg><gen> <adv> <vblex><tv><inf> <prn><dem><sg><acc> 
@@ -2742,16 +2742,16 @@
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><pl><ill><px3sg> <n><sg><acc> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> <n><sg><com><px3sg> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><sg><loc><px1sg> <vblex><tv><prfprc> <n><sg><acc> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <adv> <n><sg><com><px2du> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <vblex><tv><prfprc> <n><sg><acc><px2sg> 
+<vblex><iv><indic><pres><p2><du> <pcle> <adv> <n><sg><com><px2du> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <vblex><tv><prfprc> <n><sg><acc><px2sg> 
 <cnjcoo> <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><sg><acc><px1sg> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <n><sg><acc><px3sg> <n><sg><ill> 
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <n><sg><gen><px1pl> <post> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <vblex><iv><prfprc> <n><sg><gen><px2pl> <post> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <vblex><iv><prfprc> <n><sg><gen><px2pl> <post> 
 <vblex><iv><neg><indic><p1><du> <vblex><tv><indic><pres><conneg> <adj><pl><acc><px1du> <prn><ind><pl><ill> 
 <adv> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <vblex><tv><inf> <n><sg><acc><px1pl> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <vblex><tv><prfprc> <n><sg><acc><px2du> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <vblex><tv><prfprc> <prn><ind><attr> <n><pl><acc><px2pl> 
+<vblex><iv><indic><pres><p2><du> <pcle> <vblex><tv><prfprc> <n><sg><acc><px2du> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <vblex><tv><prfprc> <prn><ind><attr> <n><pl><acc><px2pl> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc><px3sg> <cnjcoo> <vblex><iv><indic><pret><sg3> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc><px3sg> <cnjcoo> <vblex><iv><indic><pret><sg3> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><loc><px3sg> <n><pl><acc> <n><pl><ill> 
@@ -2764,9 +2764,9 @@
 <vblex><iv><imp><p2><pl> <adv> <prn><ind><pl><nom> <n><pl><com><px2pl> 
 <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <adj><attr> <n><sg><com><px3sg> <adv> 
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pret><p1><pl> <n><pl><com><px1pl> <n><sg><ill> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <n><sg><com><px2sg> <n><sg><ill> 
-<vblex><tv><indic><pres><p2><pl> <pcle><qst> <adv> <n><pl><com><px2pl> 
-<vblex><iv><indic><pret><p3><sg><pl> <pcle><qst> <n><pl><nom> <adv> <vblex><tv><inf> <n><pl><acc><px3pl> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <n><sg><com><px2sg> <n><sg><ill> 
+<vblex><tv><indic><pres><p2><pl> <pcle> <adv> <n><pl><com><px2pl> 
+<vblex><iv><indic><pret><p3><sg><pl> <pcle> <n><pl><nom> <adv> <vblex><tv><inf> <n><pl><acc><px3pl> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <prn><ind><attr> <n><pl><acc> <n><sg><com><px3sg> 
 <prn><pers><p1><pl><nom> <vblex><tv><indic><pret><p1><pl> <n><pl><ill><px1pl> <n><sg><acc> 
 <prn><pers><p1><sg><gen> <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><ill><px3sg> <n><sg><acc> 
@@ -2790,7 +2790,7 @@
 <prn><pers><p3><sg><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><inf> <n><sg><acc><px3pl> 
 <n><pl><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <prn><ref><gen><px3pl> <n><pl><nom> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <prn><ref><ill><px3sg> <prn><dem><sg><acc> <vblex><tv><actio><ess> 
-<prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <prn><ref><com><px1sg> <vblex><iv><pot><pres><sg3> <pcle><qst> <adj><sg><nom> 
+<prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <prn><ref><com><px1sg> <vblex><iv><pot><pres><sg3> <pcle> <adj><sg><nom> 
 <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <prn><ref><acc><px3pl> <n><nomag><ess> 
 <vblex><tv><imp><p2><sg> <n><pl><acc> <prn><ref><gen><px2sg> <post> 
 <prn><pers><p1><du><nom> <vblex><iv><indic><pres><p1><du> <prn><ref><ill><px1du> <n><pl><acc> <vblex><tv><inf> 
@@ -2798,7 +2798,7 @@
 <adv> <prn><pers><p1><du><nom> <vblex><iv><indic><pres><p1><du> <prn><ref><ess><px1du> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <prn><ref><ill><px1sg> <prn><dem><sg><acc> <vblex><tv><prfprc> 
 <adv> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <prn><ref><ill><px1pl> <vblex><tv><actio><ess> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <prn><ref><ill><px2pl> <vblex><tv><prfprc> <n><pl><acc> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <prn><ref><ill><px2pl> <vblex><tv><prfprc> <n><pl><acc> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <prn><ref><ill><px3sg> <prn><dem><sg><acc> <prn><rel><sg><nom> <prn><pers><sg3><ill> <vblex><tv><indic><pres><sg3> 
 <vblex><imp><p2><sg> <prn><ref><ill><px2sg> <n><sg><acc> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <prn><ref><ill><px3sg> <vblex><tv><actio><ess> <n><sg><acc> 
@@ -2808,14 +2808,14 @@
 <adv> <prn><pers><p1><du><nom> <vblex><iv><indic><pret><p1><du> <adv> <prn><ref><com><px1du> 
 <adv> <prn><pers><p2><du><nom> <vblex><iv><indic><pres><p2><du> <adv> <prn><ref><com><px2du> 
 <adv> <vblex><iv><indic><pres><sg3> <prn><pers><p1><sg><gen> <prn><ref><gen><px1sg> <n><sg><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><sg><loc><hab> <prn><ref><gen><px2sg> <n><sg><nom> <adv> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><sg><loc><hab> <prn><ref><gen><px2sg> <n><sg><nom> <adv> 
 <prn><pers><p1><du><nom> <vblex><tv><indic><pres><p1><du> <adv> <prn><ref><gen><px1du> <n><pl><acc> <adv> 
 <prn><pers><p1><pl><nom> <vblex><tv><indic><pres><p1><pl> <adv> <prn><ref><gen><px1pl> <n><pl><acc> <adv> 
 <prn><pers><p2><du><nom> <vblex><tv><indic><pres><p2><du> <adv> <prn><ref><gen><px2du> <n><pl><acc> <adv> 
 <prn><pers><p2><pl><nom> <vblex><tv><indic><pres><p2><pl> <adv> <prn><ref><gen><px2pl> <n><pl><acc> <adv> 
 <prn><pers><p3><sg><du><nom> <vblex><tv><indic><pres><p3><sg><du> <adv> <prn><ref><gen><px3du> <n><pl><acc> <adv> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <prn><ref><gen><px2du> <n><sg><acc> <vblex><tv><inf> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <vblex><tv><prfprc> <prn><ref><gen><px2pl> <n><pl><acc> 
+<vblex><iv><indic><pres><p2><du> <pcle> <prn><ref><gen><px2du> <n><sg><acc> <vblex><tv><inf> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <vblex><tv><prfprc> <prn><ref><gen><px2pl> <n><pl><acc> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pres><sg3> <prn><ref><loc><px3sg> <prn><dem><sg><acc> <vblex><tv><prfprc> 
 <prn><pers><p3><sg><du><nom> <vblex><tv><indic><pret><p3><sg><du> <prn><ref><gen><px3du> <n><sg><acc> <adv> 
 <prn><pers><p1><pl><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <prn><ref><loc><px1pl> <adv> <n><pl><nom> 
@@ -2828,7 +2828,7 @@
 <prn><pers><p3><sg><du><nom> <vblex><tv><indic><pret><p3><sg><du> <prn><ref><ill><px3du> <n><sg><acc> 
 <prn><pers><sg3><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <prn><ref><loc><px3sg> <adj><pl><nom> <n><pl><nom> 
 <vblex><iv><neg><imp><p2><sg> <vblex><tv><imp><conneg> <prn><ref><acc><px2sg> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <prn><pers><p2><du><loc><hab> <prn><ref><loc><px2du> <n><pl><nom> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <prn><pers><p2><du><loc><hab> <prn><ref><loc><px2du> <n><pl><nom> 
 <prn><pers><p3><sg><du><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <prn><ref><loc><px3du> <num><sg><nom> <n><sg><gen> 
 <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <prn><ref><sg><nom> <vblex><tv><inf> 
 <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <vblex><tv><inf> <prn><ref><gen><px2sg> <n><sg><acc> 
@@ -2836,7 +2836,7 @@
 <prn><pers><p2><du><nom> <vblex><iv><indic><pres><p2><du> <vblex><tv><inf> <prn><ref><ill><px2du> <n><sg><acc> 
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <vblex><tv><prfprc> <prn><ref><gen><px1pl> <n><sg><acc> <n><sg><ill> 
 <prn><dem><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <prn><pers><p3><sg><pl><gen> <prn><ref><gen><px3pl> <n><pl><nom> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <prn><ref><gen><px2pl> <n><pl><acc> <vblex><tv><prfprc> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <prn><ref><gen><px2pl> <n><pl><acc> <vblex><tv><prfprc> 
 <adv> <prn><pers><p2><du><gen> <prn><ref><gen><px2du> <n><sg><nom> <vblex><iv><indic><pres><sg3> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <prn><ref><ill><px3sg> <adj><attr> <n><sg><acc> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <prn><ref><acc><px3sg> <n><sg><loc> 
@@ -2851,7 +2851,7 @@
 <n><pl><nom> <vblex><tv><imp><p2><pl> <prn><ref><ill><px2pl> <n><pl><acc> 
 <adv> <vblex><iv><indic><pret><sg3> <n><prop><sg><nom> <vblex><tv><actio><ess> <prn><ref><ill><px3sg> <n><sg><acc> 
 <adv> <vblex><tv><indic><pret><p1><sg> <prn><ref><ill><px1sg> <n><sg><acc> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <vblex><tv><prfprc> <prn><pers><sg3><loc> <prn><ref><loc><px3sg> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <vblex><tv><prfprc> <prn><pers><sg3><loc> <prn><ref><loc><px3sg> 
 <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pret><conneg> <prn><ref><gen><px1sg> <n><sg><acc> 
 <vblex><tv><imp><p2><sg> <prn><ref><ill><px2sg> <n><sg><acc> 
 <vblex><tv><imp><p2><sg> <n><sg><acc><px2sg> <vblex><tv><inf> 
@@ -2873,21 +2873,21 @@
 <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <n><pl><com><px3sg> <adv> 
 <n><prop><sg><nom> <vblex><tv><imp><p2><sg> <n><sg><loc><px2sg> <adj><attr> <n><sg><acc> 
 <n><sg><nom><px2sg> <vblex><iv><indic><pret><sg3> <n><sg><acc> <vblex><tv><inf> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <vblex><tv><prfprc> <n><sg><acc><px2du> 
+<vblex><iv><indic><pres><p2><du> <pcle> <vblex><tv><prfprc> <n><sg><acc><px2du> 
 <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><sg><loc><px3pl> <adj><attr> <n><pl><acc> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <n><sg><ill><px3sg> <n><sg><acc> <n><ess> 
 <vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <adv> <n><sg><ill><px1sg> <prn><dem><attr> <n><nomag><sg><acc> <vblex><tv><cond><pres><conneg> 
 <vblex><iv><neg><imp><p2><sg> <vblex><tv><imp><conneg> <n><sg><acc><px2sg> <vblex><iv><neg><indic><sg3> <prn><dem><sg><nom> <vblex><iv><indic><pres><conneg> <adj><sg><nom> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <vblex><tv><prfprc> <n><pl><acc> <n><pl><ill><px2du> 
+<vblex><iv><indic><pres><p2><du> <pcle> <vblex><tv><prfprc> <n><pl><acc> <n><pl><ill><px2du> 
 <prn><ref><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><rel><sg><acc> <vblex><tv><pot><pres><p3><sg><pl> <n><pl><loc><px3pl> 
 <prn><pers><p3><sg><du><nom> <vblex><indic><pret><p3><sg><du> <n><sg><ill><px3du> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <vblex><iv><prfprc> <n><nomag><pl><gen><px2sg> <post> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <vblex><iv><prfprc> <n><nomag><pl><gen><px2sg> <post> 
 <prn><pers><p1><du><nom> <vblex><iv><indic><pres><p1><du> <n><pl><ill><px1du> <n><pl><acc> <vblex><tv><inf> 
 <n><sg><nom> <vblex><tv><indic><pres><sg3> <n><pl><ill><px3sg> <n><pl><acc> 
 <adv> <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <prn><rel><sg><acc> <vblex><tv><indic><pres><p1><sg> <n><pl><com><px1sg> 
 <prn><pers><p3><sg><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><pl><acc><px3pl> <cnjcoo> <vblex><iv><indic><pret><p3><sg><pl> <vblex><iv><vgen> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <n><sg><acc><px2sg> <vblex><tv><inf> 
-<vblex><tv><indic><pres><sg3> <pcle><qst> <n><sg><acc><px3sg> <vblex><tv><inf> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <n><sg><acc><px2sg> <vblex><tv><inf> 
+<vblex><tv><indic><pres><sg3> <pcle> <n><sg><acc><px3sg> <vblex><tv><inf> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><sg><acc> <n><sg><loc><px1sg> 
 <n><nomag><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><loc><px3sg> <n><pl><gen> <post> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><pl><acc><px3sg> 
@@ -2911,7 +2911,7 @@
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> <n><pl><com><px3sg> 
 <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> <n><sg><com><px3sg> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pret><p1><sg> <adv> <n><sg><com><px1sg> 
-<vblex><iv><indic><pret><p2><sg> <pcle><qst> <adv> <n><sg><com><px2sg> 
+<vblex><iv><indic><pret><p2><sg> <pcle> <adv> <n><sg><com><px2sg> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><sg><loc><px1sg> <vblex><tv><prfprc> <n><sg><acc> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><pl><loc><px1sg> <vblex><tv><prfprc> <n><sg><acc> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <n><pl><loc><px1sg> <vblex><tv><prfprc> <n><sg><acc> 
@@ -2921,26 +2921,26 @@
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><pl><acc><px1sg> <vblex><iv><inf> <adv> 
 <prn><pers><p1><du><nom> <vblex><tv><indic><pres><p1><du> <n><sg><acc><px1du> <vblex><iv><inf> <adv> 
 <prn><pers><p1><du><nom> <vblex><tv><indic><pres><p1><du> <n><pl><acc><px1du> <vblex><iv><inf> <adv> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <adv> <n><sg><com><px2du> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <vblex><tv><prfprc> <n><sg><acc><px2sg> 
+<vblex><iv><indic><pres><p2><du> <pcle> <adv> <n><sg><com><px2du> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <vblex><tv><prfprc> <n><sg><acc><px2sg> 
 <cnjcoo> <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><sg><acc><px1sg> 
 <cnjcoo> <prn><pers><p1><pl><nom> <vblex><tv><indic><pret><p1><pl> <n><sg><acc><px1pl> 
 <cnjcoo> <prn><pers><p1><pl><nom> <vblex><tv><indic><pret><p1><pl> <n><pl><acc><px1pl> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <n><pl><acc><px3sg> <n><sg><ill> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <n><pl><acc><px3sg> <n><sg><ill> 
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <n><pl><gen><px1pl> <post> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <n><pl><gen><px2pl> <post> <adv> 
-<vblex><iv><indic><pres><p3><sg><du> <pcle><qst> <vblex><iv><prfprc> <n><sg><gen><px3du> <post> 
-<vblex><iv><indic><pret><p3><sg><pl> <pcle><qst> <vblex><iv><prfprc> <n><sg><gen><px3pl> <post> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <vblex><iv><prfprc> <n><sg><gen><px2sg> <post> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <n><pl><gen><px2pl> <post> <adv> 
+<vblex><iv><indic><pres><p3><sg><du> <pcle> <vblex><iv><prfprc> <n><sg><gen><px3du> <post> 
+<vblex><iv><indic><pret><p3><sg><pl> <pcle> <vblex><iv><prfprc> <n><sg><gen><px3pl> <post> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <vblex><iv><prfprc> <n><sg><gen><px2sg> <post> 
 <vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> <adj><pl><acc><px1pl> <prn><ind><pl><ill> 
 <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <adj><pl><acc><px1sg> <prn><ind><pl><ill> 
 <vblex><iv><neg><indic><p3><sg><du> <vblex><tv><indic><pres><conneg> <adj><pl><acc><px3du> <prn><ind><pl><ill> 
 <adv> <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <vblex><tv><inf> <n><sg><acc><px1pl> 
 <adv> <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><inf> <n><sg><acc><px1sg> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <vblex><tv><prfprc> <n><sg><acc><px2du> 
-<vblex><iv><indic><pres><p2><du> <pcle><qst> <vblex><tv><prfprc> <prn><ind><attr> <n><pl><acc><px2du> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <vblex><tv><prfprc> <prn><ind><attr> <n><pl><acc><px2sg> 
+<vblex><iv><indic><pres><p2><du> <pcle> <vblex><tv><prfprc> <n><sg><acc><px2du> 
+<vblex><iv><indic><pres><p2><du> <pcle> <vblex><tv><prfprc> <prn><ind><attr> <n><pl><acc><px2du> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <vblex><tv><prfprc> <prn><ind><attr> <n><pl><acc><px2sg> 
 <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <n><pl><acc><px3pl> <cnjcoo> <vblex><iv><indic><pret><p3><sg><pl> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><sg><acc><px3sg> <cnjcoo> <vblex><iv><indic><pret><sg3> 
 <n><sg><nom> <vblex><tv><indic><pret><sg3> <n><pl><acc><px3sg> <cnjcoo> <vblex><iv><indic><pret><sg3> 
@@ -2956,9 +2956,9 @@
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><loc><px3pl> <vblex><tv><prfprc> <n><pl><acc><px3pl> 
 <n><prop><sg><nom> <vblex><iv><indic><pret><sg3> <n><sg><com><px3sg> <adv> 
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pret><p1><pl> <n><pl><com><px1pl> <n><sg><ill> 
-<vblex><tv><indic><pres><p2><pl> <pcle><qst> <adv> <n><pl><com><px2pl> 
-<vblex><iv><indic><pres><p2><pl> <pcle><qst> <vblex><tv><inf> <n><pl><acc><px2pl> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <vblex><tv><inf> <n><pl><acc><px2sg> 
+<vblex><tv><indic><pres><p2><pl> <pcle> <adv> <n><pl><com><px2pl> 
+<vblex><iv><indic><pres><p2><pl> <pcle> <vblex><tv><inf> <n><pl><acc><px2pl> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <vblex><tv><inf> <n><pl><acc><px2sg> 
 <prn><pers><p1><pl><nom> <vblex><tv><indic><pret><p1><pl> <n><pl><ill><px1pl> <n><sg><acc> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pret><p1><sg> <n><sg><ill><px1sg> <n><sg><acc> 
 <prn><ind><attr> <num><sg><nom> <n><sg><gen> <vblex><iv><indic><pret><p3><sg><pl> <vblex><iv><prfprc> <n><sg><gen> <post> 
@@ -2967,8 +2967,8 @@
 <prn><pers><sg3><nom> <vblex><iv><cond><pres><sg3> <vblex><iv><inf> <num><sg><com> <n><sg><com> 
 <prn><pers><sg3><nom> <vblex><iv><indic><pret><sg3> <vblex><iv><prfprc> <adv> <num><sg><acc> <n><sg><gen> 
 <prn><pers><p3><sg><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <num><sg><com> <n><sg><com> 
-<vblex><tv><indic><pres><p2><sg> <pcle><qst> <prn><dem><sg><acc> <num><sg><acc> <n><sg><gen> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <vblex><tv><prfprc> <num><sg><com> <n><sg><com> 
+<vblex><tv><indic><pres><p2><sg> <pcle> <prn><dem><sg><acc> <num><sg><acc> <n><sg><gen> <prn><rel><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <vblex><tv><prfprc> <num><sg><com> <n><sg><com> 
 <prn><dem><sg><nom> <adv> <vblex><iv><indic><pres><sg3> <num><sg><gen> <n><sg><gen> <n><sg><nom> 
 <n><prop><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <num><pl><nom> <n><pl><nom> 
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pret><p1><pl> <num><sg><loc><attr> <n><sg><loc> 
@@ -2987,7 +2987,7 @@
 <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <num><pl><acc> <n><pl><acc> 
 <adv> <num><pl><com> <n><pl><com> <vblex><iv><cond><pres><sg3> <vblex><iv><inf> <n><ess> 
 <prn><pers><p1><sg><loc><hab> <vblex><iv><indic><pres><sg3> <num><sg><nom> <n><sg><nom> 
-<vblex><iv><indic><pres><sg3> <pcle><qst> <prn><pers><p2><sg><loc><hab> <adv> <num><sg><nom> <n><sg><nom> 
+<vblex><iv><indic><pres><sg3> <pcle> <prn><pers><p2><sg><loc><hab> <adv> <num><sg><nom> <n><sg><nom> 
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <num><sg><gen> <n><sg><gen> <n><sg><nom> 
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <num><sg><gen> <n><sg><gen> <n><sg><nom> 
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><sg><acc> <num><sg><ill><attr> <n><nomag><sg><ill> 
@@ -3026,41 +3026,41 @@
 <num><sg><nom> <n><sg><gen> <prn><pers><p2><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> 
 <prn><pers><p1><sg><loc><hab> <vblex><iv><indic><pres><p3><sg><pl> <num><pl><nom> <n><pl><nom> 
 <prn><pers><p1><sg><nom> <vblex><iv><indic><pres><p1><sg> <vblex><tv><prfprc> <num><sg><acc> <n><sg><gen> <adv> 
-<vblex><iv><pot><pres><p1><sg> <pcle><qst> <prn><ind><acc> <vblex><tv><prfprc> 
-<vblex><iv><pot><pres><p2><sg> <pcle><qst> <prn><ind><acc> <vblex><tv><prfprc> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <prn><ind><acc> <vblex><tv><prfprc> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <n><prop><sg><nom> 
-<vblex><iv><pot><pres><p3><sg><pl> <pcle><qst> <n><nomag><pl><nom> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <n><prop><sg><nom> 
-<vblex><iv><pot><pres><p1><sg> <pcle><qst> <prn><pers><p1><sg><nom> <adv> <adv> <n><pl><gen> 
-<vblex><iv><pot><pres><p1><du> <pcle><qst> <prn><pers><p1><du><nom> <adv> <adv> <n><pl><gen> 
-<vblex><iv><pot><pres><p1><pl> <pcle><qst> <prn><pers><p1><pl><nom> <adv> <adv> <n><pl><gen> 
+<vblex><iv><pot><pres><p1><sg> <pcle> <prn><ind><acc> <vblex><tv><prfprc> 
+<vblex><iv><pot><pres><p2><sg> <pcle> <prn><ind><acc> <vblex><tv><prfprc> 
+<vblex><iv><pot><pres><sg3> <pcle> <prn><ind><acc> <vblex><tv><prfprc> 
+<vblex><iv><pot><pres><sg3> <pcle> <n><prop><sg><nom> 
+<vblex><iv><pot><pres><p3><sg><pl> <pcle> <n><nomag><pl><nom> 
+<vblex><iv><pot><pres><sg3> <pcle> <n><prop><sg><nom> 
+<vblex><iv><pot><pres><p1><sg> <pcle> <prn><pers><p1><sg><nom> <adv> <adv> <n><pl><gen> 
+<vblex><iv><pot><pres><p1><du> <pcle> <prn><pers><p1><du><nom> <adv> <adv> <n><pl><gen> 
+<vblex><iv><pot><pres><p1><pl> <pcle> <prn><pers><p1><pl><nom> <adv> <adv> <n><pl><gen> 
 <cnjsub> <prn><pers><p1><sg><nom> <vblex><iv><pot><pres><p1><sg> <adv> <adv> <prn><pers><p1><sg><nom> <adv> <vblex><iv><indic><pres><p1><sg> <adv> 
-<vblex><iv><pot><pres><p3><sg><pl> <pcle><qst> <n><pl><nom> <pr> <n><sg><gen> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <n><prop><sg><nom> <pr> <n><sg><gen> 
-<vblex><iv><pot><pres><p3><sg><du> <pcle><qst> <n><coll><sg><nom> <pr> <n><sg><gen> 
-<vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p1><pl> <pcle><qst> <vblex><iv><inf> <adv> 
-<vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p1><sg> <pcle><qst> <vblex><iv><inf> <adv> 
-<vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p1><du> <pcle><qst> <vblex><iv><inf> <adv> 
-<vblex><iv><pot><pres><p2><pl> <pcle><qst> <prn><pers><p2><pl><nom> <adv> <adv> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <n><sg><nom><px1sg> <n><sg><loc> <adv> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <n><prop><sg><loc><hab> <adj><attr> <n><sg><nom> <adv> 
-<vblex><tv><pot><pres><sg3> <pcle><qst> <n><sg><nom> <adv> <n><sg><acc> 
-<vblex><tv><pot><pres><p3><sg><pl> <pcle><qst> <n><pl><nom> <adv> <n><sg><acc> 
-<vblex><tv><pot><pres><p3><sg><du> <pcle><qst> <n><coll><sg><nom> <n><sg><acc> 
-<vblex><tv><pot><pres><sg3> <pcle><qst> <n><prop><sg><nom> <n><sg><acc> <adv> 
-<vblex><tv><pot><pres><p3><sg><pl> <pcle><qst> <n><pl><nom> <n><sg><acc> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <n><sg><nom> <adv> 
-<vblex><tv><pot><pres><p1><sg> <pcle><qst> <adv> 
-<vblex><tv><pot><pres><p1><du> <pcle><qst> <adv> 
-<vblex><tv><pot><pres><p3><sg><pl> <pcle><qst> <adv> 
-<vblex><iv><pot><pres><p1><sg> <pcle><qst> <adv> <adv> <adv> 
-<vblex><tv><pot><pres><p1><sg> <pcle><qst> <prn><pers><sg3><acc> <adv> <prn><dem><sg><acc> <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> 
-<vblex><tv><pot><pres><p1><du> <pcle><qst> <prn><pers><sg3><acc> <adv> <prn><dem><sg><acc> <vblex><iv><neg><indic><p1><du> <vblex><tv><indic><pres><conneg> 
-<vblex><tv><pot><pres><p1><pl> <pcle><qst> <prn><pers><sg3><acc> <adv> <prn><dem><sg><acc> <vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> 
-<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><p1><sg> <pcle><qst> <n><sg><acc> <adv> 
-<vblex><iv><neg><indic><p1><du> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><p1><du> <pcle><qst> <n><sg><acc> <adv> 
-<vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><p1><pl> <pcle><qst> <n><sg><acc> <adv> 
+<vblex><iv><pot><pres><p3><sg><pl> <pcle> <n><pl><nom> <pr> <n><sg><gen> 
+<vblex><iv><pot><pres><sg3> <pcle> <n><prop><sg><nom> <pr> <n><sg><gen> 
+<vblex><iv><pot><pres><p3><sg><du> <pcle> <n><coll><sg><nom> <pr> <n><sg><gen> 
+<vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p1><pl> <pcle> <vblex><iv><inf> <adv> 
+<vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p1><sg> <pcle> <vblex><iv><inf> <adv> 
+<vblex><iv><neg><indic><p1><sg> <prn><pers><p1><sg><nom> <adv> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p1><du> <pcle> <vblex><iv><inf> <adv> 
+<vblex><iv><pot><pres><p2><pl> <pcle> <prn><pers><p2><pl><nom> <adv> <adv> 
+<vblex><iv><pot><pres><sg3> <pcle> <n><sg><nom><px1sg> <n><sg><loc> <adv> 
+<vblex><iv><pot><pres><sg3> <pcle> <n><prop><sg><loc><hab> <adj><attr> <n><sg><nom> <adv> 
+<vblex><tv><pot><pres><sg3> <pcle> <n><sg><nom> <adv> <n><sg><acc> 
+<vblex><tv><pot><pres><p3><sg><pl> <pcle> <n><pl><nom> <adv> <n><sg><acc> 
+<vblex><tv><pot><pres><p3><sg><du> <pcle> <n><coll><sg><nom> <n><sg><acc> 
+<vblex><tv><pot><pres><sg3> <pcle> <n><prop><sg><nom> <n><sg><acc> <adv> 
+<vblex><tv><pot><pres><p3><sg><pl> <pcle> <n><pl><nom> <n><sg><acc> 
+<vblex><iv><pot><pres><sg3> <pcle> <n><sg><nom> <adv> 
+<vblex><tv><pot><pres><p1><sg> <pcle> <adv> 
+<vblex><tv><pot><pres><p1><du> <pcle> <adv> 
+<vblex><tv><pot><pres><p3><sg><pl> <pcle> <adv> 
+<vblex><iv><pot><pres><p1><sg> <pcle> <adv> <adv> <adv> 
+<vblex><tv><pot><pres><p1><sg> <pcle> <prn><pers><sg3><acc> <adv> <prn><dem><sg><acc> <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> 
+<vblex><tv><pot><pres><p1><du> <pcle> <prn><pers><sg3><acc> <adv> <prn><dem><sg><acc> <vblex><iv><neg><indic><p1><du> <vblex><tv><indic><pres><conneg> 
+<vblex><tv><pot><pres><p1><pl> <pcle> <prn><pers><sg3><acc> <adv> <prn><dem><sg><acc> <vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> 
+<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><p1><sg> <pcle> <n><sg><acc> <adv> 
+<vblex><iv><neg><indic><p1><du> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><p1><du> <pcle> <n><sg><acc> <adv> 
+<vblex><iv><neg><indic><p1><pl> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><p1><pl> <pcle> <n><sg><acc> <adv> 
 <cnjsub> <vblex><tv><pot><pres><p2><sg> <adv> <vblex><tv><imp><p2><sg> <prn><pers><p1><sg><ill> <pcle> <n><sg><acc> 
 <cnjsub> <vblex><tv><pot><pres><p2><du> <adv> <vblex><tv><imp><p2><du> <prn><pers><p1><sg><ill> <pcle> <n><sg><acc> 
 <cnjsub> <vblex><tv><pot><pres><p2><pl> <adv> <vblex><tv><imp><p2><pl> <prn><pers><p1><sg><ill> <pcle> <n><sg><acc> 
@@ -3083,24 +3083,24 @@
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adv> <n><sg><nom> <cnjsub> <adv> <vblex><iv><pot><pres><p1><du> <vblex><iv><actio><ess> <adv> 
 <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adv> <n><sg><nom> <cnjsub> <adv> <vblex><iv><pot><pres><p1><sg> <vblex><iv><actio><ess> <adv> 
 <vblex><tv><imp><p2><sg> <adv> <prn><rel><sg><acc> <vblex><iv><pot><pres><sg3> <vblex><tv><actio><ess> 
-<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><sg3> <pcle><qst> <prn><ind><sg><acc> 
+<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><sg3> <pcle> <prn><ind><sg><acc> 
 <vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pret><conneg> <adv> <n><sg><nom> <vblex><iv><pot><pres><sg3> <vblex><tv><prfprc> <n><sg><acc> 
 <vblex><tv><imp><p2><sg> <prn><rel><sg><acc> <vblex><tv><pot><pres><p2><sg> 
-<vblex><iv><pot><pres><p3><sg><pl> <pcle><qst> <prn><dem><sg><loc><hab> <n><pl><nom> 
+<vblex><iv><pot><pres><p3><sg><pl> <pcle> <prn><dem><sg><loc><hab> <n><pl><nom> 
 <adv> <adv> <vblex><iv><pot><pres><sg3> <n><sg><nom> 
-<vblex><tv><pot><pres><p1><sg> <pcle><qst> <prn><dem><sg><acc> <vblex><tv><inf> 
-<n><prop><sg><nom> <vblex><iv><neg><indic><sg3> <adv> <adv> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><sg3> <pcle><qst> <prn><ind><attr> <n><pl><acc> 
+<vblex><tv><pot><pres><p1><sg> <pcle> <prn><dem><sg><acc> <vblex><tv><inf> 
+<n><prop><sg><nom> <vblex><iv><neg><indic><sg3> <adv> <adv> <vblex><tv><indic><pres><conneg> <vblex><tv><pot><pres><sg3> <pcle> <prn><ind><attr> <n><pl><acc> 
 <vblex><tv><pot><pres><p1><sg> <prn><pers><p1><sg><nom> <prn><dem><sg><acc> 
 <prn><pers><p2><sg><nom> <vblex><tv><indic><pres><p2><sg> <prn><dem><sg><acc> <vblex><tv><inf> <adv> <adv> <cnjsub> <vblex><iv><pot><pres><p2><sg> 
-<vblex><iv><pot><pres><sg3> <pcle><qst> <adv> <adv> 
+<vblex><iv><pot><pres><sg3> <pcle> <adv> <adv> 
 <prn><itg><sg><acc> <pcle> <prn><pers><p1><pl><nom> <prn><dem><sg><com> <vblex><tv><pot><pres><p1><pl> 
-<vblex><iv><pot><pres><p1><sg> <pcle><qst> <prn><ind><acc> <vblex><tv><prfprc> 
-<vblex><iv><pot><pres><p3><sg><pl> <pcle><qst> <adv> 
+<vblex><iv><pot><pres><p1><sg> <pcle> <prn><ind><acc> <vblex><tv><prfprc> 
+<vblex><iv><pot><pres><p3><sg><pl> <pcle> <adv> 
 <adv> <vblex><iv><pot><pres><p1><sg> <prn><pers><p2><sg><acc> <vblex><tv><inf> 
 <vblex><iv><pot><pres><p2><sg> <cnjcoo> <vblex><iv><pot><pres><p2><sg> <prn><pers><p2><sg><nom> <vblex><iv><indic><pres><p2><sg> <adv> <vblex><tv><inf> 
-<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p3><sg><du> <pcle><qst> <adv> 
-<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p3><sg><pl> <pcle><qst> <adv> 
-<vblex><iv><pot><pres><p2><pl> <pcle><qst> <adv> 
+<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p3><sg><du> <pcle> <adv> 
+<vblex><iv><neg><indic><p1><sg> <vblex><tv><indic><pres><conneg> <vblex><iv><pot><pres><p3><sg><pl> <pcle> <adv> 
+<vblex><iv><pot><pres><p2><pl> <pcle> <adv> 
 <prn><ind><nom> <vblex><iv><indic><pret><sg3> <adj><comp><sg><nom> <adv> 
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adj><pl><nom> 
 <vblex><tv><indic><pres><p1><sg> <adj><attr> <n><pl><acc> 
@@ -3148,7 +3148,7 @@
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <adj><sup><attr> <n><sg><nom> 
 <prn><pers><p3><sg><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adj><pl><nom> <n><sg><ill> 
 <prn><pers><p1><sg><gen> <post> <vblex><iv><indic><pret><sg3> <adj><comp><attr> <n><sg><nom> <adv> 
-<vblex><iv><indic><pres><p3><sg><pl> <pcle><qst> <prn><pers><p1><pl><gen> <n><pl><nom> <adj><pl><nom> 
+<vblex><iv><indic><pres><p3><sg><pl> <pcle> <prn><pers><p1><pl><gen> <n><pl><nom> <adj><pl><nom> 
 <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <adv> <adj><pl><nom> 
 <prn><dem><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <adj><attr> <n><sg><nom> 
 <prn><pers><sg3><loc><hab> <vblex><iv><indic><pret><sg3> <adj><attr> <adj><attr> <n><sg><nom> 
@@ -3211,7 +3211,7 @@
 <n><pl><gen> <adj><attr> <n><sg><nom> <vblex><tv><indic><pres><sg3> <adj><ess> <vblex><tv><inf> <prn><dem><attr> <n><pl><acc> 
 <n><sg><gen> <n><sg><nom> <prn><rel><sg><acc> <vblex><tv><indic><pres><p3><sg><pl> <n><prop><ess> <vblex><tv><indic><pres><sg3> <cnjsub> <n><sg><nom> <n><prop><sg><nom> <prn><pers><sg3><gen> <n><sg><loc><px3sg> <vblex><iv><indic><pret><sg3> <vblex><tv><prfprc> <vblex><iv><inf> <vblex><iv><inf> <n><sg><gen> <n><sg><nom> 
 <n><ess> <vblex><tv><indic><pres><p3><sg><pl> <n><pl><nom> <prn><dem><attr> <n><sg><acc> <prn><rel><sg><nom> <n><sg><gen> <n><sg><gen> <vblex><iv><indic><pres><sg3> <n><sg><ill> 
-<vblex><iv><neg><indic><p2><sg><qst> <vblex><iv><cond><pres><conneg> <prn><pers><p1><sg><ill> <n><ess> 
+<vblex><iv><neg><indic><p2><sg> <vblex><iv><cond><pres><conneg> <prn><pers><p1><sg><ill> <n><ess> 
 <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <n><prop><sg><acc> <n><ess> 
 <vblex><iv><neg><indic><p1><sg> <vblex><iv><indic><pres><conneg> <prn><ind><pl><acc> <vblex><tv><inf> <adv> 
 <prn><pers><p1><sg><nom> <vblex><iv><neg><indic><p1><sg> <vblex><iv><indic><pres><conneg> <adv> <vblex><tv><prfprc> <prn><dem><sg><loc><attr> <n><sg><loc> <prn><ind><sg><acc> 
@@ -3225,13 +3225,13 @@
 <prn><pers><p1><sg><nom> <vblex><tv><indic><pres><p1><sg> <n><sg><acc> <n><sg><acc> <n><sg><acc> <n><sg><acc> <cnjcoo> <n><sg><acc> 
 <n><sg><gen> <n><sg><loc> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><gen> <n><pl><nom> <n><pl><gen> <n><pl><gen> <n><nomag><pl><gen> <cnjcoo> <n><pl><gen> <adj><attr> <n><pl><nom> 
 <n><pl><loc><hab> <vblex><iv><neg><indic><sg3> <vblex><iv><indic><pres><conneg> <n><ess> <adj><sg><nom> <vblex><tv><inf> <n><sg><acc> <n><pl><com> 
-<n><prop><sg><gen> <post> <vblex><iv><indic><pres><sg3> <n><g3><ess> <vblex><iv><cond><pres><sg3><qst> <n><sg><nom> <vblex><iv><inf> <adv> <cnjsub> <prn><ind><pl><nom> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <vblex><iv><inf> <prn><dem><sg><ill> 
-<adj><sg><nom> <pcle><qst> <vblex><iv><indic><pres><sg3> <prn><pers><p2><sg><gen> <n><sg><nom> 
-<adj><sg><nom><qst> <vblex><iv><indic><pres><sg3> <prn><pers><p2><sg><gen> <n><sg><nom> 
+<n><prop><sg><gen> <post> <vblex><iv><indic><pres><sg3> <n><g3><ess> <vblex><iv><cond><pres><sg3> <n><sg><nom> <vblex><iv><inf> <adv> <cnjsub> <prn><ind><pl><nom> <vblex><iv><neg><indic><p3><sg><pl> <vblex><iv><indic><pres><conneg> <vblex><iv><inf> <prn><dem><sg><ill> 
+<adj><sg><nom> <pcle> <vblex><iv><indic><pres><sg3> <prn><pers><p2><sg><gen> <n><sg><nom> 
+<adj><sg><nom> <vblex><iv><indic><pres><sg3> <prn><pers><p2><sg><gen> <n><sg><nom> 
 <adj><attr> <n><sg><gen> <n><pl><nom> <adv> <adj><attr> <cnjcoo> <adj><attr> <n><sg><gen> <post> <vblex><iv><indic><pres><p3><sg><pl> <adj><pl><nom> 
 <prn><pers><p3><sg><du><nom> <vblex><iv><indic><pres><p3><sg><du> <prn><ind><pl><nom> <adv> <adj><pl><nom> 
 <adv> <vblex><iv><indic><pres><sg3> <n><sg><nom> <adj><attr> <n><sg><nom> 
-<vblex><iv><indic><pret><p3><sg><pl><qst> <n><pl><nom> <adj><pl><nom> 
+<vblex><iv><indic><pret><p3><sg><pl> <n><pl><nom> <adj><pl><nom> 
 <prn><pers><p2><sg><ill> <vblex><iv><indic><pres><sg3> <adj><comp><sg><nom> <cnjsub> <prn><pers><p2><sg><nom> <vblex><tv><indic><pres><p2><sg> <num><sg><acc> <n><sg><acc> 
 <prn><pers><p1><sg><loc><hab> <vblex><iv><indic><pres><sg3> <n><sg><nom> <n><nomag><ess> 
 <adj><sg><nom> <vblex><iv><indic><pres><sg3> <cnjsub> <vblex><iv><neg><indic><p2><sg> <vblex><tv><indic><pret><conneg> 
@@ -3248,7 +3248,7 @@
 <prn><pers><p1><pl><gen> <post> <pcle> <vblex><iv><indic><pres><sg3> <adj><sg><nom> <vblex><tv><inf> <n><sg><gen> <post> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <n><pl><loc> 
 <vblex><tv><actio><gen> <adj><sg><nom> <vblex><iv><indic><pres><sg3> <cnjsub> <vblex><iv><indic><pres><sg3> <adj><sg><nom> 
 <n><sg><gen> <adj><attr> <n><sg><nom> <vblex><iv><indic><pres><sg3> <num><sg><nom> <n><sg><gen> 
-<vblex><iv><indic><pres><p2><sg> <pcle><qst> <adj><sg><nom> <n><sg><loc> 
+<vblex><iv><indic><pres><p2><sg> <pcle> <adj><sg><nom> <n><sg><loc> 
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><inf> <cnjsub> <vblex><iv><indic><pres><p3><sg><pl> <adv> <num><sg><acc> <n><sg><gen> <adj><pl><nom> 
 <n><ess> <vblex><iv><indic><pres><p3><sg><pl> <adv> <adj><comp><attr> <n><pl><nom> <cnjsub> <n><nomag><ess> 
 <prn><dem><sg><nom> <vblex><iv><indic><pret><sg3> <prn><pers><p1><sg><gen> <vblex><tv><vabess> 
@@ -3326,7 +3326,7 @@
 <adj><ord><attr> <n><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><gen> <n><sg><ill> <cnjcoo> <adj><ord><sg><nom> <adv> <prn><dem><sg><ill><attr> <prn><ind><sg><ill><attr> <n><sg><ill> 
 <n><pl><nom> <vblex><tv><indic><pret><p3><sg><pl> <prn><dem><sg><loc><attr> <adj><attr> <n><sg><loc> 
 <n><sg><nom> <vblex><iv><indic><pres><sg3> <adv> <vblex><iv><inf> <cnjsub> <vblex><iv><indic><pres><p3><sg><pl> <prn><dem><sg><ill> <adj><attr> <n><pl><nom> 
-<n><acr><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><prop><sg><com> <vblex><iv><indic><pres><sg3><qst> <prn><dem><sg><gen> <n><sg><gen> <n><pl><gen> <n><sg><acc> <vblex><tv><inf> <n><prop><attr> <n><prop><sg><ill> 
+<n><acr><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><inf> <n><prop><sg><com> <vblex><iv><indic><pres><sg3> <prn><dem><sg><gen> <n><sg><gen> <n><pl><gen> <n><sg><acc> <vblex><tv><inf> <n><prop><attr> <n><prop><sg><ill> 
 <prn><ind><attr> <n><sg><nom> <vblex><tv><indic><pres><sg3> <num><sg><acc> <prn><dem><pl><loc> <n><pl><loc> <cnjcoo> <n><g3><pl><loc> 
 <prn><pers><p3><sg><pl><loc><hab> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> <vblex><tv><inf> <prn><ref><sg><nom> <prn><ref><gen><px3sg> <adj><attr> <n><pl><gen> <post> 
 <n><pl><nom> <cnjcoo> <prn><dem><pl><gen> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><inf> <n><sg><ill> 
@@ -3459,7 +3459,7 @@
 <adj><attr> <n><sg><gen> <n><sg><nom> 
 <adj><attr> <n><sg><nom> <adj><attr> <n><sg><gen> 
 <adv> <vblex><iv><indic><pres><sg3> <adv> <cnjsub> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <n><nomag><pl><acc> <adj><attr> <n><ess> <cnjcoo> <vblex><iv><prsprc> <n><ess> 
-<vblex><tv><imp><p2><sg> <vblex><tv><indic><pres><sg3> <pcle><qst> <n><sg><nom> <adj><attr> <n><sg><acc> 
+<vblex><tv><imp><p2><sg> <vblex><tv><indic><pres><sg3> <pcle> <n><sg><nom> <adj><attr> <n><sg><acc> 
 <num><sg><nom> <n><sg><gen> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><com><px3pl> <cnjcoo> <vblex><iv><indic><pres><p3><sg><pl> <vblex><tv><prfprc> <adj><attr> <n><pl><nom> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <prn><ref><gen><px3sg> <n><sg><com> 
 <n><sg><gen> <post> <vblex><iv><indic><pres><sg3> <vblex><iv><inf> <cnjsub> <n><sg><loc> <adv> <vblex><iv><indic><pret><sg3> <n><sg><nom> <vblex><tv><inf> <adj><attr> <n><pl><acc> <n><pl><ill> <prn><rel><pl><nom> <vblex><tv><indic><pres><p3><sg><pl> <prn><ref><gen><px3pl> <n><pl><ill> <adj><comp><attr> <n><sg><gen> <n><sg><gen> <n><sg><acc> 
@@ -3490,7 +3490,7 @@
 <n><prop><attr> <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <cnjcoo> <vblex><tv><indic><pret><sg3> <prn><ref><acc><px3sg> <adj><sg><nom> <prn><dem><sg><com> <prn><rel><sg><acc> <n><sg><gen> <vblex><iv><prfprc> <n><sg><nom> <vblex><iv><indic><pres><sg3> <vblex><tv><prfprc> <n><sg><gen> <n><sg><gen> <post> 
 <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <prn><ref><acc><px3sg> <adj><ess> <prn><dem><sg><ill> <cnjsub> <adj><attr> <n><sg><loc> <vblex><iv><indic><pres><sg3> <adj><attr> <n><sg><nom> 
 <n><pl><gen> <n><sg><gen> <n><prop><attr> <n><prop><attr> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <adv> <prn><ref><acc><px3sg> <adj><ess> <prn><rel><sg><acc> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <n><sg><com> 
-<n><prop><attr> <n><prop><attr> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <prn><ref><acc><px3sg> <adj><ess> <n><prop><attr> <n><prop><attr> <n><prop><sg><gen> <n><pl><ill> <cnjsub> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pret><conneg> <adj><attr> <n><sg><acc> <vblex><iv><indic><pres><sg3> <pcle><qst> <n><acr><attr> <n><prop><sg><nom> <vblex><tv><inf> <n><sg><acc> <n><sg><loc> 
+<n><prop><attr> <n><prop><attr> <n><prop><sg><nom> <vblex><tv><indic><pres><sg3> <prn><ref><acc><px3sg> <adj><ess> <n><prop><attr> <n><prop><attr> <n><prop><sg><gen> <n><pl><ill> <cnjsub> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pret><conneg> <adj><attr> <n><sg><acc> <vblex><iv><indic><pres><sg3> <pcle> <n><acr><attr> <n><prop><sg><nom> <vblex><tv><inf> <n><sg><acc> <n><sg><loc> 
 <n><sg><gen> <n><sg><gen> <n><sg><nom> <n><prop><attr> <n><prop><attr> <n><prop><sg><nom> <pcle> <vblex><tv><indic><pres><sg3> <prn><ref><acc><px3pl> <adj><ess> <adj><attr> <n><sg><com> 
 <cnjcoo> <n><prop><sg><nom> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pres><conneg> <n><acr><sg><ill> <prn><ref><acc><px3sg> <adj><ess> <n><acr><sg><gen> <n><prop><sg><gen> <n><sg><gen> <adj><attr> <n><sg><com> 
 <prn><pers><sg3><nom> <vblex><tv><indic><pres><sg3> <prn><ref><acc><px3sg> <adv> <adj><ess> <cnjsub> <vblex><iv><indic><pret><sg3> <n><sg><nom> <prn><rel><sg><acc> <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> <vblex><iv><neg><indic><sg3> <n><sg><nom> 
@@ -3614,13 +3614,13 @@
 <prn><pers><sg3><nom> <vblex><iv><indic><pret><sg3> <adv> <cnjcoo> <adv> <vblex><iv><inf> <cnjsub> <n><sg><gen> <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> 
 <adj><ess> <prn><pers><sg3><nom> <vblex><iv><indic><pret><sg3> <adv> 
 <adj><sup><attr> <n><sg><nom> <vblex><tv><indic><pret><sg3> <adv> <n><sg><loc> <adj><attr> <n><g3><sg><acc> 
-<vblex><tv><indic><pres><p1><sg><qst> <prn><pers><p1><sg><nom> <vblex><tv><inf> <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> 
+<vblex><tv><indic><pres><p1><sg> <prn><pers><p1><sg><nom> <vblex><tv><inf> <prn><pers><sg3><nom> <vblex><tv><indic><pret><sg3> 
 <adv> <vblex><tv><indic><pres><p2><sg> 
 <prn><pers><p1><du><nom> <vblex><tv><indic><pres><p1><du> <n><prop><sg><ill> <prn><rel><sg><nom> <vblex><iv><indic><pres><sg3> <adj><sup><attr> <n><sg><nom> 
 <vblex><tv><indic><pres><p1><sg> <cnjsub> <adv> <n><prop><attr> <n><prop><sg><nom> <vblex><iv><indic><pres><sg3> <n><prop><sg><nom> <vblex><indic><pret><sg3> <cnjcoo> <vblex><tv><indic><pret><sg3> <n><g3><sg><acc> 
 <n><pl><acc> <vblex><iv><neg><indic><sg3> <vblex><tv><indic><pret><conneg> <vblex><tv><inf> <adv> 
 <prn><dem><sg><nom> <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> <vblex><iv><prfprc> 
-<adv> <vblex><iv><neg><indic><sg3> <n><prop><sg><loc><hab> <vblex><iv><indic><pres><conneg> <adv> <adj><comp><attr> <n><g3><sg><nom> <pcle><qst> <prn><pers><p3><sg><pl><loc><hab> <cnjsub> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <n><sg><loc> 
+<adv> <vblex><iv><neg><indic><sg3> <n><prop><sg><loc><hab> <vblex><iv><indic><pres><conneg> <adv> <adj><comp><attr> <n><g3><sg><nom> <pcle> <prn><pers><p3><sg><pl><loc><hab> <cnjsub> <n><sg><loc> <vblex><iv><indic><pres><p3><sg><pl> <n><sg><loc> 
 <vblex><iv><indic><pres><p2><pl> <vblex><tv><inf> <cnjsub> <vblex><tv><inf> <vblex><tv><indic><pres><sg3> <adv> <n><sg><loc> <cnjcoo> <cnjsub> <vblex><tv><indic><pres><p1><pl> <n><prop><sg><gen> <cnjcoo> <n><sg><gen> <n><sg><gen> <post> <vblex><iv><indic><pres><p2><pl> <vblex><tv><inf> <vblex><iv><neg><supn><p2><pl> <vblex><tv><inf> <prn><dem><sg><ill> 
 <n><sg><gen> <n><sg><nom> <vblex><tv><indic><pres><sg3> <n><sg><acc> 
 <prn><dem><sg><nom> <vblex><iv><indic><pres><sg3> <n><sg><gen> <adj><attr> <n><sg><nom> <prn><rel><sg><gen> <post> <prn><ind><attr> <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <n><prop><sg><nom> <vblex><tv><indic><pret><sg3> <n><pl><ill><px3sg> 
@@ -3652,9 +3652,9 @@
 <prn><dem><sg><com> <vblex><iv><indic><pres><p2><sg> <prn><pers><p2><sg><nom> <vblex><tv><inf> <vblex><tv><indic><pres><sg3> <n><prop><sg><nom> <cnjcoo> <vblex><iv><indic><pres><sg3> <n><sg><ill> 
 <adv> <vblex><iv><indic><pres><p3><sg><pl> <n><pl><nom> <n><prop><sg><nom> <cnjcoo> <n><prop><attr> <n><prop><sg><nom> 
 <prn><pers><sg3><gen> <adj><attr> <n><sg><nom> <vblex><iv><indic><pret><sg3> <adv> <adv> <vblex><iv><inf> 
-<vblex><iv><indic><pres><sg3> <adj><sg><nom> <vblex><iv><indic><pres><sg3> <pcle><qst> <n><pl><gen> <n><sg><nom> <vblex><iv><prfprc> <cnjcoo> <vblex><iv><prfprc> 
+<vblex><iv><indic><pres><sg3> <adj><sg><nom> <vblex><iv><indic><pres><sg3> <pcle> <n><pl><gen> <n><sg><nom> <vblex><iv><prfprc> <cnjcoo> <vblex><iv><prfprc> 
 <vblex><iv><prfprc> <n><pl><nom> <n><sg><gen> <n><pl><ill> 
-<prn><dem><sg><acc> <prn><pers><p1><pl><nom> <vblex><tv><indic><pret><p1><pl> <vblex><tv><imp><p2><sg> <pcle> <vblex><iv><indic><pres><sg3><qst> <prn><dem><sg><nom> <prn><pers><p2><sg><gen> <n><sg><gen> <n><sg><nom> 
+<prn><dem><sg><acc> <prn><pers><p1><pl><nom> <vblex><tv><indic><pret><p1><pl> <vblex><tv><imp><p2><sg> <pcle> <vblex><iv><indic><pres><sg3> <prn><dem><sg><nom> <prn><pers><p2><sg><gen> <n><sg><gen> <n><sg><nom> 
 <vblex><tv><indic><pret><p1><sg> <adv> <n><pl><nom> <vblex><iv><indic><pret><p3><sg><pl> <n><sg><loc> <prn><ind><sg><ill> <cnjcoo> <adv> <n><sg><nom> <vblex><iv><indic><pret><sg3> <prn><pers><p1><sg><gen> <n><sg><loc> <adv> <pr> <n><sg><gen> <cnjsub> <vblex><iv><indic><pret><sg3> <adv> <adv> <vblex><iv><inf> <n><sg><ill> 
 <prn><ind><attr> <n><pl><gen> <post> <vblex><iv><indic><pret><sg3> <adj><attr> <n><sg><nom> <prn><ind><pl><loc><hab> <vblex><iv><indic><pret><sg3> <n><sg><ill> <vblex><prfprc> <n><sg><nom> <cnjcoo> <n><sg><nom> 
 <vblex><tv><imp><p2><sg> <adv> <vblex><iv><indic><pres><sg3> <n><sg><nom><px2sg> <vblex><tv><imp><p2><sg> <prn><pers><sg3><acc> <cnjcoo> <vblex><iv><imp><p2><sg> 
@@ -3662,7 +3662,7 @@
 <cnjcoo> <vblex><iv><indic><pret><p1><sg> <num><sg><loc><attr> <n><sg><loc> <adj><ess> <vblex><iv><prfprc> <adj><attr> <n><sg><gen> <post> <cnjcoo> <vblex><tv><indic><pret><p1><sg> <n><sg><ill> 
 <n><pl><nom> <vblex><iv><indic><pres><p3><sg><pl> <adv> <adj><attr> <n><pl><com> <cnjcoo> <vblex><iv><indic><pres><p3><sg><pl> <vblex><iv><inf> <adj><pl><nom> <cnjcoo> <adj><pl><nom> 
 <cnjcoo> <adv> <vblex><tv><indic><pret><p3><sg><du> <n><pl><gen> <n><coll><sg><nom> <vblex><tv><inf> <n><pl><acc><px3du> <adv> 
-<cnjcoo> <vblex><tv><indic><pres><sg3> <pcle><qst> <n><sg><nom> <adv> <vblex><iv><inf> <n><pl><com> 
+<cnjcoo> <vblex><tv><indic><pres><sg3> <pcle> <n><sg><nom> <adv> <vblex><iv><inf> <n><pl><com> 
 <prn><pers><p1><pl><nom> <vblex><iv><indic><pres><p1><pl> <n><pl><loc> <n><sg><gen> 
 <num><sg><gen> <n><sg><gen> <post> <vblex><iv><indic><pret><sg3> <prn><ind><attr> <n><pl><loc> <n><sg><nom> <n><ess> <n><sg><gen> <n><sg><gen> <cnjcoo> <n><sg><gen> <n><pl><ill> <vblex><tv><pot><pret><p3><sg><pl> <adv> <n><pl><nom> <n><sg><acc> <cnjcoo> <vblex><iv><neg><indic><p3><sg><pl> 
 <prn><pers><p3><sg><pl><nom> <pcle> <vblex><iv><indic><pret><p3><sg><pl> <vblex><tv><inf> <n><pl><acc><px3pl> <n><sg><acc> <cnjcoo> <adv> <n><pl><acc> <adv> <vblex><tv><pot><pret><p3><sg><pl> 
