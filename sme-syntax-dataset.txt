@@ -193,11 +193,11 @@
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@←OBJ> <@→N> <@←ADVL> <@→N> <@←ADVL> <@CLB> <@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@←ADVL> <@CLB> 
 <@CVP> <@SPRED→> <@+FMAINV> <@→N> <@←SUBJ> <@CNP> <@←SUBJ> <@→N> <@←ADVL> <@CLB> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CVP> <@SUBJ→> <@CNP> <@SUBJ→> <@→N> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
-<@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@CNP> <@←OBJ> <@→N> <@←ADVL> <LEFT> <@←ADVL> <@→N> <@P←> <@←ADVL> <@←ADVL> <RIGHT> <@CLB> 
-<@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@CNP> <@←OBJ> <@→N> <@→A> <@→N> <@→N> <LEFT> <@→P> <@CNP> <@→N> <@→P> <@←ADVL> <@←ADVL> <RIGHT> <@←ADVL> <@CLB> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←SUBJ> <@←OBJ> <@CLB> 
+<@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@CNP> <@←OBJ> <@→N> <@←ADVL> <@PUNCT> <@←ADVL> <@→N> <@P←> <@←ADVL> <@←ADVL> <@PUNCT> <@CLB> 
+<@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@CNP> <@←OBJ> <@→N> <@→A> <@→N> <@→N> <@PUNCT> <@→P> <@CNP> <@→N> <@→P> <@←ADVL> <@←ADVL> <@PUNCT> <@←ADVL> <@CLB> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←SUBJ> <@←OBJ> <@CLB> 
 <@CVP> <@SUBJ→> <@ADVL→> <@+FMAINV> <@←OBJ> <@→N> <@←ADVL> <@CVP> <@+FMAINV> <@←OBJ> <@←ADVL> <@→N> <@←ADVL> <@CVP> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CLB> <@ADVL→> <@+FAUXV> <@-FMAINV> <@→N> <@-FSUBJ→> <@←OBJ> <@CLB> 
 <@+FAUXV> <@←SUBJ> <@-FMAINV> <@←OBJ> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> <@←SPRED> <@←OBJ> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@→A> <@→N> <@←ADVL> <LEFT> <@←SUBJ> <@CNP> <@→N> <@→N> <@←SUBJ> <RIGHT> <@CLB> 
+<@SUBJ→> <@+FMAINV> <@→A> <@→N> <@←ADVL> <@PUNCT> <@←SUBJ> <@CNP> <@→N> <@→N> <@←SUBJ> <@PUNCT> <@CLB> 
 <@SUBJ→> <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@←OBJ> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> <@←ADVL> <@CNP> <@→N> <@→N> <@←ADVL> <@CLB> 
 <@CVP> <@+FMAINV> <@←SUBJ> <@←ADVL> <@←ADVL> <@←SPRED> <@-FMAINV> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@→N> <@ADVL→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@CLB> <@CVP> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> 
@@ -308,7 +308,7 @@
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@←ADVL> <@CVP> <@+FMAINV> <@→N> <@←SUBJ> <@→N> <@←ADVL> <@CNP> <@→N> <@←ADVL> <@CLB> 
 <@→P> <@ADVL→> <@+FMAINV> <@←ADVL> <@←SPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@CVP> <@+FMAINV> <@←SUBJ> <@SUBJ→> <@+FMAINV> <@-FOBJ→> <@N←> <@CVP> <@→N> <@OBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
 <@→A> <@→N> <@HNOUN> <@CLB> <@ADVL→> <@ADVL→> <@→N> <@→N> <@APP-N←> <@CLB> 
-<RIGHT> <@→A> <@→N> <@SUBJ→> <@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→A> <@→N> <@←OBJ> <@CLB> 
+<@PUNCT> <@→A> <@→N> <@SUBJ→> <@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→A> <@→N> <@←OBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@SUBJ→> <@+FMAINV> <@CVP> <@→N> <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@←SPRED> <@ADVL→> <@→N> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CNP> <@COMP-CS←> <@CLB> 
 <@+FAUXV> <@PCLE> <@→N> <@→N> <@←SUBJ> <@-FMAINV> <@←SPRED> <@CVP> <@+FAUXV> <@-FMAINV> <@←SUBJ> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
@@ -371,7 +371,7 @@
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@→P> <@←ADVL> <@←ADVL> <@→N> <@←ADVL> <@ADVL→> <@+FMAINV> <@CLB> <@CNP> <@ADVL→> <@CLB> <@ADVL→> <@CNP> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CNP> <@←ADVL> <@←SUBJ> <@→N> <@←ADVL> <@←SPRED> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CVP> <@ADVL→> <@SUBJ→> <@+FMAINV> <@CVP> <@+FMAINV> <@←OBJ> <@→N> <@←ADVL> <@CLB> 
 <@SPRED→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@→N> <@-F←OBJ> <@-F←ADVL> <@CLB> <@←SUBJ> <@→N> <@→P> <@CLB> <@→N> <@→P> <@CLB> <@→N> <@→P> <@CNP> <@→N> <@→N> <@→P> <@CNP> <@→P> <@-F←ADVL> <@CLB> 
-<@SUBJ→> <@→A> <@→N> <@Pron←> <LEFT> <@APP-N←> <RIGHT> <@+FAUXV> <@-FMAINV> <@→N> <@CNP> <@→N> <@→N> <@←OBJ> <@CLB> 
+<@SUBJ→> <@→A> <@→N> <@Pron←> <@PUNCT> <@APP-N←> <@PUNCT> <@+FAUXV> <@-FMAINV> <@→N> <@CNP> <@→N> <@→N> <@←OBJ> <@CLB> 
 <@SUBJ→> <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@CVP> <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@CVP> <@+FMAINV> <@→N> <@CNP> <@→N> <@←SUBJ> <@←ADVL> <@P←> <@CNP> <@P←> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@CVP> <@→N> <@CNP> <@SUBJ→> <@→N> <@ADVL→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> 
 <@CVP> <@→P> <@ADVL→> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←SPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@CLB> 
@@ -551,7 +551,7 @@
 <@PUNCT> <@SUBJ→> <@+FAUXV> <@ADVL→> <@ADVL→> <@-FMAINV> <@→N> <@OBJ→> <@ADVL→> <@→N> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→P> <@←ADVL> <@←OBJ> <@→N> <@-F←SUBJ> <@→A> <@-F←SPRED> <@CVP> <@+FAUXV> <@→N> <@←SPRED> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@→N> <@→N> <@OBJ→> <@+FAUXV> <@-FMAINV> <@CVP> <@+FMAINV> <@←ADVL> <@→N> <@←SUBJ> <@→N> <@←ADVL> <@CLB> <@+FMAINV> <@→A> <@→N> <@←SUBJ> <@←SUBJ> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←SPRED> <LEFT> <@←SPRED> <RIGHT> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@P←> <@CLB> 
+<@SUBJ→> <@+FMAINV> <@←SPRED> <@PUNCT> <@←SPRED> <@PUNCT> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@P←> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←OBJ> <@CLB> 
 <@→N> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@←OBJ> <@Num←> <@ADVL→> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@CLB> 
 <@→N> <@SUBJ→> <@+FAUXV> <@-FAUXV> <@ADVL→> <@-FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
@@ -564,14 +564,14 @@
 <@PUNCT> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@ADVL→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@+FMAINV> <@→N> <@←OBJ> <@CVP> <@+FMAINV> <@←ADVL> <@←ADVL> <@→P> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←OBJ> <@CLB> <@←OBJ> <"←ja→"> <"←báiddiid→"> <"←ja→"> <"←čohkkedeigga→"> <"←.→"> 
-<@→N> <@SUBJ→> <@+FMAINV> <"←stuorra→"> <"←ránu→"> <"←sudno→"> <"←birra→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←OBJ> <@CLB> <@←OBJ> <@CNP> <@←OBJ> <@CVP> <@+FMAINV> <@CLB> 
+<@→N> <@SUBJ→> <@\+FMAINV> <@→N> <@←OBJ> <@→P> <@←ADVL> <@CLB> 
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@←ADVL> <@SUBJ→> <@+FMAINV> <@→P> <@←ADVL> <@CLB> 
 <@PUNCT> <@INTERJ> <@CLB> <@+FMAINV> <@←ADVL> <@←OBJ> <@CVP> <@+FMAINV> <@→CC> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CVP> <@+FMAINV> <@-FSUBJ→> <@←OBJ> <@CLB> 
 <@CVP> <@+FAUXV> <@-FMAINV> <@CNP> <@-FMAINV> <@CLB> <@ADVL→> <@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@+FMAINV> <@CLB> 
 <@→N> <@→P> <@ADVL→> <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@→P> <@←ADVL> <@→N> <@→N> <@←ADVL> <@←ADVL> <@→N> <@←ADVL> <@CLB> <@APP-ADVL←> <@←ADVL> <@←ADVL> <@CLB> 
-<@ADVL→> <"←maid→"> <"←bahkkejit→"> <"←nahkárat→"> <"←.→"> 
+<@ADVL→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@CLB> 
 <@ADVL→CS> <@CVP> <@SUBJ→> <@+FAUXV> <@OBJ→> <@-FMAINV> <@CLB> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@CVP> <@ADVL→> <@CVP> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
@@ -618,20 +618,20 @@
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@→N> <@OBJ→> <@-FMAINV> <@←ADVL> <@OBJ→> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@ADVL→> <@→N> <@ADVL→> <@+FMAINV> <@CLB> <@→N> <@→P> <@←ADVL> <@CLB> <@←SUBJ> <@-FMAINV> <@←OBJ> <@→N> <@→P> <@←ADVL> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@ADVL→> <@ADVL→> <@+FMAINV> <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@←SPRED> <@→N> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
-<@CVP> <@SUBJ→> <"←galge→"> <"←leat→"> <"←dárogiela→"> <"←ja→"> <"←dáža→"> <"←kultuvrra→"> <"←nannenásahusat→"> <"←,→"> <"←fertii→"> <"←muhtumin→"> <"←váldit→"> <"←sámiid→"> <"←eallinlági→"> <"←vuhtii→"> <"←.→"> 
-<@→N> <@ADVL→> <"←ledje→"> <"←sierra→"> <"←suidnenlanjat→"> <"←.→"> 
-<@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <"←áigodagas→"> <"←1935-40→"> <"←.→"> 
-<LEFT> <@HNOUN> <@CLB> <@HNOUN> <@CNP> <@HNOUN> <@N←> <@N←> <RIGHT> <@CLB> 
+<@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@CNP> <@→N> <@→N> <@←SPRED> <@CLB> <@+FAUXV> <@←ADVL> <@-FMAINV> <@→N> <@←OBJ> <@←ADVL> <@CLB> 
+<@→N> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> 
+<@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@←ADVL> <@←SUBJ> <@CLB> 
+<@PUNCT> <@HNOUN> <@CLB> <@HNOUN> <@CNP> <@HNOUN> <@N←> <@N←> <@PUNCT> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@←SPRED> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CNP> <@←ADVL> <@←ADVL> <@CLB> 
 <@PUNCT> <@SUBJ→> <@PUNCT> <@N←> <@CNP> <@N←> <@ADVL→> <@SUBJ→> <@+FMAINV> <@→P> <@←ADVL> <@CLB> <@+FMAINV> <@←SPRED> <@→ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@→P> <@←ADVL> <@PUNCT> <@←ADVL> <@PUNCT> <@CLB> 
 <@→N> <@SUBJ→> <@+FAUXV> <@N←> <@-FMAINV> <@←OBJ> <@CLB> <@CVP> <@→N> <@ADVL→> <@+FMAINV> <@-FMAINV> <@←OBJ> <@CLB> 
-<@→N> <@SUBJ→> <"←ledje→"> <"←gieldda→"> <"←hálddus→"> <"←,→"> <"←ja→"> <"←maiddái→"> <"←Finnmárkku→"> <"←rittus→"> <"←ledje→"> <"←muhtun→"> <"←gieldda→"> <"←internáhtat→"> <@←SUBJ> <@CLB> 
+<@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> <@CVP> <@ADVL→> <@→N> <@ADVL→> <@+FMAINV> <@→N> <@→N> <@←SUBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@ADVL→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@SPRED→> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@-FSUBJ→> <@←OBJ> <@-F←ADVL> <@-F←OBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CVP> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> <@CVP> <@SUBJ→> <@ADVL→> <@ADVL→> <@+FMAINV> <@→N> <@←OBJ> <@CLB> 
-<@OBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@→P> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <"←ledje→"> <"←buorebut→"> <"←go→"> <"←priváhta→"> <"←olbmuid→"> <"←luhtte→"> <"←orrut→"> <"←.→"> 
-<@ADVL→> <@ADVL→> <LEFT> <@→P> <@ADVL→> <RIGHT> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CLB> 
+<@OBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@→P> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CVP> <@→N> <@→P> <@ADVL→> <@-FMAINV> <@CLB> 
+<@ADVL→> <@ADVL→> <@PUNCT> <@→P> <@ADVL→> <@PUNCT> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CLB> 
 <@OBJ→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> 
 <@SUBJ→> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@→P> <@←ADVL> <@CLB> 
 <@→N> <@→P> <@ADVL→> <@CVP> <@ADVL→> <@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←ADVL> <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@→N> <@←ADVL> <@CLB> <@CVP> <@ADVL→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@→N> <@←SUBJ> <@CLB> 
@@ -651,7 +651,7 @@
 <@→N> <@SUBJ→> <@ADVL→> <@ADVL→> <@CLB> <@SUBJ→> <@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@CLB> <@+FMAINV> <@→A> <@→N> <@←OBJ> <@←ADVL> <@→N> <@-F←OBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@OBJ→> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@CVP> <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
-<@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@←ADVL> <"←Snoasai→"> <"←Davvi-Trøndelagii→"> <"←.→"> 
+<@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@←ADVL> <@←ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <@←OBJ> <@→N> <@→P> <@←ADVL> <@CLB> <@CVP> <@OBJ→> <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@-FOBJ→> <@←OBJ> <@-F←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@→N> <@→P> <@←ADVL> <@←ADVL> <@CVP> <@+FMAINV> <@←OBJ> <@CVP> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
@@ -659,18 +659,18 @@
 <@+FMAINV> <@CVP> <@→N> <@ADVL→> <@SUBJ→> <@CNP> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@→N> <@ADVL→> <@+FAUXV> <@-FMAINV> <@→N> <@←OBJ> <@CLB> 
 <@CVP> <@→Pron> <@→N> <@ADVL→> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@→N> <@←OBJ> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←ADVL> <@→N> <@→A> <@→N> <@←SUBJ> <@←SUBJ> <RIGHT> <@→N> <LEFT> <@APP-N←> <RIGHT> <@←ADVL> <@→N> <@→P> <@←ADVL> <@CLB> 
+<@SUBJ→> <@+FMAINV> <@←ADVL> <@→N> <@→A> <@→N> <@←SUBJ> <@←SUBJ> <@PUNCT> <@→N> <@PUNCT> <@APP-N←> <@PUNCT> <@←ADVL> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@→N> <@→P> <@ADVL→> <@→N> <@→N> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@←SPRED> <@CLB> 
 <@→P> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CVP> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@←SUBJ> <@CNP> <@→N> <@COMP-CS←> <@CLB> 
-<@→N> <@→N> <@SUBJ→> <@CNP> <@SUBJ→> <"←boldojuvvojedje→"> <"←go→"> <"←duiskalaččat→"> <"←guđđe→"> <"←guovllu→"> <"←.→"> 
+<@→N> <@→N> <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@CLB> 
 <@CVP> <@ADVL→> <@+FMAINV> <@-FMAINV> <@←ADVL> <@←ADVL> <@CLB> <@←ADVL> <@CNP> <@→A> <@→N> <@←ADVL> <@CNP> <@→N> <@CNP> <@→N> <@CNP> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←SPRED> <@→N> <@←ADVL> <@CVP> <@+FMAINV> <@→P> <@←ADVL> <@←ADVL> <@←ADVL> <@→Num> <@←ADVL> <@Num←> <@OBJ→> <@+FMAINV> <@←ADVL> <@CLB> <@CNP> <@←ADVL> <@←ADVL> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@ADVL→> <@→N> <@SUBJ→> <@+FMAINV> <@CLB> <@+FMAINV> <@→N> <@←SPRED> <@CLB> 
 <@→N> <@ADVL→> <@→N> <@SUBJ→> <@+FAUXV> <@→N> <@OBJ→> <@-FMAINV> <@→P> <@ADVL→> <@+FAUXV> <@→N> <@OBJ→> <@-FMAINV> <@→N> <@CNP> <@←ADVL> <@CLB> 
-<@→A> <@→N> <@SUBJ→> <@N←> <@+FMAINV> <@→N> <@←ADVL> <@CLB> <@HNOUN> <@→N> <@Num←> <@→N> <@CNP> <@→N> <LEFT> <@→N> <RIGHT> <@←SPRED> <@CLB> <@CNP> <@→N> <@←ADVL> <@←SPRED> <@CLB> <@HNOUN> <@→N> <@Num←> <@→N> <@←SPRED> <@CVP> <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <"←.→"> 
+<@→A> <@→N> <@SUBJ→> <@N←> <@+FMAINV> <@→N> <@←ADVL> <@CLB> <@HNOUN> <@→N> <@Num←> <@→N> <@CNP> <@→N> <@PUNCT> <@→N> <@PUNCT> <@←SPRED> <@CLB> <@CNP> <@→N> <@←ADVL> <@←SPRED> <@CLB> <@HNOUN> <@→N> <@Num←> <@→N> <@←SPRED> <@CVP> <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@CVP> <@→N> <@→N> <@ADVL→> <@CNP> <@ADVL→> <@ADVL→> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CVP> <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@→N> <@ADVL→> <@+FAUXV> <@-FMAINV> <@→ADVL> <@←ADVL> <@←ADVL> <@CVP> <@ADVL→> <@+FMAINV> <@←SUBJ> <@→N> <@←SPRED> <@CLB> <@CVP> <@ADVL→> <@+FMAINV> <@→N> <@←OBJ> <@CLB> 
-<@OBJ→> <@-FMAINV> <@←ADVL> <@+FAUXV> <@←ADVL> <@→A> <@→N> <@←SUBJ> <@CLB> <@CVP> <@ADVL→> <@+FMAINV> <@CVP> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@←ADVL> <"←.→"> 
+<@OBJ→> <@-FMAINV> <@←ADVL> <@+FAUXV> <@←ADVL> <@→A> <@→N> <@←SUBJ> <@CLB> <@CVP> <@ADVL→> <@+FMAINV> <@CVP> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> <@CVP> <@→P> <@ADVL→> <@+FMAINV> <@←SUBJ> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> <@-FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@→P> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@→N> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
@@ -680,7 +680,7 @@
 <@ADVL→> <@+FAUXV> <@-FMAINV> <@+FAUXV> <@-FMAINV> <@←OBJ> <@N←> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@→N> <@←OBJ> <@CLB> 
 <@ADVL→> <@+FAUXV> <@-FAUXV> <@→N> <@OBJ→> <@ADVL→> <@-FMAINV> <@CLB> 
-<@→N> <@→P> <@ADVL→> <@+FMAINV> <@←ADVL> <"←stuora→"> <"←latnja→"> <"←bártniide→"> <"←ja→"> <"←nubbi→"> <"←fas→"> <"←nieiddaide→"> <"←.→"> 
+<@→N> <@→P> <@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <@←SUBJ> <@←ADVL> <@CNP> <@←SUBJ> <@←ADVL> <@←ADVL> <@CLB> 
 <@+FAUXV> <@-FMAINV> <@←ADVL> <@←SUBJ> <@←ADVL> <@CLB> <@CVP> <@CVP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> <@ADVL→> <@+FMAINV> <@CLB> 
 <@ADVL→> <@ADVL→> <@→P> <@ADVL→> <@+FMAINV> <@→Num> <@←SUBJ> <@Num←> <@→N> <@→A> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←SPRED> <@CVP> <@ADVL→> <@+FMAINV> <@CLB> <@→N> <@OBJ→> <@+FMAINV> <@→Num> <@←ADVL> <@CLB> 
@@ -689,18 +689,18 @@
 <@ADVL→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CLB> <@←ADVL> <@←SUBJ> <@CNP> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <@←SUBJ> <@→N> <@←ADVL> <@CLB> 
 <@→N> <@ADVL→> <@+FMAINV> <@←SUBJ> <@PUNCT> <@Num←> <@PUNCT> <@CLB> <@←ADVL> <@←SPRED> <@CNP> <@←SPRED> <@←ADVL> <@CLB> 
-<@ADVL→> <"←ledje→"> <"←maiddái→"> <"←guokte→"> <"←klássalanja→"> <"←mat→"> <"←dáláš→"> <"←mearrádusaid→"> <"←mielde→"> <"←eai→"> <"←várra→"> <"←livčče→"> <"←lean→"> <"←dohkálaččat→"> <"←oahpahuslatnjan→"> <"←.→"> 
+<@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@Num←> <@SUBJ→> <@→N> <@→P> <@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@+FMAINV> <@←SPRED> <@←PPRED> <@CLB> 
 <@→N> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CNP> <@←SUBJ> <@Num←> <@←ADVL> <@CLB> 
-<@→N> <@ADVL→> <@+FAUXV> <@→P> <@ADVL→> <@-FMAINV> <@←SUBJ> <@Num←> <@←ADVL> <@-FOBJ→> <"←doaimmahettiin→"> <"←.→"> 
+<@→N> <@ADVL→> <@+FAUXV> <@→P> <@ADVL→> <@-FMAINV> <@←SUBJ> <@Num←> <@←ADVL> <@-FOBJ→> <@←ADVL> <@CLB> 
 <@→N> <@ADVL→> <@CNP> <@ADVL→> <@ADVL→> <@→N> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@←ADVL> <@CLB> <@CNP> <@←ADVL> <@→N> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←ADVL> <"←skábmamánus→"> <"←beassážiidda→"> <"←,→"> <"←oanehis→"> <"←juovlaluomus→"> <"←gal→"> <"←ledje→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@←ADVL> <@CLB> <@→N> <@←ADVL> <@←ADVL> <@+FMAINV> <@CLB> 
 <@SUBJ→> <@CLB> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@←ADVL> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→CC> <@←SUBJ> <@CNP> <@←SUBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→A> <@→N> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@ADVL→> <@→P> <@←ADVL> <@→ADVL> <@→P> <@←ADVL> <@CLB> <@CVP> <@ADVL→> <@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
 <@CVP> <@SUBJ→> <@+FMAINV> <@→N> <@→A> <@→N> <@←ADVL> <@CLB> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←SUBJ> <@←ADVL> <@←OBJ> <@→N> <@-F←OBJ> <@CLB> <@←OBJ> <@-F←OBJ> <@CVP> <@←OBJ> <@→N> <@-F←OBJ> <@CNP> <@-F←OBJ> <@-F←ADVL> <@CLB> 
-<@ADVL→> <@+FAUXV> <@←SUBJ> <LEFT> <@→N> <@←SUBJ> <RIGHT> <@ADVL→> <@-FMAINV> <@←OBJ> <@CVP> <@-FMAINV> <@←OBJ> <@←OBJ> <@Num←> <@CLB> 
+<@ADVL→> <@+FAUXV> <@←SUBJ> <@PUNCT> <@→N> <@←SUBJ> <@PUNCT> <@ADVL→> <@-FMAINV> <@←OBJ> <@CVP> <@-FMAINV> <@←OBJ> <@←OBJ> <@Num←> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@CVP> <@+FAUXV> <@-FMAINV> <@→N> <@←ADVL> <@CVP> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CVP> <@+FMAINV> <@←OBJ> <@CLB> 
 <@CVP> <@ADVL→> <@CLB> <@CNP> <@ADVL→> <@CVP> <@+FMAINV> <@←SUBJ> <@CLB> <@ADVL→> <@SUBJ→> <@+FMAINV> <@CLB> 
@@ -710,11 +710,11 @@
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@CVP> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CNP> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CVP> <@SUBJ→> <@ADVL→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@-FMAINV> <@←OBJ> <@←ADVL> <@CVP> <@←OBJ> <@-F←OBJ> <@CLB> 
 <@+FAUXV> <@PUNCT> <@-FMAINV> <@←ADVL> <@PUNCT> <@CLB> 
-<@CVP> <@ADVL→> <"←lei→"> <"←nu→"> <"←nákkis→"> <"←,→"> <"←ja→"> <"←skuvlavahkkut→"> <"←ledje→"> <"←guhkit→"> <"←,→"> <"←de→"> <"←ii→"> <"←oktage→"> <"←váidalan→"> <"←.→"> 
+<@CVP> <@ADVL→> <@+FMAINV> <@→A> <@←SUBJ> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CLB> 
 <@→N> <@ADVL→> <@+FMAINV> <@←SUBJ> <@Num←> <@←ADVL> <@Num←> <@←ADVL> <@CLB> <@CVP> <@ADVL→> <@Num←> <@+FMAINV> <@←SUBJ> <@CLB> 
-<@→Pron> <@SUBJ→> <@SUBJ→> <@+FMAINV> <@OBJ→> <@CLB> <@+FMAINV> <@→N> <"←fálaldaga→"> <"←.→"> 
+<@→Pron> <@SUBJ→> <@SUBJ→> <@+FMAINV> <@OBJ→> <@CLB> <@+FMAINV> <@→N> <@←OBJ> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@←OBJ> <@-F←OBJ> <@-F←ADVL> <@CLB> 
-<@→N> <"←biepmut→"> <"←ledje→"> <"←várra→"> <"←apmasat→"> <"←muhtumiidda→"> <"←.→"> 
+<@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←SPRED> <@←ADVL> <@CLB> 
 <@PUNCT> <@SUBJ→> <@PUNCT> <@+FMAINV> <@←SPRED> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@ADVL→> <@+FMAINV> <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@CLB> 
 <@+FMAINV> <@←OBJ> <@CVP> <@→N> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CVP> <@+FMAINV> <@←SUBJ> <@CLB> <@CVP> <@→P> <@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@←ADVL> <@CLB> 
@@ -731,14 +731,14 @@
 <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@→ADVL> <@←ADVL> <@CLB> 
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> <@SUBJ→> <@←ADVL> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
 <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CVP> <@OBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> 
-<@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <"←,→"> <"←ja→"> <"←orui→"> <"←vuoigat→"> <"←ahte→"> <"←stuorra→"> <"←mánát→"> <"←oassádalle→"> <"←dálubargguin→"> <"←ja→"> <"←sullasaš→"> <"←bargguin→"> <"←go→"> <"←orro→"> <"←nuvttá→"> <"←.→"> 
+<@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> <@CVP> <@+FMAINV> <@←SPRED> <@CVP> <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CNP> <@→N> <@←ADVL> <@CVP> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@-F←ADVL> <@CLB> 
-<@→N> <@SUBJ→> <@N←> <"←lei→"> <"←vissa→"> <"←lága→"> <"←vuostá→"> <"←,→"> <"←muhto→"> <"←dan→"> <"←mii→"> <"←eat→"> <"←diehtán→"> <"←dan→"> <"←áigge→"> <"←.→"> 
+<@→N> <@SUBJ→> <@N←> <@+FMAINV> <@←ADVL> <@→P> <@←ADVL> <@CLB> <@CVP> <@OBJ→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@CVP> <@→N> <@SUBJ→> <@ADVL→> <@+FMAINV> <@CLB> <@PUNCT> <@HNOUN> <@CLB> <@HNOUN> <@CLB> 
 <@PUNCT> <@→N> <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@CLB> <@CVP> <@+FMAINV> <@→N> <@←SPRED> <@SUBJ→> <@ADVL→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CVP> <@→CC> <@SUBJ→> <@CLB> <@→N> <@CLB> <@→N> <@CNP> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> 
 <@OBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←SPRED> <@→N> <@←ADVL> <@CLB> 
-<@SUBJ→> <@SUBJ→> <@ADVL→> <@+FMAINV> <@←SUBJ> <LEFT> <@←SPRED> <RIGHT> <@CLB> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
+<@SUBJ→> <@SUBJ→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@PUNCT> <@←SPRED> <@PUNCT> <@CLB> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
 <@CVP> <@+FMAINV> <@←ADVL> <@CLB> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CVP> <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@→N> <@CNP> <@→N> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@→N> <@CVP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@ADVL→> <@CLB> <@CVP> <@ADVL→> <@ADVL→> <@CLB> <@+FMAINV> <@CLB> 
@@ -751,18 +751,18 @@
 <@→N> <@ADVL→> <@ADVL→> <@+FMAINV> <@CVP> <@SUBJ→> <@+FMAINV> <@←SPRED> <@←ADVL> <@CLB> <@←ADVL> <@→Num> <@→N> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@→N> <@←OBJ> <@CLB> 
 <@+FMAINV> <@←ADVL> <@→N> <@←ADVL> <@CLB> 
-<@SUBJ→> <@SUBJ→> <@+FMAINV> <@→Num> <@←OBJ> <@Num←> <@CLB> <@+FMAINV> <@←OBJ> <@→N> <@Num←> <@←ADVL> <"←orodettiin→"> <"←.→"> 
+<@SUBJ→> <@SUBJ→> <@+FMAINV> <@→Num> <@←OBJ> <@Num←> <@CLB> <@+FMAINV> <@←OBJ> <@→N> <@Num←> <@←ADVL> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@PUNCT> <@←OBJ> <@PUNCT> <@CLB> <@→N> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@CLB> <@CVP> <@→N> <@→P> <@ADVL→> <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@CLB> <@+FAUXV> <@-FMAINV> <@←SPRED> <@←ADVL> <@P←> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@→N> <@←ADVL> <@CLB> 
-<@→N> <@SUBJ→> <@SUBJ→> <@→ADVL> <@ADVL→> <@+FMAINV> <@CLB> <@HNOUN> <@CLB> <@SUBJ→> <@+FMAINV> <@←ADVL> <@→ADVL> <@←ADVL> <@←ADVL> <@CNP> <@←ADVL> <@SUBJ→> <@+FMAINV> <@→P> <@CNP> <@→P> <@←ADVL> <@CLB> <@CNP> <@SUBJ→> <@→N> <@←ADVL> <@SUBJ→> <@+FMAINV> <@→P> <@CNP> <@→P> <@←ADVL> <LEFT> <@→P> <@←ADVL> <RIGHT> <@CLB> 
+<@→N> <@SUBJ→> <@SUBJ→> <@→ADVL> <@ADVL→> <@+FMAINV> <@CLB> <@HNOUN> <@CLB> <@SUBJ→> <@+FMAINV> <@←ADVL> <@→ADVL> <@←ADVL> <@←ADVL> <@CNP> <@←ADVL> <@SUBJ→> <@+FMAINV> <@→P> <@CNP> <@→P> <@←ADVL> <@CLB> <@CNP> <@SUBJ→> <@→N> <@←ADVL> <@SUBJ→> <@+FMAINV> <@→P> <@CNP> <@→P> <@←ADVL> <@PUNCT> <@→P> <@←ADVL> <@PUNCT> <@CLB> 
 <@→A> <@→N> <@SUBJ→> <@+FMAINV> <@→P> <@←ADVL> <@CLB> <@CNP> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→ADVL> <@←ADVL> <@→N> <@←SUBJ> <@CLB> 
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@←ADVL> <@CLB> 
 <@→N> <@HNOUN> <@CLB> <@ADVL→> <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@→N> <@CNP> <@→N> <@CLB> <@→N> <@CNP> <@→N> <@←ADVL> <@CLB> <@→N> <@←ADVL> <@CLB> <@→N> <@←ADVL> <@CNP> <@→N> <@←ADVL> <@CLB> 
-<@ADVL→> <@+FMAINV> <@←SUBJ> <@CVP> <@+FAUXV> <@→N> <@←SUBJ> <@←ADVL> <@CVP> <@-FADVL→> <"←orodettiin→"> <"←,→"> <"←vaikko→"> <"←máŋggas→"> <"←sis→"> <"←ledje→"> <"←fulkkežagat→"> <"←.→"> 
+<@ADVL→> <@+FMAINV> <@←SUBJ> <@CVP> <@+FAUXV> <@→N> <@←SUBJ> <@←ADVL> <@CVP> <@-FADVL→> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@N←> <@+FMAINV> <@←SPRED> <@CLB> 
 <@CVP> <@→Num> <@→N> <@→N> <@ADVL→> <@CLB> <@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←SUBJ> <@SUBJ→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> 
-<@SUBJ→> <@→N> <@ADVL→> <@ADVL→> <"←deaivvadedje→"> <"←ja→"> <"←ovttasbargodilálašvuođaid→"> <"←bokte→"> <"←várra→"> <"←lahkanedje→"> <"←guhtet→"> <"←guimmiideaset→"> <"←.→"> 
+<@SUBJ→> <@→N> <@ADVL→> <@ADVL→> <@+FMAINV> <@CVP> <@→P> <@ADVL→> <@ADVL→> <@+FMAINV> <@→Pron> <@←OBJ> <@CLB> 
 <@ADVL→> <@CNP> <@→A> <@→N> <@ADVL→> <@+FAUXV> <@-FMAINV> <@PUNCT> <@→N> <@←SUBJ> <@PUNCT> <@-FMAINV> <@←ADVL> <@CLB> 
 <@+FAUXV> <@-FMAINV> <@←ADVL> <@←SUBJ> <@Pron←> <@CLB> <@CVP> <@+FMAINV> <@←SPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@CVP> <@+FMAINV> <@←ADVL> <@←OBJ> <@CLB> 
 <@ADVL→> <@SUBJ→> <@→N> <@Pron←> <@+FMAINV> <@←SPRED> <@CLB> <@←SPRED> <@←ADVL> <@CLB> 
@@ -770,7 +770,7 @@
 <@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@CVP> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@←SUBJ> <@←ADVL> <@CLB> <@CNP> <@→N> <@→N> <@←ADVL> <@SUBJ→> <@ADVL→> <@+FMAINV> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@OBJ→> <@-FMAINV> <@CLB> <@CNP> <@→N> <@SUBJ→> <@CVP> <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@←OPRED> <@←OBJ> <@-F←ADVL> <@-F←ADVL> <@←ADVL> <@-F←ADVL> <@CLB> <@CVP> <@+FAUXV> <@-FMAINV> <@→A> <@→N> <@←SUBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@SUBJ→> <@+FMAINV> <@←SPRED> <@→A> <@→N> <@←ADVL> <@CNP> <@←SUBJ> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <"←hálešteamen→"> <"←mánáiguin→"> <"←ja→"> <"←namahalai→"> <"←sin→"> <"←sámi→"> <"←sohkanamahusaiguin→"> <"←(→"> <"←iežas→"> <"←ektui→"> <"←)→"> <"←.→"> 
+<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←ADVL> <@-F←ADVL> <@CVP> <@+FMAINV> <@←OBJ> <@→N> <@←ADVL> <@PUNCT> <@→P> <@←ADVL> <@PUNCT> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←SPRED> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@←OPRED> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <@←SUBJ> <@←ADVL> <@CNP> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@→A> <@→N> <@←SPRED> <@CLB> 
 <@→A> <@→N> <@ADVL→> <@+FAUXV> <@-FMAINV> <@→N> <@←SUBJ> <@CLB> 
@@ -783,13 +783,13 @@
 <@SUBJ→> <@+FMAINV> <@→N> <@←SPRED> <@CLB> 
 <@ADVL→> <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←OBJ> <@CLB> <@CVP> <@OBJ→> <@CLB> <@ADVL→> <@+FMAINV> <@←SPRED> <@←SUBJ> <@-FSUBJ→> <@-F←OBJ> <@→N> <@-F←OBJ> <@CVP> <@←SUBJ> <@-F←OBJ> <@-F←ADVL> <@-F←OBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CVP> <@←ADVL> <@CLB> 
-<@→N> <"←váhnenčoahkkimiidda→"> <"←bohte→"> <"←ollu→"> <"←váhnemat→"> <"←,→"> <"←ollu→"> <"←eanet→"> <"←go→"> <"←lágiduvvon→"> <"←biirečoahkkimiidda→"> <"←maidda→"> <"←bohte→"> <"←váhnemat→"> <"←geat→"> <"←orro→"> <"←skuvlla→"> <"←lahkosis→"> <"←.→"> 
-<@→N> <"←váhnenčoahkkimat→"> <"←ledje→"> <"←sosiálalaš→"> <"←dáhpáhusat→"> <"←guossohemiin→"> <"←,→"> <"←ja→"> <"←olbmot→"> <"←aste→"> <"←háleštit→"> <"←oahpaheddjiiguin→"> <"←ja→"> <"←guhtet→"> <"←guimmiideasetguin→"> <"←.→"> 
+<@→N> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> <@←ADVL> <@←ADVL> <@CNP> <@→N> <@COMP-CS←> <@ADVL→> <@+FMAINV> <@←SUBJ> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
+<@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←SPRED> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@-F←ADVL> <@CNP> <@→Pron> <@-F←ADVL> <@CLB> 
 <@+FMAINV> <@→A> <@←SPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> <@CNP> <@→ADVL> <@←ADVL> <@←OBJ> <@ADVL→> <@+FAUXV> <@OBJ→> <@-FMAINV> <@CLB> 
-<@+FMAINV> <@←SPRED> <@CVP> <@SUBJ→> <@ADVL→> <@+FMAINV> <@→N> <@←OBJ> <@CNP> <@←OBJ> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <"←.→"> 
+<@+FMAINV> <@←SPRED> <@CVP> <@SUBJ→> <@ADVL→> <@+FMAINV> <@→N> <@←OBJ> <@CNP> <@←OBJ> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@CVP> <@SUBJ→> <@→P> <@CNP> <@→P> <@ADVL→> <@+FMAINV> <@→A> <@←SUBJ> <@CLB> 
 <@CVP> <@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@←ADVL> <@CNP> <@←ADVL> <@→P> <@←ADVL> <@CLB> <@ADVL→> <@+FAUXV> <@ADVL→> <@ADVL→> <@ADVL→> <@-FMAINV> <@CVP> <@→N> <@ADVL→> <@+FAUXV> <@-FAUXV> <@←SUBJ> <@→N> <@←SUBJ> <@←ADVL> <@CLB> 
-<@→P> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←SUBJ> <@←ADVL> <"←.→"> 
+<@→P> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←SUBJ> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@-F←OBJ> <@CNP> <@-F←OBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@-FOBJ→> <@←ADVL> <@CNP> <@-F←OBJ> <@CNP> <@-F←OBJ> <@←ADVL> <@CLB> 
 <@+FMAINV> <@←ADVL> <@←SPRED> <@→P> <@CNP> <@→P> <@←ADVL> <@CVP> <@+FAUXV> <@-FMAINV> <@→N> <@-FSUBJ→> <@←OBJ> <@-F←OBJ> <@-F←ADVL> <@CLB> 
@@ -855,7 +855,7 @@
 <@OBJ→> <@-FMAINV> <@CVP> <@OBJ→> <@-FMAINV> <@CLB> 
 <@+FMAINV> <@←ADVL> <@←OBJ> <@CLB> 
 <@ADVL→> <@+FAUXV> <@-FMAINV> <@←SUBJ> <@←ADVL> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CNP> <@←ADVL> <@←ADVL> <@→A> <@←SPRED> <@CLB> 
-<@ADVL→> <@ADVL→> <"←biigá→"> <"←lei→"> <"←bassaladdame→"> <"←.→"> 
+<@ADVL→> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@ADVL→> <@→N> <@ADVL→> <@-FMAINV> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@→N> <@←OBJ> <@→A> <@→ADVL> <@←ADVL> <@←SUBJ> <@CLB> 
 <@OBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@←OBJ> <@-F←OBJ> <@CLB> 
@@ -871,7 +871,7 @@
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@←OBJ> <@→N> <@Num←> <@←ADVL> <@CLB> <@←OBJ> <@CNP> <@COMP-CS←> <@Pron←> <@CLB> 
 <@ADVL→> <@+FAUXV> <@→A> <@→N> <@←SUBJ> <@OBJ→> <@+FMAINV> <@CVP> <@ADVL→> <@+FAUXV> <@-FAUXV> <@OBJ→> <@-FMAINV> <@CLB> <@-FMAINV> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@→N> <@Num←> <@←ADVL> <@CLB> 
-<@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@→N> <@CNP> <@←ADVL> <@→N> <LEFT> <@←ADVL> <@→N> <RIGHT> <@←OBJ> <@CLB> 
+<@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@→N> <@CNP> <@←ADVL> <@→N> <@PUNCT> <@←ADVL> <@→N> <@PUNCT> <@←OBJ> <@CLB> 
 <@ADVL→> <@+FAUXV> <@←ADVL> <@→N> <@←SUBJ> <@CNP> <@→N> <@COMP-CS←> <@CLB> 
 <@ADVL→> <@+FMAINV> <@CVP> <@+FMAINV> <@←SUBJ> <@N←> <@-F←OBJ> <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@CLB> <@→N> <@←OBJ> <@CNP> <@→N> <@→N> <@←OBJ> <@CLB> 
 <@ADVL→CS> <@CVP> <@+FMAINV> <@←ADVL> <@←SUBJ> <@N←> <@-F←OBJ> <@CLB> 
@@ -885,13 +885,13 @@
 <@→N> <@OBJ→> <@PCLE> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@→N> <@OBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@→N> <@OBJ→> <@+FAUXV> <@-FMAINV> <@→P> <@←ADVL> <@←ADVL> <@CLB> 
-<@ADVL→> <@+FMAINV> <@←SUBJ> <@OBJ→> <"←ráhkadit→"> <"←.→"> 
+<@ADVL→> <@+FMAINV> <@←SUBJ> <@OBJ→> <@-FMAINV> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SPRED> <@←SUBJ> <@-F←OBJ> <@→N> <@-F←ADVL> <@-F←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@→N> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@ADVL→> <@+FMAINV> <@→CC> <@→N> <@CNP> <@→N> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@→A> <@→ADVL> <@←ADVL> <@←SUBJ> <@←ADVL> <@CLB> 
-<@ADVL→> <@+FMAINV> <@←SUBJ> <@→P> <@←ADVL> <@←ADVL> <@→N> <@←ADVL> <LEFT> <@CNP> <@←ADVL> <RIGHT> <@CVP> <@+FMAINV> <@←SPRED> <@CLB> 
+<@ADVL→> <@+FMAINV> <@←SUBJ> <@→P> <@←ADVL> <@←ADVL> <@→N> <@←ADVL> <@PUNCT> <@CNP> <@←ADVL> <@PUNCT> <@CVP> <@+FMAINV> <@←SPRED> <@CLB> 
 <@ADVL→> <@ADVL→> <@+FMAINV> <@←ADVL> <@←OBJ> <@CLB> 
 <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@→P> <@←ADVL> <@←OBJ> <@CLB> 
 <@CVP> <@ADVL→> <@+FMAINV> <@SPRED→> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@→N> <@←SPRED> <@CLB> 
@@ -909,7 +909,7 @@
 <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@→N> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CNP> <@COMP-CS←> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> <@+FMAINV> <@→N> <@→N> <@←SUBJ> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@→ADVL> <@←ADVL> <@→P> <"←guhku→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@→ADVL> <@←ADVL> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CNP> <@COMP-CS←> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@→N> <@←ADVL> <@-FMAINV> <@←OBJ> <@→N> <@CNP> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→A> <@←SPRED> <@CLB> 
@@ -947,7 +947,7 @@
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@CNP> <@→N> <@←OBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <@←SUBJ> <@→N> <@→P> <@←ADVL> <@CLB> 
-<@→N> <"←Searat→"> <"←ja→"> <"←Sámi→"> <"←Siida→"> <"←leaba→"> <"←ovttas→"> <"←ordnen→"> <"←dáid→"> <"←gilvvohallamiid→"> <"←.→"> 
+<@→N> <@SUBJ→> <@CNP> <@→N> <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@→N> <@←OBJ> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> <@CVP> <@ADVL→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CNP> <@→N> <@←SUBJ> <@←ADVL> <@CLB> <@CVP> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←ADVL> <@→N> <@←ADVL> <@CLB> 
 <@→N> <@→Num> <@SUBJ→> <@CLB> <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@←ADVL> <@CLB> <@CNP> <@→N> <@→Num> <@SUBJ→> <@CLB> <@SUBJ→> <@+FMAINV> <@←OBJ> <@→N> <@←ADVL> <@CLB> <@+FMAINV> <@←SPRED> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@→N> <@→P> <@CLB> <@→N> <@→P> <@CLB> <@→P> <@CNP> <@→P> <@ADVL→> <@-FMAINV> <@←OBJ> <@→N> <@→P> <@←ADVL> <@CLB> 
@@ -965,7 +965,7 @@
 <@HNOUN> <@→A> <@←SPRED> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@CNP> <@→N> <@→N> <@←ADVL> <@CLB> 
-<@+FMAINV> <"←eambbo→"> <"←bierggu→"> <"←?→"> 
+<@\+FMAINV> <@→N> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@CLB> 
 <@→P> <@ADVL→> <@SUBJ→> <@+FAUXV> <@SPRED→> <@-FMAINV> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@→N> <@←ADVL> <@CLB> 
@@ -1001,7 +1001,7 @@
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@CNP> <@→N> <@←SUBJ> <@CLB> 
 <@→N> <@HNOUN> <@CLB> 
-<@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <LEFT> <@→N> <RIGHT> <@P←> <@CNP> <@→N> <LEFT> <@→N> <RIGHT> <@P←> <@CLB> 
+<@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <@PUNCT> <@→N> <@PUNCT> <@P←> <@CNP> <@→N> <@PUNCT> <@→N> <@PUNCT> <@P←> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@←SPRED> <@CLB> <@→N> <@CLB> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@→Num> <@→P> <@←ADVL> <@CLB> 
 <@+FMAINV> <@PCLE> <@←SUBJ> <@→N> <@→P> <@←ADVL> <@CLB> <@CVP> <@+FMAINV> <@PCLE> <@-FMAINV> <@←OBJ> <@→N> <@←ADVL> <@CLB> 
@@ -1028,7 +1028,7 @@
 <@→N> <@OBJ→> <@+FMAINV> <@←OBJ> <@CLB> 
 <@→P> <@ADVL→> <@+FMAINV> <@→Num> <@→N> <@→N> <@←SUBJ> <@→A> <@→A> <@←SPRED> <@→P> <@CNP> <@→P> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CNP> <@→N> <@→P> <@←ADVL> <@CLB> 
-<@SUBJ→> <@CNP> <@→N> <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FAUXV> <@→N> <@→N> <@-FADVL→> <@←ADVL> <@→N> <@→N> <@-F←OBJ> <"←.→"> 
+<@SUBJ→> <@CNP> <@→N> <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FAUXV> <@→N> <@→N> <@-FADVL→> <@←ADVL> <@→N> <@→N> <@-F←OBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@←ADVL> <@←ADVL> <@CNP> <@→N> <@→N> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@→A> <@→N> <@→A> <@→N> <@→Num> <@←SUBJ> <@Num←> <@←ADVL> <@←SUBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CNP> <@COMP-CS←> <@CLB> <@OBJ→> <@ADVL→> <@+FMAINV> <@CLB> 
@@ -1064,8 +1064,8 @@
 <@CVP> <@SUBJ→> <@+FMAINV> <@→P> <@←ADVL> <@CLB> 
 <@+FMAINV> <@←OBJ> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@←ADVL> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←ADVL> <"←.→"> 
-<@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
+<@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SPRED> <@→P> <@CNP> <@→N> <@→P> <@CNP> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@←ADVL> <@+FAUXV> <@PCLE> <@-FMAINV> <@←OPRED> <@CLB> 
 <@+FAUXV> <@-FMAINV> <@→N> <@OBJ→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CLB> 
@@ -1084,7 +1084,7 @@
 <@+FAUXV> <@-FMAINV> <@→N> <@→N> <@←SPRED> <@CLB> 
 <@+FAUXV> <@-FMAINV> <@←ADVL> <@→N> <@CNP> <@→N> <@→N> <@CNP> <@P←> <@CLB> 
 <@ADVL→> <@ADVL→> <@+FMAINV> <@←ADVL> <@CLB> 
-<@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@→P> <@←ADVL> <@CVP> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←OBJ> <"←.→"> 
+<@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@→P> <@←ADVL> <@CVP> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@→P> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@→N> <@→P> <@←ADVL> <@→N> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@←ADVL> <@CLB> 
@@ -1101,7 +1101,7 @@
 <@ADVL→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@N←> <@-F←OBJ> <@-F←ADVL> <@CNP> <@COMP-CS←> <@CLB> 
 <@CVP> <@SUBJ→> <@+FMAINV> <@CLB> <@ADVL→> <@+FMAINV> <@→P> <@←ADVL> <@CLB> 
 <@CVP> <@SUBJ→> <@→ADVL> <@ADVL→> <@ADVL→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CLB> 
-<@CVP> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CLB> <@ADVL→> <@+FMAINV> <@←SUBJ> <@→P> <@←ADVL> <@ADVL→> <@←ADVL> <@←ADVL> <@-FMAINV> <@←OBJ> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CLB> <@←ADVL> <@→N> <@←ADVL> <@CVP> <@ADVL→> <@ADVL→> <@+FAUXV> <@-FMAINV> <"←.→"> 
+<@CVP> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CLB> <@ADVL→> <@+FMAINV> <@←SUBJ> <@→P> <@←ADVL> <@ADVL→> <@←ADVL> <@←ADVL> <@-FMAINV> <@←OBJ> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CLB> <@←ADVL> <@→N> <@←ADVL> <@CVP> <@ADVL→> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@CVP> <@+FMAINV> <@-FSUBJ→> <@←OBJ> <@CLB> <@ADVL→> <@+FMAINV> <@CNP> <@←ADVL> <@-FMAINV> <@CLB> <@CVP> <@ADVL→> <@+FMAINV> <@-FSUBJ→> <@CLB> <@-FSUBJ→> <@CNP> <@-FSUBJ→> <@←OBJ> <@CLB> 
 <@CVP> <@+FMAINV> <@→P> <@←ADVL> <@CLB> <@ADVL→> <@+FMAINV> <@←OBJ> <@-F←OBJ> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> 
 <@CVP> <@+FMAINV> <@→P> <@←ADVL> <@CLB> <@ADVL→> <@+FMAINV> <@←OBJ> <@-F←OBJ> <@CLB> 
@@ -1268,7 +1268,7 @@
 <@→N> <@SPRED→> <@+FMAINV> <@←SUBJ> <@-F←ADVL> <@-F←OBJ> <@CLB> 
 <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@←ADVL> <@P←> <@CNP> <@P←> <@CLB> 
 <@SPRED→> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> 
-<@ADVL→> <@+FAUXV> <@-FMAINV> <@→N> <@←SUBJ> <@←ADVL> <LEFT> <@APP-N←> <@CLB> <@APP-N←> <RIGHT> <@CLB> 
+<@ADVL→> <@+FAUXV> <@-FMAINV> <@→N> <@←SUBJ> <@←ADVL> <@PUNCT> <@APP-N←> <@CLB> <@APP-N←> <@PUNCT> <@CLB> 
 <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@PCLE> <@ADVL→> <@→P> <@ADVL→> <@-FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@PCLE> <@+FAUXV> <@-FMAINV> <@-FSUBJ→> <@←OBJ> <@-F←OBJ> <@CLB> 
 <@→P> <@ADVL→> <@+FMAINV> <@←SUBJ> <@→N> <@←ADVL> <@CLB> 
@@ -1276,7 +1276,7 @@
 <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←OBJ> <@←ADVL> <@→N> <@→P> <@CNP> <@→N> <@→A> <@→N> <@→P> <@-F←ADVL> <@CLB> 
 <@→P> <@ADVL→> <@+FMAINV> <@←ADVL> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→A> <@→N> <@→N> <@←ADVL> <@CLB> 
-<@SUBJ→> <"←máksá→"> <"←70→"> <"←ruvnno→"> <"←mehtar→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←OBJ> <@Num←> <@←OBJ> <@CLB> 
 <@OBJ→> <@SUBJ→> <@+FMAINV> <@CLB> <@SUBJ→> <@+FMAINV> <@CLB> 
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@OBJ→> <@HNOUN> <@←ADVL> <@←ADVL> <@CLB> 
@@ -1320,7 +1320,7 @@
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@←ADVL> <@→N> <@→N> <@→N> <@←OBJ> <@←ADVL> <@CLB> 
 <@ADVL→> <@PCLE> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@→N> <@CLB> <@→N> <@CNP> <@→N> <@←OBJ> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@→N> <"←gáhkuid→"> <"←Hánssa→"> <"←ođđa→"> <"←láibbohagas→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@→A> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CVP> <@SUBJ→> <@+FMAINV> <@→N> <@←SPRED> <@CLB> 
 <@SUBJ→> <@Pron←> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@CLB> 
@@ -1474,7 +1474,7 @@
 <@HNOUN> <@SUBJ→> <@+FMAINV> <@→N> <@CNP> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@-FSUBJ→> <@←OBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@P←> <@CLB> 
-<@ADVL→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@-FMAINV> <@←SUBJ> <@CVP> <@→N> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→A> <@←SPRED> <@CLB> <@CNP> <@→N> <@CNP> <@→N> <@←ADVL> <@PCLE> <@+FMAINV> <@→A> <@→N> <@←SUBJ> <LEFT> <@APP-N←> <@CLB> <@APP-N←> <@CLB> <@APP-N←> <@CNP> <@→N> <@APP-N←> <RIGHT> <@CLB> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
+<@ADVL→> <@ADVL→> <@+FMAINV> <@←SUBJ> <@-FMAINV> <@←SUBJ> <@CVP> <@→N> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→A> <@←SPRED> <@CLB> <@CNP> <@→N> <@CNP> <@→N> <@←ADVL> <@PCLE> <@+FMAINV> <@→A> <@→N> <@←SUBJ> <@PUNCT> <@APP-N←> <@CLB> <@APP-N←> <@CLB> <@APP-N←> <@CNP> <@→N> <@APP-N←> <@PUNCT> <@CLB> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CLB> <@PUNCT> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CVP> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@CVP> <@+FAUXV> <@ADVL→> <@-FMAINV> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@→Num> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@←OBJ> <@→N> <@←OPRED> <@CLB> 
@@ -1526,7 +1526,7 @@
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@←ADVL> <@CNP> <@APP-N←> <@CLB> <@APP-N←> <@CLB> <@APP-N←> <@CNP> <@APP-N←> <@CLB> 
-<@ADVL→> <@CNP> <@ADVL→> <@→N> <@→N> <@COMP-CS←> <@+FMAINV> <@→N> <@←ADVL> <@←ADVL> <@→A> <@→A> <@→N> <@←SUBJ> <@CLB> <@CVP> <@+FMAINV> <@←ADVL> <@→N> <@→N> <@←SPRED> <LEFT> <@→N> <@APP-N←> <RIGHT> <@CLB> 
+<@ADVL→> <@CNP> <@ADVL→> <@→N> <@→N> <@COMP-CS←> <@+FMAINV> <@→N> <@←ADVL> <@←ADVL> <@→A> <@→A> <@→N> <@←SUBJ> <@CLB> <@CVP> <@+FMAINV> <@←ADVL> <@→N> <@→N> <@←SPRED> <@PUNCT> <@→N> <@APP-N←> <@PUNCT> <@CLB> 
 <@ADVL→> <@+FAUXV> <@←SUBJ> <@ADVL→> <@-FMAINV> <@←OBJ> <@←OPRED> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@←OBJ> <@→N> <@←ADVL> <@CVP> <@ADVL→> <@-FMAINV> <@→N> <@←OBJ> <@←ADVL> <@P←> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←ADVL> <@←SUBJ> <@←ADVL> <@P←> <@CNP> <@P←> <@CNP> <@P←> <@CLB> 
@@ -1558,14 +1558,14 @@
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@-F←OBJ> <@CNP> <@-F←OBJ> <@CNP> <@-F←OBJ> <@CNP> <@-F←OBJ> <@-F←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CLB> <@→N> <@HNOUN> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@CLB> 
-<@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <"←skuvllain→"> <"←.→"> 
+<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@→P> <@ADVL→> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CVP> <@ADVL→> <@CLB> <@+FAUXV> <@-FMAINV> <@←SUBJ> <@CLB> 
 <@→N> <@SPRED→> <@+FMAINV> <@←SUBJ> <@←OPRED> <@-F←OBJ> <@CLB> 
 <@→N> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@→A> <@←SPRED> <@CNP> <@COMP-CS←> <@CNP> <@→A> <@←SPRED> <@CNP> <@COMP-CS←> <@CLB> 
 <@→A> <@→N> <@SUBJ→> <@CNP> <@SUBJ→> <@+FAUXV> <@→N> <@OBJ→> <@-FMAINV> <@←SPRED> <@CLB> 
-<@ADVL→> <@ADVL→> <@+FMAINV> <@←ADVL> <@←OBJ> <@CLB> <@CVP> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CNP> <@←ADVL> <@CVP> <@→A> <@→N> <@SUBJ→> <@+FMAINV> <LEFT> <@←SUBJ> <@N←> <@CLB> <@HNOUN> <RIGHT> <@CLB> 
+<@ADVL→> <@ADVL→> <@+FMAINV> <@←ADVL> <@←OBJ> <@CLB> <@CVP> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CNP> <@←ADVL> <@CVP> <@→A> <@→N> <@SUBJ→> <@+FMAINV> <@PUNCT> <@←SUBJ> <@N←> <@CLB> <@HNOUN> <@PUNCT> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@←OBJ> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←OBJ> <@CLB> 
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@→Num> <@←SUBJ> <@Num←> <@→N> <@←ADVL> <@CLB> 
@@ -1588,7 +1588,7 @@
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@←SPRED> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@Num←> <@←ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←ADVL> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CLB> <@→A> <@HNOUN> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@←ADVL> <@CLB> 
@@ -1598,7 +1598,7 @@
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@→N> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> <@SUBJ→> <@←ADVL> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@SUBJ→> <@+FMAINV> <@←OBJ> <@+FAUXV> <@-FMAINV> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@→A> <@←ADVL> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@→A> <@←ADVL> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→A> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@+FAUXV> <@PCLE> <@-FMAINV> <@CLB> 
@@ -1611,7 +1611,7 @@
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←ADVL> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→A> <@Num←> <@←SPRED> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@→A> <@←SPRED> <@CLB> 
-<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@→N> <@←ADVL> <"←.→"> 
+<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@←ADVL> <@→A> <@→N> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@→N> <@←SPRED> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@←ADVL> <@→N> <@←SUBJ> <@CNP> <@→N> <@←SUBJ> <@CLB> 
@@ -1651,8 +1651,8 @@
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@-FSUBJ→> <@←OBJ> <@-F←OBJ> <@-F←ADVL> <@-F←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@←ADVL> <@→N> <@←ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←OBJ> <@-F←OBJ> <@Num←> <@→N> <@→P> <@-F←ADVL> <@CLB> <@CVP> <@+FAUXV> <@←ADVL> <@→P> <@CLB> <@→P> <@CNP> <@→P> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←OBJ> <@←ADVL> <@-F←OBJ> <@→N> <@-F←ADVL> <LEFT> <@+FMAINV> <@←ADVL> <@←ADVL> <@←ADVL> <RIGHT> <@CLB> 
-<@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←OBJ> <@→N> <@→N> <@←ADVL> <@CNP> <@←ADVL> <LEFT> <@←SUBJ> <@←SUBJ> <RIGHT> <@CLB> 
+<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←OBJ> <@←ADVL> <@-F←OBJ> <@→N> <@-F←ADVL> <@PUNCT> <@+FMAINV> <@←ADVL> <@←ADVL> <@←ADVL> <@PUNCT> <@CLB> 
+<@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←OBJ> <@→N> <@→N> <@←ADVL> <@CNP> <@←ADVL> <@PUNCT> <@←SUBJ> <@←SUBJ> <@PUNCT> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←OBJ> <@→N> <@→N> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@-F←OBJ> <@→N> <@→P> <@-F←ADVL> <@CLB> 
 <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@N←> <@+FAUXV> <@PCLE> <@←SUBJ> <@-FMAINV> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
@@ -1981,7 +1981,7 @@
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@CLB> 
 <@+FMAINV> <@PCLE> <@←ADVL> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
-<@+FMAINV> <@←SUBJ> <"←.→"> 
+<@+FMAINV> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
@@ -2202,7 +2202,7 @@
 <@SUBJ→> <@+FMAINV> <@→A> <@←SPRED> <@CLB> <@CVP> <@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←SUBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> <@CVP> <@+FMAINV> <@→ADVL> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> <@CVP> <@ADVL→> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
-<@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←OBJ> <@Num←> <"←.→"> 
+<@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←OBJ> <@Num←> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CVP> <@+FMAINV> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@CLB> <@CVP> <@+FAUXV> <@-FMAINV> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→N> <@←OBJ> <@CLB> <@CVP> <@ADVL→> <@+FAUXV> <@ADVL→> <@-FMAINV> <@←OBJ> <@CLB> 
@@ -2512,7 +2512,7 @@
 <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CLB> 
 <@→Num> <@SUBJ→> <@Num←> <@+FMAINV> <@→N> <@←SPRED> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@Num←> <@CLB> 
-<@→N> <@SUBJ→> <@+FMAINV> <@→Num> <@←ADVL> <@Num←> <"←suinniid→"> <"←beaivái→"> <"←.→"> 
+<@→N> <@SUBJ→> <@+FMAINV> <@→Num> <@←ADVL> <@Num←> <@←OBJ> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@←SUBJ> <@Num←> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@Num←> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→A> <@Num←> <@←SPRED> <@CLB> 
@@ -2629,7 +2629,7 @@
 <@OBJ→> <@+FAUXV> <@-FMAINV> <@CLB> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> 
 <@CVP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> 
-<@→N> <"←oaivvis→"> <"←lea→"> <"←ruvdnu→"> <"←mas→"> <"←heaŋgájit→"> <"←guhkes→"> <"←hearvabáttit→"> <"←.→"> 
+<@→N> <@ADVL→> <@+FMAINV> <@←SUBJ> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> 
 <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@CLB> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→ADVL> <@←ADVL> <@←ADVL> <@-F←ADVL> <@CLB> <@CVP> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> 
 <@ADVL→CS> <@CVP> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> <@ADVL→> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> 
@@ -2665,7 +2665,7 @@
 <@→N> <@ADVL→> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> <@CVP> <@ADVL→> <@+FMAINV> <@→N> <@←SPRED> <@CLB> 
 <@ADVL→CS> <@CVP> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CNP> <@COMP-CS←> <@CLB> <@ADVL→> <@+FMAINV> <@←ADVL> <@→N> <@←SUBJ> <@CLB> 
 <@ADVL→> <@→CC> <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@ADVL→> <@+FMAINV> <@←SUBJ> <@CLB> 
-<@SUBJ→> <@+FMAINV> <"←jođánit→"> <"←,→"> <"←go→"> <"←mii→"> <"←beassat→"> <"←borrat→"> <"←njálgga→"> <"←mállása→"> <"←ja→"> <"←máilmmi→"> <"←buoremus→"> <"←hillagáhkuid→"> <"←.→"> 
+<@SUBJ→> <@\+FMAINV> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@←OBJ> <@CNP> <@→A> <@→N> <@←OBJ> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@CVP> <@+FMAINV> <@→A> <@→N> <@←OBJ> <@CVP> <@+FMAINV> <@←OBJ> <@→N> <@←ADVL> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> <@→CC> <@←ADVL> <@CNP> <@←ADVL> <@CLB> <@CVP> <@+FMAINV> <@→N> <@←SPRED> <@CLB> 
 <@CVP> <@+FAUXV> <@-FMAINV> <@←OBJ> <@CLB> <@ADVL→> <@SUBJ→> <@+FMAINV> <@←OBJ> <@CLB> 
@@ -3223,7 +3223,7 @@
 <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@←OBJ> <@CLB> 
 <@SPRED→> <@+FMAINV> <@CVP> <@→A> <@SPRED→> <@+FMAINV> <@←SUBJ> <@-F←ADVL> <@→N> <@-F←OBJ> <@CLB> <@+FMAINV> <@←SUBJ> <@CLB> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@CLB> <@←OBJ> <@CLB> <@←OBJ> <@CLB> <@←OBJ> <@CNP> <@←OBJ> <@CLB> 
-<@→N> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <LEFT> <@→N> <@CLB> <@→N> <@CLB> <@→N> <@CNP> <@→A> <@→N> <@←SUBJ> <RIGHT> <@CLB> 
+<@→N> <@ADVL→> <@+FMAINV> <@→N> <@←SUBJ> <@PUNCT> <@→N> <@CLB> <@→N> <@CLB> <@→N> <@CNP> <@→A> <@→N> <@←SUBJ> <@PUNCT> <@CLB> 
 <@ADVL→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←SUBJ> <@A←> <@-F←OBJ> <@-F←ADVL> <@CLB> 
 <@→P> <@ADVL→> <@+FMAINV> <@←SPRED> <@CLB> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@←ADVL> <@CLB> <@CVP> <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@←ADVL> <@CLB> 
 <@SPRED→> <@PCLE> <@+FMAINV> <@→N> <@←SUBJ> <@CLB> 
@@ -3286,10 +3286,10 @@
 <@ADVL→> <@SUBJ→> <@+FMAINV> <@-FOBJ→> <@-FADVL→> <@←ADVL> <@-F←ADVL> <@CLB> 
 <@PCLE> <@SUBJ→> <@+FMAINV> <@→N> <@←SPRED> <@CLB> 
 <@→N> <@→N> <@ADVL→> <@CNP> <@ADVL→> <@→N> <@ADVL→> <@+FMAINV> <@→N> <@→SUBJ> <@→CC> <@→P> <@CNP> <@→P> <@←ADVL> <@CLB> 
-<@ADVL→> <"←Máret→"> <"←lávii→"> <"←čiŋadit→"> <"←.→"> 
+<@ADVL→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@ADVL→> <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@←SPRED> <@CLB> 
 <@→N> <@OBJ→> <@SUBJ→> <@+FMAINV> <@CLB> 
-<@ADVL→> <@+FAUXV> <@→N> <@→N> <@←SUBJ> <@-FMAINV> <"←...→"> 
+<@ADVL→> <@+FAUXV> <@→N> <@→N> <@←SUBJ> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@→Pron> <@←SPRED> <@CLB> 
 <@SUBJ→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> <@+FAUXV> <@ADVL→> <@ADVL→> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@ADVL→> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
@@ -3314,7 +3314,7 @@
 <@+FAUXV> <@←SUBJ> <@ADVL→> <@-FMAINV> <@←ADVL> <@-FSUBJ→> <@←OBJ> <@→P> <@-F←ADVL> <@-F←ADVL> <@CLB> <@CVP> <@SUBJ→> <@-FMAINV> <@←ADVL> <@←SPRED> <@CLB> 
 <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> 
 <@OBJ→> <@SUBJ→> <@ADVL→> <@+FMAINV> <@CLB> 
-<@→N> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <"←.→"> 
+<@→N> <@ADVL→> <@+FAUXV> <@←SUBJ> <@-FMAINV> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@SUBJ→> <@PCLE> <@+FMAINV> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←ADVL> <@→N> <@←ADVL> <@CLB> 
@@ -3421,13 +3421,13 @@
 <@ADVL→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@←ADVL> <@→N> <@CNP> <@→N> <@-F←ADVL> <@→N> <@-F←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@CLB> <@+FMAINV> <@←ADVL> <@←OBJ> <@-F←OBJ> <@-F←ADVL> <@→CC> <@→P> <@CNP> <@→P> <@-F←ADVL> <@CLB> 
 <@CVP> <@ADVL→> <@+FMAINV> <@CVP> <@OBJ→> <@+FAUXV> <@-FAUXV> <@→N> <@←SUBJ> <@-FMAINV> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←SPRED> <@Num←> <@CNP> <@→N> <@←SPRED> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <"←juovllaid→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←SPRED> <@Num←> <@CNP> <@→N> <@←SPRED> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←ADVL> <@CLB> 
 <@CVP> <@SUBJ→> <@SUBJ→> <@+FMAINV> <@→P> <@←ADVL> <@CLB> <@+FAUXV> <@-FMAINV> <@→N> <@→P> <@←ADVL> <@CLB> 
 <@→P> <@CNP> <@→P> <@ADVL→> <@CLB> <@+FMAINV> <@CNP> <@←SUBJ> <@←OBJ> <@CVP> <@+FAUXV> <@CLB> 
 <@PUNCT> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CVP> <@→P> <@ADVL→> <@CVP> <@ADVL→> <@CLB> <@+FAUXV> <@-FMAINV> <@→A> <@←SUBJ> <@CLB> 
 <@HNOUN> <@←ADVL> <@←ADVL> <@CLB> 
 <@PUNCT> <@SUBJ→> <@→P> <@ADVL→> <@+FMAINV> <@CLB> <@+FMAINV> <@→A> <@←OBJ> <@→N> <@→N> <@←ADVL> <@CLB> 
-<@+FMAINV> <@→N> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> <@CVP> <@+FAUXV> <@-FAUXV> <@←SUBJ> <@-FMAINV> <@CNP> <@-FMAINV> <@←OBJ> <"←...→"> 
+<@+FMAINV> <@→N> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←ADVL> <@CLB> <@CVP> <@+FAUXV> <@-FAUXV> <@←SUBJ> <@-FMAINV> <@CNP> <@-FMAINV> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@→N> <@←ADVL> <@←ADVL> <@←ADVL> <@CLB> <@-FMAINV> <@CNP> <@-FMAINV> <@←OBJ> <@←ADVL> <@←ADVL> <@CLB> <@-FMAINV> <@CNP> <@-FMAINV> <@CVP> <@+FMAINV> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@CVP> <@+FMAINV> <@→A> <@←ADVL> <@→A> <@→N> <@←OBJ> <@CLB> 
 <@+FMAINV> <@CVP> <@+FMAINV> <@←ADVL> <@→N> <@←SPRED> <@CLB> <@CVP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@CLB> 
@@ -3444,7 +3444,7 @@
 <@+FAUXV> <@-FMAINV> <@←ADVL> <@→N> <@←SUBJ> <@ADVL→> <@SUBJ→> <@+FMAINV> <@→A> <@←SPRED> <@CLB> 
 <@ADVL→> <@+FMAINV> <@→N> <@→N> <@←SUBJ> <@CNP> <@→N> <@←SUBJ> <@←ADVL> <@CVP> <@→N> <@SUBJ→> <@+FMAINV> <@←OBJ> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@←OBJ> <@←OPRED> <@CVP> <@+FMAINV> <@→P> <@←ADVL> <@←ADVL> <@CNP> <@←ADVL> <@CLB> 
-<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@→Num> <@→N> <@←ADVL> <@←ADVL> <"←.→"> 
+<@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@→Num> <@→N> <@←ADVL> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FMAINV> <@→A> <@←OPRED> <@CVP> <@→N> <@→N> <@SUBJ→> <@CNP> <@SUBJ→> <@→Num> <@→N> <@ADVL→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@-F←OBJ> <@CVP> <@←OBJ> <@→N> <@-F←OBJ> <@CNP> <@→N> <@→N> <@→P> <@-F←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@←SPRED> <@CLB> 
 <@→N> <@ADVL→> <@+FMAINV> <@←SUBJ> <@←ADVL> <@CNP> <@ADVL→> <@ADVL→> <@+FAUXV> <@←SUBJ> <@←OBJ> <@→N> <@→N> <@-F←OBJ> <@CLB> 
@@ -3482,9 +3482,9 @@
 <@SUBJ→> <@+FMAINV> <@-FSUBJ→> <@←OBJ> <@-F←ADVL> <@→N> <@-F←ADVL> <@CLB> <@CVP> <@+FAUXV> <@OBJ→> <@-FMAINV> <@CLB> <@+FMAINV> <@←SUBJ> <@CLB> <@CVP> <@+FMAINV> <@←OBJ> <@←OPRED> <@←ADVL> <@←ADVL> <@CLB> 
 <@+FMAINV> <@CLB> <@+FMAINV> <@→N> <@←SUBJ> <@CVP> <@+FMAINV> <@-FSUBJ→> <@←ADVL> <@←OBJ> <@CVP> <@+FAUXV> <@-FMAINV> <@←OBJ> <@CVP> <@+FMAINV> <@←ADVL> <@Num←> <@←ADVL> <@P←> <@CLB> 
 <@→N> <@SUBJ→> <@CLB> <@→N> <@ADVL→> <@CLB> <@+FMAINV> <@←OBJ> <@CVP> <@+FMAINV> <@←OBJ> <@←OPRED> <@CVP> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@-F←OBJ> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@←OBJ> <@←OPRED> <"←gilvvus→"> <"←,→"> <"←ja→"> <"←maiddái→"> <"←oaččui→"> <"←álggos→"> <"←dieđu→"> <"←ahte→"> <"←son→"> <"←lei→"> <"←vuoitán→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@←OBJ> <@←OPRED> <@←ADVL> <@CLB> <@CVP> <@ADVL→> <@+FMAINV> <@←ADVL> <@←OBJ> <@CVP> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@→N> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←OBJ> <@←OPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@CLB> 
-<@ADVL→> <@+FMAINV> <@←SUBJ> <@CVP> <@+FMAINV> <@←SPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@→CC> <@←SPRED> <@CNP> <@←SPRED> <LEFT> <@SUBJ→> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@←ADVL> <@CVP> <@+FMAINV> <@←OBJ> <@←OPRED> <@→N> <@←ADVL> <RIGHT> <@CLB> 
+<@ADVL→> <@+FMAINV> <@←SUBJ> <@CVP> <@+FMAINV> <@←SPRED> <@CVP> <@SUBJ→> <@+FMAINV> <@→CC> <@←SPRED> <@CNP> <@←SPRED> <@PUNCT> <@SUBJ→> <@SUBJ→> <@+FMAINV> <@→N> <@→N> <@←ADVL> <@CVP> <@+FMAINV> <@←OBJ> <@←OPRED> <@→N> <@←ADVL> <@PUNCT> <@CLB> 
 <@→N> <@SUBJ→> <@→N> <@SUBJ→> <@+FMAINV> <@←OBJ> <@←OPRED> <@←ADVL> <@CVP> <@SUBJ→> <@+FMAINV> <@→ADVL> <@ADVL→> <@+FAUXV> <@-FMAINV> <@CLB> 
 <@→N> <@→N> <@→N> <@→N> <@→N> <@→N> <@SUBJ→> <@+FMAINV> <@-FSUBJ→> <@←ADVL> <@←OBJ> <@CLB> <@CVP> <@ADVL→> <@Num←> <@+FAUXV> <@-FAUXV> <@-FAUXV> <@→N> <@OBJ→> <@-FMAINV> <@CVP> <@-FMAINV> <@CLB> <@CVP> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←SPRED> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@CVP> <@+FMAINV> <@←OBJ> <@←OPRED> <@←ADVL> <@OBJ→> <@→N> <@→N> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@→P> <@←ADVL> <@CLB> 
@@ -3639,7 +3639,7 @@
 <@SUBJ→> <@+FMAINV> <@CVP> <@+FMAINV> <@CLB> 
 <@SUBJ→> <@ADVL→> <@+FMAINV> <@←ADVL> <@CLB> 
 <@→N> <@SUBJ→> <@+FMAINV> <@←ADVL> <@←OBJ> <@CNP> <@←OBJ> <@CLB> 
-<@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CNP> <@→N> <@←ADVL> <@←ADVL> <"←Anárjávrri→"> <"←gáddái→"> <"←.→"> 
+<@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@CNP> <@→N> <@←ADVL> <@←ADVL> <@→N> <@-F←ADVL> <@CLB> 
 <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@→Pron> <@←OBJ> <@→N> <@←ADVL> <@CLB> <@CVP> <@+FMAINV> <@-FMAINV> <@←ADVL> <@CLB> 
 <@N→> <@→N> <@SUBJ→> <@+FMAINV> <@→N> <@←ADVL> <@←ADVL> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@CNP> <@SUBJ→> <@+FMAINV> <@←ADVL> <@→N> <@→N> <@←OBJ> <@CVP> <@+FMAINV> <@←ADVL> <@CLB> 
