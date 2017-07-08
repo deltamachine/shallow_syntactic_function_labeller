@@ -3680,4 +3680,3 @@
 <@→P> <@ADVL→> <@SUBJ→> <@+FAUXV> <@-FAUXV> <@-FMAINV> <@→N> <@←ADVL> <@CLB> 
 <@+FMAINV> <@SUBJ→> <@+FMAINV> <@→A> <@→N> <@←SPRED> <@CLB> <@OBJ→> <@+FAUXV> <@←SPRED> <@-FMAINV> <@→P> <@←ADVL> <@CLB> 
 <@SUBJ→> <@+FAUXV> <@-FMAINV> <@→N> <@←OBJ> <@CLB> <@+FAUXV> <@-FMAINV> <@→N> <@←OBJ> <@CLB> <@SUBJ→> <@+FAUXV> <@-FMAINV> <@←ADVL> <@←OBJ> <@-F←ADVL> <@P←> <@CLB> <@CVP> <@ADVL→> <@ADVL→> <@CNP> <@ADVL→> <@+FMAINV> <@←SUBJ> <@N←> <@→N> <@→N> <@←OBJ> <@CLB> 
-
