@@ -199,4 +199,4 @@
 <pr> <det> <adj> <n><m><sg> <cm> <det> <n><f><sg> <vblex><pp> <vpart> <vblex><past><p3><sg> <sent> 
 <pr> <det> <num><ord> <n><m><sg> <cm> <det> <n><m><sg> <vblex><pp> <vpart> <vblex><past><p3><sg> <sent> 
 <pr> <det> <num><ord> <n><m><sg> <cm> <det> <n><m><sg> <vblex><pp> <vpart> <vblex><past><p3><sg> <sent> 
-<pr> <det> <num><ord> <n><m><sg> <cm> <det> <n><m><sg> <vblex><pp> <vpart> <vblex><past><p3><sg> <sent> 
+<pr> <det> <num><ord> <n><m><sg> <cm> <det> <n><m><sg> <vblex><pp> <vpart> <vblex><past><p3><sg> <sent>
