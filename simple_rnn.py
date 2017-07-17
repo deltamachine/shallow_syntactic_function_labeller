@@ -20,7 +20,7 @@ def find_params(X_corpus, y_corpus):
     return max_length, morph, syntax
 
 
-def train_test_split(X_corpus, y_corpus): #train/test = 80/10        
+def train_test_split(X_corpus, y_corpus): #train/test = 80/20        
     train_ind = round(len(X_corpus) * 0.8)
     train_set = []
     test_set = []
