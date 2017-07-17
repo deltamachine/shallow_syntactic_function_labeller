@@ -1,27 +1,32 @@
 import sys
 import dynet as dy
+import numpy as np
 
 
-def find_params(X_corpus, y_corpus):
-    max_length = 0
-    morph = []
+def needed_data(y_corpus, word2vec_file):
     syntax = []
+    vocab = {}
+    vectors = []
     
-    for i in range(len(X_corpus)):
-        morph += X_corpus[i].split()
+    for i in range(len(y_corpus)):
         syntax += y_corpus[i].split()
-        
-        if len(X_corpus[i].split()) > max_length:
-            max_length = len(X_corpus[i].split())
-            
-    morph = list(set(morph))
-    syntax = list(set(syntax))
     
-    return max_length, morph, syntax
+    syntax = list(set(syntax))
+
+    with open(word2vec_file, 'r', encoding = 'utf-8') as file:
+        f = file.readlines()
+    
+    for i, line in enumerate(f):
+        if i != 0:
+            word = line.split()
+            vocab[word[0]] = i-1
+            vectors.append(list(map(float, word[1:])))
+
+    return vocab, vectors, syntax
 
 
 def train_test_split(X_corpus, y_corpus): #train/test = 80/20        
-    train_ind = round(len(X_corpus) * 0.8)
+    train_ind = round(len(X_corpus) * 0.6)
     train_set = []
     test_set = []
     
@@ -34,31 +39,27 @@ def train_test_split(X_corpus, y_corpus): #train/test = 80/20
     return train_set, test_set
 
 
-def prepare_data(X_filename, y_filename):
+def prepare_data(X_filename, y_filename, word2vec_file):
     EOS = "<EOS>"
 
     with open(X_filename, 'r', encoding = 'utf-8') as file:
-        X_corpus = file.read().strip('\n\n').split('\n')
+        X_corpus= file.read().strip('\n\n').split('\n')
 
     with open(y_filename, 'r', encoding = 'utf-8') as file:
         y_corpus = file.read().strip('\n\n').split('\n')
 
     train_set, test_set = train_test_split(X_corpus, y_corpus)
-    max_length, morph, syntax = find_params(X_corpus, y_corpus)
+    vocab, vectors, syntax = needed_data(y_corpus, word2vec_file)
 
-    morph.append(EOS)
     syntax.append(EOS)
 
-    morph2int = {c:i for i,c in enumerate(morph)}
     syntax2int = {c:i for i,c in enumerate(syntax)}
     int2syntax = {i:c for i,c in enumerate(syntax)}
     
-    voc_size = len(morph) + len(syntax)
-    
-    return train_set, test_set, morph2int, syntax2int, int2syntax, max_length, voc_size
+    return train_set, test_set, vocab, vectors, syntax2int, int2syntax
 
 
-def train(network, train_set, test_set, iterations = 100):
+def train(network, train_set, test_set, iterations = 50):
     def get_val_set_loss(network, test_set):
         loss = [network.get_loss(input_string, output_string).value() for input_string, output_string in test_set]
         return sum(loss)
@@ -77,13 +78,13 @@ def train(network, train_set, test_set, iterations = 100):
         trainer.update()
 
         if i%(len(train_set)/iterations) == 0:
-            val_loss = get_val_set_loss(network, test_set)
+            test_loss = get_val_set_loss(network, test_set)
             test_score = get_accuracy_score(network, test_set)
             train_result = network.generate(train_set[0][0])
             test_result = network.generate(test_set[0][0])
 
             print('Iteration %s:' % (i/(len(train_set)/iterations)))
-            print('Loss on test set: %s' % (val_loss))
+            print('Loss on test set: %s' % (test_loss))
             print('Test set accuracy: %s\n' % (test_score))
             print('%s\n%s\n' % (train_set[0][1], train_result))
             print('%s\n%s\n' % (test_set[0][1], test_result))
@@ -107,23 +108,23 @@ def get_accuracy_score(network, test_set):
             for j in range (len(true_answer)):
                 if pred_answer[j] == true_answer[j]:
                     c += 1
-        
+
         errors.append(c / len(true_answer))
     accuracy_score = sum(errors) / len(errors)
     
     return accuracy_score
 
-
 class AttentionNetwork:
-    def __init__(self, enc_layers, dec_layers, embeddings_size, enc_state_size, dec_state_size):
+    def __init__(self, enc_layers, dec_layers, vectors, enc_state_size, dec_state_size):
         self.model = dy.Model()
-        self.embeddings = self.model.add_lookup_parameters((VOCAB_SIZE, embeddings_size))
+        self.embeddings = self.model.add_lookup_parameters((len(vectors), len(vectors[0])))
+        self.embeddings.init_from_array(np.array(vectors))
 
-        self.ENC_RNN = RNN_BUILDER(enc_layers, embeddings_size, enc_state_size, self.model)
+        self.ENC_RNN = RNN_BUILDER(enc_layers, len(vectors[0]), enc_state_size, self.model)
         self.DEC_RNN = RNN_BUILDER(dec_layers, enc_state_size, dec_state_size, self.model)
 
-        self.output_w = self.model.add_parameters((VOCAB_SIZE, dec_state_size))
-        self.output_b = self.model.add_parameters((VOCAB_SIZE))
+        self.output_w = self.model.add_parameters((len(vectors), dec_state_size))
+        self.output_b = self.model.add_parameters((len(vectors)))
 
         self.attention_w1 = self.model.add_parameters((enc_state_size, enc_state_size))
         self.attention_w2 = self.model.add_parameters((enc_state_size, dec_state_size))
@@ -133,18 +134,15 @@ class AttentionNetwork:
 
     def _preprocess_input(self, string):
         string = string.split() + [EOS]
-        return [morph2int[c] for c in string]
+        return [dy.lookup(self.embeddings, vocab[word]) for word in string]
     
     def _preprocess_output(self, string):
         string = string.split() + [EOS]
         return [syntax2int[c] for c in string]
-    
-    def _embed_string(self, string):
-        return [self.embeddings[word] for word in string]
 
-    def _encode_string(self, embedded_string):
+    def _encode_string(self, input_string):
         initial_state = self.ENC_RNN.initial_state()
-        hidden_states = self._run_rnn(initial_state, embedded_string)
+        hidden_states = self._run_rnn(initial_state, input_string)
 
         return hidden_states
 
@@ -180,13 +178,11 @@ class AttentionNetwork:
         return probs
 
     def get_loss(self, input_string, output_string):
-        input_string = self._preprocess_input(input_string)
-        output_string = self._preprocess_output(output_string)
-
         dy.renew_cg()
 
-        embedded_string = self._embed_string(input_string)
-        encoded_string = self._encode_string(embedded_string)
+        input_string = self._preprocess_input(input_string)
+        output_string = self._preprocess_output(output_string)
+        encoded_string = self._encode_string(input_string)
 
         rnn_state = self.DEC_RNN.initial_state().add_input(dy.vecInput(self.enc_state_size))
         loss = []
@@ -208,12 +204,10 @@ class AttentionNetwork:
         return predicted_tag
 
     def generate(self, input_string):
-        input_string = self._preprocess_input(input_string)
-
         dy.renew_cg()
 
-        embedded_string = self._embed_string(input_string)
-        encoded_string = self._encode_string(embedded_string)
+        input_string = self._preprocess_input(input_string)
+        encoded_string = self._encode_string(input_string)
         rnn_state = self.DEC_RNN.initial_state().add_input(dy.vecInput(self.enc_state_size))
 
         output_string = []
@@ -235,18 +229,17 @@ class AttentionNetwork:
 
 X_filename = sys.argv[1]
 y_filename = sys.argv[2]
+word2vec_file = sys.argv[3]
 
-train_set, test_set, morph2int, syntax2int, int2syntax, max_length, voc_size = prepare_data(X_filename, y_filename)
+train_set, test_set, vocab, vectors, syntax2int, int2syntax = prepare_data(X_filename, y_filename, word2vec_file)
 
 RNN_BUILDER = dy.LSTMBuilder
 EOS = "<EOS>"
-VOCAB_SIZE = voc_size
-MAX_STRING_LEN = max_length
-ENC_RNN_NUM_OF_LAYERS = 2
-DEC_RNN_NUM_OF_LAYERS = 2
-EMBEDDINGS_SIZE = voc_size
+ENC_RNN_NUM_OF_LAYERS = 1
+DEC_RNN_NUM_OF_LAYERS = 1
 ENC_STATE_SIZE = 128
 DEC_STATE_SIZE = 128
 
-att = AttentionNetwork(ENC_RNN_NUM_OF_LAYERS, DEC_RNN_NUM_OF_LAYERS, EMBEDDINGS_SIZE, ENC_STATE_SIZE, DEC_STATE_SIZE)
+
+att = AttentionNetwork(ENC_RNN_NUM_OF_LAYERS, DEC_RNN_NUM_OF_LAYERS, vectors, ENC_STATE_SIZE, DEC_STATE_SIZE)
 train(att, train_set, test_set)

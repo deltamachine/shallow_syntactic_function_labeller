@@ -1,5 +1,5 @@
-import dynet as dy
 import sys
+import dynet as dy
 
 
 def find_params(X_corpus, y_corpus):
@@ -65,6 +65,7 @@ def train(network, train_set, test_set, iterations = 50):
     
     train_set = train_set*iterations 
     trainer = dy.SimpleSGDTrainer(network.model)
+    c = 0
     
     for i, training_example in enumerate(train_set):
         input_string, output_string = training_example
@@ -86,6 +87,12 @@ def train(network, train_set, test_set, iterations = 50):
             print('Test set accuracy: %s\n' % (test_score))
             print('%s\n%s\n' % (train_set[0][1], train_result))
             print('%s\n%s\n' % (test_set[0][1], test_result))
+
+            if test_score > c:
+                filename = 'att_' + str(test_score)
+                c = test_score
+                network.model.save(filename)
+                print('Saving best model: %s\n' % (test_score))
 
 
 def get_accuracy_score(network, test_set):
