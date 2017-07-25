@@ -235,10 +235,10 @@ train_set, test_set, vocab, vectors, syntax2int, int2syntax = prepare_data(X_fil
 
 RNN_BUILDER = dy.LSTMBuilder
 EOS = "<EOS>"
-ENC_RNN_NUM_OF_LAYERS = 1
-DEC_RNN_NUM_OF_LAYERS = 1
-ENC_STATE_SIZE = 128
-DEC_STATE_SIZE = 128
+ENC_RNN_NUM_OF_LAYERS = 2
+DEC_RNN_NUM_OF_LAYERS = 2
+ENC_STATE_SIZE = 32
+DEC_STATE_SIZE = 32
 
 
 att = AttentionNetwork(ENC_RNN_NUM_OF_LAYERS, DEC_RNN_NUM_OF_LAYERS, vectors, ENC_STATE_SIZE, DEC_STATE_SIZE)

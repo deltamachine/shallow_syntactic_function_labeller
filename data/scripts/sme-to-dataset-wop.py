@@ -23,7 +23,7 @@ def remove_double_lines(corpus):
     return corpus
 
 def replace_old_tags(corpus):
-    with open ('tags.json', 'r', encoding = 'utf-8') as file:
+    with open ('sme-tags.json', 'r', encoding = 'utf-8') as file:
         new_tags = json.load(file)
 
     for key, value in new_tags.items():

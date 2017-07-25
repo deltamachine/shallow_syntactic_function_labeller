@@ -1,6 +1,4 @@
-import re
 import sys
-import json
 import dynet as dy
 import numpy as np
 
@@ -27,7 +25,7 @@ def needed_data(y_corpus, word2vec_file):
     return vocab, vectors, syntax
 
 
-def train_test_split(X_corpus, y_corpus): #train/test = 80/10        
+def train_test_split(X_corpus, y_corpus): #train/test = 80/20        
     train_ind = round(len(X_corpus) * 0.8)
     train_set = []
     test_set = []
@@ -61,13 +59,14 @@ def prepare_data(X_filename, y_filename, word2vec_file):
     return train_set, test_set, vocab, vectors, syntax2int, int2syntax
 
 
-def train(network, train_set, test_set, iterations = 50):
+def train(network, train_set, test_set, iterations = 1000):
     def get_val_set_loss(network, test_set):
         loss = [network.get_loss(input_string, output_string).value() for input_string, output_string in test_set]
         return sum(loss)
     
     train_set = train_set*iterations 
-    trainer = dy.SimpleSGDTrainer(network.model)
+    trainer = dy.AdadeltaTrainer(network.model)
+    c = 0
     
     for i, training_example in enumerate(train_set):
         input_string, output_string = training_example
@@ -89,6 +88,12 @@ def train(network, train_set, test_set, iterations = 50):
             print('Test set accuracy: %s\n' % (test_score))
             print('%s\n%s\n' % (train_set[0][1], train_result))
             print('%s\n%s\n' % (test_set[0][1], test_result))
+
+            if test_score > c:
+                filename = 'simple_' + str(test_score)
+                c = test_score
+                network.model.save(filename)
+                print('Saving best model: %s\n' % (test_score))
 
 
 def get_accuracy_score(network, test_set):
@@ -194,7 +199,7 @@ train_set, test_set, vocab, vectors, syntax2int, int2syntax = prepare_data(X_fil
 RNN_BUILDER = dy.LSTMBuilder
 EOS = "<EOS>"
 RNN_NUM_OF_LAYERS = 2
-STATE_SIZE = 128
+STATE_SIZE = 32
 
 rnn = SimpleRNNNetwork(RNN_NUM_OF_LAYERS, vectors, STATE_SIZE)
 train(rnn, train_set, test_set)
