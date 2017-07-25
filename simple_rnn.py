@@ -1,26 +1,33 @@
+import re
 import sys
+import json
 import dynet as dy
+import numpy as np
 
 
-def find_params(X_corpus, y_corpus):
-    max_length = 0
-    morph = []
+def needed_data(y_corpus, word2vec_file):
     syntax = []
+    vocab = {}
+    vectors = []
     
-    for i in range(len(X_corpus)):
-        morph += X_corpus[i].split()
+    for i in range(len(y_corpus)):
         syntax += y_corpus[i].split()
-        
-        if len(X_corpus[i].split()) > max_length:
-            max_length = len(X_corpus[i].split())
-            
-    morph = list(set(morph))
-    syntax = list(set(syntax))
     
-    return max_length, morph, syntax
+    syntax = list(set(syntax))
+
+    with open(word2vec_file, 'r', encoding = 'utf-8') as file:
+        f = file.readlines()
+    
+    for i, line in enumerate(f):
+        if i != 0:
+            word = line.split()
+            vocab[word[0]] = i-1
+            vectors.append(list(map(float, word[1:])))
+
+    return vocab, vectors, syntax
 
 
-def train_test_split(X_corpus, y_corpus): #train/test = 80/20        
+def train_test_split(X_corpus, y_corpus): #train/test = 80/10        
     train_ind = round(len(X_corpus) * 0.8)
     train_set = []
     test_set = []
@@ -34,28 +41,24 @@ def train_test_split(X_corpus, y_corpus): #train/test = 80/20
     return train_set, test_set
 
 
-def prepare_data(X_filename, y_filename):
+def prepare_data(X_filename, y_filename, word2vec_file):
     EOS = "<EOS>"
 
     with open(X_filename, 'r', encoding = 'utf-8') as file:
-        X_corpus = file.readlines()
+        X_corpus= file.read().strip('\n\n').split('\n')
 
     with open(y_filename, 'r', encoding = 'utf-8') as file:
-        y_corpus = file.readlines()
+        y_corpus = file.read().strip('\n\n').split('\n')
 
     train_set, test_set = train_test_split(X_corpus, y_corpus)
-    max_length, morph, syntax = find_params(X_corpus, y_corpus)
+    vocab, vectors, syntax = needed_data(y_corpus, word2vec_file)
 
-    morph.append(EOS)
     syntax.append(EOS)
 
-    morph2int = {c:i for i,c in enumerate(morph)}
     syntax2int = {c:i for i,c in enumerate(syntax)}
     int2syntax = {i:c for i,c in enumerate(syntax)}
     
-    voc_size = len(morph) + len(syntax)
-    
-    return train_set, test_set, morph2int, syntax2int, int2syntax, max_length, voc_size
+    return train_set, test_set, vocab, vectors, syntax2int, int2syntax
 
 
 def train(network, train_set, test_set, iterations = 50):
@@ -65,7 +68,6 @@ def train(network, train_set, test_set, iterations = 50):
     
     train_set = train_set*iterations 
     trainer = dy.SimpleSGDTrainer(network.model)
-    c = 0
     
     for i, training_example in enumerate(train_set):
         input_string, output_string = training_example
@@ -88,12 +90,6 @@ def train(network, train_set, test_set, iterations = 50):
             print('%s\n%s\n' % (train_set[0][1], train_result))
             print('%s\n%s\n' % (test_set[0][1], test_result))
 
-            if test_score > c:
-                filename = 'att_' + str(test_score)
-                c = test_score
-                network.model.save(filename)
-                print('Saving best model: %s\n' % (test_score))
-
 
 def get_accuracy_score(network, test_set):
     errors = []
@@ -109,30 +105,27 @@ def get_accuracy_score(network, test_set):
                     c += 1
 
         errors.append(c / len(true_answer))
-
     accuracy_score = sum(errors) / len(errors)
     
     return accuracy_score
 
 
 class SimpleRNNNetwork:
-    def __init__(self, rnn_num_of_layers, embeddings_size, state_size):
+    def __init__(self, rnn_num_of_layers, vectors, state_size):
         self.model = dy.Model()
-        self.embeddings = self.model.add_lookup_parameters((VOCAB_SIZE, embeddings_size))
-        self.RNN = RNN_BUILDER(rnn_num_of_layers, embeddings_size, state_size, self.model)
-        self.output_w = self.model.add_parameters((VOCAB_SIZE, state_size))
-        self.output_b = self.model.add_parameters((VOCAB_SIZE))
+        self.embeddings = self.model.add_lookup_parameters((len(vectors), len(vectors[0])))
+        self.embeddings.init_from_array(np.array(vectors))
+        self.RNN = RNN_BUILDER(rnn_num_of_layers, len(vectors[0]), state_size, self.model)
+        self.output_w = self.model.add_parameters((len(vectors), state_size))
+        self.output_b = self.model.add_parameters((len(vectors)))
     
     def _preprocess_input(self, string):
         string = string.split() + [EOS]
-        return [morph2int[c] for c in string]
+        return [dy.lookup(self.embeddings, vocab[word]) for word in string]
     
     def _preprocess_output(self, string):
         string = string.split() + [EOS]
         return [syntax2int[c] for c in string]
-    
-    def _embed_string(self, string):
-    	return [self.embeddings[word] for word in string]
 
     def _run_rnn(self, init_state, input_vecs):
         s = init_state
@@ -149,17 +142,15 @@ class SimpleRNNNetwork:
         return probs
 
     def get_loss(self, input_string, output_string):
-        input_string = self._preprocess_input(input_string)
-        output_string = self._preprocess_output(output_string)
-
         dy.renew_cg()
 
-        embedded_string = self._embed_string(input_string)
+        input_string = self._preprocess_input(input_string)
+        output_string = self._preprocess_output(output_string)
         
         rnn_state = self.RNN.initial_state()
-        rnn_outputs = self._run_rnn(rnn_state, embedded_string)
+        rnn_outputs = self._run_rnn(rnn_state, input_string)
         loss = []
-        
+
         for rnn_output, output_tag in zip(rnn_outputs, output_string):
             probs = self._get_probs(rnn_output)
             loss.append(-dy.log(dy.pick(probs, output_tag)))
@@ -175,13 +166,12 @@ class SimpleRNNNetwork:
         return predicted_tag
     
     def generate(self, input_string):
-        input_string = self._preprocess_input(input_string)
-
         dy.renew_cg()
 
-        embedded_string = self._embed_string(input_string)
+        input_string = self._preprocess_input(input_string)
+
         rnn_state = self.RNN.initial_state()
-        rnn_outputs = self._run_rnn(rnn_state, embedded_string)
+        rnn_outputs = self._run_rnn(rnn_state, input_string)
         
         output_string = []
         
@@ -197,16 +187,14 @@ class SimpleRNNNetwork:
 
 X_filename = sys.argv[1]
 y_filename = sys.argv[2]
+word2vec_file = sys.argv[3]
 
-train_set, test_set, morph2int, syntax2int, int2syntax, max_length, voc_size = prepare_data(X_filename, y_filename)
+train_set, test_set, vocab, vectors, syntax2int, int2syntax = prepare_data(X_filename, y_filename, word2vec_file)
 
 RNN_BUILDER = dy.LSTMBuilder
 EOS = "<EOS>"
-VOCAB_SIZE = voc_size
-MAX_STRING_LEN = max_length
 RNN_NUM_OF_LAYERS = 2
-EMBEDDINGS_SIZE = voc_size
 STATE_SIZE = 128
 
-rnn = SimpleRNNNetwork(RNN_NUM_OF_LAYERS, EMBEDDINGS_SIZE, STATE_SIZE)
+rnn = SimpleRNNNetwork(RNN_NUM_OF_LAYERS, vectors, STATE_SIZE)
 train(rnn, train_set, test_set)
