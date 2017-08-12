@@ -161,7 +161,7 @@ def add_functions(rnn, string, sequences, checked_sequences, combinations):
 			
 			if prediction[j] not in part:
 				new_part = part + prediction[j]
-				string = re.sub(part, new_part, string)
+				string = re.sub(re.escape(part), new_part, string)
 				combinations.replace_reading(sequence[j], new_part)
 
 	string = re.sub('<@CLB>', '', string)
