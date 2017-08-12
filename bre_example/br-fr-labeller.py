@@ -1,4 +1,5 @@
 import re
+import sys
 import json
 import dynet as dy
 import numpy as np
@@ -17,16 +18,8 @@ class SimpleRNNNetwork:
 	
 	def _preprocess_input(self, string):
 		string = string.split() + ['<EOS>']
-		input_list = []
 
-		for i in range(len(string)):
-			string[i] = re.sub('><', '>!<', string[i]).split('!')
-			word = np.array([dy.lookup(self.embeddings, vocab[elem]) for elem in string[i]])
-			word = np.sum(word, axis=0)
-			
-			input_list.append(word)
-
-		return input_list
+		return [dy.lookup(self.embeddings, vocab[word]) for word in string]
 
 	def _run_rnn(self, init_state, input_vecs):
 		s = init_state
@@ -90,10 +83,10 @@ def prepare_data():
 	vectors =  []
 	vocab = {}
 
-	with open('sme-embeddings.vec', 'r', encoding = 'utf-8') as file:
+	with open('br-embeddings.vec', 'r', encoding = 'utf-8') as file:
 		f = file.readlines()
 
-	with open('sme-int2syntax.json', 'r', encoding = 'utf-8') as jsonfile:
+	with open('br-int2syntax.json', 'r', encoding = 'utf-8') as jsonfile:
 		s = jsonfile.read()
 		
 	for i, line in enumerate(f):
@@ -134,21 +127,19 @@ def parse_asf(string):
 	return sequences, combinations
 
 
-def replace_useless_tags(checked_sequences):
-	with open('sme-morph-tags.txt', 'r', encoding = 'utf-8') as file:
-		morph_tags = file.read().split()
-
-	for i in range(len(checked_sequences)):
-		sequence_tags = checked_sequences[i].split()
-		
-		for j in range(len(sequence_tags)):
-			sequence_tags[j] = re.sub('><', '>!<', sequence_tags[j]).split('!')
-
-			for elem in sequence_tags[j]:
-				if elem not in morph_tags:
-					checked_sequences[i] = re.sub(elem, '', checked_sequences[i])
-	
-	return checked_sequences
+def replace_useless_tags(sequences):
+	for i in range(len(sequences)):
+		sequences[i] = re.sub('<ABBR>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<ACR>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<Allegro>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<G3>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<G7>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<ext>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<Foc_>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<Qst>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<sem_state>', '', sequences[i], flags = re.IGNORECASE)
+		sequences[i] = re.sub('<sp>', '', sequences[i], flags = re.IGNORECASE)
+	return sequences
 
 
 def add_functions(rnn, string, sequences, checked_sequences, combinations):
@@ -165,22 +156,20 @@ def add_functions(rnn, string, sequences, checked_sequences, combinations):
 				combinations.replace_reading(sequence[j], new_part)
 
 	string = re.sub('<@CLB>', '', string)
-	string += '[][]'
-
+	
 	return string
 
 
 vectors, vocab, int2syntax = prepare_data()
 
 rnn = SimpleRNNNetwork(2, vectors, 32)
-rnn.model.populate('sme-syntax')
+rnn.model.populate('br-syntax')
 
-original_string = input()
-
+original_string = '^Er/E<pr>+an<det><def><sp>$ ^sal/sal<n><f><sg>$ ^dour/dour<n><m><sg>/tour<n><m><sg>/dourañ<vblex><pri><p3><sg>/dourañ<vblex><imp><p2><sg>$ ^en em/en em<vpart><ref>$ ^walc\'hen/gwalc’hañ<vblex><pii><p1><sg>/gwalc’hiñ<vblex><pii><p1><sg>$^./.<sent>$'
 undisambiguated_string = re.sub('<@.*?>', '', original_string)
 sequences, combinations = parse_asf(undisambiguated_string)
 checked_sequences = [elem for elem in sequences]
-checked_sequences = replace_useless_tags(checked_sequences)
+checked_sequences= replace_useless_tags(checked_sequences)
 string = add_functions(rnn, original_string, sequences, checked_sequences, combinations)
 
 print(string)

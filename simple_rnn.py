@@ -1,4 +1,6 @@
+import re
 import sys
+import json
 import dynet as dy
 import numpy as np
 
@@ -15,15 +17,25 @@ def train_test_split(X_corpus, y_corpus): #train/test = 80/20
 def create_vectors_and_vocab(word2vec_file):
     vocab = {}
     vectors = []
+    morph_tags = []
 
     with open(word2vec_file, 'r', encoding = 'utf-8') as file:
-        f = file.readlines()
+        f = file.read().strip('\n')
+
+    f = re.sub('><', '>!<', f).split('\n')
     
     for i, line in enumerate(f):
         if i != 0:
             word = line.split()
+            morph_tags += word[0].split('!')
+            word[0] = re.sub('>!<', '><', word[0])
             vocab[word[0]] = i-1
             vectors.append(list(map(float, word[1:])))
+
+    morph_tags = list(set(morph_tags))
+
+    with open('morph_tags.txt', 'w', encoding = 'utf-8') as file:
+        file.write(' '.join(morph_tags))
 
     return vocab, vectors
 
@@ -57,7 +69,7 @@ def prepare_data(X_filename, y_filename, word2vec_file):
     return train_set, test_set, vocab, vectors, syntax2int, int2syntax
 
 
-def train(network, train_set, test_set, epochs = 10):
+def train(network, train_set, test_set, epochs = 100):
     def get_val_set_loss(network, test_set):
         loss = [network.get_loss(input_string, output_string).value() for input_string, output_string in test_set]
         return sum(loss)
@@ -192,6 +204,10 @@ y_filename = sys.argv[2]
 word2vec_file = sys.argv[3]
 
 train_set, test_set, vocab, vectors, syntax2int, int2syntax = prepare_data(X_filename, y_filename, word2vec_file)
+
+f = open('data.json', 'w', encoding='utf-8')
+json.dump(int2syntax, f, ensure_ascii = False)
+f.close()
 
 EOS = "<EOS>"
 RNN_NUM_OF_LAYERS = 2
