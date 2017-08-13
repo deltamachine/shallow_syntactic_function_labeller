@@ -15,7 +15,7 @@ class SimpleRNNNetwork:
 		self.output_w = self.model.add_parameters((len(vectors), state_size))
 		self.output_b = self.model.add_parameters((len(vectors)))
 	
-	def _preprocess_input(self, string):
+	def _preprocess_input(self, string, vocab):
 		string = string.split() + ['<EOS>']
 		input_list = []
 
@@ -42,16 +42,16 @@ class SimpleRNNNetwork:
 		
 		return probs
 
-	def _predict(self, probs):
+	def _predict(self, probs, int2syntax):
 		probs = probs.value()
 		predicted_tag = int2syntax[str(probs.index(max(probs)))]
 		
 		return predicted_tag
 	
-	def generate(self, input_string):
+	def generate(self, input_string, vocab, int2syntax):
 		dy.renew_cg()
 
-		input_string = self._preprocess_input(input_string)
+		input_string = self._preprocess_input(input_string, vocab)
 
 		rnn_state = self.RNN.initial_state()
 		rnn_outputs = self._run_rnn(rnn_state, input_string)
@@ -60,7 +60,7 @@ class SimpleRNNNetwork:
 		
 		for rnn_output in rnn_outputs:
 			probs = self._get_probs(rnn_output)
-			predicted_tag = self._predict(probs)
+			predicted_tag = self._predict(probs, int2syntax)
 			output_string.append(predicted_tag)
 		
 		output_string = ' '.join(output_string)
@@ -151,9 +151,12 @@ def replace_useless_tags(checked_sequences):
 	return checked_sequences
 
 
-def add_functions(rnn, string, sequences, checked_sequences, combinations):
+def add_functions(rnn, string, vocab, int2syntax, sequences, combinations):
+	checked_sequences = [elem for elem in sequences]
+	checked_sequences = replace_useless_tags(checked_sequences)
+
 	for i in range(len(sequences)):
-		prediction = rnn.generate(checked_sequences[i]).split()
+		prediction = rnn.generate((checked_sequences[i]), vocab, int2syntax).split()
 		sequence = sequences[i].split()
 		
 		for j in range(len(sequence)):
@@ -165,22 +168,25 @@ def add_functions(rnn, string, sequences, checked_sequences, combinations):
 				combinations.replace_reading(sequence[j], new_part)
 
 	string = re.sub('<@CLB>', '', string)
-	string += '[][]'
+	string = re.sub('\^.*?/', '^', string) + '[][]'
 
 	return string
 
 
-vectors, vocab, int2syntax = prepare_data()
+def main():
+	original_string = input()
 
-rnn = SimpleRNNNetwork(2, vectors, 32)
-rnn.model.populate('sme-syntax')
+	vectors, vocab, int2syntax = prepare_data()
 
-original_string = input()
+	rnn = SimpleRNNNetwork(2, vectors, 32)
+	rnn.model.populate('sme-syntax')
 
-undisambiguated_string = re.sub('<@.*?>', '', original_string)
-sequences, combinations = parse_asf(undisambiguated_string)
-checked_sequences = [elem for elem in sequences]
-checked_sequences = replace_useless_tags(checked_sequences)
-string = add_functions(rnn, original_string, sequences, checked_sequences, combinations)
+	undisambiguated_string = re.sub('<@.*?>', '', original_string)
+	sequences, combinations = parse_asf(undisambiguated_string)
+	string = add_functions(rnn, original_string, vocab, int2syntax, sequences, combinations)
 
-print(string)
+	print(string)
+
+
+if __name__ == '__main__':
+	main()
