@@ -106,6 +106,17 @@ def prepare_data():
 	return vectors, vocab, int2syntax
 
 
+def split_sentences(string):
+	string = re.sub('!', '!<eos>', string)
+	string = re.sub(re.escape('^?/?<sent>$'), '^?/?<sent>$' + '<eos>', string)
+	string = re.sub(re.escape('^../..<sent>$'), '^../..<sent>$' + '<eos>', string)
+	string = re.sub(re.escape('^./.<sent>$'), '^./.<sent>$' + '<eos>', string)
+	sentences = string.split('<eos>')
+	sentences = [elem.strip() for elem in sentences[:-1]]
+	
+	return sentences
+
+
 def parse_asf(string):
 	units = parse(c for c in string)
 	combinations = DoubleArray([], [])
@@ -127,7 +138,7 @@ def parse_asf(string):
 		
 		options[str(unit)] = tags
 
-	elements = [options[key.strip(' ^')] for key in string.split('$')[:-1]]
+	elements = [options[re.sub('.*?\^', '', key)] for key in string.split('$')[:-1]]
 	elements = product(*elements)
 	sequences = [' '.join(elem) for elem in elements]
 
@@ -174,18 +185,24 @@ def add_functions(rnn, string, vocab, int2syntax, sequences, combinations):
 
 
 def main():
-	original_string = input()
+	input_string = input()
+	labelled_sentences = []
 
 	vectors, vocab, int2syntax = prepare_data()
-
 	rnn = SimpleRNNNetwork(2, vectors, 32)
 	rnn.model.populate('sme-syntax')
 
-	undisambiguated_string = re.sub('<@.*?>', '', original_string)
-	sequences, combinations = parse_asf(undisambiguated_string)
-	string = add_functions(rnn, original_string, vocab, int2syntax, sequences, combinations)
+	input_string = re.sub('<@.*?>', '', input_string)
+	sentences = split_sentences(input_string)
 
-	print(string)
+	for sentence in sentences:
+		sequences, combinations = parse_asf(sentence)
+		sentence = add_functions(rnn, sentence, vocab, int2syntax, sequences, combinations)
+		labelled_sentences.append(sentence)
+
+	output_string = ' '.join(labelled_sentences[:-1]) + labelled_sentences[-1]
+	
+	print(output_string)
 
 
 if __name__ == '__main__':

@@ -53,7 +53,7 @@ def change_other_modes(apertium_path, python_path, type_of_change):
 def main():
 	apertium_path = sys.argv[1]
 	python_path = sys.argv[2]
-	install_mode = sys.argv[3]
+	work_mode = sys.argv[3]
 	type_of_change = sys.argv[4]
 
 	if install_mode == '-install':
