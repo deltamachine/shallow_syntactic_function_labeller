@@ -56,7 +56,7 @@ def main():
 	work_mode = sys.argv[3]
 	type_of_change = sys.argv[4]
 
-	if install_mode == '-install':
+	if work_mode == '-install':
 		copy_files(apertium_path)
 
 	change_main_modes(apertium_path, python_path, type_of_change)
