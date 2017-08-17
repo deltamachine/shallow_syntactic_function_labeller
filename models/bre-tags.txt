@@ -1,0 +1,1 @@
+<x> <lpar> <f> <past> <rquot> <vpart> <predet> <UNK> <guio> <np> <adj> <p3> <itg> <sup> <vblex> <rpar> <dem> <EOS> <ord> <subj> <neg> <pr> <pri> <pos> <pp> <obj> <preadv> <impers> <n> <lquot> <sym> <comp> <adv> <sg> <vbloc> <fti> <cm> <pl> <inf> <p1> <prn> <sent> <cni> <cnjadv> <cnjcoo> <cnjsub> </s> <num> <prh> <p2> <rel> <pih> <m> <det>
