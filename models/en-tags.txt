@@ -1,1 +1,0 @@
-<int> <cnjsub> <sg> <ij> <prn> <rel> <imp> <ind> num<sg> <pos> <subj> <pprs> <UNK> <EOS> <m> <comp> <dem> <p3> <pass> <ord> <vblex> <p2> <x> <inf> <sup> <ref> <np> <sp> <sent> <ger> <sym> <past> num <cnjcoo> <pr> <p1> <pst> <f> <obj> <cm> <pp> <pl> <adv> <nt> <det> <def> <pri> <guio> <n> </s> <vaux> <adj>
