@@ -1,0 +1,483 @@
+<adj> <n><nom> <prn><def><dat> <adj> <v><iv><ger><px3sp><nom> <adj> <cop><aor><p3><sg> <sent> 
+<det><dem> <n><nom> <adv><itg> <v><iv><aor><p3><sg> <sent> 
+<np><><dat> <v><iv><gpr_impf> <n><nom> <adv><itg> <cop><aor><p3><sg> <sent> 
+<n><nom> <px3sp><nom> <post> <n><pl><acc> <v><tv><ger><nom> <n><px3sp><dat> <post> <cm> <num> <n><gen> <nom> <np><><loc> <v><iv><ger><nom> <adj> <v><iv><ifi><p3><sg> <cnjcoo> <np><><nom> <det><dem> <n><acc> <v><tv><ger><dat> <n><nom> <v><tv><gpr_past> <adj> <postadv> <n><nom> <cop><ifi><p3><sg> <sent> 
+<n><nom> <lpar> <num> <n><abl> <post> <np><><m><attr> <np><><m><attr> <np><><mf><nom> <rpar> <num> <n><dat> <v><tv><pass><aor><p3><sg> <cnjcoo> <n><nom> <n><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<num> <n><nom> <post> <nom> <post> <cm> <n><loc> <adj> <cnjcoo> <adj> <postadv> <n><pl><dat> <v><tv><pass><past><p3><sg> <sent> 
+<adj> <n><nom> <nom> <guio> <n><nom> <cop><aor><p3><sg> <sent> 
+<adj> <n><pl><loc> <det><qnt> <nom> <v><iv><aor><p3><pl> <sent> 
+<num> <abbr> <np><><nom> <nom> <v><iv><gna_perf> <cm> <n><px3sp><dat> <np><><nom> <nom> <nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<num> <n><loc> <n><nom> <n><px3sp><gen> <nom> <np><><m><nom> <np><><mf><nom> <np><><mf><nom> <n><nom> <n><px3sp><acc> <np><><dat> <v><tv><ifi><p3><sg> <sent> 
+<np><><nom> <nom> <adj> <nom> <post> <np><><nom> <nom> <v><tv><gpr_past> <np><><nom> <nom> <n><px3sp><loc> <v><iv><gna_perf> <cm> <adj> <cnjcoo> <adj> <n><acc> <n><px3sp><abl> <v><tv><ifi><p3><sg> <sent> 
+<np><><m><nom> <v><iv><ger_past><abl> <post> <adj> <np><><nom> <np><><m><nom> <n><px3sp><gen> <n><px3sp><loc> <v><iv><gna_perf> <cm> <adj> <np><><loc> <np><><nom> <nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<num> <n><loc> <adj> <np><><abl> <v><iv><gpr_past> <adj><subst><nom> <px3sp><nom> <lpar> <nom> <rpar> <np><><dat> <v><iv><gna_perf> <v><iv><gna_perf> <cm> <num> <guio> <num> <abbr> <n><acc> <adj><advl> <v><tv><gna_perf> <cm> <np><><nom> <nom> <n><px3sp><acc> <v><tv><ifi><p3><sg> <sent> 
+<num> <abbr> <num> <n><loc> <adj><subst><pl><nom> <np><><m><attr> <n><gen> <n><px3sp><ins> <adj> <n><nom> <v><tv><gna_perf> <cm> <adj> <n><nom> <v><iv><ifi><p3><sg> <sent> 
+<adj> <n><nom> <n><gen> <n><px3sp><ins> <num> <abbr> <n><attr> <guio> <n><nom> <n><px3sp><acc> <v><tv><pass><ifi><p3><sg> <v><tv><gna_perf> <v><tv><ifi><p3><sg> <sent> 
+<np><><nom> <n><px3sp><loc> <nom> <n><px3sp><dat> <post> <adj> <nom> <postadv> <adj><advl> <v><tv><pass><past><p3><pl> <sent> 
+<n><nom> <n><px3sp><dat> <n><nom> <prn><dem><adv> <v><tv><pass><aor><p3><sg> <sent> 
+<n><nom> <nom> <adj> <n><nom> <guio> <n><nom> <n><pl><px3sp><gen> <nom> <n><px3sp><ins> <v><tv><pass><aor><p3><sg> <sent> 
+<n><abl> <post> <np><><m><nom> <np><pat><m><nom> <np><><loc> <v><iv><ifi><p3><sg> <sent> 
+<np><><m><nom> <n><px3sp><dat> <v><tv><pass><past><p3><sg> <sent> 
+<np><><m><nom> <adv><itg> <cop><aor><p3><sg> <sent> 
+<np><><m><nom> <adj><advl> <adj> <det><ind> <n><dat> <post> <adj><advl> <v><iv><gna_perf> <v><iv><prc_impf> <vaux><pres><p3><sg> <cm> <prn><pers><p3><sg><nom> <det><dem> <n><gen> <n><px3sp><dat> <np><><f><abl> <v><iv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<prn><pers><p3><sg><nom> <sent> <np><><m><nom> <det><itg> <n><dat> <v><iv><ifi><p3><sg> <sent> <prn><pers><p3><sg><acc> <v><tv><ifi><p2><pl> <qst> <sent> <sent> <v><tv><gna_perf> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<np><><f><nom> <n><px3sp><gen> <v><iv><ger_past><px3sp><acc> <v><tv><gna_perf> <prn><pers><p3><sg><nom> <np><><m><gen> <det><itg> <n><dat> <v><iv><ger_past><px3sp><acc> <v><tv><aor><p3><sg> <v><tv><gna_perf> <v><tv><aor><p3><sg> <sent> 
+<adv> <np><><m><acc> <v><tv><ger><dat> <v><iv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<n><loc> <adj> <n><nom> <px3sp><nom> <v><tv><pass><gna_perf> <cm> <n><nom> <px3sp><nom> <cnjcoo> <adj> <cm> <n><nom> <px3sp><nom> <v><tv><pass><ifi><p3><pl> <sent> 
+<np><><m><gen> <num> <nom> <v><iv><ifi><evid><p3><sg> <sent> 
+<np><><m><nom> <v><iv><gna_perf> <cm> <nom> <v><iv><aor><p3><sg> <sent> 
+<np><><m><nom> <v><tv><opt><p1><sg> <v><tv><gna_perf> <v><tv><prc_perf> <vaux><aor><p3><sg> <sent> 
+<np><><dat> <v><tv><pass><gpr_past> <n><acc> <n><nom> <v><tv><ifi><p3><sg> <cm> <n><nom> <v><tv><ifi><p3><sg> <cm> <n><px3sp><dat> <n><nom> <v><tv><ifi><p3><sg> <cm> <sent> <ij> <sent> <cm> <n><nom> <v><tv><ifi><p3><sg> <sent> 
+<prn><pers><p1><sg><acc> <n><attr> <n><nom> <cop><aor><p3><sg> <v><tv><gna_perf> <cm> <v><tv><gna_perf> <n><dat> <v><iv><neg><prc_perf> <aux><ger_past><px3sp> <sent> 
+<np><><f><nom> <n><pl><px3sp><dat> <v><iv><prc_perf> <postadv> <vaux><ifi><p3><sg> <sent> 
+<det><qnt> <n><gen> <n><dat> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><pl><gen> <prn><qnt><px3sp><nom> <cm> <adj><advl> <cnjcoo> <adj><advl> <v><iv><gpr_past> <cm> <adj> <adj> <n><acc> <v><tv><aor><p3><sg> <sent> 
+<prn><pers><p1><sg><nom> <n><acc> <v><tv><aor><p1><sg> <sent> 
+<prn><pers><p2><sg><frm><loc> <prn><ind><nom> <adj><comp> <adj> <cop><aor><p3><sg> <qst> <sent> 
+<n><pl><acc> <v><tv><ger_past><nom> <postadv> <adj> <cop><aor><p3><sg> <cm> <cnjcoo> <n><attr> <n><nom> <postadv> <cm> <adj> <n><nom> <postadv> <adj><advl> <v><tv><prc_cond><p3><sg> <vaux><aor><p3><sg> <sent> 
+<n><nom> <v><tv><ger><nom> <adj> <cop><aor><p3><sg> <cm> <n><nom> <cnjcoo> <cm> <n><nom> <cnjcoo> <cm> <n><nom> <cnjcoo> <cm> <n><nom> <cnjcoo> <guio> <prn><qnt><px3sp><nom> <n><loc> <v><iv><pres><p3><sg> <sent> 
+<n><ins> <n><px3sp><acc> <vol><p1><sg> <v><tv><gpr_past> <adj><subst><nom> <n><px3sp><acc> <cm> <n><px3sp><acc> <cm> <n><px3sp><acc> <n><px3sp><acc> <n><abl> <num> <v><tv><ger_past><dat> <v><tv><aor><p3><sg> <sent> 
+<v><iv><ifi><p3><sg> <cm> <v><iv><ifi><p3><sg> <cm> <v><tv><ifi><p3><sg> <cm> <v><iv><ifi><p3><sg> <cm> <adv> <v><tv><gpr_past> <n><nom> <postadv> <adj><subst><nom> <cop><aor><p3><sg> <sent> 
+<adv> <num> <n><gen> <n><px3sp><acc> <v><tv><ger><nom> <n><px3sp><dat> <v><iv><gpr_impf> <nom> <n><px3sp><dat> <cm> <adv><attr> <num> <n><acc> <lpar> <np><><nom> <cnjcoo> <np><><nom> <rpar> <v><tv><gpr_past> <n><pl><abl> <post> <cm> <det><qnt> <n><pl><abl> <nom> <n><dat> <v><iv><aor><p3><sg> <sent> 
+<np><><nom> <n><attr> <adj> <n><px3sp><gen> <adj><subst><px3sp><nom> <cnjcoo> <np><><nom> <adj> <n><px3sp><gen> <adj> <n><px3sp><loc> <v><iv><past><p3><sg> <sent> 
+<n><nom> <n><pl><px3sp><loc> <adj> <np><><nom> <lpar> <np><><nom> <rpar> <cm> <adj> <np><><nom> <lpar> <np><><nom> <cm> <np><><nom> <rpar> <cm> <adj> <np><><nom> <lpar> <np><><nom> <cm> <np><><nom> <cm> <np><><nom> <cm> <np><><nom> <rpar> <px3sp><nom> <cm> <n><px3sp><loc> <np><><nom> <nom> <cm> <np><><nom> <cm> <np><><nom> <px3sp><nom> <v><iv><gpr_past><subst><nom> <cop><aor><p3><sg> <sent> 
+<n><nom> <cnjcoo> <np><><nom> <px3sp><nom> <n><pl><px3sp><gen> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<cnjcoo> <np><><nom> <nom> <nom> <n><pl><gen> <n><px3sp><abl> <v><iv><gna_perf> <cm> <num> <n><gen> <num> <guio> <adj><subst><px3sp><loc> <np><><nom> <n><nom> <nom> <n><px3sp><dat> <v><tv><pass><ifi><p3><sg> <sent> 
+<num> <n><loc> <np><><dat> <n><attr> <guio> <nom> <lpar> <n><nom> <rpar> <v><iv><gna_perf> <v><iv><prc_impf> <vaux><ifi><p3><pl> <sent> 
+<n><gen> <adj> <cnjcoo> <adj> <n><px3sp><loc> <det><qnt> <nom> <v><iv><gna_perf> <v><tv><ifi><p3><sg> <sent> 
+<n><nom> <n><px3sp><dat> <n><nom> <n><pl><px3sp><gen> <nom> <n><attr> <abbr> <np><><mf><nom> <v><iv><ifi><p3><sg> <sent> 
+<n><abl> <post> <n><dat> <det><ind> <n><nom> <px3sp><nom> <cm> <nom> <px3sp><nom> <cm> <n><nom> <cm> <n><nom> <n><nom> <px3sp><nom> <v><tv><pass><aor><p3><sg> <sent> 
+<n><gen> <nom> <np><><nom> <n><px3sp><gen> <adj> <n><px3sp><dat> <v><tv><pass><ifi><p3><sg> <sent> 
+<n><pl><acc> <v><tv><ger><nom> <n><loc> <adv> <adv><attr> <n><loc> <postadv> <v><tv><pass><aor><p3><sg> <sent> 
+<n><nom> <cnjcoo> <n><nom> <n><pl><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<np><><m><nom> <np><pat><m><nom> <np><><m><nom> <num> <guio> <num> <px3sp><nom> <np><><nom> <n><px3sp><loc> <v><iv><past><p3><sg> <sent> 
+<n><nom> <prn><pers><p3><sg><gen> <nom> <cop><aor><p3><sg> <cm> <prn><pers><p3><sg><nom> <num> <n><loc> <cop><aor><p3><sg> <sent> 
+<np><><m><gen> <adj> <num> <nom> <adj><subst><nom> <cop><aor><p3><sg> <cm> <adv> <prn><pers><p3><sg><nom> <postadv> <n><loc> <cop><aor><p3><sg> <sent> 
+<prn><itg><nom> <post> <cop><ger_past><px3sp><acc> <v><tv><aor><p2><frm><sg> <qst> <sent> 
+<prn><pers><p3><sg><nom> <n><nom> <cnjcoo> <cm> <n><nom> <cnjcoo> <cop><neg><aor><p3><sg> <sent> 
+<num><ord> <n><loc> <n><nom> <n><px3sp><gen> <adj> <nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<num><ord> <px3sp><nom> <np><><loc> <n><nom> <nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<np><><m><gen> <nom> <v><tv><pass><aor><p3><sg> <cm> <v><iv><aor><p3><sg> <cm> <v><tv><gpr_impf> <n><nom> <v><tv><neg><aor><p3><sg> <sent> 
+<nom> <num><coll><subst><px3sp><gen> <v><iv><ger><dat> <px3sp><nom> <adv> <v><iv><aor><p3><pl> <sent> 
+<adv> <det><ind> <n><gen> <cm> <det><dem> <adj> <adj> <n><attr> <n><gen> <adj> <nom> <cop><aor><p1><sg> <sent> 
+<nom> <n><attr> <nom> <n><nom> <n><abl> <adv> <v><iv><ger_past><nom> <post> <cm> <nom> <det><dem> <adj> <n><gen> <adj> <n><nom> <cm> <n><nom> <n><attr> <adj> <n><attr> <n><px3sp><acc> <cm> <v><prc_perf> <vaux><gpr_past> <n><px3sp><abl> <cm> <num> <n><dat> <n><nom> <v><gna_perf> <v><tv><past><p3><sg> <sent> 
+<n><nom> <n><px3sp><abl> <adv> <v><iv><gna_perf> <cm> <nom> <adj> <cm> <nom> <adj> <v><iv><prc_perf> <vaux><gna_perf> <cm> <det><itg><nom> <n><px3sp><ins> <n><nom> <v><tv><past><p3><sg> <sent> 
+<prn><dem><px3sp><ins> <guio> <num><subst><nom> <v> <sent> 
+<n><gen> <adj> <postadv> <n><pl><ins> <nom> <sent> 
+<n><pl><dat> <n><nom> <cm> <n><nom> <v><tv><pass><past><p3><pl> <cm> <cnjadv> <prn><pers><p3><pl><nom> <prn><recip><px3sp><ins> <adj> <cm> <adj> <n><nom> <v><tv><ger><pl><px3sp><nom> <adj> <cop><aor><p3><pl> <sent> 
+<det><qnt> <n><nom> <v><iv><ger><dat> <cm> <n><loc> <v><iv><ger><dat> <cnjcoo> <prn><pers><p3><sg><gen> <adj> <n><px3sp><dat> <n><nom> <v><tv><pass><neg><ger><px3sp><dat> <adj> <cop><aor><p3><sg> <sent> 
+<prn><neg><nom> <postadv> <n><loc> <cnjcoo> <n><loc> <v><tv><pass><ger><px3sp><nom> <adj> <cop><neg><aor><p3><sg> <sent> 
+<prn><neg><nom> <postadv> <v><tv><pass><ger><dat> <cnjcoo> <n><px3sp><acc> <v><tv><gpr_impf><subst><sim> <n><dat> <v><iv><neg><gpr_impf> <n><attr> <n><ins> <v><tv><pass><ger><dat> <cm> <cnjcoo> <v><tv><pass><ger><dat> <adj> <cop><neg><aor><p3><sg> <sent> 
+<det><qnt> <n><nom> <det><itg> <n><loc> <v><iv><gna_cond><p3><sg> <postadv> <cm> <n><nom> <nom> <post> <v><tv><pass><ger><px3sp><dat> <adj> <cop><aor><p3><sg> <sent> 
+<n><nom> <n><px3sp><loc> <n><gen> <prn><qnt><px3sp><nom> <adj><advl> <cop><aor><p3><sg> <cnjcoo> <postadv> <n><nom> <post> <v><tv><pass><neg><gna_perf> <cm> <num><subst><sim> <adj><advl> <v><tv><pass><ger><dat> <adj> <cop><aor><p3><sg> <sent> 
+<det><qnt> <n><nom> <det><dem> <n><gen> <n><pl><px3sp><acc> <v><tv><gpr_impf> <n><abl> <cnjcoo> <n><dat> <n><gen> <det><qnt> <n><px3sp><abl> <adj><advl> <v><tv><pass><ger><dat> <adj> <cop><aor><p3><sg> <sent> 
+<prn><neg><nom> <postadv> <v><tv><gpr_past> <nom> <cnjcoo> <nom> <n><px3sp><loc> <cm> <cnjsub> <det><dem> <nom> <adj> <nom> <cnjcoo> <adj> <n><nom> <post> <n><nom> <v><iv><gna_perf> <v><tv><pass><neg><gna_cond><p3><sg> <cm> <n><dat> <v><tv><pass><neg><aor><p3><sg> <sent> 
+<n><nom> <cm> <adv> <num> <n><gen> <adj> <adj> <cnjcoo> <adj> <nom> <post> <postadv> <v><tv><pass><aor><p3><sg> <sent> 
+<n><nom> <n><gen> <adj> <cnjcoo> <adj> <nom> <v><iv><gna_perf> <v><tv><pass><aor><p3><sg> <cm> <cnjcoo> <n><nom> <cnjcoo> <n><nom> <n><px3sp><abl> <v><tv><pass><ger><dat> <adj> <cop><aor><p3><sg> <sent> 
+<prn><neg><nom> <postadv> <det><ref> <n><px3sp><abl> <adj><advl> <v><iv><neg><ger><dat> <adj> <cop><aor><p3><sg> <sent> 
+<prn><neg><acc> <postadv> <adj> <det><ind> <n><dat> <n><ins> <v><tv><ger><dat> <v><iv><neg><aor><p3><sg> <sent> 
+<n><nom> <cnjcoo> <n><nom> <v><iv><ger><nom> <nom> <adj> <n><nom> <cnjcoo> <n><nom> <v><tv><ger><dat> <n><nom> <v><tv><aor><p3><sg> <sent> 
+<det><qnt> <n><gen> <n><nom> <v><tv><ger><dat> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><pl><gen> <prn><ref><px3pl><gen> <adj> <n><pl><px3sp><dat> <n><nom> <v><tv><ger><nom> <n><px3sp><acc> <v><tv><ger><loc> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<det><dem> <nom> <cnjcoo> <n><pl><acc> <v><tv><pass><ger><px3sp><nom> <np><><px3sp><gen> <px3sp><nom> <cnjcoo> <n><pl><px3sp><dat> <v><iv><neg><ger><px3sp><nom> <adj> <cop><aor><p3><sg> <sent> 
+<ij> <cm> <adj> <cop><aor><p3><sg> <sent> 
+<prn><pers><p2><sg><frm><ins> <v><tv><coop><ger_past><px1sg><dat> <adj> <cop><aor><p1><sg> <sent> 
+<prn><pers><p2><sg><frm><nom> <adv> <v><tv><aor><p2><frm><sg> <qst> <sent> 
+<prn><dem><loc> <n><nom> <n><px3sp><loc> <v><tv><gpr_impf> <n><nom> <adj> <cop><aor><p3><sg> <qst> <sent> 
+<prn><pers><p1><sg><nom> <v><tv><neg><aor><p1><sg> <sent> 
+<n><nom> <adv><itg> <cop><aor><evid><p3><sg> <sent> 
+<n><acc> <v><tv><imp><p2><pl> <sent> 
+<prn><pers><p1><sg><dat> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<prn><pers><p1><sg><nom> <n><px1sg><acc> <v><tv><prc_perf> <vaux><ifi><p1><sg> <sent> 
+<prn><pers><p1><sg><nom> <n><px1sg><acc> <v><tv><prc_perf> <vaux><ifi><p1><sg> <sent> 
+<prn><pers><p1><sg><nom> <v><iv><prc_perf> <vaux><pres><p1><sg> <sent> 
+<prn><pers><p1><sg><nom> <adj> <cop><aor><p1><sg> <sent> 
+<prn><pers><p1><sg><dat> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<prn><pers><p2><sg><frm><abl> <v><tv><ger><dat> <v><iv><aor><p3><sg> <qst> <sent> 
+<np><><dat> <num> <n><nom> <v><tv><imp><p2><frm><sg> <sent> 
+<det><dem> <n><nom> <np><><dat> <v><iv><aor><p3><sg> <qst> <sent> 
+<n><nom> <np><><dat> <adv><itg> <v><iv><aor><p3><sg> <sent> 
+<det><dem> <n><nom> <np><><dat> <adv><itg> <v><iv><aor><p3><sg> <sent> 
+<prn><pers><p2><sg><frm><loc> <adj> <nom> <adj> <cop><aor><p3><sg> <qst> <sent> 
+<num> <n><dat> <n><nom> <prn><itg><nom> <v><iv><aor><p3><sg> <sent> 
+<det><dem> <n><loc> <n><attr> <n><nom> <adj> <cop><aor><p3><sg> <qst> <sent> 
+<prn><pers><p1><sg><dat> <adv> <n><acc> <v><tv><prc_perf> <vaux><ger><dat> <v><iv><aor><p3><sg> <qst> <sent> 
+<prn><pers><p2><sg><frm><nom> <det><ind> <n><acc> <v><tv><prc_impf> <vaux><aor><p2><frm><sg> <qst> <sent> 
+<prn><pers><p2><sg><frm><loc> <n><nom> <adj> <cop><aor><p3><sg> <qst> <sent> 
+<n><nom> <v><tv><pass><past><p3><sg> <qst> <sent> 
+<prn><dem><nom> <prn><itg><nom> <v><iv><aor><p3><sg> <sent> 
+<adv> <adj> <cop><aor><p3><sg> <mod_ass> <sent> 
+<prn><pers><p3><sg><gen> <post> <det><dem> <n><nom> <np><><nom> <cop><aor><p3><sg> <cm> <prn><dem><loc> <adj><advl> <n><nom> <v><tv><ger><nom> <adj> <cm> <prn><dem><abl> <post> <n><nom> <cm> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<nom> <adj> <n><gen> <n><px3sp><dat> <n><nom> <cm> <n><px3sp><loc> <n><nom> <cm> <n><dat> <n><nom> <adv><itg> <v><iv><opt><p3><sg> <sent> 
+<prn><dem><abl> <post> <n><nom> <cnjcoo> <n><nom> <adj> <cop><aor><evid><p3><sg> <sent> 
+<prn><dem><acc> <v><tv><opt><p1><sg> <cm> <cnjcoo> <n><px1sg><dat> <v><tv><opt><p1><sg> <v><tv><gna_perf> <n><px3sp><dat> <adj><advl> <v><iv><aor><p3><sg> <sent> 
+<n><px3sp><abl> <adj> <v><iv><ger><dat> <cm> <n><px3sp><dat> <adj> <v><iv><ger><dat> <n><px3sp><acc> <cm> <n><px3sp><acc> <cm> <n><px3sp><acc> <v><tv><ger_fplan><nom> <adj> <cop><aor><p3><sg> <sent> 
+<prn><pers><p3><sg><gen> <post> <prn><pers><p3><pl><nom> <n><gen> <n><px3sp><acc> <v><tv><ifi><p3><sg> <cm> <prn><dem><sim><nom> <v><iv><ifi><p3><sg> <sent> 
+<prn><pers><p2><sg><nom> <prn><pers><p3><sg><gen> <n><px3sp><acc> <v><tv><gna_cond><p2><sg> <cm> <n><attr> <guio> <nom> <v><tv><pass><aor><p3><sg> <sent> 
+<prn><ind><gen> <n><px3sp><acc> <n><px3sp><acc> <v><tv><gpr_past> <n><nom> <prn><dem><ins> <n><nom> <n><px3sp><dat> <v><iv><aor><p3><sg> <cm> <adj><advl> <v><iv><gna_impf> <v><iv><neg><aor><p3><sg> <sent> 
+<n><dat> <postadv> <adj> <guio> <v><tv><ger_perf><nom> <cop><aor><p3><sg> <sent> 
+<adv> <n><gen> <v><iv><ger_past><px3sp><nom> <adj> <cop><aor><p3><sg> <v><tv><gna_perf> <cm> <nom> <v><tv><pass><gna_cond><p3><sg> <postadv> <v><tv><neg><aor><p3><sg> <sent> 
+<cnjcoo> <det><dem> <n><loc> <n><nom> <n><px3sp><acc> <n><px3sp><dat> <v><tv><gpr_past> <nom> <prn><dem><gen> <v><iv><ger><px3sp><ins> <postadv> <n><acc> <vol><p1><sg> <v><tv><aor><p3><pl> <sent> 
+<n><dat> <n><nom> <v><iv><opt><p1><sg> <v><tv><gna_perf> <cm> <prn><pers><p1><pl><nom> <postadv> <n><nom> <v><iv><gna_perf> <cm> <n><nom> <v><tv><ger_past><acc> <v><tv><gna_perf> <cm> <n><nom> <n><px3sp><dat> <v><tv><pass><ger><gen> <n><px3sp><acc> <v><tv><opt><p1><pl> <v><tv><gna_perf> <v><iv><gna_perf> <v><tv><ger><nom> <adj> <cop><aor><p3><sg> <sent> 
+<cnjadv> <sent> <nom> <cm> <nom> <num> <n><px3sp><abl> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<prn><itg><nom> <v><tv><gna_cond><p3><sg> <postadv> <n><acc> <v><tv><gna_cond><p3><sg> <v><iv><aor><p3><sg> <prn><pers><p3><pl><dat> <sent> 
+<adj> <n><gen> <px3sp><nom> <postadv> <adv> <v><iv><neg><ifi><p3><pl> <cm> <adv> <n><gen> <n><px3sp><acc> <n><dat> <v><tv><prc_perf> <vaux><ifi><p3><pl> <sent> 
+<prn><pers><p3><pl><nom> <prn><dem><abl> <post> <adv><itg> <v><iv><opt><p3><pl> <sent> 
+<cnjcoo> <postadv> <det><ind> <nom> <n><px3sp><ins> <v><iv><ger_past><loc> <sent> <lquot> <prn><pers><p2><sg><gen> <det><dem> <n><px2sg><dat> <v><tv><gna_until> <cm> <n><px1sg><acc> <n><dat> <v><tv><gna_perf> <cm> <n><px1sg><dat> <n><nom> <cm> <n><px1sg><dat> <n><nom> <v><tv><prc_perf> <vaux><neg><gna_cond><p1><sg> <qst> <sent> <rquot> <v><tv><gpr_pot> <cop><ifi><p3><sg> <sent> 
+<cnjadv> <adj> <n><nom> <n><pl><px3sp><abl> <adj><advl> <v><tv><ger_past><px3sp><nom> <prn><itg><nom> <cop><aor><p3><sg> <cm> <det><itg> <n><nom> <v><tv><ifi><evid><p3><sg> <sent> 
+<adj><subst><px3sp><acc> <v><tv><ger_past><loc> <cm> <n><px2sg><dat> <n><nom> <v><tv><neg><imp><p2><sg> <cm> <n><nom> <v><tv><neg><imp><p2><sg> <cm> <adj><subst><px2sg><acc> <v><tv><gna_cond><p2><sg> <postadv> <cm> <n><gen> <n><px3sp><acc> <v><tv><imp><p2><sg> <sent> 
+<det><dem> <prn><pers><p1><sg><nom> <v><tv><gpr_past> <n><nom> <guio> <n><nom> <v><tv><gpr_fut> <n><nom> <cop><neg><aor><p3><sg> <sent> 
+<n><abl> <v><iv><imp><p2><sg> <cm> <n><abl> <v><iv><imp><p2><sg> <cm> <nom> <n><nom> <v><iv><opt><p3><sg> <v><tv><gna_cond><p2><sg> <guio> <v><tv><imp><p2><sg> <cm> <n><nom> <v><tv><neg><imp><p2><sg> <sent> 
+<adv> <cm> <num> <n><nom> <n><nom> <v><iv><prc_perf> <vaux><ger_past><nom> <post> <cm> <prn><pers><p2><sg><dat> <n><nom> <v><tv><fut><p3><sg> <qst> <cm> <prn><ref><px3sp><nom> <n><nom> <v><tv><fut><p3><sg> <qst> <cm> <cnjcoo> <n><dat> <n><nom> <v><tv><fut><p3><sg> <qst> <sent> 
+<n><abl> <n><nom> <nom> <num> <guio> <np><><gen> <num><ord> <n><abl> <n><nom> <nom> <cop><aor><p3><sg> <cm> <adj> <nom> <num> <n><gen> <num> <n><nom> <cnjcoo> <num> <n><nom> <px3sp><nom> <n><px3sp><loc> <np><><loc> <v><iv><ifi><p3><sg> <sent> 
+<v><tv><pass><ger><nom> <nom> <np><><loc> <cm> <cnjcoo> <nom> <np><><loc><attr> <np><><nom> <n><px3sp><loc> <v><iv><ifi><p3><sg> <sent> 
+<v><iv><gpr_past> <adj> <nom> <num> <nom> <np><><nom> <n><px3sp><acc> <v><tv><past><p3><sg> <sent> 
+<prn><dem><dat> <post> <np><><loc> <n><abl> <n><nom> <nom> <num> <nom> <v><iv><gpr_past> <v><iv><pih><p3><sg> <sent> 
+<np><><nom> <guio> <num> <v><tv><ger><nom> <nom> <num> <n><gen> <n><nom> <n><px3sp><loc> <v><tv><pass><gna_perf> <cm> <num> <n><gen> <n><nom> <n><px3sp><loc> <v><tv><pass><ifi><p3><sg> <sent> 
+<np><><nom> <v><tv><gpr_pot> <n><nom> <post> <adj> <n><loc> <n><nom> <nom> <v><iv><ifi><p3><sg> <sent> 
+<det><qnt> <num> <n><gen> <px3sp><nom> <cnjcoo> <num><ord> <n><nom> <v><tv><gpr_past> <nom> <num> <sym> <num> <n><dat> <v><iv><aor><p3><pl> <sent> 
+<n><pl><gen> <adj> <n><loc><attr> <nom> <adj> <nom> <post> <v><tv><pass><aor><p3><sg> <sent> 
+<np><><nom> <lpar> <num> <n><dat> <post> <n><nom> <nom> <rpar> <cm> <np><><nom> <n><attr> <nom> <guio> <np><><gen> <adj> <n><px3sp><loc> <v><iv><gpr_past> <n><nom> <cop><aor><p3><sg> <sent> 
+<n><nom> <nom> <num> <abbr> <abbr> <cop><aor><p3><sg> <sent> 
+<nom> <num> <abbr> <n><nom> <cop><aor><p3><sg> <lpar> <num> <rpar> <sent> 
+<n><px3sp><gen> <adj> <nom> <sent> <nom> <lpar> <num><percent><nom> <rpar> <cm> <nom> <lpar> <num><percent><nom> <rpar> <cm> <nom> <lpar> <num><percent><nom> <rpar> <cm> <nom> <cm> <nom> <cm> <nom> <cm> <nom> <cm> <nom> <cm> <abbr> <cop><aor><p3><pl> <sent> 
+<nom> <guio> <np><><nom> <nom> <cop><aor><p3><sg> <lpar> <n><px3sp><acc> <v><tv><ger_past><loc> <num> <num><subst><abl> <post> <rpar> <sent> 
+<adj> <nom> <guio> <n><nom> <nom> <cop><aor><p3><sg> <sent> 
+<n><loc><attr> <adj> <cnjcoo> <adj> <n><nom> <n><attr> <np><><m><attr> <np><><m><attr> <np><><mf><gen> <n><px3sp><loc> <cop><aor><p3><sg> <sent> 
+<adj><subst><px3sp><acc> <adj> <np><><nom> <cnjcoo> <np><><nom> <px3sp><nom> <cm> <adj><subst><px3sp><acc> <np><><nom> <nom> <cm> <adj><subst><px3sp><acc> <guio> <np><><nom> <nom> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<nom> <cm> <adv> <cm> <adj> <cop><aor><p3><sg> <sent> 
+<np><><nom> <n><px3sp><loc> <n><pl><gen> <num><subst><dat> <post> <cm> <n><pl><gen> <num><subst><dat> <post> <cm> <n><pl><gen> <num><subst><dat> <post> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<np><><nom> <n><px3sp><dat> <nom> <adv> <adj> <n><abl> <post> <v><iv><past><p3><sg> <sent> 
+<abbr> <num> <guio> <n><loc> <det><dem> <n><dat> <adj> <np><><abl> <n><nom> <px3sp><nom> <v><iv><gna_perf> <v><iv><ifi><p3><sg> <sent> 
+<abbr> <num> <abbr> <n><nom> <nom> <adj> <np><><nom> <n><px3sp><dat> <v><iv><ifi><p3><sg> <sent> 
+<np><><nom> <nom> <n><px3sp><acc> <abbr> <num> <abbr> <np><><m><attr> <np><><m><nom> <v><tv><ifi><p3><sg> <sent> 
+<np><><nom> <adj> <n><pl><gen> <n><px3sp><dat> <v><iv><gna_perf> <cm> <abbr> <num> <n><gen> <adj> <n><px3sp><abl> <v><tv><gna_perf> <np><><nom> <n><px3sp><dat> <v><iv><ifi><p3><sg> <sent> 
+<np><><nom> <nom> <nom> <adj> <np><><acc> <cm> <np><><acc> <cm> <np><><acc> <cm> <np><><acc> <v><tv><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<np><><dat> <n><nom> <v><tv><ifi><p3><sg> <cm> <n><nom> <n><px3sp><ins> <n><nom> <v><tv><ifi><p3><sg> <sent> 
+<num> <guio> <num> <n><pl><loc> <n><loc> <n><nom> <n><px3sp><dat> <adj> <n><loc> <postadv> <adj> <v><iv><gpr_past> <nom> <v><tv><pass><ifi><p3><pl> <sent> 
+<n><loc> <adj> <cnjcoo> <adj> <n><nom> <v><tv><pass><gna_perf> <cm> <nom> <v><iv><prc_impf> <vaux><ifi><p3><pl> <sent> 
+<num> <n><loc> <nom> <det><qnt> <n><dat> <v><tv><pass><prc_perf> <vaux><ifi><p3><pl> <cnjcoo> <cm> <det><dem> <n><gen> <n><px3sp><dat> <post> <det><qnt> <np><><acc> <adj> <n><nom> <n><px3sp><abl> <v><iv><gpr_past> <np><><nom> <nom> <np><><m><nom> <v><tv><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<num> <guio> <num> <abbr> <np><><acc> <np><><m><attr> <n><nom> <nom> <v><tv><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<prn><pers><p3><pl><nom> <n><loc> <np><><nom> <n><px3sp><dat> <v><tv><gpr_impf> <np><><pl><nom> <n><px3sp><acc> <v><tv><ifi><p3><sg> <sent> 
+<num> <n><gen> <num> <guio> <px3sp><nom> <np><><nom> <nom> <det><qnt> <n><dat> <v><tv><pass><prc_perf> <vaux><ifi><p3><sg> <cnjcoo> <cm> <num> <guio> <num> <abbr> <np><><acc> <np><><m><nom> <px3sp><nom> <v><tv><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<adj> <nom> <lpar> <nom> <cm> <nom> <cm> <np><><pl><nom> <cm> <nom> <cm> <nom> <cm> <nom> <rpar> <n><gen> <nom> <post> <adv> <n><nom> <v><tv><prc_perf> <vaux><ifi><p3><pl> <sent> 
+<adv> <cm> <num> <n><gen> <num> <guio> <adj><subst><px3sp><loc> <n><loc><attr> <n><nom> <post> <num> <n><gen> <lpar> <np><><nom> <cnjcoo> <np><><nom> <rpar> <n><px3sp><loc><attr> <adj> <n><nom> <n><acc> <adv> <v><tv><ifi><p3><sg> <sent> 
+<num> <n><gen> <n><px3sp><loc> <n><dat> <np><><nom> <nom> <v><iv><ifi><p3><sg> <sent> 
+<det><dem> <n><abl> <n><gen> <adj> <n><pl><px3sp><dat> <adj> <nom> <lpar> <np><><nom> <cm> <np><><nom> <rpar> <v><iv><prc_impf> <vaux><ifi><p3><pl> <sent> 
+<num> <n><gen> <n><px3sp><loc> <v><iv><gpr_past> <n><attr> <guio> <n><nom> <n><px3sp><abl> <post> <n><loc> <n><pl><gen> <nom> <v><iv><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<num> <n><gen> <n><px3sp><dat> <post> <np><><nom> <adj> <n><pl><gen> <adv> <n><px3sp><dat> <v><iv><prc_impf> <vaux><ifi><p3><sg> <sent> 
+<num> <abbr> <nom> <np><><nom> <n><px3sp><acc> <v><tv><ger><dat> <n><nom> <v><tv><gna_perf> <cm> <num> <abbr> <v><iv><gpr_past> <n><attr> <guio> <n><nom> <n><nom> <nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<n><loc> <n><nom> <n><px3sp><dat> <post> <adj> <nom> <v><tv><pass><ifi><p3><pl> <sent> 
+<n><loc> <adj> <nom> <adv> <v><iv><prc_impf> <vaux><ifi><p3><sg> <sent> 
+<cnjadv> <cm> <num> <guio> <num> <abbr> <v><iv><gpr_past> <abbr> <adj> <n><nom> <np><><nom> <n><px3sp><acc> <v><iv><gna_perf> <v><tv><ifi><p3><sg> <sent> 
+<n><gen> <nom> <v><iv><gna_perf> <cm> <n><loc> <nom> <v><tv><pass><ifi><p3><pl> <sent> 
+<det><dem> <nom> <n><ins> <v><tv><pass><prc_perf> <vaux><ifi><p3><pl> <sent> 
+<num> <abbr> <num> <n><loc> <np><><nom> <np><><nom> <cnjcoo> <np><><nom> <n><pl><px3sp><ins> <n><nom> <post> <n><dat> <v><tv><ifi><p3><sg> <sent> 
+<num> <abbr> <num> <n><loc> <np><><nom> <np><><dat> <n><nom> <v><tv><ifi><p3><sg> <cm> <cnjcoo> <n><nom> <n><pl><px3sp><dat> <v><tv><coop><neg><ifi><p3><sg> <sent> 
+<np><><nom> <nom> <n><px3sp><loc> <num> <abbr> <num> <n><loc> <np><><nom> <cm> <np><><nom> <cm> <np><><nom> <px3sp><nom> <np><><dat> <adj> <n><px3sp><acc> <v><tv><ger><dat> <adj> <cop><ger_perf><px3pl><acc> <v><tv><ifi><p3><pl> <sent> 
+<n><abl> <post> <np><><nom> <nom> <n><nom> <n><pl><px3sp><ins> <adj> <n><nom> <v><tv><ifi><p3><sg> <sent> 
+<num> <abbr> <n><nom> <n><px3sp><acc> <v><tv><ger><dat> <v><iv><gpr_past> <abbr> <np><><mf><nom> <nom> <v><iv><ifi><p3><sg> <sent> 
+<n><nom> <num> <abbr> <np><><ins> <adj> <nom> <v><tv><coop><ifi><p3><sg> <cm> <num> <n><abl> <v><tv><gna_perf> <n><nom> <n><px3sp><loc> <v><iv><prc_impf> <vaux><ifi><p3><sg> <sent> 
+<n><loc> <n><attr> <n><nom> <n><px3sp><gen> <n><nom> <v><tv><ger><px3sp><nom> <cm> <adj> <n><pl><gen> <n><dat> <v><tv><pass><ger><px3sp><nom> <num> <guio> <num> <abbr> <n><gen> <n><nom> <n><px3sp><dat> <post> <adj><advl> <v><tv><ger><px3sp><dat> <v><tv><ifi><p3><pl> <sent> 
+<prn><pers><p3><sg><acc> <n><loc><attr> <n><nom> <px3sp><nom> <v><tv><ifi><p3><sg> <sent> 
+<num> <guio> <num> <abbr> <v><iv><gpr_past> <np><><attr> <guio> <np><><nom> <nom> <n><nom> <n><px3sp><dat> <adv> <adj> <lpar> <num> <abbr> <np><><nom> <n><px3sp><abl> <post> <rpar> <nom> <v><tv><ifi><p3><pl> <sent> 
+<n><nom> <n><px3sp><gen> <nom> <n><nom> <cnjcoo> <n><nom> <cnjcoo> <n><nom> <v><tv><ger><nom> <px3sp><nom> <cop><aor><p3><sg> <sent> 
+<adj> <n><gen> <num> <sym> <num> <cnjcoo> <n><gen> <num><percent><px3sp><dat> <adj><subst><px3sp><nom> <det><dem> <n><pl><abl> <v><tv><pass><aor><p3><sg> <sent> 
+<n><gen> <adj> <px3sp><nom> <postadv> <v><iv><past><p3><pl> <cm> <cnjcoo> <adj> <adj> <n><pl><gen> <n><px3sp><abl> <cnjcoo> <n><nom> <v><iv><coop><neg><ger_abs><px3sp><abl> <adj> <n><px3sp><ins> <v><iv><prc_impf> <vaux><neg><ger><loc> <sent> 
+<n><dat> <adj> <n><nom> <num><percent><dat> <post> <n><abl> <v><tv><pass><aor><p3><sg> <sent> 
+<nom> <adj><advl> <v><iv><past><p3><sg> <sent> 
+<n><nom> <n><px3sp><abl> <adv> <num> <abbr> <np><><nom> <nom> <v><iv><aor><p3><pl> <sent> 
+<n><loc><attr> <adj> <n><gen> <num><subst><px3sp><nom> <guio> <n><nom> <cop><aor><p3><sg> <lpar> <num> <abbr> <n><nom> <rpar> <sent> 
+<n><abl> <guio> <n><nom> <px3sp><nom> <lpar> <num><percent><nom> <rpar> <cm> <n><nom> <cm> <nom> <cm> <det><ind> <n><nom> <px3sp><nom> <v><tv><pass><aor><p3><pl> <sent> 
+<np><><nom> <nom> <np><><m><attr> <np><><m><nom> <num> <n><nom> <lpar> <num> <sent> <num> <rpar> <np><><loc> <v><iv><prc_perf> <v><iv><ifi><p3><sg> <sent> 
+<num> <abbr> <np><><nom> <guio> <np><><nom> <n><px3sp><loc> <n><nom> <nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<np><><nom> <n><px3sp><gen> <adj> <n><px3sp><acc> <lpar> <num> <guio> <num> <nom> <rpar> <n><nom> <cnjcoo> <n><attr> <guio> <n><nom> <nom> <v><tv><gna_perf> <v><iv><ifi><p3><sg> <sent> 
+<np><><nom> <cm> <np><><nom> <n><pl><px3sp><loc><attr> <nom> <cm> <np><><abl> <v><tv><pass><gpr_past> <cm> <adj> <n><abl> <v><tv><pass><gpr_past> <adj> <nom> <np><><nom> <n><px3sp><gen> <det><ref> <n><px3sp><loc> <adj> <n><loc> <v><iv><ger_past><px3sp><acc> <v><tv><aor><p3><pl> <sent> 
+<np><><nom> <nom> <n><px3sp><loc> <lpar> <num> <guio> <num> <nom> <rpar> <n><pl><acc> <n><nom> <n><px3sp><dat> <adj> <n><nom> <post> <v><tv><ger><nom> <n><nom> <v><tv><ifi><p3><sg> <lpar> <abbr> <cm> <np><><nom> <nom> <n><nom> <n><px3sp><ins> <v><tv><pass><past><p3><sg> <rpar> <sent> 
+<n><nom> <v><tv><ger><nom> <cm> <n><pl><dat> <n><nom> <v><tv><ger><nom> <adj><advl> <v><tv><ifi><p3><sg> <sent> 
+<adj> <cm> <n><attr> <cm> <n><nom> <cnjcoo> <n><abl> <det><ind> <nom> <v><tv><ger><nom> <cm> <n><attr> <cnjcoo> <n><attr> <n><nom> <v><tv><ger><nom> <v><iv><ifi><p3><sg> <sent> 
+<num> <n><abl> <post> <n><nom> <v><tv><ger><nom> <cm> <n><dat> <n><nom> <v><tv><ger><nom> <v><iv><ifi><p3><sg> <sent> 
+<num> <n><loc> <np><><nom> <n><px3sp><gen> <v><iv><ger><px3sp><dat> <np><><nom> <nom> <adj> <n><nom> <v><tv><ifi><p3><sg> <sent> 
+<num> <guio> <num> <n><pl><loc> <v><iv><gpr_past> <np><><nom> <cm> <np><><nom> <cm> <np><><nom> <lpar> <np><><m><attr> <np><><mf><nom> <cm> <abbr> <rpar> <px3sp><nom> <n><nom> <n><px3sp><acc> <adj> <n><dat> <v><tv><ifi><p3><pl> <sent> 
+<num> <n><loc> <adj> <adj> <adj> <nom> <v><tv><pass><prc_impf> <vaux><ifi><p3><pl> <sent> 
+<num> <n><gen> <n><px3sp><abl> <n><nom> <cm> <n><nom> <cm> <n><nom> <nom> <v><iv><prc_perf> <vaux><aor><p3><sg> <sent> 
+<n><attr> <cnjcoo> <n><attr> <n><gen> <adj> <px3sp><nom> <v><tv><pass><past><p3><pl> <sent> 
+<adj> <cnjcoo> <n><attr> <n><px3sp><gen> <adj> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<nom> <v><tv><prc_perf> <vaux><ger_past><abl> <post> <np><><nom> <n><px3sp><dat> <adj> <n><nom> <n><px3sp><gen> <nom> <v><iv><ifi><p3><sg> <sent> 
+<num> <n><abl> <v><tv><gna_perf> <n><nom> <nom> <v><iv><gna_perf> <cm> <n><nom> <n><px3sp><loc> <n><pl><gen> <lpar> <nom> <rpar> <nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<num> <n><gen> <num> <guio> <adj><subst><px3sp><abl> <np><><nom> <n><px3sp><dat> <adj> <n><nom> <nom> <n><nom> <v><tv><ifi><p3><sg> <sent> 
+<adj> <n><nom> <nom> <post> <nom> <v><tv><pass><past><p3><pl> <sent> 
+<n><nom> <cm> <n><nom> <cnjcoo> <n><nom> <px3sp><nom> <v><iv><past><p3><pl> <sent> 
+<num> <n><gen> <num> <guio> <n><pl><px3sp><dat> <post> <n><attr> <nom> <guio> <nom> <n><nom> <v><tv><prc_perf> <vaux><ifi><p3><pl> <sent> 
+<det><dem> <n><pl><acc> <v><tv><ger><loc> <n><nom> <np><><m><attr> <np><><m><attr> <np><><mf><gen> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<num> <n><abl> <v><tv><gna_perf> <n><attr> <nom> <v><iv><prc_impf> <vaux><ifi><p3><sg> <sent> 
+<num> <guio> <num> <abbr> <n><nom> <n><pl><px3sp><abl> <v><tv><pass><gpr_past> <adj> <np><><nom> <px3sp><nom> <cnjcoo> <nom> <n><nom> <v><tv><ifi><p3><pl> <sent> 
+<num> <n><abl> <np><><nom> <nom> <n><dat> <v><iv><ifi><p3><sg> <cm> <num> <n><pl><gen> <n><px3sp><loc> <adv> <v><iv><ger><nom> <n><px3sp><dat> <v><iv><ifi><p3><sg> <sent> 
+<num> <abbr> <np><><loc> <adj> <nom> <v><tv><gpr_impf> <abbr> <n><nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<np><><m><nom> <n><px3sp><loc> <n><nom> <nom> <v><iv><past><p3><sg> <sent> 
+<n><nom> <n><px3sp><loc> <n><nom> <cnjcoo> <n><gen> <n><abl> <post> <px3sp><nom> <v><iv><coop><neg><ifi><p3><sg> <sent> 
+<np><><nom> <n><px3sp><dat> <n><px3sp><gen> <v><iv><ger><px3sp><nom> <det><qnt> <n><pl><dat> <adv> <v><tv><ger><dat> <n><px3sp><acc> <v><tv><ifi><p3><sg> <sent> 
+<prn><pers><p1><pl><nom> <det><ref> <n><px1pl><gen> <px3sp><nom> <cnjcoo> <n><pl><px3sp><acc> <v><tv><gna_perf> <cm> <n><pl><acc> <v><tv><prc_perf> <vaux><aor><p1><pl> <sent> 
+<adv> <cm> <det><dem> <n><pl><loc> <n><nom> <v><tv><ger><dat> <v><iv><aor><p3><sg> <sent> 
+<adv> <n><px1sg><acc> <v><tv><ifi><p3><sg> <cm> <guio> <v><tv><ifi><p3><sg> <sent> 
+<np><><gen> <adj> <n><pl><px3sp><loc> <postadv> <v><iv><ifi><p3><sg> <sent> 
+<adj> <nom> <adj> <v><iv><prc_perf> <vaux><aor><p3><sg> <sent> 
+<adj> <n><nom> <prn><ref><px3sp><gen> <n><px3sp><acc> <v><tv><gpr_past> <n><loc> <np><><nom> <n><px3sp><gen> <n><px3sp><dat> <cm> <n><dat> <cm> <n><dat> <n><nom> <v><tv><aor><p3><sg> <sent> 
+<n><px2sg><abl> <post> <v><iv><imp><p2><sg> <guio> <n><px2sg><dat> <n><nom> <v><iv><neg><aor><p3><sg> <sent> 
+<n><nom> <nom> <n><px3sp><loc> <np><><m><nom> <n><nom> <n><px3sp><gen> <v><iv><ger><px3sp><ins> <v><tv><pass><aor><p3><sg> <sent> 
+<n><nom> <n><px3sp><loc> <det><dem> <nom> <v><iv><neg><aor><p3><sg> <sent> 
+<adj><advl> <v><iv><gna_perf> <n><dat> <n><dat> <v><iv><ifi><p3><sg> <sent> 
+<n><nom> <nom> <guio> <n><dat> <n><nom> <v><tv><neg><aor><p3><sg> <sent> 
+<n><px3sp><loc> <n><nom> <n><px3sp><ins> <postadv> <v><iv><past><p3><sg> <sent> 
+<det><ind> <n><px3sp><abl> <n><nom> <v><tv><ger><dat> <v><iv><aor><p3><sg> <sent> 
+<abbr> <n><nom> <n><px3sp><gen> <n><nom> <nom> <n><px3sp><loc> <n><nom> <nom> <post> <n><nom> <n><px3sp><gen> <nom> <n><px3sp><dat> <n><nom> <v><tv><ifi><p3><sg> <sent> 
+<abbr> <adj> <n><px3sp><dat> <lpar> <num> <rpar> <v><iv><ifi><p3><sg> <sent> 
+<n><nom> <guio> <n><nom> <n><pl><px3sp><loc> <v><iv><gna_perf> <cm> <n><loc> <n><nom> <v><tv><aor><p3><sg> <sent> 
+<np><><loc> <n><dat> <v><iv><past><p3><sg> <sent> 
+<n><loc> <num> <adj> <n><nom> <v><iv><aor><p3><sg> <sent> 
+<adj> <n><nom> <n><px3sp><loc> <n><gen> <nom> <v><iv><aor><p3><sg> <sent> 
+<n><gen> <v><tv><pass><ger><px3sp><nom> <adj><subst><abl> <n><dat> <v><iv><ger><nom> <n><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<n><nom> <n><px3sp><acc> <v><tv><gna_perf> <cm> <n><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<np><><nom> <cnjcoo> <np><><dat> <n><nom> <v><tv><ifi><p3><sg> <sent> 
+<n><nom> <n><px3sp><gen> <nom> <v><tv><pass><past><p3><sg> <sent> 
+<num> <nom> <n><nom> <num> <n><dat> <v><tv><pass><past><p3><sg> <sent> 
+<n><nom> <cnjcoo> <n><nom> <n><pl><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<n><nom> <cnjcoo> <n><nom> <n><pl><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<n><nom> <cnjcoo> <n><nom> <n><pl><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<det><dem> <px3sp><nom> <n><px3sp><loc> <adj> <nom> <v><iv><ifi><p3><sg> <sent> 
+<nom> <n><nom> <cnjcoo> <n><nom> <n><pl><px3sp><loc> <v><iv><aor><p3><pl> <sent> 
+<adj> <adj> <nom> <det><ref> <nom> <cnjcoo> <n><dat> <n><nom> <v><tv><aor><p3><sg> <sent> 
+<n><pl><px3sp><acc> <num><coll><subst><px3sp><nom> <postadv> <v><tv><ifi><p3><sg> <sent> 
+<v><iv><gna_perf> <n><nom> <v><tv><pass><gna_perf> <cm> <n><nom> <nom> <v><iv><aor><p3><sg> <sent> 
+<adv> <n><nom> <nom> <np><><gen> <cnjcoo> <n><attr> <n><pl><gen> <adj> <n><px3sp><dat> <adj> <nom> <v><tv><ifi><p3><sg> <cm> <adj> <n><pl><acc> <v><tv><ifi><p3><sg> <sent> 
+<n><nom> <nom> <n><nom> <n><px3sp><acc> <v><tv><ger><gen> <n><ins> <v><tv><pass><gpr_past> <n><px3sp><loc> <v><tv><pass><aor><p3><sg> <sent> 
+<v><tv><gna_cond><p1><sg> <postadv> <cm> <det><dem> <n><px3sp><dat> <v><iv><neg><aor><p1><sg> <sent> 
+<n><loc> <np><><nom> <n><px3sp><gen> <n><px3sp><dat> <v><tv><pass><aor><p3><sg> <sent> 
+<adv> <adj> <n><pl><gen> <n><px3sp><loc> <v><tv><pass><aor><p3><sg> <sent> 
+<n><nom> <n><px3sp><gen> <px3sp><nom> <n><loc> <v><tv><pass><past><p3><sg> <sent> 
+<n><ins> <nom> <n><px3sp><gen> <nom> <v><tv><pass><past><p3><sg> <sent> 
+<adj><advl> <v><tv><prc_perf> <vaux><ifi><p3><sg> <cnjcoo> <n><dat> <v><tv><ifi><p3><sg> <sent> 
+<n><nom> <n><px3sp><loc> <n><gen> <px3sp><nom> <v><tv><pass><aor><p3><sg> <sent> 
+<n><px3sp><acc> <v><tv><ger><nom> <cnjcoo> <nom> <post> <v><tv><aor><p3><sg> <sent> 
+<np><><nom> <nom> <px3sp><nom> <post> <v><tv><pass><ifi><p3><sg> <sent> 
+<n><nom> <cnjcoo> <n><nom> <n><pl><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<adj> <nom> <n><px3sp><gen> <nom> <v><iv><gna_perf> <v><iv><ifi><p3><sg> <sent> 
+<n><gen> <nom> <np><><nom> <nom> <v><iv><ifi><p3><sg> <sent> 
+<n><nom> <cm> <n><nom> <cnjcoo> <n><nom> <n><pl><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<n><abl> <n><dat> <post> <n><nom> <adv> <adj> <v><iv><aor><p3><sg> <sent> 
+<adj> <n><nom> <adj> <n><nom> <v><tv><ger><ins> <v><tv><pass><aor><p3><sg> <sent> 
+<np><><m><gen> <n><px3sp><loc><attr> <nom> <adj> <cop><aor><evid><p3><sg> <sent> 
+<np><><m><nom> <n><abl> <v><iv><prc_perf> <vaux><aor><p3><sg> <cnjcoo> <n><px3sp><dat> <v><iv><gna_perf> <cm> <adj> <n><pl><px3sp><acc> <v><tv><gna_perf> <cm> <v><tv><gna_impf> <v><iv><aor><p3><sg> <sent> 
+<det><dem> <nom> <n><nom> <nom> <np><><m><acc> <v><tv><aor><p3><sg> <cm> <n><abl> <n><nom> <v><tv><aor><p3><sg> <cm> <n><nom> <v><iv><ger_past><loc> <sent> <guio> <np><><m><nom> <cm> <v><tv><imp><p2><frm><sg> <cm> <v><tv><imp><p2><frm><sg> <sent> <guio> <v><tv><gna_perf> <cm> <v><iv><ifi><p3><pl> <sent> 
+<n><nom> <nom> <sent> <guio> <prn><pers><p2><sg><frm><gen> <prn><dem><nom> <prn><itg><nom> <v><tv><ger_past><px2sg><frm><nom> <cop><aor><p3><sg> <sent> <n><nom> <n><nom> <v><tv><gpr_impf> <qst> <cop><ifi><p3><sg> <sent> <guio> <v><tv><aor><p3><sg> <sent> 
+<cnjadv> <np><><m><nom> <sent> <guio> <prn><pers><p2><sg><nom> <n><acc> <v><tv><neg><aor><evid><p2><sg> <cm> <n><acc> <v><tv><aor><evid><p2><sg> <sent> <cnjadv> <n><px1sg><dat> <v><tv><prc_perf> <vaux><ger_past><px1sg><nom> <cop><aor><p3><sg> <sent> <guio> <v><tv><gna_perf> <cm> <v><iv><aor><p3><sg> <sent> 
+<np><><m><nom> <cnjcoo> <np><><f><nom> <n><loc> <cop><aor><p3><pl> <sent> 
+<n><nom> <adv> <adv> <adj> <cop><aor><p3><sg> <cm> <adj> <sent> 
+<cnjcoo> <adv> <adv> <adj> <cop><ifi><p3><sg> <sent> 
+<cnjadv> <prn><pers><p3><pl><nom> <n><loc> <v><tv><prc_impf> <vaux><neg><ifi><p3><pl> <sent> 
+<np><><m><nom> <num> <adj> <adj> <n><nom> <cop><aor><p3><sg> <sent> 
+<n><nom> <n><pl><ins> <v><tv><ger_past><acc> <v><tv><aor><p3><sg> <sent> 
+<ij> <cm> <np><><f><gen> <nom> <adj> <cop><aor><p3><sg> <cm> <prn><pers><p3><sg><gen> <nom> <adj> <cop><aor><p3><sg> <sent> 
+<prn><pers><p3><pl><gen> <nom> <n><px3sp><ins> <adv> <n><loc> <cm> <prn><pers><p3><sg><nom> <n><abl> <np><><m><nom> <cnjcoo> <np><><f><gen> <v><tv><ger_past><px3sp><dat> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<np><><f><nom> <n><px3sp><ins> <n><pl><px3sp><acc> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<prn><pers><p3><sg><nom> <prn><neg><acc> <v><tv><prc_perf> <vaux><neg><ifi><p3><sg> <cm> <prn><pers><p3><sg><nom> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<prn><pers><p3><sg><nom> <prn><itg><nom> <post> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<cnjcoo> <np><><m><nom> <n><gen> <n><px3sp><loc> <prn><itg><nom> <v><tv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<prn><dem><nom> <n><nom> <cop><aor><p3><sg> <sent> 
+<np><><f><nom> <v><tv><prc_perf> <vaux><ger_past><abl> <post> <n><px3sp><dat> <v><tv><ifi><p3><sg> <sent> 
+<np><><f><nom> <np><><m><gen> <adv><itg> <cop><ger_past><px3sp><acc> <v><tv><neg><aor><p3><sg> <sent> 
+<n><abl> <sent> <np><><m><acc> <v><tv><ifi><p2><sg> <qst> <sent> <sent> <v><tv><gna_perf> <v><tv><aor><p3><sg> <sent> 
+<cnjcoo> <n><nom> <cm> <adv> <cm> <v><tv><prc_impf> <vaux><neg><aor><p3><sg> <sent> 
+<cnjadv> <cm> <np><><f><nom> <det><ref> <n><px3sp><dat> <v><tv><prc_impf> <vaux><neg><aor><p3><sg> <sent> 
+<nom> <n><ins> <v><iv><ger_past><loc> <prn><dem><abl> <adv> <v><tv><prc_impf> <vaux><neg><aor><p3><sg> <sent> 
+<np><><f><nom> <n><loc> <v><iv><gpr_past> <n><px3sp><dat> <v><tv><aor><p3><sg> <sent> 
+<sent> <np><><m><nom> <adv><itg> <cop><aor><p3><sg> <cm> <v><tv><imp><p2><sg> <emph> <sent> <sent> <v><tv><gna_perf> <v><tv><aor><p3><sg> <sent> 
+<sent> <ij> <cm> <np><><f><nom> <cm> <v><tv><prc_impf> <vaux><neg><aor><p1><sg> <sent> <v><tv><gna_perf> <nom> <v><iv><aor><p3><sg> <sent> 
+<n><nom> <cnjcoo> <n><pl><gen> <n><px3sp><dat> <v><tv><prc_perf> <vaux><pres><p3><sg> <cm> <cnjcoo> <np><><m><nom> <prn><dem><loc> <adj> <cop><aor><p3><sg> <sent> 
+<prn><pers><p3><sg><nom> <det><qnt> <n><acc> <v><tv><prc_perf> <vaux><pres><p3><sg> <cm> <cnjcoo> <np><><m><acc> <v><tv><prc_impf> <vaux><neg><prc_impf> <vaux><pres><p3><sg> <sent> 
+<prn><dem><abl> <post> <prn><pers><p3><sg><nom> <det><ind> <n><acc> <v><tv><aor><p3><sg> <cm> <det><dem> <n><nom> <adj> <adj> <n><gen> <n><px3sp><abl> <v><iv><prc_perf> <vaux><pres><p3><sg> <sent> 
+<adj><advl> <prn><dem><nom> <np><><m><nom> <cop><aor><p3><sg> <mod> <sent> 
+<det><dem> <n><nom> <adv> <v><tv><pass><aor><p3><sg> <sent> 
+<np><><f><nom> <prn><dem><acc> <adj><advl> <v><tv><aor><p3><sg> <sent> 
+<prn><pers><p3><sg><nom> <adv> <det><dem> <n><acc> <adj><comp><advl> <v><tv><prc_impf> <vaux><ifi><p3><sg> <sent> 
+<adj><comp><advl> <v><iv><ger_past><loc> <prn><pers><p3><sg><nom> <prn><pers><p3><sg><gen> <n><px3sp><acc> <postadv> <v><tv><aor><p3><sg> <sent> 
+<sent> <prn><pers><p2><sg><acc> <v><tv><ifi><p1><sg> <sent> <sent> <v><tv><gna_perf> <v><iv><aor><p3><sg> <sent> 
+<prn><pers><p3><pl><nom> <num><coll><subst><px3sp><nom> <postadv> <adj><advl> <n><dat> <post> <v><iv><prc_impf> <vaux><pres><p3><sg> <cm> <prn><ind><nom> <v><tv><gna_perf> <cm> <n><nom> <v><tv><gpr_impf> <n><nom> <v><iv><ifi><p3><sg> <sent> 
+<nom> <n><ins> <num> <n><nom> <cop><aor><p3><sg> <lpar> <num> <n><nom> <rpar> <sent> 
+<np><><gen> <adj> <n><pl><px3sp><ins> <v><tv><ger_past><loc> <nom> <n><px3sp><abl> <num><ord> <n><loc> <cop><aor><p3><sg> <lpar> <np><><nom> <cnjcoo> <np><><abl> <post> <rpar> <sent> 
+<prn><dem><ins> <post> <cm> <np><><nom> <np><><gen> <adj> <n><nom> <cm> <n><nom> <cnjcoo> <adj> <n><pl><px3sp><gen> <num><subst><px3sp><nom> <v><iv><gna_perf> <v><tv><pass><aor><p3><sg> <sent> 
+<prn><itg><sim> <v><iv><ger_past><loc> <postadv> <cm> <n><nom> <adj> <n><abl> <postadv> <n><pl><gen> <v><iv><ger><px3sp><dat> <adj> <n><nom> <v><iv><past><p3><sg> <sent> 
+<n><nom> <nom> <n><loc><attr> <adj> <nom> <n><px3sp><loc> <adj> <n><pl><dat> <v><iv><prc_impf> <vaux><ifi><p3><sg> <sent> 
+<n><nom> <nom> <adj> <n><attr> <nom> <cm> <n><nom> <cm> <px3sp><nom> <cm> <n><pl><px3sp><ins> <v><tv><pass><gna_impf> <v><iv><ifi><p3><pl> <sent> 
+<det><dem> <adj> <n><nom> <nom> <np><><loc><attr> <v><tv><pass><gpr_impf> <n><gen> <num><percent><px3sp><acc> <v><tv><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<n><loc> <n><nom> <nom> <cm> <n><nom> <cnjcoo> <n><nom> <px3sp><nom> <v><tv><pass><ifi><p3><pl> <sent> 
+<adj> <n><loc> <np><><m><nom> <v><tv><gpr_past> <n><nom> <v><iv><ifi><evid><p3><sg> <sent> 
+<num> <n><nom> <nom> <v><iv><ifi><evid><p3><sg> <sent> 
+<adv> <px3sp><nom> <v><iv><ifi><evid><p3><sg> <sent> 
+<n><nom> <v><iv><gpr_past> <px3sp><nom> <v><iv><ifi><evid><p3><sg> <sent> 
+<num> <nom> <adj> <n><nom> <v><iv><gna_perf> <cm> <n><nom> <n><px3sp><acc> <adj><subst><dat> <cm> <n><dat> <v><tv><prc_perf> <vaux><ifi><evid><p3><sg> <sent> 
+<np><><m><gen> <num> <nom> <postadv> <prn><dem><gen> <n><px3sp><loc> <v><iv><ifi><evid><p3><sg> <sent> 
+<np><><m><gen> <num> <nom> <det><dem> <v><iv><ger_past><abl> <n> <post> <v><iv><aor><p3><pl> <cm> <nom> <v><iv><aor><p3><pl> <cm> <v><iv><neg><aor><p3><pl> <sent> 
+<num> <nom> <n><dat> <post> <nom> <n><px3sp><abl> <v><iv><gna_perf> <cm> <n><px3sp><gen> <n><px3sp><acc> <v><tv><aor><p3><sg> <sent> 
+<np><><m><nom> <num> <nom> <n><gen> <n><px3sp><loc> <v><iv><gpr_past> <n><acc> <n><ins> <v><tv><prc_perf> <vaux><aor><p3><sg> <sent> 
+<n><nom> <n><gen> <n><px3sp><acc> <v><tv><prc_perf> <vaux><aor><p3><sg> <sent> 
+<n><nom> <v><tv><pass><neg><gna_perf> <cm> <num> <n><px3sp><acc> <v><tv><gna_perf> <cm> <v><iv><prc_impf> <vaux><aor><p3><sg> <sent> 
+<v><iv><gna_perf> <v><iv><ger_past><loc> <cm> <n><nom> <det><ind> <n><gen> <n><px3sp><gen> <n><px3sp><abl> <v><iv><gna_perf> <v><tv><aor><p3><sg> <sent> 
+<v><tv><prc_perf> <vaux><prc_impf> <vaux><gpr_past> <np><><m><nom> <postadv> <n><abl> <v><iv><aor><p3><sg> <sent> 
+<v><iv><ger_past><loc> <np><><m><gen> <num> <nom> <n><acc> <v><tv><prc_perf> <vaux><aor><p3><sg> <sent> 
+<np><><m><nom> <adv> <px3sp><nom> <adj> <cop><ger_past><px3sp><acc> <v><tv><neg><past><evid><p3><sg> <sent> 
+<n><nom> <cop><aor><p3><sg> <cm> <np><><f><nom> <adj> <cop><aor><p3><sg> <sent> 
+<adj> <n><nom> <n><dat> <v><iv><gpr_past> <n><gen><subst> <cop><aor><p3><sg> <sent> 
+<n><loc><attr> <adj> <nom> <adj> <guio> <adj> <adj> <n><nom> <adj> <adj> <nom> <cm> <adj> <n><loc><attr> <n><nom> <v><tv><gpr_impf> <adj> <n><nom> <nom> <guio> <prn><pers><p1><sg><gen> <adj> <n><nom> <cop><><neg><gpr_fut><subst><px1sg><dat> <n><nom> <cop><fut><p3><sg> <sent> 
+<num> <n><nom> <n><gen> <adj> <n><px1sg><gen> <prn><ind><px3sp><nom> <cop><aor><p3><sg> <sent> 
+<nom> <n><nom> <n><px3sp><loc> <adj> <n><nom> <cop><gna_perf> <cm> <adv> <v><iv><ger_past><loc> <cm> <np><><loc><attr> <n><nom> <n><px3sp><dat> <v><iv><gna_perf> <cm> <n><nom> <v><tv><gna_perf> <cm> <n><nom> <v><ifi><p3><sg> <sent> 
+<n><gen> <n><px3sp><dat> <v><iv><opt><p1><sg> <vaux><gna_perf> <adj> <n><gen> <n><px3sp><abl> <adv> <v><prc_impf> <vaux><past><p3><sg> <cm> <adj> <n><px3sp><lov> <n><px3sp><acc> <v><iv><gna_perf> <cm> <v><iv><gna_perf> <v><iv><gpr_past> <det><ind> <n><nom> <adv> <v><iv><gna_perf> <sent> <guio> <v><iv><imp><p2><sg> <sent> <guio> <v><tv><gna_perf> <v><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<adv> <v><neg><ifi><p3><sg> <cm> <n><px3sp><abl> <det><ind> <n><nom> <v><prc_perf> <vaux><gna_perf> <cm> <v><tv><prc_impf> <v><tv><gna_perf> <cm> <n><dat> <v><tv><prc_impf> <v><iv><ifi><p3><sg> <cm> <np><><f><gen> <nom> <n><px3sp><abl> <v><iv><ifi><p3><sg> <sent> 
+<v><tv><gpr_past> <n><nom> <v><tv><gna_perf> <n><dat> <v><tv><gna_perf> <v><iv><ger_past><loc> <cm> <adv> <num> <n><nom> <n><pl><px3sp><acc> <v><iv><gna_perf> <cm> <v> <guio> <v><tv><pass><gna_perf> <cm> <n><pl><px3sp><acc> <v><tv><gna_perf> <np><><f><dat> <v><iv><gna_perf> <cm> <v><iv><prc_impf> <v><iv><gna_perf> <cm> <n><pl><px3sp><acc> <v><tv><prc_impf> <vaux><tv><ifi><p3><pl> <sent> 
+<adj> <n><loc> <n><dat> <adv> <cm> <n><px3sp><acc> <v><tv><prc_impf> <cm> <n><px3sp><acc> <v><tv><gna_perf> <cm> <n><px3sp><acc> <v><tv><prc_impf> <cm> <n><px3sp><acc> <v><tv><prc_impf> <v><iv><gna_perf> <cm> <adj> <n><nom> <n><px3sp><acc> <v><tv><gna_perf> <v><iv><ger_past><nom> <post> <n><px3sp><acc> <v><tv><gna_perf> <cm> <n><px3sp><acc> <v><tv><prc_impf> <cm> <n><px3sp><acc> <v><tv><prc_impf> <cm> <v><iv><prc_impf> <v><iv><ifi><p3><sg> <sent> 
+<np><><f><nom> <adv> <prn><ind><nom> <v><tv><aor><evid><p3><sg> <v><tv><gna_perf> <nom> <v><tv><prc_perf> <vaux><ifi><p3><sg> <sent> 
+<ij> <cm> <prn><pers><p1><sg><nom> <v><iv><gpr_fut><px1sg><acc> <v><tv><neg><gpr_impf> <n><nom> <cop><aor><p1><sg> <mod> <sent> 
+<ij> <cm> <ij> <cm> <n><gen> <n> <v><tv><gna_perf> <cm> <n><nom> <v><tv><prc_perf> <vaux><aor><p3><sg> <sent> 
+<ij> <cm> <v><iv><prc_impf> <vaux><aor><p3><sg> <sent> 
+<num> <n><nom> <cop><aor><p3><sg> <n><nom> <sent> 
+<n><dat> <v><iv><prc_impf> <vaux><ger_past><loc> <cm> <n><px3sp><acc> <num> <v><iv><ifi><p3><sg> <sent> 
+<n><acc> <v><tv><ger_past><px3sp><dat> <v><ifi><p3><sg> <sent> 
+<np><><m><loc> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<prn><pers><p1><sg><nom> <np><><nom> <n><px3sp><loc><attr> <adj> <n><gen> <adj> <nom> <cop><ifi><p1><sg> <sent> 
+<np><><nom> <cm> <np><><nom> <guio> <prn><itg><nom> <n><abl> <adj> <n><nom> <n><px3sp><nom> <cop><aor><p3><sg> <sent> 
+<np><><acc> <v><tv><gerpast><nom> <guio> <adj> <adj> <np><attr> <n><px3sp><nom> <cop><aor><p3><sg> <sent> 
+<np><><gen> <n> <n><sim> <cop><aor><p3><sg> <guio> 
+<np><><gen> <adj> <n><px3sp><loc> <cm> <np><><gen> <adj> <n><px3sp><loc> <n><dat> <adj> <np><><nom> <adj> <cop><aor><p3><sg> <sent> 
+<det><dem> <n><nom> <adj> <n><acc> <v><tv><prcimpf> <vaux><gnaimpf> <cm> <adj> <n><nom> <v><tv><ifi><p3><sg> <cm> <adj> <n><nom> <v><iv><gerpast><nom> <prn><dem><acc> <v><tv><gnaperf> <adj> <n><px3sp><acc> <v><tv><ifi><p3><sg> <sent> 
+<prn><pers><p3><sg><gen> <num><subst><px3sp><nom> <guio> <adj> <v><tv><gprpast> <cm> <prn><ref><px2sg><nom> <v><tv><gprpast> <adj> <n><nom> <cop><aor><p3><sg> <sent> 
+<v><tv><imp><p2><sg> <n><acc> <sent> <sent> <sent> 
+<guio> <v><iv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<guio> <prn><itg><nom> <cop><aor><p3><sg> <cm> <prn><itg><nom> <cop><aor><p3><sg> <sent> 
+<guio> <n><px1sg><nom> <adj> <cop><aor><p3><sg> <cm> <ij> <sent> <sent> <sent> 
+<guio> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<guio> <prn><ref><px1sg><nom> <v><tv><aor><p1><sg> <cm> <guio> <v><tv><gnaperf> <n><nom> <v><iv><prcperf> <vaux><prcimpf> <v><iv><ifi><p3><sg> <sent> 
+<guio> <v><tv><aor><p1><sg> <sent> 
+<guio> <v><iv><imp><p2><sg> <emph> <sent> 
+<det><dem> <adj> <adj><subst><nom> <prn><itg><nom> <cop><aor><p3><sg> <sent> 
+<n><nom> <v><tv><gnaperf> <v><iv><gprpast> <n><pl><nom> <prn><itg><nom> <cop><aor><p3><sg> <sent> 
+<prn><dem><pl><acc> <v><tv><aor><p1><sg> <v><tv><gnaperf> <n><dat> <v><iv><gerpast><nom> <prn><itg><nom> <cop><aor><p3><sg> <sent> 
+<ij> <cm> <prn><dem><acc> <n><dat> <v><tv><aor><p1><sg> <sent> 
+<n><px1sg><nom> <guio> <np><><m><nom> <cop><aor><p3><sg> <sent> 
+<n><px1sg><nom> <n><nom> <v><iv><gnaperf> <cm> <n><nom> <v><tv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<n><px1sg><nom> <np><><loc> <v><iv><ger><loc> <cop><aor><p3><sg> <sent> 
+<n><gen> <n><px3sp><nom> <cnjcoo> <n><gen> <n><px3sp><nom> <v><tv><pass><gerpast><nom> <post> <cm> <n><px1pl><nom> <v><tv><prcperf> <vaux><gnaperf> <cm> <prn><dem><abl> <post> <n><px1pl><nom> <v><tv><pass><ifi><p3><sg> <sent> 
+<n><nom> <v><iv><gnacond><p3><sg> <n><dat> <v><iv><aor><p1><sg> <cm> <n><nom> <v><iv><gprpast> <cm> <n><nom> <v><iv><gprpast> <n><pl><abl> <v><iv><neg><aor><p1><sg> <sent> 
+<n><loc> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><nom> <n><nom> <post> <n><px3sp><gen> <n><px3sp><dat> <v><iv><aor><p3><sg> <sent> 
+<n><ins> <n><nom> <v><tv><gerpast><loc> <cm> <n><nom> <cm> <n><px1sg><acc> <v><tv><ger><dat> <cm> <prn><pers><p1><pl><nom> <n><dat> <v><iv><ifi><p1><pl> <sent> 
+<n><nom> <n><acc> <adj> <n><dat> <v><tv><aor><p1><sg> <v><tv><gerpast><loc> <cm> <prn><itg><sim> <v><iv><prcperf> <cm> <v><iv><prcperf> <cm> <v><tv><pass><prcperf> <vaux><ifi><p3><sg> <sent> 
+<prn><itg><nom> <v><tv><aor><p3><sg> <cm> <n><px3sp><dat> <n><nom> <v><tv><gnacond><p3><sg> <cm> <n><nom> <n><px3sp><dat> <n><nom> <v><iv><prcperf> <vaux><neg><gerfut><px3sp><dat> <prn><itg><gen> <n><px3sp><nom> <v><iv><aor><p3><sg> <sent> 
+<adv> <adj> <np><><nom> <v><iv><aor><p3><sg> <cm> <n><px3sp><nom> <cm> <n><px3sp><nom> <v><iv><prcperf> <vaux><aor><p3><sg> <sent> 
+<adv> <cm> <n><dat> <v><iv><ger><px3sp><nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><loc> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><nom> <n><px2sg><nom> <v><iv><ifi><p3><sg> <v><tv><gnaperf> <prn><pers><p1><pl><acc> <v><tv><aor><p3><sg> <sent> 
+<cnjcoo> <n><pl><px2sg><nom> <v><iv><neg><aor><p3><pl> <sent> 
+<n><px1pl><nom> <v><iv><gnaperf> <cm> <np><><nom> <n><px3sp><dat> <v><iv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<num><subst><px3sp><abl> <v><iv><neg><gnacond><p3><sg> <num><subst><px3sp><abl> <v><iv><ger><px1pl><nom> <n><nom> <cop><aor><p3><sg> <sent> 
+<prn><pers><p1><pl><nom> <adv> <adj> <cop><aor><p1><pl> <sent> 
+<n><nom> <v><tv><gnaimpf> <n><loc> <v><iv><ifi><p1><sg> <sent> 
+<v><iv><prcperf> <vaux><prcimpf> <vaux><pres><p1><sg> <v><tv><gnacond><p2><sg> <cm> <n><dat> <det><ind> <n><px3sp><acc> <v><tv><neg><aor><p3><sg> <sent> 
+<n><nom> <n><px3sp><abl> <v><iv><aor><p3><sg> <v><tv><aor><p3><sg> <cm> <v><tv><prcperf> <vaux><neg><aor><p3><sg> <cm> <n><nom> <v><tv><gprfut><subst><loc> <n><nom> <v><iv><prcimpf> <vaux><neg><aor><p3><sg> <sent> 
+<prn><dem><acc> <v><tv><gnaperf> <vaux><past><p3><pl> <prn><ref><px1pl><gen> <n><pl><nom> <sent> 
+<cnjcoo> <n><px1pl><nom> <v><iv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<v><tv><gerpast><acc> <adj><advl> <v><tv><aor><p1><sg> <sent> 
+<adj><subst><acc> <adj><advl> <v><tv><aor><p1><sg> <sent> 
+<n><dat> <adj><advl> <v><iv><aor><p1><sg> <sent> 
+<n><loc> <n><nom> <v><tv><aor><p1><sg> <sent> 
+<np><><nom> <v><iv><gnaperf> <cm> <np><><nom> <cm> <np><><nom> <cm> <np><><nom> <post> <n><pl><acc> <v><tv><ifi><p1><sg> <sent> 
+<adj> <n><gen> <n><pl><px3sp><dat> <n><nom> <cm> <n><nom> <v><tv><gnaperf> <cm> <n><nom> <v><tv><ifi><p1><sg> <sent> 
+<n><nom> <v><tv><prcperf> <vaux><gnaperf> <cm> <n><nom> <v><tv><gnaperf> <cm> <n><nom> <v><tv><ifi><p1><sg> <sent> 
+<ij> <n><nom> <cop><aor><p3><sg> <sent> 
+<adj><subst><pl><nom> <v><iv><gnaperf> <cm> <adj><subst><pl><nom> <v><iv><gnaperf> <cm> <n><attr> <guio> <n><dat> <v><iv><ifi><p3><pl> <sent> 
+<prn><ind><nom> <n><nom> <adj> <v><tv><ifi><p3><sg> <cm> <prn><ind><nom> <n><nom> <adj> <v><tv><ifi><p3><sg> <sent> 
+<n><abl> <v><iv><ifi><p1><sg> <sent> 
+<n><dat> <v><iv><gerpast><nom> <post> <n><attr> <guio> <n><abl> <n><nom> <cm> <n><nom> <cm> <n><nom> <guio> <n><nom> <cm> <n><nom> <guio> <n><nom> <v><tv><prcperf> <v><iv><gprpast> <adj><subst><pl><gen> <n><px3sp><dat> <v><iv><gnaperf> <cm> <n><attr> <n><px1sg><nom> <n><px1sg><loc> <prn><dem><pl><dat> <n><nom> <v><iv><ifi><p1><sg> <sent> 
+<prn><pers><p3><pl><nom> <prn><pers><p1><sg><dat> <adj> <n><nom> <v><tv><prcperf> <vaux><imp><p2><sg> <v><tv><ifi><p3><pl> <sent> 
+<adv> <prn><pers><p3><pl><acc> <prn><pers><p1><sg><nom> <prn><itg><px3sp><dat> <v><tv><opt><p1><sg> <sent> 
+<v><tv><gnaperf> <v><iv><gprpast> <det><dem> <n><px3sp><acc> <v><iv><prcperf> <vaux><gprpast> <adj> <n><nom> <cop><aor><evid><p3><sg> <sent> 
+<cnjcoo> <adv> <v><iv><gnaimpf> <v><tv><ger><dat> <n><dat> <v><iv><neg><ifi><p3><sg> <sent> 
+<adj> <n><nom> <prn><dem><sim> <cop><neg><aor><p3><sg> <sent> 
+<n><pl><px3sp><acc> <v><tv><gnaperf> <cm> <n><pl><px3sp><acc> <v><tv><coop><gnaperf> <v><iv><gerpast><nom> <post> <cm> <adj><subst><pl><px3sp><nom> <n><dat> <v><tv><ifi><p3><sg> <sent> 
+<n><pl><nom> <v><iv><gnaimpf> <v><iv><ifi><p3><sg> <sent> 
+<cnjcoo> <v><iv><gnaperf> <v><tv><coop><neg><gnaperf> <cm> <adj><subst><abl> <v><tv><gnaperf> <v><tv><coop><gerpast><px3sp><dat> <v><tv><prcimpf> <vaux><neg><ifi><p3><sg> <sent> 
+<guio> <det><dem> <n><nom> <prn><pers><p2><sg><acc> <adv> <v><tv><past><p3><sg> <sent> 
+<prn><dem><nom> <prn><ref><px3sp><nom> <adj> <n><nom> <cop><aor><p3><sg> <sent> 
+<v><iv><neg><gprimpf> <n><nom> <cop><aor><p3><sg> <sent> 
+<prn><pers><p2><sg><dat> <prn><neg><nom> <v><iv><neg><aor><p3><sg> <sent> 
+<prn><pers><p3><sg><nom> <v><tv><neg><past><p3><sg> <sent> 
+<num><coll><subst><px3sp><nom> <v><iv><past><p3><sg> <cm> <adj><subst><nom> <v><iv><past><p3><sg> <sent> 
+<det><dem> <n><nom> <prn><pers><p2><sg><acc> <prn><neg><dat> <v><tv><neg><aor><p3><sg> <sent> 
+<prn><dem><nom> <prn><pers><p2><sg><acc> <n><nom> <v><tv><aor><p3><sg> <sent> 
+<prn><dem><nom> <adj><subst><nom> <v><tv><gprimpf> <adj> <n><nom> <cop><aor><p3><sg> <sent> 
+<det><dem> <n><nom> <prn><pers><p2><sg><acc> <adv> <v><tv><aor><p3><sg> <sent> 
+<prn><pers><p2><sg><acc> <v><tv><aor><p3><sg> <sent> 
+<adj> <n><nom> <cop><aor><p3><sg> <v><tv><gnaperf> <v><tv><aor><p3><sg> <sent> 
+<adv> <guio> <adv> <adj> <n><nom> <prn><pers><p3><sg><dat> <n><nom> <v><tv><gnaperf> <vaux><ifi><p3><sg> <sent> 
+<prn><pers><p3><sg><gen> <det><qnt> <n><px3sp><nom> <n><px3sp><dat> <v><iv><neg><aor><p3><sg> <sent> 
+<adv> <cm> <adv> <v><tv><gerpast><px3sp><nom> <n><nom> <cop><aor><p3><sg> <sent> 
+<adj> <n><dat> <cm> <n><dat> <prn><itg><nom> <n><nom> <cop><aor><p3><sg> <sent> 
+<n><px3sp><abl> <prn><dem><sim><nom> <v><iv><neg><ifi><p3><sg> <sent> 
+<n><px3sp><dat> <cm> <n><px3sp><dat> <n><nom> <v><iv><prcperf> <vaux><gprpast> <det><itg> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><acc> <v><tv><aor><p1><sg> <v><tv><prcperf> <vaux><gerpast><loc> <cm> <det><dem> <n><pl><nom> <n><px3sp><acc> <v><tv><gnaperf> <v><tv><ifi><evid><p3><sg> <sent> 
+<prn><dem><gen> <n><px3sp><nom> <adj> <n><dat> <n><px3sp><acc> <prn><itg><nom> <v><tv><aor><p3><sg> <sent> 
+<n><px3sp><nom> <v><iv><neg><gnacond><p3><sg> <cm> <det><dem> <n><loc> <det><itg> <n><nom> <adj> <cop><ifi><p3><sg> <sent> <sent> <sent> 
+<adv> <det><dem> <n><abl> <v><iv><ger><dat> <n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<prn><dem><abl> <adj><subst><acc> <v><tv><neg><aor><p3><sg> <sent> 
+<prn><itg><dat> <v><iv><opt><p3><sg> <cm> <prn><itg><dat> <v><tv><opt><p3><sg> <sent> 
+<prn><dem><gen> <prn><qnt><px3sp><nom> <prn><pers><p3><sg><dat> <n><gen> <v><tv><gprpast> <n><px3sp><nom> <adj> <cop><aor><p3><sg> <sent> 
+<prn><dem><nom> <guio> <n><gen> <n><px3sp><nom> <cop><aor><p3><sg> <sent> 
+<adv><subst><sim> <adv> <cm> <np><><f><nom> <n><px3sp><dat> <adv> <adj> <cop><aor><p3><sg> <sent> 
+<n><px3sp><nom> <n><dat> <v><iv><gnaperf> <cm> <n><nom> <v><iv><ifi><p3><sg> <sent> 
+<n><nom> <v><iv><gnaafter> <cm> <n><px3sp><nom> <n><nom> <v><iv><prcperf> <vaux><aor><p3><sg> <sent> 
+<ij> <cm> <np><><f><gen> <prn><ref><px3sp><attr> <n><px3sp><nom> <adv> <adj> <cop><aor><p3><sg> <sent> 
+<n><gen> <det><ind> <v><iv><gprpast> <n><px3sp><nom> <v><iv><opt><p3><sg> <sent> 
+<prn><pers><p3><pl><nom> <adv><itg> <cop><aor><p3><pl> <sent> 
+<prn><pers><p3><sg><nom> <v><iv><gprpast><nom> <n><nom> <cop><aor><evid><p3><sg> <sent> 
+<guio> <n><acc> <v><tv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<guio> <ij> <sent> 
+<guio> <ij> <sent> 
+<det><dem> <n><gen> <num><subst><px3sp><nom> <prn><dem><nom> <cop><aor><evid><p3><sg> <sent> 
+<cnjcoo> <prn><dem><nom> <adv><itg><attr> <n><nom> <cop><aor><p3><sg> <sent> 
+<prn><dem><dat> <n><nom> <prn><dem><nom> <cop><ifi><p3><sg> <sent> 
+<guio> <ij> <cm> <adj> <n><nom> <v><iv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<guio> <n><nom> <v><tv><gnaperf> <n><gen> <n><px3sp><nom> <num><advl> <v><tv><pass><ifi><p3><sg> <sent> 
+<adj> <det><ind> <n><dat> <v><iv><gerpast><sim> <v><iv><aor><p3><sg> <sent> 
+<det><dem> <n><acc> <v><tv><gprpast> <n><loc> <adv> <num> <n><nom> <v><iv><ifi><p3><pl> <sent> 
+<n><nom> <adj> <cop><aor><p3><sg> <sent> 
+<n><nom> <v><iv><prcperf> <vaux><aor><p3><sg> <sent> 
+<sent> <prn><dem><adv> <v><iv><imp><p2><sg> <sent> <sent> <v><tv><gprpast><subst><sim> <num> <n><px3sp><abl> <v><iv><prcperf> <vaux><ifi><p3><sg> <cm> <num> <guio> <num> <n><sim> <n><dat> <v><iv><gnaperf> <v><iv><prcimpf> <vaux><ifi><p3><sg> <sent> 
+<n><px3sp><nom> <n><dat> <v><iv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<prn><pers><p1><sg><nom> <prn><pers><p2><sg><dat> <adv> <adj> <v><iv><neg><gerfut><px1sg><acc> <adv><itg> <v><tv><aor><p2><sg> <sent> 
+<prn><pers><p2><sg><nom> <det><dem> <n><abl> <adj> <guio> <adj><advl> <v><iv><fut><p2><sg> <cm> <n><px2sg><dat> <adj><advl> <v><iv><fut><p2><sg> <sent> <guio> <v><tv><ifi><p3><sg> <sent> 
+<prn><itg><acc> <v><tv><gnaperf> <cm> <v><iv><prcperf> <vaux><pres><p2><pl> <sent> 
+<n><nom> <v><iv><aor><p3><sg> <sent> 
+<cnjcoo> <n><nom> <v><tv><pass><neg><aor><p3><sg> <sent> 
+<prn><dem><nom> <prn><itg><nom> <cop><aor><p3><sg> <sent> <sent> <sent> 
+<guio> <adv> <det><itg> <n><dat> <v><iv><opt><p1><sg> <sent> <sent> <sent> 
+<n><nom> <prn><pers><p3><sg><abl> <adv> <v><iv><aor><p3><sg> <sent> 
+<n><nom> <v><iv><aor><p3><sg> <sent> 
+<n><nom> <adv><itg> <v><iv><ifi><p3><sg> <cm> <prn><dem><adv> <n><pl><gen> <n><px3sp><nom> <v><tv><prcimpf> <vaux><ifi><p3><sg> <sent> 
+<n><pl><nom> <adv> <v><tv><ifi><p3><pl> <sent> 
+<adj> <n><pl><nom> <cm> <adj> <n><pl><nom> <sent> 
+<prn><itg><acc> <v><tv><gnaperf> <v><tv><gerimpf><px3sp><acc> <prn><itg><nom> <v><tv><opt><p3><sg> <cm> <adv> <v><tv><prcimpf> <vaux><ifi><p3><sg> <sent> 
+<n><ins> <v><iv><gnaperf> <n><dat> <v><iv><prcimpf> <vaux><gprpast> <cm> <n><abl> <n><nom> <cm> <n><attr> <guio> <n><nom> <v><tv><gnaperf> <v><iv><prcimpf> <v><iv><gprpast> <n><pl><acc> <adj><advl> <v><tv><past><p3><sg> <sent> 
+<prn><pers><p3><pl><dat> <n><px3sp><nom> <v><iv><gerpast><loc> <v><iv><gprpast> <cm> <v><iv><gprpast> <cm> <v><iv><gprpast> <cm> <adv> <n><px3sp><acc> <v><tv><gprpast> <det><ind> <adj> <n><nom> <v><iv><ifi><p3><sg> <sent> 
+<v><tv><prcvol><p3><sg> <vaux><neg><ifi><p3><sg> <cm> <adj><advl> <v><iv><ifi><p3><sg> <sent> 
+<n><px3sp><dat> <v><iv><gerpast><sim> <v><iv><prcperf> <vaux><ifi><p3><sg> <sent> 
+<adv><attr> <n><loc> <n><nom> <vaux><pres><p3><sg> <sent> 
+<n><px3sp><nom> <n><nom> <v><tv><gprpast> <adj> <n><gen> <adj> <n><px3sp><nom> <cop><aor><evid><p3><sg> <sent> 
+<sent> <prn><pers><p3><sg><acc> <prn><pers><p1><pl><nom> <v><tv><neg><aor><p1><pl> <mod_emo> <sent> <sent> <v><tv><gprpast> <n><pl><nom> <v><iv><ifi><p3><pl> <sent> 
+<n><pl><acc> <v><tv><ger><nom> <v><tv><pass><gerpast><abl> <post> <n><pl><nom> <lpar> <n><pl><nom> <rpar> <n><pl><px3sp><dat> <n><pl><nom> <v><tv><ger><dat> <n><nom> <v><tv><pass><aor><p3><sg> <sent> 
+<n><nom> <n><pl><px3sp><acc> <v><tv><ger><nom> <n><px3sp><loc> <n><pl><gen> <n><pl><px3sp><nom> <v><tv><pass><aor><p3><pl> <sent> 
+<adj> <n><nom> <n><px3sp><loc> <n><acc> <n><pl><nom> <n><px3sp><dat> <v><tv><ger><nom> <post> <prn><dem><gen> <det><dem> <n><nom> <n><px3sp><gen> <n><px3sp><loc> <adj> <n><px3sp><nom> <post> <v><tv><pass><ger><nom> <n><px3sp><nom> <n><nom> <v><iv><aor><p3><sg> <sent> 
+<n><pl><nom> <n><px3sp><nom> <n><nom> <n><px3sp><ins> <cnjcoo> <adj> <n><ins> <v><tv><pass><aor><p3><sg> <sent> 
+<n><pl><gen> <adj> <n><px3sp><nom> <post> <n><px3sp><acc> <adj> <adj> <v><tv><gprpot> <n><nom> <n><acc> <n><dat> <v><tv><ger><acc> <n><dat> <v><iv><caus><gprimpf> <n><pl><nom> <v><tv><gprpast> <n><pl><gen> <n><px3sp><loc> <v><tv><aor><p3><sg> <sent> 
+<n><pl><gen> <adj> <n><px3sp><nom> <post> <n><px3sp><acc> <adj> <adj> <v><tv><gprpot> <n><nom> <n><acc> <n><dat> <v><tv><ger><acc> <n><dat> <v><iv><caus><gprimpf> <n><pl><nom> <v><tv><gprpast> <n><pl><gen> <n><px3sp><loc> <v><tv><aor><p3><sg> <sent> 
+<n><pl><gen> <adj> <n><px3sp><nom> <post> <n><px3sp><acc> <adj> <adj> <v><tv><gprpot> <n><nom> <n><acc> <n><dat> <v><tv><ger><acc> <n><dat> <v><iv><caus><gprimpf> <n><pl><nom> <v><tv><gprpast> <n><pl><gen> <n><px3sp><loc> <v><tv><aor><p3><sg> <sent> 
+<n><pl><gen> <adj> <n><px3sp><nom> <post> <n><px3sp><acc> <adj> <adj> <v><tv><gprpot> <n><nom> <n><acc> <n><dat> <v><tv><ger><acc> <n><dat> <v><iv><caus><gprimpf> <n><pl><nom> <v><tv><gprpast> <n><pl><gen> <n><px3sp><loc> <v><tv><aor><p3><sg> <sent>

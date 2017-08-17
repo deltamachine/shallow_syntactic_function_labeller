@@ -21,14 +21,14 @@ class SimpleRNNNetwork:
 		for i in range(len(string)):
 			string[i] = re.sub('><', '>!<', string[i]).split('!')
 			word = np.array([dy.lookup(self.embeddings, vocab[elem]) for elem in string[i]])
-            word = np.sum(word, axis=0)
+			word = np.sum(word, axis=0)
 			
 			input_list.append(word)
 
 		return input_list
 	
 	def _preprocess_output(self, string):
-		string = string.split() + [EOS]
+		string = string.split() + ['<EOS>']
 		return [syntax2int[c] for c in string]
 
 	def _run_rnn(self, init_state, input_vecs):

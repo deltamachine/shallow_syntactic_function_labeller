@@ -1,0 +1,756 @@
+<@root> <@nmod:poss> <@cop> <@punct> 
+<@case> <@nmod> <@case:circ> <@nsubj> <@root> <@aux> <@punct> 
+<@flat> <@nsubj> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@root> <@cc> <@case> <@nmod> <@root> <@punct> 
+<@mark> <@nsubj> <@flat> <@obj> <@case> <@nmod> <@nmod:poss> <@advcl> <@punct> <@nsubj> <@root> <@dep> <@cc> <@nsubj> <@case> <@nmod> <@dep> <@root> <@punct> 
+<@case> <@nmod> <@case:circ> <@advmod:neg> <@root> <@cop> <@advmod> <@csubj> <@punct> <@case> <@nmod> <@nmod:poss> <@advmod:neg> <@punct> 
+<@root> <@nsubj> <@amod> <@ccomp> <@aux> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@punct> <@nsubj> <@advmod> <@root> <@cop> <@mark> <@nsubj> <@obj> <@case> <@det> <@nmod> <@case> <@compound> <@ccomp> <@punct> 
+<@cc> <@nsubj> <@root> <@case> <@nmod> <@amod> <@ccomp> <@punct> 
+<@nsubj> <@root> <@cc> <@nsubj> <@root> <@punct> <@discourse> <@nsubj> <@case> <@nmod> <@dep> <@punct> <@nsubj> <@case> <@nmod> <@nmod:poss> <@dep> <@punct> <@punct> 
+<@root> <@punct> <@nsubj> <@amod> <@obj> <@nmod:poss> <@root> <@punct> 
+<@advmod> <@root> <@mark> <@advmod> <@ccomp> <@cop> <@cc> <@nsubj> <@case> <@nmod> <@ccomp> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@nsubj> <@compound> <@root> <@mark> <@nsubj> <@case> <@nmod> <@case> <@obj> <@det> <@nmod:poss> <@ccomp> <@punct> 
+<@nsubj> <@root> <@obj> <@punct> <@nsubj> <@root> <@cc> <@case> <@det> <@nmod> <@case> <@nsubj> <@obj> <@nmod:poss> <@root> <@cc> <@case> <@nmod> <@case> <@case> <@nmod> <@nsubj> <@root> <@punct> 
+<@nsubj> <@root> <@punct> <@discourse> <@nmod:poss> <@amod> <@discourse> <@punct> <@nsubj> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@root> <@flat> <@cop> <@punct> <@nsubj> <@discourse> <@root> <@nmod:poss> <@dep> <@nmod:poss> <@appos> <@cop> <@punct> 
+<@nsubj> <@root> <@det> <@obj> <@case> <@nmod> <@nmod:poss> <@case> <@ccomp> <@punct> 
+<@cc> <@nmod> <@root> <@cop> <@punct> <@nsubj> <@root> <@mark> <@nsubj> <@ccomp> <@punct> <@advmod> <@nmod> <@root> <@cop> <@punct> <@nsubj> <@obj> <@root> <@punct> 
+<@nsubj> <@root> <@punct> <@advmod> <@case> <@nmod> <@nsubj> <@root> 
+<@punct> <@cc> <@case> <@fixed> <@root> <@punct> 
+<@punct> <@case> <@fixed> <@root> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@case> <@nmod> <@amod> <@root> <@cc> <@nmod> <@nmod:poss> <@obj> <@case> <@fixed> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@mark> <@obj> <@advcl> <@nsubj> <@root> <@mark> <@nsubj> <@nmod:poss> <@ccomp> <@nummod> <@amod> <@cop> <@cc> <@case> <@advmod> <@case> <@nsubj> <@case> <@nmod> <@nmod:poss> <@ccomp> <@cc> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@ccomp> <@mark> <@nsubj> <@case> <@ccomp> <@amod> <@case> <@cop> <@punct> 
+<@nsubj> <@root> <@punct> <@discourse> <@obj> <@advmod> <@compound:lvc> <@ccomp> <@punct> <@nsubj> <@ccomp> <@cop> <@punct> <@advmod> <@nsubj> <@aux> <@obj> <@nmod:poss> <@nmod:poss> <@ccomp> <@punct> 
+<@nsubj> <@root> <@punct> <@discourse> <@nsubj> <@ccomp> <@nsubj> <@case> <@det> <@ccomp> <@case> <@cop> <@punct> <@nsubj> <@mark> <@amod> <@nmod> <@nmod:poss> <@advmod> <@ccomp> <@nmod> <@nmod:poss> <@punct> 
+<@mark> <@nsubj> <@obj> <@case> <@nmod> <@mark> <@nsubj> <@case> <@nmod> <@case> <@amod> <@cop> <@punct> <@advcl> <@punct> <@advmod> <@nsubj> <@aux> <@root> <@case> <@fixed> <@nmod> <@nmod:poss> <@ccomp> <@punct> 
+<@advmod> <@case> <@nmod> <@case> <@det> <@nsubj> <@root> <@punct> 
+<@case> <@det> <@nmod> <@case> <@nsubj> <@root> <@ccomp> <@punct> <@mark> <@nmod> <@nsubj> <@aux> <@advcl> <@punct> 
+<@root> <@punct> <@nmod> <@case> <@nmod> <@det> <@nsubj> <@root> <@punct> 
+<@mark> <@nsubj> <@obj> <@nmod:poss> <@compound> <@advcl> <@punct> <@nsubj> <@nmod:poss> <@case> <@nmod> <@root> <@nmod:poss> <@cop> <@punct> 
+<@advmod> <@nmod> <@case> <@nmod> <@root> <@nsubj> <@obj> <@nmod:poss> <@case> <@nmod> <@case> <@case> <@det> <@nmod> <@aux> <@ccomp> <@punct> <@advmod> <@ccomp> <@obj> <@nmod:poss> <@cc> <@det> <@obj> <@fixed> <@compound:lvc> <@ccomp> <@punct> 
+<@root> <@punct> <@nsubj> <@nmod:poss> <@root> <@flat> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@root> <@amod> <@cop> <@punct> <@case> <@appos> <@nmod:poss> <@punct> 
+<@case> <@nmod> <@case> <@det> <@nmod> <@punct> <@case> <@nmod> <@case> <@nmod> <@case> <@nsubj> <@advmod> <@root> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@root> <@cc> <@root> <@punct> <@det> <@nsubj> <@case> <@nmod> <@case> <@advmod:neg> <@advmod> <@ccomp> <@cop> <@punct> 
+<@root> <@punct> <@det> <@nsubj> <@root> <@case> <@nmod> <@nmod:poss> <@dep> <@amod> <@cop> <@punct> 
+<@cc> <@advmod> <@det> <@nsubj> <@nmod:poss> <@advmod> <@root> <@punct> <@case> <@det> <@nmod> <@nmod> <@cc> <@nmod> <@case> <@nmod> <@case> <@punct> 
+<@nsubj> <@amod> <@punct> <@case> <@compound> <@nummod> <@cc> <@det> <@nmod> <@aux> <@root> <@punct> 
+<@root> <@nsubj> <@advmod> <@case> <@fixed> <@root> <@nmod:poss> <@amod> <@case> <@cop> <@punct> 
+<@nsubj> <@case> <@root> <@nmod:poss> <@case> <@root> <@case> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@case> <@advmod> <@det> <@nsubj> <@root> <@punct> 
+<@nsubj> <@obj> <@advmod> <@root> <@cc> <@mark> <@advcl> <@mark> <@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@advmod:neg> <@ccomp> <@root> <@obj> <@root> <@nmod> <@nmod:poss> <@cc> <@obj> <@root> <@xcomp> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@nsubj> <@nmod:poss> <@root> <@root> <@nmod> <@cc> <@case> <@det> <@nmod> <@case> <@nmod> <@root> <@root> <@punct> 
+<@nmod> <@case> <@nmod> <@nmod:poss> <@dep> <@amod> <@root> <@nmod> <@punct> <@case> <@nmod> <@root> <@cc> <@nsubj> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@nmod> <@amod> <@case> <@nmod> <@root> <@cc> <@case> <@nmod> <@root> <@nmod> <@punct> 
+<@compound:nn> <@nsubj> <@mark> <@case> <@advcl> <@cop> <@obj> <@nmod:poss> <@appos> <@nmod:poss> <@flat> <@punct> <@case> <@nmod> <@case> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@obj> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@dep> <@dep> <@case> <@det> <@nmod> <@nsubj> <@nmod:poss> <@obj> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@obj> <@root> <@nmod> <@cc> <@nsubj> <@case> <@nmod> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@det> <@obj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@case> <@root> <@mark> <@case> <@nmod> <@ccomp> <@cc> <@mark> <@nsubj> <@advcl> <@case> <@nmod> <@case> <@obj> <@nmod:poss> <@ccomp> <@punct> 
+<@nsubj> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@case> <@nmod> <@root> <@nummod> <@nmod> <@amod> <@punct> 
+<@nsubj> <@nmod:poss> <@cc> <@dep> <@nmod:poss> <@nmod:poss> <@case> <@nmod> <@root> <@cc> <@nsubj> <@compound:lvc> <@advmod:neg> <@nmod> <@punct> 
+<@cc> <@nsubj> <@nmod:poss> <@punct> <@advmod> <@obj> <@nmod:poss> <@advmod> <@advmod> <@compound:lvc> <@root> <@punct> 
+<@case> <@nmod> <@nsubj> <@nmod:poss> <@nmod:poss> <@advmod> <@fixed> <@root> <@cop> <@punct> 
+<@advmod> <@case> <@root> <@cc> <@root> <@cop> <@mark> <@nsubj> <@case> <@nmod> <@case> <@advcl> <@ccomp> <@punct> 
+<@obj> <@nsubj> <@nmod:poss> <@fixed> <@mark> <@nmod> <@amod> <@case> <@nmod> <@nmod:poss> <@case> <@advcl> <@advmod> <@cop> <@root> <@punct> 
+<@nmod> <@case> <@obl> <@case> <@obj> <@case> <@nmod> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@punct> <@case> <@nmod> <@case> <@compound:lvc> <@nmod> <@punct> <@cc> <@advmod> <@advmod> <@nmod> <@cop> <@punct> 
+<@appos> <@nsubj> <@advmod> <@compound> <@obj> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@case> <@obj> <@cc> <@obj> <@root> <@cc> <@obj> <@root> <@nmod> <@nmod:poss> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@cop> <@punct> <@cc> <@obj> <@root> <@punct> <@root> <@obj> <@nmod:poss> <@ccomp> <@punct> <@case> <@nmod> <@root> <@punct> 
+<@nmod> <@nsubj> <@root> <@punct> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@obj> <@nmod:poss> <@root> <@cc> <@nsubj> <@advmod> <@root> <@nmod> <@nmod:poss> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@compound:lvc> <@nmod> <@nmod:poss> <@root> <@cc> <@obj> <@root> <@punct> <@root> <@cop> <@punct> 
+<@cc> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@nummod> <@nmod> <@nsubj> <@amod> <@case> <@nmod> <@root> <@punct> 
+<@case> <@orphan> <@case> <@root> <@case> <@nmod> <@amod> <@nsubj> <@root> <@punct> 
+<@case> <@nmod> <@nummod> <@case> <@nsubj> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@det> <@nummod> <@nmod> <@advmod> <@case> <@nmod> <@root> <@punct> <@cc> <@advmod> <@root> <@nmod> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@fixed> <@case> <@nmod> <@root> <@punct> 
+<@case> <@obl> <@nmod> <@amod> <@case> <@nsubj> <@nmod:poss> <@advmod> <@root> <@nmod> <@nmod:poss> <@cc> <@obj> <@case> <@nmod> <@root> <@punct> 
+<@cc> <@nsubj> <@root> <@mark> <@advmod:neg> <@ccomp> <@nmod> <@punct> 
+<@mark> <@nsubj> <@nmod:poss> <@case> <@mark> <@nsubj> <@nmod:poss> <@amod> <@obj> <@nmod:poss> <@advmod> <@compound:lvc> <@advcl> <@mark> <@nsubj> <@root> <@case> <@nmod> <@cc> <@nmod> <@nsubj> <@case> <@nmod> <@case> <@root> <@cop> <@punct> 
+<@nsubj> <@cop> <@root> <@punct> <@nsubj> <@nmod:poss> <@root> <@obj> <@nmod> <@nmod:poss> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@cc> <@nmod> <@punct> <@cc> <@punct> 
+<@root> <@nmod:poss> <@punct> <@case> <@det> <@nmod> <@punct> <@case> <@nmod> <@nmod:poss> <@punct> <@case> <@nmod> <@nummod> <@nsubj> <@obj> <@root> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@root> <@punct> <@cc> <@nsubj> <@root> <@case> <@nmod> <@nmod:poss> <@cc> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@root> <@punct> 
+<@root> <@punct> <@nsubj> <@advmod> <@det> <@nsubj> <@advmod> <@root> <@punct> 
+<@nsubj> <@discourse> <@root> <@mark> <@ccomp> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@advmod> <@obj> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@flat> <@root> <@flat> <@obl:dat> <@punct> <@nsubj> <@det> <@nmod> <@obj> <@case> <@nmod> <@ccomp> <@punct> 
+<@root> <@punct> <@discourse> <@punct> <@nsubj> <@case> <@nmod> <@case> <@advmod> <@root> <@mark> <@flat> <@nmod> <@nsubj> <@cc> <@nsubj> <@ccomp> <@cc> <@nsubj> <@advmod> <@ccomp> <@punct> 
+<@root> <@punct> <@nsubj> <@case> <@root> <@nmod:poss> <@case> <@cop> <@punct> 
+<@root> <@punct> <@root> <@amod> <@cc> <@amod> <@cop> <@punct> <@nsubj> <@amod> <@root> <@cc> <@nsubj> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nsubj> <@obj> <@root> <@punct> <@root> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@root> <@case> <@nmod> <@cc> <@root> <@obl:dat> <@punct> 
+<@case> <@nmod> <@case> <@nsubj> <@case> <@nmod> <@mark> <@nsubj> <@nmod:poss> <@obj> <@nmod:poss> <@acl> <@punct> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@case> <@fixed> <@nmod> <@case> <@nsubj> <@amod> <@punct> <@case> <@nmod> <@nmod:poss> <@aux> <@root> <@punct> <@mark> <@det> <@nsubj> <@amod> <@advcl> <@obl:dat> <@punct> 
+<@case> <@det> <@nmod> <@case> <@nsubj> <@obj> <@amod> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@case> <@root> <@punct> 
+<@nsubj> <@compound:lvc> <@root> <@obl:dat> <@punct> <@nsubj> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@root> <@nmod:poss> <@cop> <@punct> 
+<@obj> <@root> <@det> <@nmod> <@punct> <@obj> <@case> <@fixed> <@nmod> <@case> <@root> <@cc> <@root> <@punct> 
+<@discourse> <@case> <@nmod> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@root> <@mark> <@nsubj> <@obj> <@ccomp> <@punct> 
+<@case> <@nmod> <@mark> <@case> <@nmod> <@acl> <@cop> <@punct> <@root> <@cc> <@advmod> <@root> <@case> <@nmod> <@ccomp> <@punct> 
+<@root> <@obj> <@ccomp> <@punct> <@cc> <@nsubj> <@nmod:poss> <@advmod> <@root> <@punct> 
+<@case> <@fixed> <@det> <@det> <@nummod> <@nsubj> <@case> <@nmod> <@nmod:poss> <@root> <@punct> <@punct> <@obj> <@amod> <@punct> 
+<@det> <@nmod> <@case> <@nmod> <@nmod:poss> <@obj> <@nmod:poss> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@root> <@mark> <@nsubj> <@ccomp> <@cc> <@obj> <@nmod:poss> <@ccomp> <@punct> 
+<@advmod> <@nsubj> <@obj> <@case> <@advcl> <@mark> <@nsubj> <@case> <@nmod> <@case> <@root> <@punct> 
+<@det> <@nmod> <@obj> <@root> <@nmod> <@nmod:poss> <@nmod:poss> <@cc> <@root> <@compound:lvc> <@obj> <@punct> 
+<@cc> <@root> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@root> <@cc> <@case> <@nmod> <@root> <@punct> <@nsubj> <@case> <@nmod> <@ccomp> <@cop> <@mark> <@nsubj> <@obj> <@nmod:poss> <@cc> <@case> <@obj> <@ccomp> <@punct> 
+<@flat> <@root> <@punct> <@nsubj> <@advmod> <@det> <@obj> <@case> <@nmod> <@root> <@punct> <@discourse> <@nsubj> <@root> <@mark> <@nsubj> <@det> <@obj> <@ccomp> <@punct> 
+<@cc> <@nsubj> <@case> <@nmod> <@root> <@ccomp> <@mark> <@case> <@fixed> <@nmod> <@cc> <@nmod> <@nsubj> <@ccomp> <@cop> <@punct> 
+<@root> <@punct> <@nsubj> <@nmod:poss> <@nmod:poss> <@case> <@root> <@cop> <@punct> 
+<@root> <@punct> <@discourse> <@punct> <@compound:lvc> <@case> <@nmod> <@root> <@cc> <@obj> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nmod:poss> <@case> <@obj> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@case> <@nmod:poss> <@case> <@nsubj> <@nmod:poss> <@root> <@punct> 
+<@root> <@punct> <@case> <@nmod> <@root> <@mark> <@mark> <@case> <@nmod> <@advcl> <@case> <@nmod> <@nmod:poss> <@ccomp> <@cc> <@obj> <@nmod> <@punct> 
+<@nsubj> <@root> <@det> <@obl:dat> <@cc> <@obl:dat> <@punct> 
+<@root> <@punct> <@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@advmod> <@root> <@punct> <@cc> <@nsubj> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@root> <@mark> <@nsubj> <@nmod:poss> <@ccomp> <@punct> 
+<@det> <@appos> <@nsubj> <@advmod> <@case> <@nmod> <@amod> <@case> <@nmod> <@case> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@root> <@mark> <@nsubj> <@advmod> <@compound:lvc> <@advmod> <@ccomp> <@punct> 
+<@root> <@punct> <@root> <@nmod:poss> <@punct> <@punct> 
+<@root> <@punct> <@nsubj> <@obj> <@nmod:poss> <@root> <@punct> <@cc> <@nsubj> <@case> <@nmod> <@det> <@nmod> <@obj> <@compound:lvc> <@advmod> <@root> <@punct> 
+<@root> <@punct> <@cc> <@nsubj> <@nmod:poss> <@nmod:poss> <@case> <@det> <@nmod> <@advmod> <@aux> <@compound:lvc> <@root> <@punct> 
+<@root> <@punct> <@discourse> <@punct> <@advmod> <@aux> <@compound:lvc> <@root> <@punct> 
+<@root> <@punct> <@compound:lvc> <@root> <@punct> <@nsubj> <@nmod:poss> <@cop> <@advcl> <@punct> 
+<@root> <@punct> <@nsubj> <@cop> <@nummod> <@root> <@mark> <@nsubj> <@nmod:poss> <@advcl> <@punct> <@obl:dat> <@nmod:poss> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@nsubj> <@case> <@nmod> <@advmod> <@compound:lvc> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nsubj> <@advmod> <@root> <@cop> <@punct> 
+<@det> <@nmod> <@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@flat> <@case> <@nmod> <@root> <@mark> <@nsubj> <@ccomp> <@cop> <@ccomp> <@nmod:poss> <@punct> 
+<@nsubj> <@det> <@obj> <@case> <@nmod> <@case> <@root> <@punct> 
+<@nsubj> <@compound:lvc> <@case> <@nmod> <@root> <@punct> <@nsubj> <@nmod:poss> <@advmod> <@compound:lvc> <@nmod> <@punct> 
+<@case> <@nummod> <@nmod> <@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@det> <@obj> <@aux> <@root> <@punct> 
+<@case> <@det> <@nmod> <@case> <@obj> <@nmod:poss> <@nmod:poss> <@root> <@punct> <@nsubj> <@xcomp> <@root> <@cc> <@nsubj> <@root> <@obl:dat> <@nmod:poss> <@nmod:poss> <@case> <@amod> <@cc> <@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@advmod> <@punct> <@case> <@nmod> <@nmod:poss> <@punct> <@nsubj> <@case> <@nmod> <@root> <@punct> <@nmod> <@det> <@nmod> <@mark> <@obj> <@nmod:poss> <@nmod:poss> <@compound:lvc> <@acl> <@punct> 
+<@nsubj> <@punct> <@nsubj> <@advmod> <@advmod> <@ccomp> <@punct> <@root> <@cc> <@nmod> <@amod> <@root> <@punct> <@root> <@obj> <@nmod:poss> <@punct> 
+<@case> <@nmod> <@root> <@nsubj> <@punct> <@ccomp> <@advmod> <@nsubj> <@ccomp> <@obl:dat> <@cc> <@ccomp> <@mark> <@nsubj> <@nmod:poss> <@case> <@nmod> <@acl> <@nsubj> <@det> <@obj> <@ccomp> <@punct> 
+<@root> <@punct> <@case> <@nmod> <@nsubj> <@nmod:poss> <@nmod:poss> <@root> <@mark> <@advmod> <@ccomp> <@obl:dat> <@punct> 
+<@nsubj> <@aux> <@case> <@nmod> <@root> <@case> <@nmod> <@nmod:poss> <@compound:lvc> <@ccomp> <@punct> 
+<@root> <@punct> <@root> <@cop> <@punct> <@nsubj> <@aux> <@advmod> <@fixed> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@aux> <@case> <@nmod> <@obj> <@root> <@punct> 
+<@root> <@punct> <@advmod> <@nsubj> <@root> <@obl:dat> <@punct> 
+<@det> <@nsubj> <@nmod:poss> <@root> <@punct> <@nsubj> <@aux> <@obj> <@compound:lvc> <@root> <@cc> <@case> <@nmod> <@amod> <@nsubj> <@aux> <@compound:lvc> <@obl:dat> <@punct> 
+<@appos> <@nsubj> <@root> <@punct> <@obj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@dep> <@amod> <@root> <@punct> <@compound:lvc> <@case> <@nmod> <@root> <@cc> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@root> <@punct> <@nsubj> <@root> <@nmod> <@nmod:poss> <@discourse> <@punct> <@nsubj> <@root> <@punct> <@ccomp> <@amod> <@cc> <@amod> <@cop> <@punct> 
+<@root> <@punct> <@discourse> <@root> <@amod> <@cc> <@amod> <@cop> <@punct> <@det> <@obj> <@advcl> <@punct> <@root> <@nmod:poss> <@punct> <@nsubj> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@case> <@det> <@root> <@case> <@cop> <@mark> <@nsubj> <@case> <@nmod> <@case> <@advcl> <@cc> <@nsubj> <@amod> <@case> <@nmod> <@compound:lvc> <@advcl> <@punct> 
+<@fixed> <@mark> <@obj> <@nmod:poss> <@case> <@nmod> <@advcl> <@punct> <@case> <@nmod> <@amod> <@root> <@obl:dat> <@punct> <@nsubj> <@case> <@nmod> <@ccomp> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@punct> <@nmod> <@flat> <@nsubj> <@case> <@nmod> <@cop> <@punct> 
+<@cc> <@nsubj> <@obj> <@nmod:poss> <@compound:lvc> <@advmod> <@root> <@punct> 
+<@root> <@punct> <@advmod> <@nsubj> <@advmod> <@root> <@punct> <@compound:lvc> <@conj> <@root> <@punct> 
+<@root> <@punct> <@nmod> <@root> <@nsubj> <@ccomp> <@punct> <@advmod> <@case> <@nmod> <@case> <@root> <@punct> <@nsubj> <@nmod:poss> <@advmod> <@case> <@nmod> <@root> <@punct> 
+<@discourse> <@nsubj> <@root> <@compound:lvc> <@punct> 
+<@root> <@punct> <@punct> <@case> <@nmod> <@punct> <@discourse> <@punct> <@nsubj> <@root> <@cop> <@punct> <@case> <@det> <@nmod> <@case> <@det> <@nsubj> <@advmod> <@root> <@obl:dat> <@punct> 
+<@root> <@punct> <@punct> <@case> <@nmod> <@punct> <@nsubj> <@root> <@case> <@nmod> <@ccomp> <@aux> <@punct> <@nsubj> <@obj> <@root> <@cc> <@root> <@nsubj> <@advmod> <@ccomp> <@cop> <@punct> 
+<@root> <@punct> <@case> <@nmod> <@punct> <@advmod> <@root> <@amod> <@cop> <@punct> 
+<@case> <@det> <@nmod> <@mark> <@case> <@nmod> <@nmod:poss> <@case> <@fixed> <@nmod> <@advcl> <@case> <@nmod> <@case> <@root> <@cop> <@punct> 
+<@root> <@punct> <@discourse> <@fixed> <@mark> <@obj> <@mark> <@nsubj> <@compound:lvc> <@amod> <@nsubj> <@case> <@nmod> <@case> <@advcl> <@punct> <@nsubj> <@obj> <@case> <@nmod> <@case> <@root> <@punct> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@cc> <@obj> <@compound:lvc> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@root> <@amod> <@cop> <@punct> <@advmod> <@case> <@nmod> <@root> <@punct> 
+<@flat> <@nsubj> <@obj> <@amod> <@case> <@mark> <@case> <@acl> <@cop> <@root> <@cc> <@obj> <@root> <@cc> <@root> <@obl:dat> <@punct> <@nmod> <@amod> <@case> <@nmod> <@case> <@ccomp> <@punct> <@obl> <@nsubj> <@case> <@nmod> <@ccomp> <@punct> <@punct> <@obj> <@root> <@obl:dat> <@cc> <@compound:lvc> <@nmod:poss> <@root> <@punct> <@root> <@punct> 
+<@nsubj> <@punct> <@root> <@obl:dat> <@punct> <@det> <@ccomp> <@nmod:poss> <@cop> <@punct> 
+<@cc> <@case> <@nmod> <@nmod:poss> <@fixed> <@case> <@nmod> <@case> <@punct> <@nsubj> <@aux> <@advmod> <@root> <@punct> 
+<@advmod> <@nsubj> <@root> <@obl:dat> <@nmod:poss> <@punct> <@obj> <@nmod:poss> <@root> <@punct> <@nsubj> <@aux> <@case> <@nmod> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@mark> <@nsubj> <@advcl> <@obl:dat> <@nsubj> <@advmod> <@cop> <@root> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@nmod:poss> <@appos> <@punct> <@nsubj> <@obj> <@nmod:poss> <@ccomp> <@punct> 
+<@advmod> <@nsubj> <@nmod:poss> <@advmod> <@fixed> <@root> <@cc> <@case> <@root> <@cop> <@punct> 
+<@obj> <@punct> <@nmod> <@nmod:poss> <@root> <@nmod> <@punct> <@nsubj> <@case> <@nmod> <@root> <@punct> 
+<@mark> <@case> <@nmod> <@punct> <@obj> <@nmod:poss> <@advmod> <@case> <@nmod> <@case> <@advcl> <@nmod> <@case> <@nmod> <@advmod> <@root> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@cop> <@cc> <@mark> <@nsubj> <@advcl> <@obl:dat> <@punct> <@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@amod> <@root> <@cop> <@cc> <@fixed> <@mark> <@nsubj> <@obj> <@nmod:poss> <@advcl> <@punct> <@nsubj> <@case> <@nmod> <@case> <@obj> <@root> <@punct> <@nsubj> <@case> <@nmod> <@root> <@cop> <@cc> <@nsubj> <@advmod> <@compound:lvc> <@root> <@obl:dat> <@flat> <@nmod:poss> <@punct> 
+<@nsubj> <@nmod> <@case> <@nummod> <@nmod> <@case> <@nmod> <@case> <@root> <@punct> 
+<@case> <@nmod> <@case> <@case> <@fixed> <@nmod> <@case> <@nsubj> <@root> <@punct> 
+<@nsubj> <@det> <@compound:lvc> <@nmod> <@root> <@cc> <@root> <@punct> <@nsubj> <@punct> <@ccomp> <@flat> <@nmod:poss> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@punct> <@nsubj> <@ccomp> <@advmod> <@advmod> <@case> <@nmod> <@ccomp> <@punct> <@cc> <@nsubj> <@case> <@nmod> <@root> <@cop> <@cc> <@nsubj> <@root> <@case> <@nmod> <@punct> 
+<@mark> <@nsubj> <@compound:lvc> <@case> <@nmod> <@advcl> <@nsubj> <@nmod:poss> <@case> <@flat> <@nmod> <@root> <@punct> 
+<@case> <@root> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@mark> <@obj> <@advcl> <@case> <@case> <@nmod> <@case> <@root> <@cc> <@case> <@nmod> <@root> <@obl:dat> <@punct> <@nsubj> <@case> <@nmod> <@case> <@ccomp> <@nmod:poss> <@cop> <@punct> 
+<@flat> <@nsubj> <@root> <@obl:dat> <@cc> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@root> <@punct> <@nsubj> <@case> <@nmod> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@advmod> <@nmod> <@cop> <@punct> 
+<@nsubj> <@obj> <@mark> <@case> <@nmod> <@case> <@acl> <@punct> <@case> <@det> <@nmod> <@punct> <@case> <@flat> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@cc> <@case> <@nmod> <@amod> <@root> <@punct> <@nsubj> <@obj> <@case> <@nmod> <@nmod:poss> <@ccomp> <@punct> 
+<@root> <@punct> <@root> <@nsubj> <@compound:lvc> <@ccomp> <@obj> <@cc> <@obj> <@mark> <@nsubj> <@obj> <@nmod:poss> <@acl> <@nmod> <@ccomp> <@nsubj> <@ccomp> <@punct> 
+<@nsubj> <@root> <@nmod> <@nmod:poss> <@punct> <@appos> <@amod> <@cc> <@case> <@nmod> <@punct> 
+<@nsubj> <@case> <@nmod> <@cc> <@nmod> <@cc> <@case> <@det> <@nmod> <@nmod:poss> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@mark> <@nsubj> <@det> <@nummod> <@nmod:poss> <@case> <@case> <@acl> <@punct> <@nsubj> <@case> <@nmod> <@root> <@punct> <@obj> <@nmod:poss> <@compound:lvc> <@nmod:poss> <@root> <@cc> <@root> <@obl:dat> <@punct> <@nsubj> <@ccomp> <@nmod:poss> <@cop> <@punct> <@nsubj> <@amod> <@nsubj> <@nmod:poss> <@nmod:poss> <@case> <@amod> <@punct> <@nsubj> <@nummod> <@advmod> <@nsubj> <@nmod:poss> <@cop> <@punct> <@advmod> <@nsubj> <@cop> <@punct> 
+<@root> <@punct> <@discourse> <@root> <@cop> <@punct> <@advmod> <@nsubj> <@advmod> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@root> <@punct> <@fixed> <@fixed> <@mark> <@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@advcl> <@punct> 
+<@cc> <@root> <@case> <@nmod> <@case> <@nmod> <@case> <@nsubj> <@ccomp> <@punct> 
+<@cc> <@det> <@nsubj> <@root> <@cop> <@fixed> <@mark> <@nmod> <@nsubj> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@root> <@punct> 
+<@root> <@punct> <@discourse> <@det> <@nsubj> <@case> <@root> <@nmod:poss> <@case> <@cop> <@punct> <@root> <@orphan> <@punct> 
+<@nsubj> <@case> <@nmod> <@case> <@root> <@advmod> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@punct> <@advmod> <@nmod> <@case> <@nmod> <@ccomp> <@nsubj> <@ccomp> <@obl:dat> <@nmod:poss> <@punct> <@obj> <@ccomp> <@cc> <@obj> <@ccomp> <@compound:lvc> <@punct> <@nsubj> <@advmod> <@root> <@punct> 
+<@nsubj> <@case> <@det> <@nmod> <@root> <@punct> <@nsubj> <@advmod> <@aux> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@advmod> <@case> <@nmod> <@compound:lvc> <@root> <@punct> <@cc> <@case> <@nmod> <@advmod> <@det> <@obj> <@advmod> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@nsubj> <@root> <@nmod> <@nmod:poss> <@cc> <@root> <@nmod> <@mark> <@fixed> <@nsubj> <@advmod> <@case> <@nmod> <@case> <@acl> <@punct> <@nmod> <@mark> <@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@acl> <@punct> 
+<@root> <@amod> <@punct> <@nsubj> <@nmod:poss> <@advmod> <@advmod> <@root> <@punct> 
+<@case> <@nmod> <@case> <@root> <@nmod:poss> <@punct> <@case> <@nmod> <@amod> <@case> <@root> <@amod> <@punct> <@nummod> <@root> <@nmod:poss> <@cc> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@root> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@amod> <@obj> <@nmod:poss> <@case> <@det> <@nmod> <@cc> <@case> <@det> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@obj> <@mark> <@case> <@fixed> <@acl> <@cop> <@compound:lvc> <@root> <@cc> <@root> <@flat> <@obl:dat> <@punct> 
+<@root> <@cop> <@punct> <@nsubj> <@root> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@case> <@root> <@cop> <@punct> 
+<@root> <@punct> <@case> <@root> <@nmod:poss> <@case> <@punct> 
+<@root> <@punct> <@cc> <@advmod> <@root> <@mark> <@nsubj> <@advmod> <@aux> <@ccomp> <@punct> 
+<@fixed> <@fixed> <@mark> <@case> <@fixed> <@nmod> <@nmod:poss> <@amod> <@nsubj> <@case> <@nmod> <@amod> <@case> <@root> <@punct> 
+<@root> <@punct> <@discourse> <@root> <@nmod:poss> <@cop> <@punct> <@nsubj> <@cop> <@nummod> <@root> <@mark> <@nsubj> <@aux> <@advcl> <@punct> 
+<@root> <@punct> <@case> <@root> <@nmod:poss> <@nmod:poss> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@root> <@compound:lvc> <@nmod> <@mark> <@case> <@nmod> <@case> <@case> <@nmod> <@acl> <@cc> <@case> <@nmod> <@case> <@compound:lvc> <@root> <@punct> 
+<@advmod> <@obj> <@nmod:poss> <@root> <@cc> <@obj> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@case> <@case> <@nmod> <@case> <@root> <@cop> <@punct> 
+<@root> <@punct> <@nsubj> <@advmod> <@fixed> <@advmod> <@compound:lvc> <@nmod:poss> <@advmod> <@root> <@punct> <@punct> 
+<@root> <@punct> <@discourse> <@case> <@det> <@nmod> <@case> <@nsubj> <@amod> <@root> <@punct> 
+<@advmod> <@mark> <@det> <@nsubj> <@case> <@nmod> <@nmod> <@nmod:poss> <@aux> <@advcl> <@mark> <@case> <@nmod> <@mark> <@acl> <@obl:dat> <@case> <@aux> <@root> <@punct> <@advmod> <@mark> <@nmod> <@nmod> <@mark> <@acl> <@obl:dat> <@amod> <@punct> 
+<@root> <@punct> <@case> <@nmod> <@det> <@nsubj> <@advmod> <@det> <@nmod> <@aux> <@root> <@punct> <@advmod> <@root> <@cop> <@punct> 
+<@fixed> <@mark> <@case> <@nmod> <@case> <@obj> <@root> <@punct> 
+<@root> <@punct> <@root> <@amod> <@punct> <@root> <@amod> <@punct> <@root> <@nmod:poss> <@case> <@mark> <@amod> <@obj> <@punct> 
+<@advmod> <@root> <@nsubj> <@case> <@nmod> <@amod> <@compound:lvc> <@ccomp> <@punct> 
+<@nsubj> <@compound:lvc> <@nmod> <@flat> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@amod> <@punct> <@cc> <@case> <@nmod> <@root> <@punct> 
+<@root> <@punct> <@case> <@nmod> <@root> <@amod> <@punct> <@nsubj> <@nmod:poss> <@appos> <@amod> <@punct> 
+<@root> <@punct> <@det> <@root> <@punct> <@root> <@amod> <@punct> <@root> <@amod> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@root> <@cc> <@root> <@punct> <@discourse> <@case> <@nmod> <@case> <@nsubj> <@ccomp> <@punct> 
+<@root> <@nmod:poss> <@nmod:poss> <@punct> 
+<@punct> <@root> <@case> <@nmod> <@case> <@cop> <@punct> 
+<@det> <@root> <@amod> <@punct> 
+<@advmod> <@root> <@advmod> <@nsubj> <@root> <@obj> <@mark> <@case> <@acl> <@cop> <@cc> <@obj> <@compound:lvc> <@nmod> <@root> <@punct> 
+<@root> <@punct> <@case> <@nmod> <@det> <@nsubj> <@root> <@punct> 
+<@cc> <@mark> <@nsubj> <@case> <@nmod> <@case> <@advcl> <@punct> <@nmod> <@nsubj> <@cc> <@nsubj> <@root> <@punct> 
+<@root> <@punct> <@discourse> <@nsubj> <@case> <@nmod> <@case> <@root> <@punct> 
+<@case> <@nmod> <@nsubj> <@case> <@nmod> <@advmod> <@root> <@cop> <@punct> 
+<@cc> <@nsubj> <@mark> <@case> <@det> <@nmod> <@acl> <@root> <@nmod> <@nmod:poss> <@mark> <@compound:lvc> <@nmod:poss> <@advcl> <@punct> 
+<@advmod> <@nsubj> <@root> <@punct> <@nsubj> <@root> <@case> <@nmod> <@compound:lvc> <@ccomp> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@punct> <@case> <@nmod> <@root> <@punct> <@obj> <@cc> <@case> <@nmod> <@case> <@obj> <@compound:lvc> <@root> <@punct> 
+<@mark> <@obj> <@nmod:poss> <@compound:lvc> <@advcl> <@punct> <@nsubj> <@case> <@acl> <@case> <@root> <@cc> <@root> <@obl:dat> <@punct> <@det> <@nsubj> <@punct> <@ccomp> <@nmod> <@cop> <@punct> <@case> <@nmod> <@obj> <@ccomp> <@punct> 
+<@cc> <@discourse> <@advmod> <@nsubj> <@nmod> <@case> <@nmod> <@root> <@cc> <@cop> <@root> <@nmod> <@punct> 
+<@nsubj> <@advmod> <@root> <@punct> <@mark> <@nsubj> <@advcl> <@nmod> <@nmod:poss> <@punct> 
+<@advmod> <@punct> <@mark> <@case> <@case> <@nmod> <@nmod:poss> <@case> <@advcl> <@punct> <@root> <@cc> <@root> <@punct> <@dislocated> <@mark> <@obj> <@cc> <@obj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@acl> <@case> <@nmod> <@amod> <@nsubj> <@ccomp> <@punct> 
+<@nsubj> <@advmod> <@fixed> <@case> <@nmod> <@root> <@cc> <@case> <@fixed> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@nsubj> <@root> <@flat> <@obl:dat> <@punct> <@ccomp> <@nsubj> <@advmod> <@compound:lvc> <@ccomp> <@nmod> <@nmod:poss> <@cc> <@case> <@nmod> <@nmod:poss> <@case> <@ccomp> <@punct> 
+<@root> <@punct> <@nsubj> <@case> <@fixed> <@root> <@nmod:poss> <@case> <@cop> <@punct> 
+<@root> <@punct> <@root> <@appos> <@cc> <@appos> <@nmod:poss> <@punct> <@nsubj> <@aux> <@obj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@ccomp> <@punct> 
+<@nsubj> <@punct> <@advmod> <@advmod> <@case> <@nmod> <@root> <@cc> <@nmod> <@punct> <@nsubj> <@ccomp> <@case> <@nmod> <@mark> <@nsubj> <@case> <@nmod> <@case> <@obj> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@compound:lvc> <@advcl> <@punct> 
+<@case> <@det> <@nmod> <@case> <@nsubj> <@obj> <@advmod> <@root> <@obl:dat> <@punct> 
+<@root> <@punct> <@mark> <@nsubj> <@nmod:poss> <@advmod> <@case> <@case> <@advmod> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@root> <@punct> <@nsubj> <@root> <@mark> <@nsubj> <@advmod> <@case> <@nmod> <@nmod:poss> <@case> <@ccomp> <@punct> 
+<@nsubj> <@aux> <@case> <@nmod> <@case> <@obj> <@root> <@punct> 
+<@root> <@punct> <@nsubj> <@aux> <@case> <@det> <@nmod> <@mark> <@obj> <@compound:lvc> <@acl> <@compound:lvc> <@root> <@punct> 
+<@mark> <@nsubj> <@nmod:poss> <@advcl> <@case> <@nmod> <@mark> <@obj> <@nmod:poss> <@acl> <@punct> <@root> <@nsubj> <@case> <@nmod> <@compound:lvc> <@ccomp> <@cc> <@compound:lvc> <@obl:dat> <@mark> <@advmod> <@nsubj> <@case> <@nmod> <@case> <@acl> <@cc> <@case> <@nmod> <@nmod:poss> <@compound:lvc> <@compound:lvc> <@punct> 
+<@fixed> <@mark> <@nsubj> <@advmod> <@nmod> <@obj> <@nmod:poss> <@advcl> <@obj> <@nmod:poss> <@root> <@case> <@nmod> <@cc> <@case> <@det> <@nmod> <@compound:lvc> <@root> <@obl:dat> <@mark> <@flat> <@nsubj> <@obj> <@ccomp> <@obl:dat> <@nmod:poss> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@root> <@punct> 
+<@advmod> <@root> <@nsubj> <@case> <@nmod> <@ccomp> <@punct> 
+<@mark> <@flat> <@nsubj> <@obj> <@case> <@nmod> <@case> <@advcl> <@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@nmod> <@compound:lvc> <@root> <@punct> 
+<@fixed> <@root> <@nmod:poss> <@cc> <@obj> <@nmod:poss> <@fixed> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@cc> <@nsubj> <@case> <@nmod> <@flat> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@punct> <@nsubj> <@root> <@punct> <@case> <@nmod> <@compound:lvc> <@root> <@cc> <@advmod> <@obj> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@cc> <@nsubj> <@nmod> <@case> <@nmod> <@nmod:poss> <@compound:lvc> <@root> <@punct> 
+<@discourse> <@punct> <@case> <@fixed> <@det> <@nummod> <@nmod> <@case> <@root> <@punct> <@root> <@amod> <@cc> <@nsubj> <@mark> <@case> <@nmod> <@nmod:poss> <@case> <@acl> <@case> <@nmod> <@case> <@root> <@punct> 
+<@nsubj> <@obj> <@advmod> <@root> <@obl:dat> <@cc> <@nsubj> <@advmod> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@case> <@root> <@nmod:poss> <@cop> <@cc> <@nsubj> <@compound:lvc> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@cop> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@root> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@punct> <@nsubj> <@cop> <@ccomp> <@punct> <@case> <@nmod> <@amod> <@ccomp> <@punct> 
+<@nsubj> <@obj> <@root> <@cc> <@nsubj> <@root> <@cop> <@case> <@nmod> <@punct> 
+<@case> <@nmod> <@case> <@nsubj> <@obj> <@case> <@nmod> <@root> <@obl:dat> <@punct> <@fixed> <@case> <@nmod> <@case> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@cop> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@punct> <@nsubj> <@ccomp> <@punct> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> <@advmod> <@nsubj> <@case> <@ccomp> <@cop> <@punct> <@ccomp> <@mark> <@obj> <@ccomp> <@case> <@nmod> <@punct> 
+<@nsubj> <@root> <@case> <@nmod> <@mark> <@nsubj> <@case> <@acl> <@cop> <@punct> 
+<@nsubj> <@obj> <@root> <@cc> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@root> <@compound:lvc> <@punct> 
+<@nsubj> <@obj> <@root> <@punct> <@obj> <@root> <@case> <@nmod> <@punct> <@compound:lvc> <@case> <@nmod> <@root> <@cc> <@advmod> <@root> <@obl:dat> <@punct> <@nsubj> <@amod> <@obj> <@nmod:poss> <@advmod> <@fixed> <@compound:lvc> <@ccomp> <@punct> 
+<@root> <@nsubj> <@obj> <@advmod> <@ccomp> <@advcl> <@mark> <@case> <@nmod> <@case> <@obj> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@ccomp> <@ccomp> <@punct> 
+<@nsubj> <@case> <@root> <@cop> <@punct> <@det> <@nsubj> <@case> <@nmod> <@advmod> <@aux> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@punct> <@nsubj> <@advmod> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@root> <@nmod> <@nmod:poss> <@punct> 
+<@nsubj> <@obj> <@case> <@nmod> <@case> <@root> <@punct> 
+<@nsubj> <@advmod> <@obj> <@root> <@nmod> <@nmod:poss> <@punct> 
+<@fixed> <@mark> <@nsubj> <@obj> <@nmod:poss> <@advcl> <@nsubj> <@obj> <@root> <@punct> 
+<@case> <@nmod> <@cc> <@nmod> <@nmod:poss> <@case> <@nsubj> <@compound:lvc> <@root> <@punct> 
+<@det> <@nmod> <@nsubj> <@obj> <@nmod:poss> <@root> <@punct> 
+<@nmod> <@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@det> <@nsubj> <@case> <@root> <@cop> <@punct> <@case> <@nmod> <@case> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nsubj> <@nmod:poss> <@nmod:poss> <@aux> <@root> <@punct> 
+<@nsubj> <@obj> <@punct> <@obj> <@punct> <@obj> <@root> <@punct> 
+<@nsubj> <@advmod> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@nsubj> <@obj> <@compound:lvc> <@root> <@punct> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@cc> <@nmod:poss> <@mark> <@aux> <@compound:lvc> <@acl> <@punct> 
+<@case> <@nmod> <@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@obj> <@root> <@punct> 
+<@advmod> <@nsubj> <@advmod> <@fixed> <@fixed> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@obj> <@compound:lvc> <@root> <@punct> <@case> <@nmod> <@mark> <@case> <@nmod> <@nmod:poss> <@mark> <@nsubj> <@case> <@nmod> <@case> <@acl> <@acl> <@punct> 
+<@case> <@det> <@obl:dat> <@case> <@nsubj> <@advmod> <@case> <@nmod> <@root> <@punct> <@obj> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@det> <@nmod> <@case> <@nmod> <@mark> <@case> <@nmod> <@case> <@acl> <@obl:dat> <@punct> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@obl:dat> <@punct> <@nsubj> <@ccomp> <@discourse> <@punct> <@nsubj> <@ccomp> <@punct> 
+<@nsubj> <@obj> <@advmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@mark> <@compound:lvc> <@nmod> <@acl> <@case> <@nmod> <@mark> <@nsubj> <@acl> <@case> <@nmod> <@case> <@root> <@cop> <@punct> 
+<@fixed> <@case> <@nmod> <@mark> <@nsubj> <@case> <@nmod> <@acl> <@punct> <@nsubj> <@root> <@obj> <@ccomp> <@punct> 
+<@case> <@nsubj> <@obj> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@obj> <@amod> <@root> <@cc> <@obj> <@nmod:poss> <@root> <@nmod> <@mark> <@obj> <@nmod:poss> <@nmod:poss> <@acl> <@obl:dat> <@appos> <@nmod:poss> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@cop> <@punct> <@nsubj> <@nmod:poss> <@case> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nsubj> <@obj> <@amod> <@root> <@punct> 
+<@root> <@amod> <@cc> <@cc> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@obj> <@amod> <@advmod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@punct> <@nsubj> <@root> <@cop> <@punct> 
+<@nsubj> <@root> <@case> <@nmod> <@ccomp> <@punct> 
+<@root> <@obj> <@nmod:poss> <@nsubj> <@root> <@obl:dat> <@appos> <@nmod:poss> <@punct> 
+<@nsubj> <@obj> <@root> <@cc> <@obj> <@root> <@punct> <@nsubj> <@advmod> <@root> <@advmod> <@punct> <@nsubj> <@advmod> <@obj> <@root> <@obl:dat> <@flat> <@nmod:poss> <@punct> 
+<@nsubj> <@nummod> <@nmod> <@case> <@nmod> <@root> <@punct> <@nsubj> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@obj> <@root> <@cc> <@nsubj> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nsubj> <@root> <@punct> <@obj> <@nmod:poss> <@root> <@obl:dat> <@acl> <@punct> 
+<@fixed> <@nsubj> <@case> <@nmod> <@punct> <@case> <@nmod> <@root> <@punct> <@det> <@nummod> <@obj> <@nmod:poss> <@root> <@obl:dat> <@nmod:poss> <@punct> <@nsubj> <@nmod:poss> <@root> <@advmod> <@punct> <@nsubj> <@nmod:poss> <@case> <@fixed> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nsubj> <@nmod:poss> <@case> <@mark> <@nsubj> <@case> <@nmod> <@acl> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@nsubj> <@amod> <@case> <@nmod> <@amod> <@root> <@punct> 
+<@nsubj> <@advmod> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@punct> <@ccomp> <@cop> <@nsubj> <@amod> <@punct> 
+<@nsubj> <@nmod> <@root> <@punct> 
+<@nsubj> <@mark> <@obj> <@case> <@nmod> <@nmod:poss> <@acl> <@punct> <@obj> <@fixed> <@compound:lvc> <@root> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@case> <@nsubj> <@amod> <@root> <@punct> <@advmod> <@obj> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@cop> <@punct> 
+<@nsubj> <@root> <@obl:dat> <@punct> <@nsubj> <@ccomp> <@nmod:poss> <@cop> <@punct> 
+<@case> <@root> <@nmod:poss> <@case> <@amod> <@punct> 
+<@fixed> <@mark> <@case> <@nmod> <@case> <@advcl> <@punct> <@nsubj> <@advmod> <@root> <@cc> <@advmod> <@nsubj> <@case> <@nmod> <@advmod> <@punct> 
+<@nsubj> <@obj> <@root> <@obl:dat> <@nmod:poss> <@cc> <@flat> <@obj> <@root> <@obl:dat> <@amod> <@punct> 
+<@nsubj> <@root> <@punct> <@obj> <@mark> <@case> <@acl> <@nmod:poss> <@cop> <@cc> <@obj> <@root> <@obl:dat> <@nmod:poss> <@cc> <@case> <@nmod> <@obj> <@root> <@cc> <@obj> <@root> <@case> <@nmod> <@punct> <@obj> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@punct> 
+<@discourse> <@flat> <@nsubj> <@case> <@det> <@nmod> <@punct> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@root> <@punct> 
+<@flat> <@nsubj> <@advmod> <@root> <@obl:dat> <@punct> 
+<@cc> <@det> <@nsubj> <@root> <@mark> <@case> <@nmod> <@case> <@case> <@nmod> <@advmod> <@acl> <@cop> <@punct> 
+<@nsubj> <@aux> <@obj> <@case> <@nmod> <@nmod:poss> <@flat> <@case> <@nmod> <@root> <@punct> 
+<@nmod> <@amod> <@nsubj> <@root> <@obl:dat> <@punct> <@advmod> <@nsubj> <@det> <@obj> <@compound:lvc> <@ccomp> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@nsubj> <@case> <@nmod> <@obj> <@nmod:poss> <@case> <@nmod> <@case> <@root> <@punct> 
+<@mark> <@fixed> <@nsubj> <@advcl> <@ccomp> <@nsubj> <@root> <@obj> <@case> <@fixed> <@nmod> <@nmod:poss> <@cc> <@nmod> <@nmod:poss> <@case> <@aux> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@case> <@det> <@nmod> <@case> <@obj> <@advmod> <@case> <@fixed> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@obj> <@nmod:poss> <@case> <@nmod> <@case> <@compound:lvc> <@root> <@cc> <@mark> <@compound:lvc> <@nmod:poss> <@advcl> <@nsubj> <@root> <@obl:dat> <@punct> 
+<@case> <@nmod> <@nsubj> <@obj> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@root> <@case> <@nmod> <@cc> <@nsubj> <@obj> <@case> <@nmod> <@case> <@root> <@case> <@nmod> <@punct> <@nsubj> <@case> <@nmod> <@case> <@root> <@advmod> <@cc> <@mark> <@advcl> <@nmod> <@nmod> <@nmod:poss> <@nsubj> <@obj> <@root> <@punct> 
+<@cc> <@nmod> <@mark> <@acl> <@case> <@nmod> <@case> <@advmod> <@root> <@punct> 
+<@mark> <@case> <@nmod> <@punct> <@nsubj> <@advmod> <@obj> <@nmod:poss> <@nmod> <@nummod> <@nmod> <@advcl> <@punct> <@nsubj> <@mark> <@nsubj> <@obj> <@case> <@nmod> <@cc> <@xcomp> <@case> <@nmod> <@advcl> <@cop> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> <@ccomp> <@amod> <@punct> <@punct> 
+<@nsubj> <@obj> <@det> <@nmod:poss> <@advmod> <@root> <@punct> 
+<@cc> <@advmod> <@nsubj> <@root> <@punct> <@punct> <@nsubj> <@amod> <@punct> <@ccomp> <@amod> <@cop> <@punct> 
+<@nsubj> <@punct> <@mark> <@nsubj> <@case> <@nmod> <@case> <@advcl> <@obj> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@root> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@amod> <@cop> <@punct> <@discourse> <@case> <@nmod> <@case> <@nsubj> <@root> <@punct> 
+<@advmod> <@dislocated> <@punct> <@fixed> <@mark> <@nsubj> <@advmod> <@compound:lvc> <@nmod:poss> <@advcl> <@mark> <@ccomp> <@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@det> <@obj> <@compound:lvc> <@root> <@cc> <@obj> <@root> <@obl:dat> <@nmod:poss> <@nmod:poss> <@mark> <@fixed> <@advcl> <@case> <@nmod> <@case> <@obj> <@ccomp> <@case> <@nmod> <@punct> 
+<@nmod> <@root> <@punct> <@nsubj> <@case> <@nmod> <@case> <@advmod> <@root> <@punct> 
+<@nsubj> <@root> <@cc> <@nsubj> <@compound:lvc> <@root> <@punct> 
+<@advmod> <@nsubj> <@advmod> <@obj> <@case> <@nmod> <@case> <@root> <@obl:dat> <@punct> 
+<@cc> <@mark> <@nsubj> <@advcl> <@punct> <@nsubj> <@case> <@nmod> <@nmod:poss> <@root> <@punct> <@nsubj> <@case> <@nmod> <@case> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@punct> <@case> <@flat> <@nmod> <@case> <@root> <@cc> <@obj> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@mark> <@case> <@nmod> <@flat> <@nmod:poss> <@nsubj> <@advmod> <@punct> <@nsubj> <@advmod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@flat> <@flat> <@case> <@case> <@nmod> <@amod> <@punct> <@compound:lvc> <@root> <@punct> <@root> <@punct> <@punct> 
+<@case> <@nmod> <@compound:lvc> <@case> <@nmod> <@root> <@cc> <@obj> <@case> <@advmod> <@root> <@punct> 
+<@flat> <@nsubj> <@root> <@amod> <@punct> <@amod> <@punct> <@amod> <@cc> <@amod> <@cop> <@punct> 
+<@det> <@nmod> <@det> <@nsubj> <@case> <@nmod> <@acl> <@advmod> <@aux> <@root> <@punct> 
+<@det> <@nsubj> <@mark> <@nsubj> <@nmod:poss> <@aux> <@advcl> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod> <@punct> <@nmod> <@amod> <@aux> <@root> <@punct> 
+<@mark> <@advcl> <@nsubj> <@ccomp> <@punct> <@case> <@nmod> <@compound:lvc> <@root> <@punct> <@case> <@root> <@cop> <@punct> 
+<@advmod> <@advmod> <@xcomp> <@root> <@mark> <@nsubj> <@advcl> <@nmod> <@amod> <@compound:lvc> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@case> <@nmod> <@flat> <@nmod:poss> <@aux> <@case> <@obl> <@root> <@punct> 
+<@det> <@nsubj> <@amod> <@cc> <@nsubj> <@amod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nsubj> <@amod> <@aux> <@root> <@punct> 
+<@cc> <@mark> <@case> <@nmod> <@case> <@nsubj> <@compound:lvc> <@advcl> <@punct> <@advmod> <@nsubj> <@case> <@nmod> <@aux> <@root> <@cc> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@advmod> <@root> <@cop> <@mark> <@case> <@det> <@nmod> <@case> <@nsubj> <@ccomp> <@punct> 
+<@case> <@nmod> <@root> <@amod> <@case> <@mark> <@case> <@nmod> <@nmod:poss> <@obj> <@nmod:poss> <@acl> <@punct> 
+<@nsubj> <@case> <@nmod> <@case> <@det> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@det> <@nsubj> <@mark> <@aux> <@acl> <@punct> <@aux> <@root> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@nsubj> <@case> <@nmod> <@nmod:poss> <@aux> <@root> <@punct> 
+<@nsubj> <@case> <@nummod> <@root> <@amod> <@cc> <@amod> <@case> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@case> <@root> <@nmod:poss> <@cop> <@punct> 
+<@advmod> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@mark> <@acl> <@nmod:poss> <@cc> <@nmod:poss> <@cop> <@punct> <@obj> <@root> <@punct> 
+<@nmod> <@nmod:poss> <@obj> <@case> <@nmod> <@nmod:poss> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@root> <@obl:dat> <@case> <@nmod> <@nmod:poss> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@cc> <@case> <@nmod> <@case> <@case> <@det> <@nmod> <@nsubj> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@root> <@punct> 
+<@case> <@det> <@nmod> <@case> <@root> <@nmod:poss> <@nmod:poss> <@case> <@amod> <@cop> <@punct> 
+<@det> <@nsubj> <@case> <@nmod> <@nmod:poss> <@root> <@cc> <@case> <@nummod> <@nmod> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@flat> <@flat> <@flat> <@punct> <@nmod> <@flat> <@flat> <@punct> <@nmod> <@flat> <@flat> <@punct> <@root> <@nmod:poss> <@cop> <@punct> <@case> <@nmod> <@case> <@compound:lvc> <@case> <@root> <@punct> 
+<@nsubj> <@det> <@obl> <@case> <@nmod> <@nmod:poss> <@punct> <@cc> <@nmod> <@punct> <@flat> <@punct> <@case> <@aux> <@root> <@punct> 
+<@nsubj> <@flat> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@case> <@det> <@nmod> <@det> <@nmod> <@obj> <@root> <@punct> 
+<@cc> <@det> <@nsubj> <@case> <@fixed> <@nmod> <@nmod:poss> <@amod> <@case> <@compound:lvc> <@root> <@punct> 
+<@advmod> <@punct> <@case> <@det> <@nmod> <@case> <@nsubj> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@nsubj> <@punct> <@appos> <@punct> <@appos> <@punct> <@root> <@cc> <@root> <@amod> <@cop> <@mark> <@nsubj> <@cc> <@nsubj> <@case> <@nmod> <@case> <@aux> <@acl> <@cc> <@aux> <@punct> 
+<@nsubj> <@case> <@nmod> <@flat> <@flat> <@case> <@case> <@root> <@cop> <@punct> 
+<@nsubj> <@punct> <@case> <@nmod> <@flat> <@nmod:poss> <@nmod:poss> <@case> <@case> <@nmod> <@amod> <@case> <@nmod:poss> <@nmod:poss> <@case> <@obj> <@case> <@nmod> <@nmod:poss> <@amod> <@case> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@amod> <@cc> <@acl> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@nmod:poss> <@nmod:poss> <@case> <@amod> <@case> <@nmod> <@nmod:poss> <@cop> <@punct> 
+<@case> <@det> <@nmod> <@case> <@punct> <@nsubj> <@advmod> <@case> <@fixed> <@root> <@nmod:poss> <@case> <@cop> <@punct> 
+<@case> <@nummod> <@nmod> <@case> <@nmod> <@cc> <@nummod> <@nmod> <@case> <@nmod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nsubj> <@root> <@cop> <@cc> <@nmod> <@amod> <@root> <@obl:dat> <@punct> 
+<@case> <@det> <@nmod> <@case> <@punct> <@case> <@nmod> <@amod> <@case> <@nmod> <@nmod:poss> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@obj> <@root> <@punct> <@cc> <@obj> <@nmod:poss> <@root> <@obl:dat> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@obj> <@amod> <@cc> <@case> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@advmod> <@obj> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@advmod> <@root> <@cop> <@cc> <@nsubj> <@root> <@case> <@nmod> <@det> <@nmod> <@advmod> <@ccomp> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@nsubj> <@case> <@nmod> <@root> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@punct> <@nsubj> <@advmod> <@amod> <@advmod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@obj> <@nmod:poss> <@compound:lvc> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> <@case> <@nmod> <@nmod:poss> <@case> <@compound:lvc> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@amod> <@case> <@root> <@cop> <@mark> <@case> <@ccomp> <@punct> <@ccomp> <@cc> <@ccomp> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@root> <@nmod:poss> <@amod> <@cop> <@punct> <@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@aux> <@root> <@punct> 
+<@nsubj> <@advmod> <@root> <@cop> <@cc> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nsubj> <@nmod:poss> <@obj> <@root> <@punct> 
+<@obj> <@case> <@nmod> <@amod> <@cc> <@amod> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@obj> <@nmod:poss> <@cc> <@nmod:poss> <@amod> <@punct> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@ccomp> <@punct> 
+<@case> <@nmod> <@nsubj> <@punct> <@nsubj> <@aux> <@root> <@cc> <@fixed> <@nsubj> <@nmod:poss> <@advmod> <@root> <@punct> 
+<@det> <@nsubj> <@case> <@nmod> <@cc> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@advmod> <@advmod> <@nsubj> <@case> <@nmod> <@advmod> <@advcl> <@case> <@nmod> <@advmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@nummod> <@root> <@cop> <@cc> <@case> <@nmod> <@nmod:poss> <@advmod> <@amod> <@case> <@nsubj> <@nmod:poss> <@nummod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nsubj> <@amod> <@aux> <@root> <@punct> 
+<@flat> <@nsubj> <@flat> <@root> <@punct> <@punct> <@flat> <@nsubj> <@flat> <@ccomp> <@case> <@nmod> <@cop> <@punct> 
+<@nsubj> <@punct> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@case> <@nmod> <@nmod:poss> <@aux> <@root> <@punct> 
+<@root> <@cop> <@nsubj> <@case> <@det> <@nmod> <@case> <@cc> <@obj> <@nmod:poss> <@ccomp> <@cc> <@advmod> <@obj> <@nmod:poss> <@nmod:poss> <@punct> 
+<@case> <@case> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@nmod> <@case> <@case> <@nmod> <@root> <@advmod> <@amod> <@cc> <@case> <@nmod> <@cc> <@nmod> <@nsubj> <@cop> <@punct> 
+<@case> <@nmod> <@compound:lvc> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@cop> <@root> <@cc> <@nsubj> <@case> <@nmod> <@cop> <@root> <@nmod:poss> <@punct> 
+<@advmod> <@advmod> <@case> <@nmod> <@nsubj> <@nmod:poss> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@case> <@punct> <@case> <@nmod> <@punct> <@nmod> <@punct> <@nmod> <@punct> <@nmod> <@cc> <@nmod> <@aux> <@root> <@punct> 
+<@cc> <@advmod> <@nsubj> <@root> <@compound:lvc> <@ccomp> <@nummod> <@obj> <@cc> <@ccomp> <@case> <@nmod> <@nmod:poss> <@punct> 
+<@nsubj> <@root> <@mark> <@nsubj> <@case> <@nmod> <@amod> <@obj> <@ccomp> <@cc> <@case> <@nmod> <@nmod> <@ccomp> <@punct> 
+<@cc> <@nsubj> <@cc> <@nsubj> <@nmod:poss> <@nmod:poss> <@advmod> <@root> <@cop> <@punct> 
+<@advmod> <@punct> <@nmod> <@mark> <@obj> <@acl> <@punct> <@advmod> <@obj> <@root> <@cc> <@advmod> <@root> <@punct> <@mark> <@obj> <@nmod:poss> <@case> <@nmod> <@case> <@advcl> <@punct> 
+<@det> <@nsubj> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@cc> <@nmod:poss> <@flat> <@flat> <@flat> <@punct> <@appos> <@punct> <@aux> <@compound:lvc> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nmod:poss> <@root> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@nmod> <@punct> <@nsubj> <@punct> <@nmod:poss> <@case> <@amod> <@punct> <@advmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@nmod:poss> <@obj> <@case> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@cc> <@nmod:poss> <@case> <@case> <@nmod> <@amod> <@case> <@advmod> <@amod> <@case> <@nmod:poss> <@aux> <@root> <@punct> 
+<@nmod> <@mark> <@compound:lvc> <@acl> <@punct> <@det> <@obj> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@advmod> <@nsubj> <@root> <@nsubj> <@nmod:poss> <@case> <@fixed> <@nmod> <@case> <@obj> <@ccomp> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@det> <@nsubj> <@case> <@nmod> <@det> <@nummod> <@nmod:poss> <@case> <@root> <@cop> <@punct> 
+<@nmod> <@nmod> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@punct> <@nsubj> <@aux> <@root> <@punct> 
+<@nmod> <@nmod:poss> <@case> <@nmod> <@obj> <@root> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@nummod> <@case> <@case> <@nmod> <@amod> <@case> <@root> <@punct> 
+<@root> <@mark> <@nsubj> <@nmod:poss> <@case> <@advmod> <@amod> <@ccomp> <@nmod:poss> <@case> <@amod> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@obj> <@case> <@nmod> <@nmod> <@compound:lvc> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod> <@root> <@cc> <@case> <@nmod> <@advmod> <@root> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@punct> <@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@case> <@advmod> <@root> <@cop> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@nmod:poss> <@punct> <@case> <@nummod> <@nmod> <@nmod:poss> <@case> <@obj> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@amod> <@advmod> <@case> <@nmod> <@amod> <@aux> <@root> <@punct> 
+<@advmod> <@case> <@fixed> <@nmod> <@nmod:poss> <@cc> <@nmod:poss> <@case> <@root> <@punct> 
+<@case> <@det> <@nmod> <@nsubj> <@case> <@nmod> <@aux> <@root> <@obl:dat> <@nmod> <@punct> 
+<@nsubj> <@case> <@nmod> <@nummod> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@root> <@obl:dat> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@obj> <@nmod:poss> <@root> <@obl:dat> <@amod> <@punct> 
+<@case> <@nmod> <@case> <@case> <@nmod> <@nsubj> <@nsubj> <@acl> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@punct> <@aux> <@nsubj> <@amod> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@nsubj> <@aux> <@root> <@punct> 
+<@cc> <@punct> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@advmod> <@aux> <@root> <@punct> 
+<@nsubj> <@root> <@case> <@nmod> <@amod> <@case> <@nmod:poss> <@nmod:poss> <@advmod> <@ccomp> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@case> <@nmod> <@xcomp> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@punct> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@obl:dat> <@amod> <@cop> <@punct> 
+<@case> <@nmod> <@case> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@case> <@nmod> <@compound:lvc> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@case> <@nmod> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@case> <@flat> <@nsubj> <@obj> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@det> <@nsubj> <@obj> <@amod> <@cc> <@obj> <@amod> <@root> <@punct> 
+<@nsubj> <@root> <@advmod> <@amod> <@cc> <@amod> <@case> <@case> <@nmod> <@cop> <@punct> 
+<@nmod> <@nummod> <@flat> <@flat> <@nsubj> <@nmod> <@nmod:poss> <@case> <@obj> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@ccomp> <@mark> <@nsubj> <@amod> <@case> <@nmod:poss> <@cc> <@case> <@nmod:poss> <@case> <@nmod> <@ccomp> <@punct> 
+<@case> <@fixed> <@nmod> <@case> <@nmod> <@case> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@obj> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@ccomp> <@punct> <@ccomp> <@cc> <@ccomp> <@amod> <@case> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@case> <@det> <@nmod> <@case> <@obj> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@nmod:poss> <@cc> <@nmod:poss> <@advmod> <@det> <@nmod> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@punct> <@cc> <@appos> <@amod> <@case> <@nmod:poss> <@case> <@nmod> <@amod> <@case> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nsubj> <@amod> <@punct> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@case> <@nmod> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@punct> <@nmod:poss> <@obj> <@nmod:poss> <@nmod:poss> <@case> <@nummod> <@nmod:poss> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@aux> <@root> <@cc> <@case> <@nmod> <@nummod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@amod> <@case> <@nsubj> <@root> <@det> <@nmod:poss> <@punct> <@nmod:poss> <@cc> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@root> <@mark> <@case> <@nmod> <@ccomp> <@punct> <@cc> <@nsubj> <@root> <@mark> <@xcomp> <@ccomp> <@punct> 
+<@cc> <@nsubj> <@case> <@nmod> <@case> <@root> <@obj> <@cc> <@nmod> <@nmod:poss> <@case> <@root> <@obj> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@det> <@nsubj> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@case> <@case> <@nmod> <@amod> <@nsubj> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@case> <@nmod> <@nmod:poss> <@cc> <@nmod> <@nmod:poss> <@amod> <@punct> <@case> <@nmod> <@amod> <@cc> <@nmod> <@case> <@root> <@nmod:poss> <@amod> <@cop> <@punct> 
+<@case> <@fixed> <@nmod> <@punct> <@nmod> <@cc> <@nmod> <@nmod:poss> <@amod> <@nsubj> <@amod> <@root> <@punct> 
+<@cc> <@nsubj> <@case> <@nmod> <@nmod:poss> <@flat> <@case> <@case> <@nmod> <@xcomp> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@aux> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@mark> <@aux> <@acl> <@punct> <@aux> <@root> <@case> <@nmod> <@cc> <@nsubj> <@nmod:poss> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@nmod> <@amod> <@case> <@nmod> <@nummod> <@case> <@mark> <@advcl> <@aux> <@root> <@punct> 
+<@nsubj> <@amod> <@advmod> <@root> <@nmod:poss> <@amod> <@cc> <@nmod> <@cop> <@punct> 
+<@nsubj> <@punct> <@case> <@nmod> <@nmod:poss> <@case> <@amod> <@cc> <@nmod> <@nmod:poss> <@case> <@amod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@case> <@fixed> <@nmod> <@nmod:poss> <@compound:lvc> <@root> <@punct> 
+<@advmod> <@case> <@nmod> <@case> <@obj> <@nmod:poss> <@root> <@punct> <@nsubj> <@obj> <@compound:lvc> <@obl> <@root> <@punct> 
+<@case> <@nmod> <@case> <@cop> <@root> <@nmod:poss> <@nmod:poss> <@case> <@nmod:poss> <@nmod:poss> <@cc> <@case> <@nmod> <@case> <@advmod> <@case> <@nmod> <@root> <@punct> 
+<@case> <@det> <@nmod> <@nmod:poss> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@nsubj> <@flat> <@case> <@nmod> <@nmod:poss> <@amod> <@aux> <@root> <@punct> 
+<@nsubj> <@case> <@det> <@nmod> <@case> <@case> <@root> <@case> <@cop> <@punct> <@nsubj> <@obj> <@compound:lvc> <@root> <@cc> <@nsubj> <@root> <@punct> <@cc> <@advmod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@det> <@nmod:poss> <@case> <@det> <@nsubj> <@cc> <@nsubj> <@amod> <@punct> <@amod> <@cc> <@amod> <@aux> <@root> <@punct> 
+<@nummod> <@nsubj> <@case> <@nmod> <@nmod:poss> <@flat> <@flat> <@flat> <@case> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nummod> <@case> <@obj> <@nmod:poss> <@root> <@punct> <@cc> <@advmod> <@case> <@nmod> <@xcomp> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@cc> <@nmod:poss> <@advmod> <@advmod> <@obj> <@nmod:poss> <@root> <@cc> <@case> <@nmod> <@case> <@case> <@nmod> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@amod> <@case> <@nmod> <@cc> <@nmod> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@obj> <@punct> <@obj> <@cc> <@obj> <@root> <@cc> <@nmod> <@nmod:poss> <@obj> <@root> <@case> <@nmod> <@punct> <@nmod> <@cc> <@nmod> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@obj> <@amod> <@case> <@nmod> <@root> <@punct> <@obj> <@amod> <@root> <@obl:dat> <@nmod:poss> <@obj> <@amod> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@nmod> <@case> <@punct> <@case> <@nmod> <@case> <@nmod> <@case> <@punct> <@case> <@nmod> <@case> <@nmod> <@case> <@cc> <@case> <@nmod> <@advmod> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@case> <@det> <@nmod> <@case> <@punct> <@nsubj> <@advmod> <@advmod> <@advcl> <@punct> <@obj> <@amod> <@nsubj> <@compound:lvc> <@root> <@cc> <@det> <@nsubj> <@amod> <@root> <@punct> 
+<@det> <@nsubj> <@root> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@root> <@nmod:poss> <@nmod:poss> <@case> <@case> <@nmod> <@cop> <@punct> 
+<@mark> <@nsubj> <@cc> <@advmod> <@nsubj> <@amod> <@obj> <@advcl> <@root> <@cc> <@nmod> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@amod> <@root> <@nmod> <@fixed> <@cop> <@punct> 
+<@nsubj> <@root> <@nsubj> <@aux> <@case> <@nmod> <@nmod:poss> <@punct> <@case> <@nmod> <@punct> <@ccomp> <@punct> 
+<@case> <@nmod> <@nummod> <@case> <@punct> <@nsubj> <@punct> <@case> <@det> <@nmod> <@advmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@root> <@obl:dat> <@cc> <@obj> <@root> <@punct> 
+<@case> <@det> <@nmod> <@case> <@nsubj> <@root> <@ccomp> <@nsubj> <@nmod:poss> <@ccomp> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@det> <@nsubj> <@root> <@case> <@nmod> <@advmod> <@amod> <@case> <@nmod:poss> <@amod> <@cop> <@punct> 
+<@advmod> <@case> <@nmod> <@cc> <@nmod> <@case> <@nsubj> <@nmod:poss> <@aux> <@root> <@punct> 
+<@nsubj> <@punct> <@case> <@nmod> <@nmod:poss> <@case> <@det> <@obj> <@cc> <@obj> <@root> <@obl:dat> <@punct> 
+<@cc> <@case> <@case> <@det> <@nmod> <@case> <@det> <@nsubj> <@aux> <@root> <@punct> <@mark> <@advmod> <@advmod> <@compound:lvc> <@ccomp> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@flat> <@punct> <@nmod> <@punct> <@nmod> <@punct> <@case> <@advmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@advmod> <@acl> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@amod> <@case> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@nmod> <@root> <@cop> <@cc> <@nsubj> <@nmod:poss> <@case> <@nmod> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@flat> <@case> <@nmod> <@obj> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@amod> <@cop> <@case> <@nmod> <@nmod:poss> <@det> <@nsubj> <@nmod:poss> <@root> <@punct> 
+<@root> <@case> <@nmod> <@amod> <@case> <@nmod:poss> <@flat> <@flat> <@flat> <@flat> <@cop> <@punct> 
+<@nsubj> <@root> <@case> <@fixed> <@nmod> <@nmod:poss> <@cop> <@punct> 
+<@mark> <@nsubj> <@obj> <@advcl> <@punct> <@aux> <@obj> <@nmod:poss> <@advmod> <@root> <@punct> <@punct> 
+<@nsubj> <@case> <@nummod> <@nmod> <@case> <@nmod> <@amod> <@root> <@aux> <@ccomp> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nummod> <@nmod> <@nmod:poss> <@case> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@det> <@nmod:poss> <@obj> <@nmod:poss> <@case> <@nmod> <@root> <@cc> <@case> <@nmod> <@amod> <@cc> <@nmod> <@nmod:poss> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@nsubj> <@case> <@nmod> <@nmod:poss> <@cc> <@advmod> <@nmod:poss> <@case> <@root> <@case> <@nmod> <@nmod:poss> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@aux> <@root> <@mark> <@nsubj> <@case> <@det> <@nmod> <@case> <@ccomp> <@cop> <@punct> 
+<@advmod> <@nsubj> <@amod> <@root> <@det> <@obj> <@ccomp> <@punct> 
+<@nsubj> <@root> <@nmod:poss> <@cc> <@nmod:poss> <@nmod:poss> <@cc> <@nmod:poss> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@obj> <@amod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@punct> <@root> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@obj> <@root> <@obl:dat> <@cc> <@nsubj> <@nmod:poss> <@advmod> <@obj> <@root> <@obl:dat> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@nummod> <@nsubj> <@acl> <@root> <@case> <@nummod> <@nmod> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@cc> <@case> <@nmod> <@nmod:poss> <@obj> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@punct> <@cc> <@nsubj> <@amod> <@case> <@case> <@nmod> <@root> <@cop> <@punct> 
+<@nsubj> <@nmod> <@nummod> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@root> <@obl:dat> <@amod> <@nmod> <@case> <@case> <@nmod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@root> <@obl:dat> <@cop> <@punct> 
+<@nsubj> <@obj> <@amod> <@cc> <@amod> <@root> <@cc> <@case> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@punct> <@obj> <@nmod:poss> <@cc> <@nmod:poss> <@amod> <@root> <@punct> 
+<@aux> <@root> <@mark> <@case> <@nmod> <@obj> <@amod> <@ccomp> <@punct> 
+<@nsubj> <@det> <@nmod:poss> <@case> <@nmod> <@cc> <@nmod> <@advmod> <@compound:redup> <@case> <@det> <@nmod> <@aux> <@root> <@punct> 
+<@det> <@nmod> <@case> <@nmod> <@nmod:poss> <@punct> <@case> <@nmod> <@case> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@punct> <@nsubj> <@cc> <@nsubj> <@nmod:poss> <@case> <@det> <@nmod> <@case> <@root> <@punct> 
+<@case> <@det> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@amod> <@case> <@nmod> <@nmod:poss> <@obj> <@cc> <@obj> <@nmod:poss> <@root> <@compound:lvc> <@punct> 
+<@det> <@nsubj> <@advmod> <@case> <@nmod> <@nmod:poss> <@case> <@aux> <@root> <@punct> 
+<@case> <@fixed> <@nmod> <@amod> <@punct> <@nsubj> <@nmod:poss> <@obj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@case> <@det> <@nmod> <@nsubj> <@xcomp> <@nmod:poss> <@cc> <@nmod:poss> <@case> <@nmod> <@case> <@nmod:poss> <@nmod> <@root> <@cop> <@punct> 
+<@fixed> <@advmod> <@root> <@obl:dat> <@nmod:poss> <@fixed> <@cop> <@cc> <@obj> <@amod> <@fixed> <@advmod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@amod> <@aux> <@root> <@punct> <@cc> <@root> <@punct> 
+<@nsubj> <@case> <@det> <@obl:dat> <@amod> <@case> <@nmod> <@amod> <@root> <@cc> <@nsubj> <@det> <@nmod:poss> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@punct> <@case> <@case> <@nmod> <@nmod> <@nmod:poss> <@nmod:poss> <@nsubj> <@root> <@punct> 
+<@nsubj> <@punct> <@obj> <@flat> <@nmod:poss> <@advmod> <@case> <@nmod> <@root> <@xcomp> <@punct> 
+<@nsubj> <@flat> <@advmod> <@advmod> <@case> <@nmod> <@amod> <@obj> <@root> <@punct> 
+<@case> <@nmod> <@flat> <@flat> <@case> <@cop> <@root> <@cc> <@case> <@nmod> <@flat> <@flat> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nsubj> <@amod> <@case> <@amod> <@root> <@punct> <@mark> <@nsubj> <@advmod> <@advmod> <@acl> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@cc> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@amod> <@case> <@root> <@cc> <@nmod> <@root> <@punct> <@nmod> <@case> <@nmod> <@case> <@nmod> <@advmod> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nmod> <@amod> <@appos> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@obj> <@root> <@cc> <@case> <@nmod> <@amod> <@case> <@compound:lvc> <@root> <@punct> 
+<@cc> <@advmod> <@det> <@nsubj> <@nmod:poss> <@case> <@nmod> <@advmod> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@cc> <@nmod> <@case> <@nummod> <@nmod> <@nsubj> <@nmod:poss> <@aux> <@root> <@punct> 
+<@advmod> <@advmod> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@cc> <@advmod> <@advmod> <@nmod:poss> <@root> <@advmod> <@punct> 
+<@det> <@nsubj> <@case> <@fixed> <@nmod> <@amod> <@advmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nsubj> <@nummod> <@flat> <@nmod:poss> <@advmod> <@obj> <@root> <@det> <@obl:dat> <@case> <@nmod> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@cc> <@nmod> <@nmod:poss> <@case> <@det> <@nsubj> <@root> <@cc> <@root> <@cop> <@punct> 
+<@case> <@nummod> <@nmod> <@punct> <@nmod> <@nmod:poss> <@root> <@obl:dat> <@punct> 
+<@case> <@fixed> <@nmod> <@amod> <@case> <@nsubj> <@mark> <@advmod> <@advmod> <@case> <@nmod> <@aux> <@acl> <@root> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@case> <@det> <@nmod> <@case> <@nsubj> <@aux> <@obj> <@amod> <@case> <@nmod:poss> <@case> <@nmod> <@acl> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@flat> <@root> <@mark> <@nmod> <@amod> <@compound:lvc> <@nmod:poss> <@amod> <@acl> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@cc> <@case> <@nmod:poss> <@case> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@cc> <@nmod> <@nsubj> <@obj> <@fixed> <@advmod> <@xcomp> <@root> <@punct> 
+<@root> <@advmod> <@fixed> <@advmod> <@nsubj> <@nmod:poss> <@ccomp> <@punct> <@cc> <@ccomp> <@punct> 
+<@nsubj> <@nmod:poss> <@punct> <@root> <@amod> <@case> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@root> <@cop> <@mark> <@nsubj> <@case> <@det> <@nmod> <@case> <@nmod> <@acl> <@case> <@det> <@nmod> <@case> <@ccomp> <@punct> 
+<@advmod> <@obl> <@nmod:poss> <@case> <@nmod:poss> <@cc> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@amod> <@case> <@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@amod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@case> <@nmod> <@root> <@punct> 
+<@advmod> <@case> <@nmod> <@cc> <@nmod> <@obj> <@root> <@obl:dat> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@amod> <@case> <@det> <@nsubj> <@aux> <@compound:lvc> <@root> <@punct> 
+<@obj> <@case> <@nmod> <@flat> <@case> <@root> <@cc> <@cop> <@root> <@mark> <@nsubj> <@case> <@nmod> <@case> <@obj> <@ccomp> <@punct> 
+<@nsubj> <@punct> <@case> <@nmod> <@punct> <@punct> <@appos> <@punct> <@punct> <@root> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@case> <@det> <@nmod> <@flat> <@nsubj> <@case> <@nmod> <@case> <@nmod> <@nmod:poss> <@advcl> <@nmod> <@amod> <@case> <@nmod> <@case> <@root> <@cop> <@punct> 
+<@case> <@det> <@nmod> <@case> <@nmod> <@case> <@det> <@root> <@cc> <@root> <@cop> <@punct> 
+<@case> <@det> <@nmod> <@nmod:poss> <@case> <@nmod> <@case> <@root> <@cop> <@punct> <@obj> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@case> <@obj> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@case> <@punct> <@amod> <@nsubj> <@punct> <@amod> <@amod> <@punct> <@amod> <@amod> <@advmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@nmod:poss> <@case> <@det> <@nmod> <@punct> <@case> <@nmod> <@amod> <@root> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@case> <@compound:lvc> <@root> <@punct> 
+<@det> <@nsubj> <@obj> <@case> <@amod> <@amod> <@nmod> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@root> <@punct> 
+<@nsubj> <@case> <@det> <@nmod> <@case> <@nmod> <@nmod:poss> <@aux> <@root> <@advmod> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@amod> <@nmod> <@root> <@nmod> <@nmod:poss> <@cc> <@advmod> <@obj> <@root> <@mark> <@case> <@nmod> <@ccomp> <@cop> <@punct> 
+<@case> <@fixed> <@nmod> <@case> <@nmod> <@case> <@advmod> <@det> <@nsubj> <@root> <@punct> 
+<@case> <@nmod> <@punct> <@nsubj> <@flat> <@advmod> <@case> <@nmod> <@obj> <@root> <@mark> <@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@xcomp> <@aux> <@advcl> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@amod> <@cop> <@mark> <@nsubj> <@flat> <@punct> <@appos> <@flat> <@punct> <@acl> <@obl:dat> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@punct> <@nsubj> <@nmod:poss> <@punct> <@root> <@case> <@fixed> <@nmod> <@case> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@nsubj> <@case> <@fixed> <@root> <@nmod:poss> <@case> <@cop> <@punct> 
+<@case> <@nmod> <@det> <@nmod:poss> <@punct> <@nsubj> <@root> <@nmod:poss> <@cop> <@punct> 
+<@cc> <@det> <@nsubj> <@case> <@nmod> <@case> <@case> <@nmod> <@nmod:poss> <@case> <@punct> <@nmod> <@punct> <@cc> <@punct> <@nmod> <@punct> <@aux> <@root> <@punct> 
+<@nsubj> <@nmod> <@amod> <@case> <@nmod> <@nummod> <@case> <@obj> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@nmod:poss> <@nmod:poss> <@case> <@obj> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@cc> <@advmod> <@nsubj> <@nmod:poss> <@root> <@nummod> <@case> <@nmod> <@case> <@cop> <@punct> 
+<@case> <@nmod> <@advmod> <@amod> <@case> <@nmod:poss> <@nsubj> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@advmod> <@case> <@nmod> <@cc> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@cc> <@amod> <@case> <@obj> <@nmod:poss> <@root> <@punct> <@case> <@nmod> <@root> <@punct> 
+<@case> <@det> <@nmod> <@case> <@nsubj> <@nmod:poss> <@advmod> <@case> <@fixed> <@nmod> <@nmod:poss> <@case> <@det> <@root> <@case> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@nmod> <@nmod> <@advmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@amod> <@case> <@case> <@det> <@nmod> <@cop> <@root> <@advmod> <@amod> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nummod> <@flat> <@nsubj> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@case> <@obj> <@nmod:poss> <@case> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@root> <@case> <@amod> <@nmod> <@nmod:poss> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@cc> <@nmod> <@amod> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@punct> <@root> <@cc> <@root> <@nmod:poss> <@punct> <@nmod:poss> <@case> <@advmod> <@amod> <@cop> <@punct> 
+<@nsubj> <@amod> <@advmod> <@case> <@nmod> <@det> <@obj> <@root> <@punct> 
+<@case> <@nmod> <@case> <@nmod> <@nmod:poss> <@nsubj> <@advmod> <@root> <@case> <@amod> <@nmod> <@cop> <@mark> <@acl> <@nmod:poss> <@cc> <@nmod:poss> <@amod> <@cc> <@amod> <@case> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@obj> <@nmod:poss> <@case> <@nmod> <@det> <@nmod> <@root> <@cc> <@obj> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod:poss> <@advmod> <@root> <@cop> <@cc> <@advmod> <@advmod> <@case> <@nmod> <@advmod> <@xcomp> <@case> <@nmod> <@amod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod> <@case> <@nmod> <@cc> <@nmod> <@punct> <@appos> <@punct> <@appos> <@punct> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@mark> <@case> <@nmod> <@aux> <@acl> <@punct> <@root> <@amod> <@case> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@det> <@nmod> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@flat> <@flat> <@case> <@case> <@nmod> <@root> <@punct> 
+<@case> <@fixed> <@root> <@cop> <@mark> <@nsubj> <@case> <@ccomp> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@advmod> <@root> <@obj> <@case> <@nmod> <@ccomp> <@cc> <@mark> <@obj> <@nmod:poss> <@advcl> <@punct> <@obj> <@ccomp> <@punct> 
+<@nsubj> <@flat> <@punct> <@nsubj> <@flat> <@punct> <@nsubj> <@flat> <@cc> <@nsubj> <@flat> <@case> <@nmod> <@case> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@obj> <@root> <@obl:dat> <@amod> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@amod> <@punct> <@case> <@nummod> <@nummod> <@nmod> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@fixed> <@nsubj> <@root> <@amod> <@cop> <@punct> 
+<@nsubj> <@cc> <@nsubj> <@nmod:poss> <@case> <@amod> <@obj> <@root> <@mark> <@obj> <@ccomp> <@obl:dat> <@nmod:poss> <@punct> 
+<@case> <@nmod> <@amod> <@case> <@punct> <@nsubj> <@punct> <@nsubj> <@root> <@amod> <@cop> <@mark> <@obj> <@nmod:poss> <@ccomp> <@punct> 
+<@case> <@nmod> <@nummod> <@punct> <@nsubj> <@nmod:poss> <@root> <@obl:dat> <@nummod> <@punct> <@nummod> <@nmod> <@punct> 
+<@case> <@nmod> <@case> <@nmod> <@nmod> <@case> <@obj> <@root> <@punct> 
+<@nsubj> <@mark> <@case> <@nmod> <@cc> <@nmod> <@acl> <@cop> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@nsubj> <@mark> <@case> <@nmod> <@nmod:poss> <@case> <@aux> <@acl> <@aux> <@root> <@cc> <@nsubj> <@nmod:poss> <@case> <@nmod> <@amod> <@root> <@punct> 
+<@det> <@nsubj> <@punct> <@case> <@nmod> <@amod> <@cop> <@root> <@nmod:poss> <@punct> 
+<@mark> <@case> <@nmod> <@nmod:poss> <@advcl> <@punct> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@obj> <@nmod:poss> <@nmod:poss> <@punct> <@appos> <@punct> <@case> <@advmod> <@aux> <@acl> <@root> <@punct> 
+<@case> <@det> <@nmod> <@punct> <@advmod> <@compound:lvc> <@nmod> <@nmod:poss> <@root> <@cc> <@advmod> <@advmod> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@case> <@amod> <@case> <@det> <@nsubj> <@det> <@nmod:poss> <@root> <@cc> <@root> <@cop> <@punct> 
+<@nsubj> <@root> <@case> <@nmod> <@advmod> <@amod> <@case> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@advmod> <@aux> <@root> <@punct> 
+<@mark> <@nsubj> <@nmod:poss> <@advcl> <@cop> <@punct> <@case> <@nmod> <@case> <@punct> <@nsubj> <@nmod:poss> <@advmod> <@aux> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@root> <@cop> <@punct> <@case> <@det> <@nmod> <@nsubj> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@aux> <@root> <@mark> <@case> <@nmod> <@case> <@det> <@nsubj> <@nmod:poss> <@nmod:poss> <@case> <@advcl> <@nmod:poss> <@case> <@cop> <@punct> 
+<@nsubj> <@root> <@nmod:poss> <@case> <@case> <@nummod> <@nmod> <@cc> <@nmod> <@amod> <@cop> <@punct> <@mark> <@case> <@acl> <@nmod:poss> <@cop> <@cc> <@acl> <@nmod:poss> <@advmod> <@amod> <@cop> <@punct> 
+<@nsubj> <@amod> <@punct> <@nsubj> <@amod> <@punct> <@case> <@nmod> <@amod> <@cc> <@amod> <@punct> <@case> <@nmod> <@root> <@nmod:poss> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@flat> <@flat> <@case> <@nsubj> <@flat> <@obj> <@nmod:poss> <@case> <@nmod> <@case> <@nmod> <@root> <@punct> 
+<@det> <@nmod> <@advmod> <@obj> <@amod> <@case> <@nmod> <@amod> <@cc> <@nmod> <@amod> <@aux> <@acl> <@root> <@cc> <@obj> <@root> <@punct> 
+<@case> <@fixed> <@det> <@nmod> <@advmod> <@case> <@nmod> <@amod> <@cc> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nummod> <@case> <@nsubj> <@nummod> <@nummod> <@case> <@nmod> <@case> <@obj> <@root> <@punct> 
+<@case> <@nmod> <@nummod> <@punct> <@amod> <@case> <@nmod> <@case> <@punct> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@case> <@obj> <@amod> <@punct> <@case> <@nmod> <@root> <@punct> 
+<@mark> <@nsubj> <@nmod:poss> <@advcl> <@nsubj> <@obj> <@root> <@mark> <@nsubj> <@amod> <@aux> <@ccomp> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@nmod:poss> <@punct> <@appos> <@nmod:poss> <@flat> <@punct> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@amod> <@case> <@obj> <@nmod:poss> <@root> <@cc> <@case> <@fixed> <@nmod> <@root> <@cc> <@nmod> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@cc> <@nmod:poss> <@det> <@nsubj> <@advmod> <@obj> <@nmod:poss> <@root> <@punct> <@det> <@obj> <@root> <@punct> 
+<@nsubj> <@root> <@mark> <@nsubj> <@case> <@nmod> <@nmod:poss> <@ccomp> <@punct> 
+<@obj> <@cc> <@obj> <@root> <@nummod> <@xcomp> <@root> <@obl:dat> <@punct> 
+<@case> <@nmod> <@cc> <@nmod> <@nmod:poss> <@advmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@case> <@advmod> <@punct> <@nsubj> <@nmod:poss> <@cc> <@nsubj> <@advmod> <@root> <@punct> 
+<@amod> <@obj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@nsubj> <@root> <@nmod:poss> <@det> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@fixed> <@advmod> <@det> <@obj> <@amod> <@cc> <@obj> <@amod> <@root> <@punct> 
+<@nsubj> <@obj> <@nmod:poss> <@case> <@nmod> <@cc> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@obj> <@compound:lvc> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@nmod:poss> <@appos> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@nmod:poss> <@punct> <@case> <@nmod> <@nmod:poss> <@case> <@punct> <@root> <@obl:dat> <@punct> 
+<@nsubj> <@root> <@case> <@nummod> <@nmod> <@nmod:poss> <@nmod:poss> <@cop> <@cc> <@root> <@nsubj> <@nmod:poss> <@nmod> <@nummod> <@obj> <@ccomp> <@punct> 
+<@advmod> <@punct> <@obj> <@case> <@det> <@nmod> <@root> <@cc> <@case> <@nmod> <@obj> <@root> <@obl:dat> <@nmod:poss> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@root> <@case> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@fixed> <@nmod> <@cc> <@nmod> <@nummod> <@punct> <@nummod> <@root> <@amod> <@cop> <@punct> 
+<@det> <@root> <@case> <@nmod> <@amod> <@case> <@nmod:poss> <@case> <@case> <@nmod> <@punct> 
+<@case> <@nmod> <@amod> <@nsubj> <@root> <@cc> <@root> <@obl:dat> <@amod> <@punct> 
+<@nsubj> <@flat> <@obj> <@nmod:poss> <@nmod:poss> <@case> <@det> <@nmod> <@root> <@obl:dat> <@punct> 
+<@det> <@nsubj> <@punct> <@case> <@nmod> <@case> <@punct> <@nsubj> <@case> <@nmod> <@case> <@root> <@punct> 
+<@nsubj> <@punct> <@appos> <@punct> <@root> <@nummod> <@cc> <@nummod> <@case> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@punct> <@case> <@root> <@nmod:poss> <@case> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@case> <@case> <@nmod> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@nmod> <@obj> <@nmod:poss> <@case> <@case> <@nmod> <@punct> <@nmod:poss> <@nmod:poss> <@punct> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@cop> <@root> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@det> <@nmod> <@aux> <@root> <@cc> <@obj> <@root> <@case> <@nmod> <@punct> 
+<@nmod> <@case> <@nmod> <@nmod:poss> <@amod> <@case> <@punct> <@nsubj> <@nmod:poss> <@det> <@obj> <@nmod:poss> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@root> <@nmod> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@root> <@obl:dat> <@cc> <@nmod> <@nmod> <@case> <@det> <@nmod> <@root> <@punct> <@advmod> <@root> <@nmod:poss> <@punct> 
+<@nsubj> <@amod> <@punct> <@case> <@nmod> <@punct> <@appos> <@flat> <@flat> <@punct> <@root> <@acl> <@cop> <@punct> 
+<@advmod> <@nsubj> <@case> <@nmod> <@punct> <@case> <@nmod> <@case> <@nmod> <@case> <@obj> <@nmod:poss> <@root> <@punct> 
+<@case> <@det> <@nummod> <@nmod> <@case> <@case> <@fixed> <@nmod> <@amod> <@case> <@root> <@cop> <@punct> 
+<@case> <@nummod> <@nmod> <@case> <@nmod> <@case> <@advmod> <@root> <@amod> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@case> <@obj> <@punct> <@appos> <@nmod:poss> <@case> <@nmod:poss> <@punct> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nummod> <@nmod> <@cop> <@root> <@nmod:poss> <@advmod> <@amod> <@cc> <@amod> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@amod> <@advmod> <@advmod> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@root> <@cc> <@root> <@nmod:poss> <@punct> <@appos> <@nmod:poss> <@nmod:poss> <@punct> <@cop> <@punct> 
+<@nsubj> <@amod> <@punct> <@case> <@nmod> <@root> <@amod> <@cop> <@punct> 
+<@case> <@nmod> <@cc> <@nmod> <@nsubj> <@nmod:poss> <@root> <@cop> <@punct> 
+<@case> <@fixed> <@nmod> <@case> <@case> <@nmod> <@aux> <@root> <@mark> <@punct> <@nsubj> <@nummod> <@flat> <@nmod> <@ccomp> <@cop> <@punct> <@punct> 
+<@case> <@nmod> <@mark> <@nsubj> <@aux> <@case> <@nmod> <@acl> <@punct> <@nsubj> <@obj> <@nmod> <@punct> <@obj> <@cc> <@obj> <@advmod> <@case> <@nmod> <@root> <@punct> 
+<@advmod> <@punct> <@nsubj> <@nmod:poss> <@punct> <@nmod:poss> <@punct> <@case> <@nmod:poss> <@cc> <@nmod:poss> <@amod> <@advmod> <@advmod> <@aux> <@root> <@punct> 
+<@nsubj> <@case> <@nmod> <@case> <@nmod> <@advmod> <@xcomp> <@amod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@advmod> <@punct> <@case> <@fixed> <@nmod> <@nmod:poss> <@cc> <@nmod:poss> <@root> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@case> <@nmod> <@flat> <@flat> <@case> <@case> <@nmod> <@flat> <@obj> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@aux> <@root> <@cc> <@nsubj> <@nmod:poss> <@nummod> <@root> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@det> <@nmod:poss> <@cc> <@nmod:poss> <@cop> <@root> <@amod> <@case> <@nmod:poss> <@cc> <@nmod:poss> <@nmod:poss> <@punct> 
+<@case> <@det> <@nmod> <@punct> <@det> <@nsubj> <@nmod:poss> <@advmod> <@case> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@obj> <@nmod:poss> <@case> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@amod> <@case> <@case> <@nummod> <@punct> <@nummod> <@nmod> <@root> <@punct> 
+<@nsubj> <@root> <@ccomp> <@punct> <@nsubj> <@ccomp> <@obl:dat> <@amod> <@case> <@nmod> <@punct> 
+<@case> <@nmod> <@obj> <@root> <@cc> <@advmod> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@case> <@punct> <@nsubj> <@nmod:poss> <@appos> <@flat> <@advmod> <@obj> <@nmod:poss> <@nummod> <@nmod> <@amod> <@root> <@cc> <@aux> <@root> <@punct> 
+<@mark> <@det> <@nsubj> <@nmod:poss> <@advmod> <@case> <@advcl> <@cop> <@punct> <@case> <@nmod> <@obj> <@case> <@nmod> <@root> <@compound:lvc> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@compound:lvc> <@amod> <@nmod:poss> <@punct> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@cc> <@nmod:poss> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@punct> <@case> <@nmod> <@nmod:poss> <@flat> <@advmod> <@case> <@nmod> <@case> <@aux> <@root> <@punct> 
+<@nsubj> <@punct> <@case> <@advmod> <@appos> <@amod> <@case> <@nmod:poss> <@punct> <@punct> <@root> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@nmod:poss> <@cc> <@nmod:poss> <@amod> <@cop> <@punct> 
+<@nsubj> <@fixed> <@mark> <@case> <@nmod> <@aux> <@advcl> <@punct> <@root> <@case> <@nmod> <@advmod> <@aux> <@ccomp> <@punct> 
+<@case> <@nmod> <@advmod> <@obj> <@nmod:poss> <@case> <@det> <@nmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@det> <@nummod> <@nmod:poss> <@root> <@cop> <@cc> <@case> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@root> <@amod> <@cc> <@root> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@flat> <@flat> <@punct> <@root> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@appos> <@flat> <@cop> <@punct> 
+<@nsubj> <@amod> <@case> <@nmod:poss> <@root> <@cop> <@mark> <@obj> <@case> <@nmod> <@ccomp> <@punct> 
+<@nsubj> <@case> <@nmod> <@nmod:poss> <@obj> <@nmod:poss> <@xcomp> <@root> <@cc> <@case> <@nmod> <@obj> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@punct> <@case> <@nmod> <@nmod:poss> <@flat> <@flat> <@flat> <@aux> <@root> <@punct> 
+<@case> <@fixed> <@nmod> <@nmod:poss> <@case> <@nsubj> <@advmod> <@root> <@cop> <@punct> <@nsubj> <@flat> <@advmod> <@case> <@nmod> <@nmod:poss> <@case> <@compound:lvc> <@nmod:poss> <@root> <@punct> 
+<@case> <@nmod> <@det> <@nsubj> <@cc> <@nsubj> <@advmod> <@aux> <@root> <@punct> 
+<@advmod> <@nsubj> <@advmod> <@root> <@cop> <@punct> <@case> <@nummod> <@nsubj> <@case> <@nmod> <@root> <@cc> <@nsubj> <@advmod> <@obj> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@punct> <@case> <@nmod> <@nummod> <@nsubj> <@root> <@punct> <@nsubj> <@root> <@cop> <@punct> 
+<@nsubj> <@amod> <@root> <@case> <@nmod> <@cc> <@case> <@nmod> <@obj> <@root> <@punct> 
+<@nmod> <@nummod> <@case> <@advmod> <@nmod> <@nsubj> <@det> <@nmod:poss> <@det> <@nmod> <@root> <@cop> <@punct> 
+<@advmod> <@advmod> <@advmod> <@nsubj> <@punct> <@det> <@nsubj> <@nmod:poss> <@punct> <@case> <@nmod> <@case> <@nmod> <@cc> <@case> <@punct> <@advmod> <@det> <@obj> <@case> <@nmod> <@nmod:poss> <@cc> <@nmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@amod> <@aux> <@root> <@punct> 
+<@nsubj> <@root> <@cc> <@root> <@nummod> <@nmod> <@cop> <@punct> <@nmod> <@cc> <@nmod> <@punct> 
+<@cc> <@nsubj> <@punct> <@advmod> <@advmod> <@case> <@nmod> <@cc> <@case> <@nmod> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@advmod> <@case> <@fixed> <@nmod> <@nmod:poss> <@case> <@punct> <@case> <@fixed> <@nmod> <@case> <@compound:lvc> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@flat> <@nmod:poss> <@flat> <@case> <@nmod> <@root> <@nmod:poss> <@amod> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nummod> <@nmod> <@amod> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@flat> <@flat> <@case> <@punct> <@root> <@obl:dat> <@punct> <@obl:dat> <@nmod:poss> <@case> <@mark> <@case> <@nmod> <@acl> <@punct> 
+<@advmod> <@root> <@obj> <@nmod:poss> <@case> <@amod> <@ccomp> <@cc> <@obj> <@case> <@nmod> <@nmod:poss> <@case> <@nmod> <@amod> <@ccomp> <@punct> 
+<@case> <@nummod> <@nmod> <@punct> <@obj> <@nmod:poss> <@root> <@xcomp> <@amod> <@punct> 
+<@nsubj> <@case> <@nmod> <@flat> <@case> <@case> <@nmod> <@aux> <@root> <@punct> 
+<@case> <@amod> <@nmod> <@amod> <@case> <@nmod> <@nmod:poss> <@case> <@obj> <@nmod:poss> <@case> <@nmod:poss> <@root> <@punct> 
+<@nmod> <@nmod:poss> <@case> <@nummod> <@nmod> <@nmod:poss> <@case> <@root> <@cop> <@cc> <@root> <@obl:dat> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@amod> <@case> <@nmod:poss> <@nsubj> <@nmod:poss> <@case> <@amod> <@case> <@flat> <@nmod> <@root> <@punct> 
+<@cc> <@nsubj> <@cc> <@nsubj> <@nmod:poss> <@obj> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@det> <@nmod> <@nsubj> <@nmod:poss> <@root> <@cop> <@cc> <@det> <@nsubj> <@nmod:poss> <@nmod:poss> <@root> <@case> <@nmod> <@punct> 
+<@nsubj> <@flat> <@flat> <@root> <@amod> <@case> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@appos> <@flat> <@case> <@nmod:poss> <@flat> <@cop> <@punct> 
+<@nsubj> <@root> <@mark> <@case> <@nmod> <@acl> <@obl:dat> <@cc> <@case> <@nmod> <@acl> <@nmod> <@punct> 
+<@case> <@nmod> <@amod> <@case> <@nmod> <@nmod:poss> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@advmod> <@root> <@cc> <@root> <@cop> <@punct> 
+<@det> <@nsubj> <@obj> <@nmod:poss> <@nmod:poss> <@amod> <@advmod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@root> <@cop> <@cc> <@case> <@nmod> <@nmod:poss> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@case> <@case> <@nmod> <@advmod> <@punct> <@case> <@fixed> <@nmod> <@case> <@obj> <@punct> <@case> <@advmod> <@aux> <@root> <@punct> 
+<@cc> <@mark> <@nsubj> <@advcl> <@obj> <@flat> <@punct> <@advmod> <@advmod> <@punct> <@nsubj> <@obj> <@nmod:poss> <@mark> <@case> <@nmod> <@flat> <@acl> <@cop> <@root> <@punct> 
+<@det> <@nsubj> <@case> <@det> <@nmod> <@aux> <@root> <@punct> <@case> <@det> <@nmod> <@punct> <@case> <@nmod> <@nmod:poss> <@punct> <@case> <@det> <@nmod> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@det> <@nmod:poss> <@case> <@nsubj> <@cc> <@nsubj> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@fixed> <@nmod> <@amod> <@case> <@nmod:poss> <@root> <@advmod> <@amod> <@cop> <@punct> 
+<@case> <@nmod> <@nummod> <@punct> <@nsubj> <@nmod:poss> <@aux> <@root> <@punct> 
+<@advmod> <@nsubj> <@root> <@punct> <@obj> <@amod> <@advmod> <@root> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@case> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@nsubj> <@advmod> <@obj> <@amod> <@root> <@punct> 
+<@case> <@nmod> <@nmod:poss> <@case> <@nsubj> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@nsubj> <@nmod:poss> <@aux> <@root> <@punct> 
+<@case> <@nmod> <@nsubj> <@nmod:poss> <@amod> <@case> <@root> <@cc> <@root> <@cop> <@punct> 
+<@case> <@nmod> <@case> <@compound:lvc> <@root> <@cc> <@case> <@nmod> <@nmod:poss> <@punct> 
+<@cc> <@mark> <@compound:lvc> <@advcl> <@obl:dat> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@nmod:poss> <@case> <@case> <@nmod> <@punct> <@case> <@nmod> <@punct> <@nmod> <@nmod:poss> <@aux> <@xcomp> <@root> <@cc> <@nsubj> <@nmod:poss> <@advmod> <@root> <@punct> 
+<@nmod> <@nmod:poss> <@nmod:poss> <@nmod:poss> <@nsubj> <@nmod:poss> <@nummod> <@nummod> <@root> <@cop> <@punct> 
+<@nsubj> <@case> <@nmod> <@root> <@nmod:poss> <@punct> <@nmod:poss> <@punct> <@nmod:poss> <@cc> <@nmod:poss> <@nmod:poss> <@cop> <@punct> 
+<@advmod> <@nsubj> <@nmod:poss> <@cop> <@root> <@nmod:poss> <@nmod:poss> <@punct> 
+<@nsubj> <@amod> <@case> <@nmod> <@amod> <@advmod> <@case> <@root> <@nmod:poss> <@cop> <@punct> 
+<@nsubj> <@nmod:poss> <@case> <@nmod> <@nmod:poss> <@punct> <@nmod:poss> <@cc> <@nmod:poss> <@xcomp> <@root> <@punct> 
+<@nummod> <@nmod> <@case> <@det> <@nmod> <@root> <@punct> 
+<@nsubj> <@root> <@cop> <@punct> 
+<@nsubj> <@root> <@cop> <@punct> 
+<@nsubj> <@root> <@cop> <@punct> 
