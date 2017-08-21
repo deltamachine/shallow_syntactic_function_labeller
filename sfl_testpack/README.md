@@ -1,17 +1,9 @@
-Shallow syntactic function labeller
-=====================
+Shallow syntactic function labeller testpack
+==============================================
 
-This is Google Summer of Code 2017 project for Apertium.
+This is a testpack for shallow syntactic function labeller, GSoC 2017 Apertium project.
 
-Apertium Wiki: http://wiki.apertium.org/wiki/Shallow_syntactic_function_labeller
-
-Repository for the whole project: https://github.com/deltamachine/shallow_syntactic_function_labeller
-
-### Description
-
-The shallow syntactic function labeller takes a string in Apertium stream format, parses it into a sequence of morphological tags and gives it to a classifier. The classifier is a simple RNN model trained on prepared datasets which were made from parsed syntax-labelled corpora (mostly UD-treebanks). The classifier analyzes the given sequence of morphological tags, gives a sequence of labels as an output and the labeller applies these labels to the original string.
-
-In Apertium pipeline the labeller runs between morphological analyzer or disambiguator and pretransfer.
+More information can be found on Apertium Wiki: http://wiki.apertium.org/wiki/Shallow_syntactic_function_labeller
 
 ### Installation
 
@@ -29,12 +21,12 @@ $ git clone https://github.com/deltamachine/sfl_testpack.git
 $ cd sfl_testpack
 ```
 
-Script setup.py adds all the needed files in language pair directory and changes all files with modes.
+Script _setup.py_ adds all the needed files in language pair directory and changes all files with modes.
 
-#### Arguments: ###
+###### Arguments:
 
-* work_mode: -lb for installing the labeller and changing modes, -cg for backwarding changes and using the original syntax module (sme-nob.syn.rlx.bin or kmr-eng.prob) in the pipeline.
-* lang: -sme for installing/uninstalling the labeller only for sme-nob, -kmr - only for kmr-eng, -all - for both.
+* _work_mode_: **-lb** for installing the labeller and changing modes, **-cg** for backwarding changes and using the original syntax module (sme-nob.syn.rlx.bin or kmr-eng.prob) in the pipeline.
+* _lang_: **-sme** for installing/uninstalling the labeller only for sme-nob, **-kmr** - only for kmr-eng, **-all** - for both.
 
 For example, this script will install the labeller and add it to the pipeline for both pairs:
 
