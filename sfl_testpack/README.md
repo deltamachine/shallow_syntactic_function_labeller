@@ -16,14 +16,12 @@ In Apertium pipeline the labeller runs between morphological analyzer or disambi
 ### Installation
 
 #### Prerequisites
--------------------------
 1. Python libraries:
 	* DyNet (installation instructions can be found here: http://dynet.readthedocs.io/en/latest/python.html)
 	* Streamparser (https://github.com/goavki/streamparser)
 2. Precompiled language pairs which support the labeller (sme-nob, kmr-eng)
 
 #### How to install a testpack
--------------------------
 NB: currently this testpack contains syntax modules only for sme-nob and kmr-eng.
 
 ```cmd
