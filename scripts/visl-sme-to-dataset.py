@@ -33,13 +33,16 @@ def replace_old_tags(corpus):
 
     return corpus
 
-def parse_corpus(corpus, output_morph, output_syntax):
+def parse_corpus(corpus, output_morph, output_syntax, punct):
     for elem in corpus:
         sentence = elem.split('\n')
         morph_string = ''
         syntax_string = ''
         
         for i in range (1, len(sentence), 2):
+            if ('@PUNCT' in sentence[i] or '@CLB' in sentence[i]) and punct == '0':
+                continue
+
             tags = sentence[i].split()
             
             func_index = len(tags)-1
@@ -60,10 +63,11 @@ def main():
     corpus = sys.argv[1]
     output_morph = sys.argv[2]
     output_syntax = sys.argv[3]
+    punct = sys.argv[4]
 
     corpus = remove_double_lines(corpus)
     corpus = replace_old_tags(corpus)
-    parse_corpus(corpus, output_morph, output_syntax)
+    parse_corpus(corpus, output_morph, output_syntax, punct)
 
 if __name__ == '__main__':
     main()
