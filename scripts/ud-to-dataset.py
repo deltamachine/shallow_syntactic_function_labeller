@@ -3,7 +3,7 @@ import sys
 
 
 def read_tags(lang):
-    if lang == 'kk':
+    if lang == 'kk' or lang == 'kmr':
         return {}
     else:
         if lang == 'bre':
@@ -57,6 +57,15 @@ def handle_english(word, tags):
     return morph_string
 
 
+def handle_kurmanji(word):
+    if word[5] == '_':
+        morph_string = '<' + word[4] + '> '
+    else:
+        morph_string = '<' + word[4] + '><' + '><'.join(word[5].split('|')) + '> '
+        
+    return morph_string
+
+
 def handle_kazakh(word):
     morph_string = ''
     tags = word[9].split('|')
@@ -87,6 +96,9 @@ def process_line(line, lang, tags):
 
     if lang == 'en':
         morph_string = handle_english(word, tags)
+
+    if lang == 'kmr':
+        morph_string = handle_kurmanji(word)
 
     if lang == 'kk':
         morph_string = handle_kazakh(word)
