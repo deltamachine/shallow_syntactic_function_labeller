@@ -1,5 +1,7 @@
+import os
 import re
 import sys
+from subprocess import check_output
 
 
 def read_tags(lang):
@@ -137,17 +139,42 @@ def parse_corpus(corpus, tags, lang, punct):
 
 
 def save_dataset(data, filename):
-    with open (filename, 'w', encoding = 'utf-8') as file:
+    with open (filename, 'w', encoding='utf-8') as file:
         for elem in data:
             file.write('%s%s' % (elem, '\n'))
 
 
+def create_fasttext_dataset(output_morph, output_fasttext_morph):
+    with open (output_morph, 'r', encoding='utf-8') as file:
+        f = file.read()
+
+    f = re.sub('><', '> <', f)
+
+    with open (output_fasttext_morph, 'w', encoding='utf-8') as file:
+        file.write(f)
+        file.write('<EOS>\n')
+        file.write('<UNK>')
+
+    path = check_output('locate fastText', shell=True)
+    path = str(path).split('\\n')
+    path = path[0][2:]
+
+    filename = re.escape(os.getcwd() + '/' + output_fasttext_morph)
+
+    string = './fasttext skipgram -input ' + filename + ' -output ' + filename + ' -minCount 1 -dim 300 -maxn 11'
+
+    os.chdir(path)
+    os.system(string)
+
+
 def main():
     input_corpus = sys.argv[1]
-    output_morph = sys.argv[2]
-    output_syntax = sys.argv[3]
-    lang = sys.argv[4]
-    punct = sys.argv[5]
+    lang = sys.argv[2]
+    punct = sys.argv[3]
+
+    output_morph = lang + '-m.txt'
+    output_fasttext_morph = lang + '-m-fasttext.txt'
+    output_syntax = lang + '-s.txt'
 
     tags = read_tags(lang)
     corpus = clean_corpus(input_corpus, lang)
@@ -155,6 +182,8 @@ def main():
 
     save_dataset(morph, output_morph)
     save_dataset(syntax, output_syntax)
+
+    create_fasttext_dataset(output_morph, output_fasttext_morph)
 
 
 if __name__ == '__main__':

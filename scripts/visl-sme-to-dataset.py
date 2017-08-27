@@ -2,8 +2,9 @@ import re
 import sys
 import json
 
+
 def remove_double_lines(corpus):
-    with open (corpus, 'r', encoding = 'utf-8') as file:
+    with open (corpus, 'r', encoding='utf-8') as file:
         corpus = file.read()
 
     double_analysis = re.findall('\t".*?\n\t".*?\n', corpus)
@@ -22,8 +23,9 @@ def remove_double_lines(corpus):
 
     return corpus
 
+
 def replace_old_tags(corpus):
-    with open ('sme-tags.json', 'r', encoding = 'utf-8') as file:
+    with open ('sme-tags.json', 'r', encoding='utf-8') as file:
         new_tags = json.load(file)
 
     for key, value in new_tags.items():
@@ -33,7 +35,8 @@ def replace_old_tags(corpus):
 
     return corpus
 
-def parse_corpus(corpus, output_morph, output_syntax, punct):
+
+def parse_corpus(corpus, punct):
     for elem in corpus:
         sentence = elem.split('\n')
         morph_string = ''
@@ -53,21 +56,46 @@ def parse_corpus(corpus, output_morph, output_syntax, punct):
             syntax_string = syntax_string + '<' + tags[func_index] + '> '
             morph_string += ' '
 
-        with open(output_morph, 'a', encoding='utf-8') as file:
+        with open('sme-m.txt', 'a', encoding='utf-8') as file:
             file.write('%s%s' % (morph_string, '\n'))
 
-        with open(output_syntax, 'a', encoding='utf-8') as file:
+        with open('sme-s.txt', 'a', encoding='utf-8') as file:
             file.write('%s%s' % (syntax_string, '\n'))
+
+
+def create_fasttext_dataset(output_morph, output_fasttext_morph):
+    with open (output_morph, 'r', encoding='utf-8') as file:
+        f = file.read().strip('\n')
+
+    f = re.sub('><', '> <', f)
+
+    with open (output_fasttext_morph, 'w', encoding='utf-8') as file:
+        file.write(f)
+        file.write('\n<EOS>\n')
+        file.write('<UNK>')
+
+    path = check_output('locate fastText', shell=True)
+    path = str(path).split('\\n')
+    path = path[0][2:]
+
+    filename = re.escape(os.getcwd() + '/' + output_fasttext_morph)
+
+    string = './fasttext skipgram -input ' + filename + ' -output ' + filename + ' -minCount 1 -dim 300 -maxn 11'
+
+    os.chdir(path)
+    os.system(string)
+
 
 def main():   
     corpus = sys.argv[1]
-    output_morph = sys.argv[2]
-    output_syntax = sys.argv[3]
-    punct = sys.argv[4]
+    punct = sys.argv[2]
 
     corpus = remove_double_lines(corpus)
     corpus = replace_old_tags(corpus)
-    parse_corpus(corpus, output_morph, output_syntax, punct)
+
+    parse_corpus(corpus, punct)
+    create_fasttext_dataset()
+
 
 if __name__ == '__main__':
     main()
