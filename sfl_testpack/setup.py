@@ -41,11 +41,9 @@ def change_main_modes(lang_path, python_path, main_changes, work_mode):
 
         if work_mode == '-lb':
             f = re.sub(re.escape(main_changes[0]), main_changes[1], f)
-            f = re.sub(re.escape(main_changes[2]), main_changes[3], f)
 
         if work_mode == '-cg':
             f = re.sub(re.escape(main_changes[1]), main_changes[0], f)
-            f = re.sub(re.escape(main_changes[3]), main_changes[2], f)
 
     with open(main_modes, 'w', encoding='utf-8') as file:
         file.write(f)
@@ -115,11 +113,11 @@ def main():
     kmr_path = find_path('apertium-kmr-eng')
     python_path = sys.executable
 
-    sme_main_changes = [
-        '<program name="cg-proc -1 -n -w" debug-suff="syntax">',
-        '<program name="' + python_path + '" debug-suff="syntax">',
-        '<file name="sme-nob.syn.rlx.bin"/>',
-        '<file name="sme-nob-labeller.py"/>']
+    sme_main_changes = ['<program name="cg-proc -1 -n -w" debug-suff="syntax">\n        <file name="sme-nob.syn.rlx.bin"/>',
+                        '<program name="' + python_path + '" debug-suff="syntax">\n        <file name="sme-nob-labeller.py"/>']
+
+    kmr_main_changes = ['<program name="apertium-tagger -g $2">\n        <file name="kmr-eng.prob"/>',
+                        '<program name="' + python_path + '">\n        <file name="kmr-eng-labeller.py"/>']
 
     sme_modes_changes = [
         'cg-proc -1 -n -w \'' +
@@ -129,12 +127,6 @@ def main():
         ' \'' +
         sme_path +
         '/sme-nob-labeller.py\'']
-
-    kmr_main_changes = [
-        '<program name="apertium-tagger -g $2">',
-        '<program name="' + python_path + '"/>',
-        '<file name="kmr-eng.prob"/>',
-        '<file name="kmr-eng-labeller.py"/>']
 
     kmr_modes_changes = [
         'apertium-tagger -g $2 \'' +
@@ -153,7 +145,7 @@ def main():
             sme_modes_changes,
             work_mode,
             'sme-nob')
-    
+
     if lang == '-kmr' or lang == '-all':
         change_syntax_module(
             kmr_path,

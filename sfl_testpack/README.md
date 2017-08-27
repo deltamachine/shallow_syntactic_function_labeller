@@ -1,9 +1,17 @@
-Shallow syntactic function labeller testpack
-==============================================
+Shallow syntactic function labeller
+===================================
 
-This is a testpack for shallow syntactic function labeller, GSoC 2017 Apertium project.
+This is Google Summer of Code 2017 project for Apertium.
 
-More information can be found on Apertium Wiki: http://wiki.apertium.org/wiki/Shallow_syntactic_function_labeller
+Apertium Wiki: http://wiki.apertium.org/wiki/Shallow_syntactic_function_labeller
+
+Repository for the whole project: https://github.com/deltamachine/shallow_syntactic_function_labeller
+
+### Description
+
+The shallow syntactic function labeller takes a string in Apertium stream format, parses it into a sequence of morphological tags and gives it to a classifier. The classifier is a simple RNN model trained on prepared datasets which were made from parsed syntax-labelled corpora (mostly UD-treebanks). The classifier analyzes the given sequence of morphological tags, gives a sequence of labels as an output and the labeller applies these labels to the original string.
+
+In Apertium pipeline the labeller runs between morphological analyzer or disambiguator and pretransfer.
 
 ### Installation
 
