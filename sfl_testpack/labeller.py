@@ -37,13 +37,13 @@ class SimpleRNNNetwork:
         self.model = dy.ParameterCollection()
         self.embeddings = self.model.add_lookup_parameters(
             (len(vectors), len(vectors[0])))
-        
+
         self.embeddings.init_from_array(np.array(vectors))
-        
+
         self.RNN = dy.LSTMBuilder(
             rnn_num_of_layers, len(
                 vectors[0]), state_size, self.model)
-        
+
         self.output_w = self.model.add_parameters((len(vectors), state_size))
         self.output_b = self.model.add_parameters((len(vectors)))
 
@@ -134,10 +134,29 @@ class DoubleArray:
 
     def replace_reading(self, elem, new_elem):
         """ Given an element from the second list, replace an element with the same index from the first
-        list with a new element. """
+        list with a new element and deletes the given element from the second list. """
 
         i = self.list2.index(elem)
         self.list1[i] = new_elem
+        self.list2[i] = ''
+
+
+def handle_input(input_string):
+    """ Process input string: delete disambiguation tags, handle unknown words, split string into sentences. """
+
+    input_string = re.sub('<@.*?>', '', input_string)
+
+    unknown_words = re.findall('\*.*?\$', input_string)
+
+    for elem in unknown_words:
+        input_string = re.sub(
+            re.escape(elem),
+            elem.strip('$') + '<UNK>$',
+            input_string)
+
+    sentences = split_sentences(input_string)
+
+    return sentences
 
 
 def prepare_data():
@@ -263,6 +282,10 @@ def add_functions(rnn, string, vocab, int2syntax, sequences, combinations):
     checked_sequences = [elem for elem in sequences]
     checked_sequences = replace_unknown_tags(checked_sequences)
 
+    current_combinations = DoubleArray([], [])
+
+    current_combinations.list1 = [elem for elem in combinations.list1]
+
     for i in range(len(sequences)):
         prediction = rnn.generate(
             (checked_sequences[i]),
@@ -270,15 +293,19 @@ def add_functions(rnn, string, vocab, int2syntax, sequences, combinations):
             int2syntax).split()
         sequence = sequences[i].split()
 
+        current_combinations.list2 = [elem for elem in combinations.list2]
+
         for j in range(len(sequence)):
-            part = combinations.tags_to_reading(sequence[j])
+
+            part = current_combinations.tags_to_reading(sequence[j])
 
             if prediction[j] not in part:
                 new_part = part + prediction[j]
-                string = re.sub(re.escape(part), new_part, string)
-                combinations.replace_reading(sequence[j], new_part)
+                string = string.replace(part, new_part, 1)
+                current_combinations.replace_reading(sequence[j], new_part)
 
     string = re.sub('<@CLB>', '', string)
+    string = re.sub('<UNK>', '', string)
     string = re.sub('\^.*?/', '^', string) + '[][]'
 
     return string
@@ -292,8 +319,7 @@ def main():
     rnn = SimpleRNNNetwork(2, vectors, 32)
     rnn.model.populate('apertium-language-syntax')
 
-    input_string = re.sub('<@.*?>', '', input_string)
-    sentences = split_sentences(input_string)
+    sentences = handle_input(input_string)
 
     for sentence in sentences:
         sequences, combinations = parse_asf(sentence)
