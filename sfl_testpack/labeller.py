@@ -21,17 +21,17 @@ import json
 import dynet as dy
 import numpy as np
 from itertools import product
-from streamparser import parse, readingToString
+from streamparser import parse
 
 
 class SimpleRNNNetwork:
     def __init__(self, rnn_num_of_layers, vectors, state_size):
         """ Simple RNN network which is able to do syntactic labelling.
 
-                Args:
-                    * rnn_num_of_layers (int): number of network's layers
-                    * vectors (list): list with all tags' embeddings
-                    * state_size (int): network's state size
+            Args:
+                * rnn_num_of_layers (int): number of network's layers
+                * vectors (list): list with all tags' embeddings
+                * state_size (int): network's state size
         """
 
         self.model = dy.ParameterCollection()
@@ -113,39 +113,10 @@ class SimpleRNNNetwork:
         return output_string.replace('<EOS>', '')
 
 
-class DoubleArray:
-    def __init__(self, list1, list2):
-        """ Implement a two-arrays structure. """
-
-        self.list1 = list1
-        self.list2 = list2
-
-    def add(self, elem1, elem2):
-        """ Add a first element in the first list and a second element in the second list. """
-
-        self.list1.append(elem1)
-        self.list2.append(elem2)
-
-    def tags_to_reading(self, elem):
-        """ Given an element from the second list, return an element with the same index from the first list. """
-
-        i = self.list2.index(elem)
-        return self.list1[i]
-
-    def replace_reading(self, elem, new_elem):
-        """ Given an element from the second list, replace an element with the same index from the first
-        list with a new element and deletes the given element from the second list. """
-
-        i = self.list2.index(elem)
-        self.list1[i] = new_elem
-        self.list2[i] = ''
-
-
 def handle_input(input_string):
     """ Process input string: delete disambiguation tags, handle unknown words, split string into sentences. """
 
     input_string = re.sub('<@.*?>', '', input_string)
-
     unknown_words = re.findall('\*.*?\$', input_string)
 
     for elem in unknown_words:
@@ -205,42 +176,35 @@ def split_sentences(string):
     return sentences
 
 
-def parse_asf(string):
+def parse_asf(input_string):
     """ Take a string in Apertium stream format and parse it into a sequence (or into a few possible sequences)
     of morphological tags using streamparser library.
 
     Returns:
         * sequences (list): list with all possible readings' sequences. The number of sequences depends on the number
         of words with > 1 readings.
-        * combinations (DoubleArray): DoubleArray where the first array contains lemmas + tags and the second - only tags.
     """
 
-    units = parse(c for c in string)
-    combinations = DoubleArray([], [])
+    units = parse(c for c in input_string)
     options = {}
 
     for unit in units:
-        tags = []
+        all_tags = []
 
         for reading in unit.readings:
-            joined_lu_tags = []
-            word = readingToString(reading)
+            joined_lexical_unit_tags = ['<' + '><'.join(reading[i][1]) + '>' for i in range(len(reading))]
+            all_tags.append(' '.join(joined_lexical_unit_tags))
 
-            for i in range(len(reading)):
-                t = '<' + '><'.join(reading[i][1]) + '>'
-                combinations.add(reading[i][0] + t, t)
-                joined_lu_tags.append(t)
+        options[str(unit)] = all_tags
 
-            tags.append(' '.join(joined_lu_tags))
+    splitted_string = input_string.split('$')[:-1]
+    combinations = [options[re.sub('.*?\^', '', key)]
+                    for key in splitted_string]
+    
+    combinations = product(*combinations)
+    sequences = {' '.join(elem): [] for elem in combinations}
 
-        options[str(unit)] = tags
-
-    elements = [options[re.sub('.*?\^', '', key)]
-                for key in string.split('$')[:-1]]
-    elements = product(*elements)
-    sequences = [' '.join(elem) for elem in elements]
-
-    return sequences, combinations
+    return sequences
 
 
 def replace_unknown_tags(checked_sequences):
@@ -250,20 +214,78 @@ def replace_unknown_tags(checked_sequences):
         morph_tags = file.read().split()
 
     for i in range(len(checked_sequences)):
-        sequence_tags = checked_sequences[i].split()
+        sequence_tags = checked_sequences[i][0].split()
 
         for j in range(len(sequence_tags)):
             sequence_tags[j] = re.sub('><', '>!<', sequence_tags[j]).split('!')
 
             for elem in sequence_tags[j]:
                 if elem not in morph_tags:
-                    checked_sequences[i] = re.sub(
-                        elem, '', checked_sequences[i])
+                    checked_sequences[i][0] = re.sub(
+                        elem, '', checked_sequences[i][0])
 
     return checked_sequences
 
 
-def add_functions(rnn, string, vocab, int2syntax, sequences, combinations):
+def prepare_data_for_labelling(string, sequences):
+    """ Split string in a needed way, create an array with all possible sequences
+    and deletes all unknown to pretrained model tags from these sequences. """
+
+    string = re.sub('\$\^', '$ ^', string)
+    string = re.sub('\$ \^', '$&^', string).split('&')
+
+    checked_sequences = [[key, key] for key in sequences.keys()]
+    checked_sequences = replace_unknown_tags(checked_sequences)
+
+    return string, checked_sequences
+
+
+def get_predictions(rnn, sequences, checked_sequences, vocab, int2syntax):
+    """ Just get a prediction for every possible sequence. """
+
+    for i in range(len(checked_sequences)):
+        prediction = rnn.generate(
+            (checked_sequences[i][0]),
+            vocab,
+            int2syntax).split()
+        sequences[checked_sequences[i][1]] = prediction
+
+    return sequences
+
+
+def get_a_label(part_of_string, part_of_sequence, part_of_prediction):
+    """ Well, some insane shit is going on here, I don't even want to comment it.
+    But, at least, it seems to solve words-without-a-label and wrong-tags-order bugs.
+    (If I find more problems, I'll probably kill myself) """
+
+    readings = re.sub('/', '/&', part_of_string).split('&')[1:]
+
+    for reading in readings:
+        tags_and_separator = re.search('(<.*>)(/|\$)', reading)
+        all_tags = tags_and_separator.group(1)
+        separator = tags_and_separator.group(2)
+        morph_tags = all_tags.split('<@')[0]
+
+        if part_of_sequence == morph_tags and part_of_prediction not in all_tags:
+            old_part = re.escape(all_tags + separator)
+            new_part = all_tags + part_of_prediction + separator
+            part_of_string = re.sub(old_part, new_part, part_of_string)
+
+    return part_of_string
+
+
+def prepare_output(string):
+    """ Format labelled string in a needed way. """
+
+    string = ' '.join(string[:-1]) + string[-1]
+    string = re.sub('<@CLB>', '', string)
+    string = re.sub('<UNK>', '', string)
+    string = re.sub('\^.*?/', '^', string) + '[][]'
+
+    return string
+
+
+def add_functions(rnn, string, vocab, int2syntax, sequences):
     """ Add syntactic function labels to a sentence from the original string.
 
     Args:
@@ -273,40 +295,26 @@ def add_functions(rnn, string, vocab, int2syntax, sequences, combinations):
         * int2syntax (dictionary): dictionary where keys are integer codes and values are syntax labels
         * sequences (list): list with all possible readings' sequences. The number of sequences depends on the number
         of words with > 1 readings.
-        * combinations (DoubleArray): DoubleArray where the first array contains lemmas + tags and the second - only tags.
 
     Returns:
         * string (string): labelled sentence
     """
 
-    checked_sequences = [elem for elem in sequences]
-    checked_sequences = replace_unknown_tags(checked_sequences)
+    string, checked_sequences = prepare_data_for_labelling(string, sequences)
+    sequences = get_predictions(
+        rnn,
+        sequences,
+        checked_sequences,
+        vocab,
+        int2syntax)
 
-    current_combinations = DoubleArray([], [])
+    for variant, prediction in sequences.items():
+        variant = variant.split()
 
-    current_combinations.list1 = [elem for elem in combinations.list1]
+        for i in range(len(variant)):
+            string[i] = get_a_label(string[i], variant[i], prediction[i])
 
-    for i in range(len(sequences)):
-        prediction = rnn.generate(
-            (checked_sequences[i]),
-            vocab,
-            int2syntax).split()
-        sequence = sequences[i].split()
-
-        current_combinations.list2 = [elem for elem in combinations.list2]
-
-        for j in range(len(sequence)):
-
-            part = current_combinations.tags_to_reading(sequence[j])
-
-            if prediction[j] not in part:
-                new_part = part + prediction[j]
-                string = string.replace(part, new_part, 1)
-                current_combinations.replace_reading(sequence[j], new_part)
-
-    string = re.sub('<@CLB>', '', string)
-    string = re.sub('<UNK>', '', string)
-    string = re.sub('\^.*?/', '^', string) + '[][]'
+    string = prepare_output(string)
 
     return string
 
@@ -322,14 +330,13 @@ def main():
     sentences = handle_input(input_string)
 
     for sentence in sentences:
-        sequences, combinations = parse_asf(sentence)
+        sequences = parse_asf(sentence)
         sentence = add_functions(
             rnn,
             sentence,
             vocab,
             int2syntax,
-            sequences,
-            combinations)
+            sequences)
         labelled_sentences.append(sentence)
 
     output_string = ' '.join(labelled_sentences[:-1]) + labelled_sentences[-1]
